@@ -1,0 +1,916 @@
+{
+ "cleanUrls": true,
+ "trailingSlash": false,
+ "redirects": [
+  {
+   "source": "/eked-istasyon/bd-b41",
+   "destination": "/bd-b41/tasinabilir-12li-kilit-askisi",
+   "permanent": true
+  },
+  {
+   "source": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1",
+   "destination": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1",
+   "destination": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/g-17/orj",
+   "destination": "/bd-g17/orj",
+   "permanent": true
+  },
+  {
+   "source": "/hakk%C4%B1m%C4%B1zda",
+   "destination": "/hakkimizda",
+   "permanent": true
+  },
+  {
+   "source": "/i-leti%C5%9Fim",
+   "destination": "/iletisim",
+   "permanent": true
+  },
+  {
+   "source": "/%C3%BCr%C3%BCnler",
+   "destination": "/urunler",
+   "permanent": true
+  },
+  {
+   "source": "/%C3%BCr%C3%BCnlerimiz",
+   "destination": "/salter-kilitleme-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/category/all-products",
+   "destination": "/urunler",
+   "permanent": true
+  },
+  {
+   "source": "/category/elektrik-devre-kesiciler",
+   "destination": "/salter-kilitleme-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/category/kilit-%C3%A7okland%C4%B1r%C4%B1c%C4%B1lar",
+   "destination": "/kilit-coklandiricilar",
+   "permanent": true
+  },
+  {
+   "source": "/category/set-%C3%BCr%C3%BCnler",
+   "destination": "/set-urunler",
+   "permanent": true
+  },
+  {
+   "source": "/category/emniyetli-asma-kilitler",
+   "destination": "/emniyet-asma-kilitler",
+   "permanent": true
+  },
+  {
+   "source": "/category/elektrik-ve-pn%C3%B6matik-kilitleme-ekipmanlar%C4%B1",
+   "destination": "/elektrik-pnomatik-kilitleme-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/category/tehlike-uyar%C4%B1-etiketleri",
+   "destination": "/tehlike-etiketleri",
+   "permanent": true
+  },
+  {
+   "source": "/category/grup-kilit-kutusu",
+   "destination": "/grup-kilit-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/category/vana-kilitleme-ekipmanlar%C4%B1",
+   "destination": "/vana-kilitleme-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/category/lockout-i%CC%87stasyon-%C3%A7anta",
+   "destination": "/lockout-istasyon-canta",
+   "permanent": true
+  },
+  {
+   "source": "/category/kablo-kilitleme-ekipmanlar%C4%B1",
+   "destination": "/kablo-kilitleme-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/post/eked-loto-e%C4%9Fitimi-rehberi-g%C3%BCvenli-%C3%A7al%C4%B1%C5%9Fma-i%CC%87%C3%A7in-bilmeniz-gerekenler",
+   "destination": "/blog/eked-loto-egitimi-rehberi",
+   "permanent": true
+  },
+  {
+   "source": "/post/do%C4%9Fru-eked-ekipman%C4%B1n%C4%B1n-%C3%B6nemi-i-%C5%9F-yerinde-g%C3%BCvenli%C4%9Fi-sa%C4%9Flaman%C4%B1n-temel-ta%C5%9F%C4%B1",
+   "destination": "/blog/dogru-eked-ekipmaninin-onemi",
+   "permanent": true
+  },
+  {
+   "source": "/post/emniyet-asma-kilitler-i-%C5%9F-yerinde-g%C3%BCvenli%C4%9Fi-art%C4%B1rman%C4%B1n-anahtar%C4%B1",
+   "destination": "/blog/emniyet-asma-kilitler",
+   "permanent": true
+  },
+  {
+   "source": "/post/i-%C5%9F-g%C3%BCvenli%C4%9Fi-%C3%A7al%C4%B1%C5%9Fanlar%C4%B1n%C4%B1z%C4%B1-ve-i-%C5%9Fletmenizi-koruman%C4%B1n-temel-ta%C5%9F%C4%B1",
+   "destination": "/blog/is-guvenligi-temel-tasi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/end%C3%BCstriyel-g%C3%BCvenlik-%C3%A7elik-yal%C4%B1t%C4%B1m-kablo-kilitleme-ekipman%C4%B1-bd-l11-1",
+   "destination": "/bd-l11-1-l11-2/ayarlanabilir-kablo-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/etiketli-al%C3%BCminyum-grubu-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-8-delikli-bd-k52",
+   "destination": "/bd-k52-8-delikli-etiketli-aluminyum-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-mor",
+   "destination": "/bd-g28/prp",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/uygun-fiyatl%C4%B1-elektrik%C3%A7i-universal-loto-seti-kopyas%C4%B1",
+   "destination": "/bd-vn-02-genis-kapsamli-vana-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/3mm-iletken-olmayan-naylon-yal%C4%B1t%C4%B1m-g%C3%BCvenli%C4%9Fi-kilit-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k45",
+   "destination": "/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-k%C3%BC%C3%A7%C3%BCk-boy-bd-f01",
+   "destination": "/bd-f01-ayarlanabilir-kuresel-vana-kilitleme",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/etiketli-al%C3%BCminyum-grubu-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k53",
+   "destination": "/bd-k53-aluminyum-buyuk-boy-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/iskele-etiket-tutucusu-bd-p33",
+   "destination": "/bd-p33/scafftag-iskele-etiketleri",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/al%C3%BCminyum-kapaks%C4%B1z-duvara-as%C4%B1labilen-loto-istasyonlar%C4%B1",
+   "destination": "/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-bd-f07",
+   "destination": "/bd-f07-buyuk-boy-ayarlanabilir-kuresel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/sar%C4%B1-emniyetli-asma-kilit",
+   "destination": "/bd-g12/ylw",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit",
+   "destination": "/bd-g21/red",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-ye%C5%9Fil",
+   "destination": "/bd-g04/grn",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-ye%C5%9Fil",
+   "destination": "/bd-g34/grn",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/abs-plastik-elektrik-g%C3%BCvenli%C4%9Fi-fi%C5%9F-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-e81-abs-plastik-elektrik-fisi-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ye%C5%9Fil-emniyetli-asma-kilit",
+   "destination": "/bd-g14/grn",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-b%C3%BCy%C3%BCk-boy-bd-f02",
+   "destination": "/bd-f02-buyuk-boy-ayarlanabilir-kuresel-vana-kilitleme",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-mavi",
+   "destination": "/bd-g23/blue",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/elektriksel-kilitleme-seti",
+   "destination": "/bd-l1010bd-elektriksel-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-kirmizi",
+   "destination": "/bd-g01/red",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-toz-korumal%C4%B1-plastik-%C3%A7ene-emniyet-asma-kilit-mavi",
+   "destination": "/bd-g13dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-mavi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/120-277v-k%C3%BC%C3%A7%C3%BCk-boy-kompakt-%C5%9Falter-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-d11-120-277v-kucuk-boy-kompakt-salter-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/480v-600v-yeni-tasar%C4%B1m-orta-boy-kompakt-%C5%9Falter-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-d12n-480v-600v-orta-boy-kompakt-salter-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/akrep-tip-6-delikli-kablo-kilidi-bd-l22",
+   "destination": "/bd-l22/cok-amacli-kablo-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-plastik-%C3%A7ene-emniyet-asma-kilit-siyah",
+   "destination": "/bd-g15/blk",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/kapakl%C4%B1-as%C4%B1labilir-duvara-b%C3%BCy%C3%BCk-loto-istasyonu",
+   "destination": "/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/paslanmaz-%C3%A7elik-%C3%A7ok-ama%C3%A7l%C4%B1-kablo-kilitleme-ekipman%C4%B1-bd-l61",
+   "destination": "/bd-l62-evrensel-kablo-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/12-delikli-s%C3%BCrg%C3%BCl%C3%BC-al%C3%BCminyum-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-25mm-bd-k71",
+   "destination": "/bd-k71-aluminyum-buyuk-surgulu-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/5-veya-10-asma-kilit-as%C4%B1labilen-loto-istasyonu",
+   "destination": "/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-turuncu",
+   "destination": "/bd-g07/orj",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-mavi",
+   "destination": "/bd-g03/blue",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/grup-loto-kutusu-seti",
+   "destination": "/bd-8812s-grup-loto-kutusu-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/12-asma-kilit-as%C4%B1labilen-asma-kilit-istasyonu",
+   "destination": "/bd-x22/anahtar-ve-kilit-yonetim-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/emniyetli-asma-kilit",
+   "destination": "/bd-g11/red",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/geni%C5%9F-kapsaml%C4%B1-duvara-as%C4%B1labilen-loto-istasyon-seti",
+   "destination": "/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-toz-korumal%C4%B1-plastik-%C3%A7ene-emniyet-asma-kilit-ye%C5%9Fil",
+   "destination": "/bd-g14dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-yesil",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-%C3%A7elik-38mm-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k24",
+   "destination": "/bd-k24-6-delikli-celik-kancali-plastik-govdeli-coklandirici-38-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-plastik-%C3%A7ene-emniyet-asma-kilit-mor",
+   "destination": "/bd-g18/prp",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/10-veya-20-asma-kilit-as%C4%B1labilen-loto-istasyonu",
+   "destination": "/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/end%C3%BCstri-pn%C3%B6matik-lockout-ayarlanabilir-gaz-silindiri-ekipman%C4%B1",
+   "destination": "/bd-q31-ayarlanabilir-gaz-silindiri-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/120-277v-yeni-tasar%C4%B1m-k%C3%BC%C3%A7%C3%BCk-boy-kompakt-%C5%9Falter-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/end%C3%BCstriyel-elektrik-fi%C5%9Fi-kilitleme-ekipmanlar%C4%B1",
+   "destination": "/bd-d45/kanal-fisi-koruma-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/etiketli-al%C3%BCminyum-grubu-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-5-delikli-bd-k54",
+   "destination": "/bd-k54-etiketli-snap-on-aluminyum-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-toz-korumal%C4%B1-plastik-%C3%A7ene-emniyet-asma-kilit-kirmizi",
+   "destination": "/bd-g11dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-kirmizi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit",
+   "destination": "/bd-g33/blue",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/600v-yeni-tasar%C4%B1m-b%C3%BCy%C3%BCk-boy-kompakt-%C5%9Falter-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-d13x/oversized-clamp-on-devre-kesici-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/duvara-as%C4%B1labilen-loto-istasyon-seti",
+   "destination": "/bd-b1100-duvara-asilabilen-loto-istasyon-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-siyah",
+   "destination": "/bd-g35/blk",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-1",
+   "destination": "/bd-g37/orj",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/b%C3%BCy%C3%BCk-kapasiteli-%C3%A7ift-katmanl%C4%B1-kilitleme-kiti-plastik-emniyet-kilitleme-alet-k",
+   "destination": "/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6mm-iletken-olmayan-naylon-yal%C4%B1t%C4%B1m-g%C3%BCvenli%C4%9Fi-kilit-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k46",
+   "destination": "/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/g%C3%BCvenlik-uyar%C4%B1-etiketi",
+   "destination": "/bd-t01-guvenlik-uyari-etiketi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/duvara-monte-edilebilen-b%C3%BCy%C3%BCk-plastik-asma-kilit-istasyonlar%C4%B1",
+   "destination": "/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-mor",
+   "destination": "/bd-g08/prp",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-vinil-kapl%C4%B1-%C3%A7elik-%C3%A7ene-25mm-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k01",
+   "destination": "/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/3-g%C3%B6zl%C3%BC-v-otomat-elektrik%C3%A7i-loto-seti",
+   "destination": "/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/geni%C5%9F-kapsaml%C4%B1-elektriksel-kilitleme-seti",
+   "destination": "/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-mor",
+   "destination": "/bd-g38/prp",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/2m-k%C4%B1l%C4%B1fl%C4%B1-kablo-ile-%C3%A7ok-ama%C3%A7l%C4%B1-kablo-kilidi-ls-l52",
+   "destination": "/bd-l12/cok-amacli-ayarlanabilir-kablo-kilitleme-cihazi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-toz-korumal%C4%B1-plastik-%C3%A7ene-emniyet-asma-kilit-siyah",
+   "destination": "/bd-g15dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-siyah",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-%C3%A7elik-25mm-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k23",
+   "destination": "/bd-k23-6-delikli-celik-kancali-plastik-govdeli-coklandirici-25-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-siyah",
+   "destination": "/bd-g05/blk",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-sari",
+   "destination": "/bd-g22/ylw",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/end%C3%BCstriyel-suya-dayan%C4%B1kl%C4%B1-emniyet-kilidi",
+   "destination": "/bd-d46-endustriyel-su-gecirmez-fis-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-bd-f06",
+   "destination": "/bd-f06-ayarlanabilir-kuresel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-beyaz",
+   "destination": "/bd-g06/white",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/deliksiz-termik-%C5%9Falter-kilitleme-ekipmani",
+   "destination": "/bd-d100-deliksiz-termik-salter-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-sari",
+   "destination": "/bd-g32/ylw",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/evrensel-vana-kilitleme-ekipman%C4%B1-bd-f36",
+   "destination": "/bd-f36-evrensel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayalanabilir-universal-vana-kilitleme-ekipman%C4%B1-bd-f35",
+   "destination": "/bd-f35-f35x-kablolu-ve-destek-cubuklu-universal-vana-kilitleme",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-ye%C5%9Fil",
+   "destination": "/bd-g24/grn",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-bd-f05",
+   "destination": "/bd-f05-ayarlanabilir-kuresel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ayarlanabilir-flans-l%C4%B1-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-6-35mm-140mm-bd-f08",
+   "destination": "/bd-f08-ayarlanablir-flansli-kuresel-vana-kilitleme",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-kahverengi",
+   "destination": "/bd-g29-plastik-kelepceli-emniyet-asma-kilit-76-mm-kahverengi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/akrep-tip-6-delikli-plastik-%C3%A7oklay%C4%B1c%C4%B1-6-5-mm-bd-k43",
+   "destination": "/bd-k43-k44-iletken-olmayan-plastik-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/iskele-etiket-tutucusu-bd-p35",
+   "destination": "/bd-p35-iskele-etiket-tutucusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-siyah",
+   "destination": "/bd-g25/blk",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/geni%C5%9F-kapsaml%C4%B1-elektrik%C3%A7i-loto-seti",
+   "destination": "/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/24-delikli-s%C3%BCrg%C3%BCl%C3%BC-al%C3%BCminyum-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-25mm-bd-k72",
+   "destination": "/bd-k72-24-delikli-surgulu-aluminyum-coklandirici-25-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/al%C3%BCminyum-6-delikli-akrep-tip-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k51",
+   "destination": "/bd-k51-etiketli-celik-coklandirici-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-vinil-kapl%C4%B1-%C3%A7elik-%C3%A7ene-38mm-%C3%A7okland%C4%B1r%C4%B1c%C4%B1bd-k02",
+   "destination": "/bd-k02-vinil-kapli-38mm-celik-cene-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/b%C3%BCy%C3%BCk-metal-loto-dolab%C4%B1",
+   "destination": "/bd-x07/duvara-asilabilir-metal-loto-dolabi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/karbon-%C3%A7elik-malzeme-ta%C5%9F%C4%B1nabilir-metal-grup-emniyet-kilidi-kutusu",
+   "destination": "/bd-b14-karbon-celik-tasinabilir-metal-grup-emniyet-kilit-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit",
+   "destination": "/bd-g02/ylw",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/asma-kilit-istasyonu",
+   "destination": "/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-toz-korumal%C4%B1-plastik-%C3%A7ene-emniyet-asma-kilit-sari",
+   "destination": "/bd-g12dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-sari",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/kablo-g%C3%BCvenlik-kilidi-bd-l21",
+   "destination": "/bd-l21/ekonomik-kablo-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/mavi-emniyetli-asma-kilit",
+   "destination": "/bd-g13/blue",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-vinil-kapl%C4%B1-38mm-al%C3%BCminyum-%C3%A7oklay%C4%B1c%C4%B1-bd-k12",
+   "destination": "/bd-k12-vinil-kaplamali-aluminyum-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/akrep-tip-3-delikli-plastik-%C3%A7oklay%C4%B1c%C4%B1-bd-k44",
+   "destination": "/bd-k43-k44-iletken-olmayan-plastik-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-uzun-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-turuncu",
+   "destination": "/bd-g27/orj",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/76mm-plastik-%C3%A7ene-emniyet-asma-kilit-kirmizi",
+   "destination": "/bd-g31/red",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/akrep-tip-6-delikli-plastik-%C3%A7oklay%C4%B1c%C4%B1-bd-k41",
+   "destination": "/bd-k41-akrep-tip-6-delikli-plastik-coklandirici-7-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/3-g%C3%B6zl%C3%BC-loto-bel-%C3%A7antas%C4%B1",
+   "destination": "/bd-8771b",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/darbeye-dayan%C4%B1kl%C4%B1-g%C3%BCvenlik-elektrik-fi%C5%9Fi-kilidi",
+   "destination": "/bd-d41/kucuk-elektrik-fisi-kilitleme-cihazi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/evrensel-mini-devre-kesici-ekipman%C4%B1",
+   "destination": "/bd-d05-1-red/universal-minyatur-salter-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/38mm-plastik-%C3%A7ene-emniyet-asma-kilit-turuncu",
+   "destination": "/bd-g17/orj",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/b%C3%BCy%C3%BCk-boy-kapaks%C4%B1z-asma-kilit-istasyonu",
+   "destination": "/bd-b302/kapaksiz-plastik-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/2-4-metre-paslanmaz-%C3%A7elik-kablo-g%C3%BCvenlik-kablosu-kilidi-bd-l01",
+   "destination": "/bd-l01/ayarlanabilir-kablo-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/akrep-tip-6-delikli-plastik-%C3%A7oklay%C4%B1c%C4%B1-bd-k42",
+   "destination": "/bd-k42-standart-6-delikli-plastik-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/metal-anahtar-saklama-dolab%C4%B1-istasyonu",
+   "destination": "/bd-b61-metal-anahtar-saklama-dolabi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ta%C5%9F%C4%B1nabilir-loto-kutusu",
+   "destination": "/bd-z03-tasinabilir-loto-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/pn%C3%B6matik-h%C4%B1zl%C4%B1-ba%C4%9Flant%C4%B1-kesme-kilidi",
+   "destination": "/bd-q01-pnomatik-hizli-baglanti-kesme-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/toz-korumal%C4%B1-38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-kirmizi",
+   "destination": "/bd-g01dp-toz-korumali-celik-kelepceli-emniyet-asma-kilit-38-mm-kirmizi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-25-64mm",
+   "destination": "/bd-f10-kuresel-vana-kilitleme-cantasi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/universal-vana-kilitleme-ekipman%C4%B1-1-8m-kablo-bd-f33",
+   "destination": "/bd-f33-f33x-kablo-destekli-universal-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/torba-kilit",
+   "destination": "/bd-d71/fis-kilitleme-cantasi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-330mm-450mm-bd-f15-plus",
+   "destination": "/bd-f15-plus-polipropilen-surgulu-vana-kilitleme-ekipmani-330-450-mm-plus",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/metal-loto-istasyon-seti",
+   "destination": "/bd-x07s-metal-loto-istasyon-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/tekerlek-tip-2mtr-vinil-kapl%C4%B1-kablo-kilitleme-ekipman%C4%B1-bd-l31",
+   "destination": "/bd-l31/yuvarlak-cok-amacli-kablo-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/paslanmaz-%C3%A7elik-%C3%A7ok-ama%C3%A7l%C4%B1-kablo-kilitleme-ekipman%C4%B1-bd-l02",
+   "destination": "/bd-l02/ayarlanabilir-kablo-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/plastik-kapaks%C4%B1z-asma-kilit-istasyonlar%C4%B1",
+   "destination": "/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ta%C5%9F%C4%B1nabilir-grup-kilitleme-kutusu",
+   "destination": "/bd-505-tasinabilir-grup-kilitleme-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-165-254mm-bd-f14",
+   "destination": "/bd-f14-polipropilen-surgulu-vana-kilitleme-ekipmani-165-254-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ta%C5%9F%C4%B1nabilir-loto-%C3%A7antas%C4%B1",
+   "destination": "/bd-z02/guvenlik-kilitli-tasinabilir-eked-cantasi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/kilitleme-etiketi-1",
+   "destination": "/bd-t03-tr-kilitleme-uyari-etiketi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/%C3%B6zelle%C5%9Ftirilmi%C5%9F-kimlik-etiketi",
+   "destination": "/bd-lt04-ozellestirilmis-kimlik-etiketi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/paslanmaz-%C3%A7elik-kablolu-tekerlek-tipi-kablo-kilidi-bd-l32",
+   "destination": "/bd-l32-paslanmaz-celik-kablolu-tekerlek-tipi-kablo-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-127-165mm-bd-f13",
+   "destination": "/bd-f13-polipropilen-surgulu-vana-kilitleme-ekipmani-127-165-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/paslanmaz-%C3%A7elik-kablolu-mini-kablo-kilidi-bd-l42",
+   "destination": "/bd-l45",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polistiren-malzeme-elektrik-pn%C3%B6matik-fi%C5%9F-kilidi",
+   "destination": "/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/plastik-iskele-tehlike-etiketi-bd-p36",
+   "destination": "/bd-p36-plastik-iskele-tehlike-etiketi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-254-330mm-bd-f15",
+   "destination": "/bd-f15-polipropilen-surgulu-vana-kilitleme-ekipmani-254-330-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/toz-korumal%C4%B1-38mm-%C3%A7elik-%C3%A7ene-emniyet-asma-kilit-sari",
+   "destination": "/bd-g02dp-toz-korumali-celik-kelepceli-emniyet-asma-kilit-38-mm-sari",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/kelebek-tip-7-delikli-%C3%A7okland%C4%B1r%C4%B1c%C4%B1-bd-k33",
+   "destination": "/bd-k33-paslanmaz-celik-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/mini-devre-kesici-ekipman%C4%B1",
+   "destination": "/bd-d01/pos-minyatur-devre-kesici-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/pn%C3%B6matik-plastik-silindir-tank%C4%B1-ekipman%C4%B1",
+   "destination": "/bd-q21-plastik-silindir-tank-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/%C3%A7elik-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-k%C3%BC%C3%A7%C3%BCk-boy-bd-f03",
+   "destination": "/bd-f03-f04-metal-kuresel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ta%C5%9F%C4%B1nabilir-%C3%A7ok-ama%C3%A7l%C4%B1-%C3%A7elik-g%C3%BCvenlik-kilitleme-kutusu",
+   "destination": "/bd-x04/delikli-grup-loto-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/%C3%A7ift-blokaj-kollu-universal-vana-kilitleme-ekipman%C4%B1-bd-f32",
+   "destination": "/bd-f32-f32x-cift-blokaj-kollu-universal-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/mini-devre-kesici-ekipman%C4%B1-1",
+   "destination": "/bd-d02/pis-minyatur-devre-kesici-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/universal-devre-kesici-ekipman%C4%B1",
+   "destination": "/bd-g01-red-1",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ta%C5%9F%C4%B1nabilir-emniyet-kilidi-kutusu",
+   "destination": "/bd-8811-tasinabilir-emniyet-kilidi-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/uygun-fiyatl%C4%B1-elektrik%C3%A7i-universal-loto-seti",
+   "destination": "/bd-els-10s-ekonomik-elektrikci-universal-loto-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/pn%C3%B6matik-lokavt-emniyet-gaz-kayna%C4%9F%C4%B1-kilitleme-ekipman%C4%B1",
+   "destination": "/bd-q11-pnomatik-gaz-ve-hava-kaynagi-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-25-64mm-kopyas%C4%B1",
+   "destination": "/bd-f12-polipropilen-surgulu-vana-kilitleme-ekipmani-64-127-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/kilitleme-etiketi",
+   "destination": "/bd-lt02-kilitleme-etiketi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/plastik-k%C3%BC%C3%A7%C3%BCk-as%C4%B1l%C4%B1-%C3%A7elik-g%C3%BCvenlik-grubu-lokavt-kutusu",
+   "destination": "/bd-x21/anahtar-yonetme-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/r%C3%B6gar-kilit-torbas%C4%B1",
+   "destination": "/bd-d73-1-rogar-kilit-torbasi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/universal-kilitleme-seti",
+   "destination": "/bd-x07un-universal-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/%C3%A7elik-k%C3%BCresel-vana-kilitleme-ekipman%C4%B1-b%C3%BCy%C3%BCk-boy",
+   "destination": "/bd-f03-f04-metal-kuresel-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/portatif-%C3%A7elik-g%C3%BCvenlik-kilit-kutusu",
+   "destination": "/bd-x03/guvenlik-kilitleme-kutusu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/%C3%A7ift-kutuplu-minyat%C3%BCr-devre-kesici",
+   "destination": "/bd-d07/snap-on-kesici-kilitleme",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/orta-boy-kapaks%C4%B1z-asma-kilit-istasyonu-kopyas%C4%B1",
+   "destination": "/bd-b301/kapaksiz-plastik-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/plastik-asma-kilit-ask%C4%B1s%C4%B1",
+   "destination": "/bd-b41/tasinabilir-12li-kilit-askisi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/6-delikli-vinil-kapl%C4%B1-25mm-al%C3%BCminyum-%C3%A7oklay%C4%B1c%C4%B1-bd-k11",
+   "destination": "/bd-k61-cift-ceneli-aluminyum-coklandirici",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/polipropilen-s%C3%BCrg%C3%BCl%C3%BC-vana-kilitleme-ekipman%C4%B1-450mm-600mm",
+   "destination": "/bd-f15b-polipropilen-surgulu-vana-kilitleme-ekipmani-450-600-mm",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/pn%C3%B6matik-kilitleme-seti",
+   "destination": "/bd-ps02s-pnomatik-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/tek-kollu-universal-vana-kilitleme-ekipman%C4%B1-bd-f31",
+   "destination": "/bd-f31-f31s-tek-kollu-universal-vana-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/ki%C5%9Fisel-g%C3%BCvenlik-kilitleme-seti",
+   "destination": "/bd-x02c-kisisel-guvenlik-kilitleme-seti",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/otomatik-geri-%C3%A7ekilebilir-kablo-kilidi-bd-l41",
+   "destination": "/bd-l41/geri-cekilebilir-kablo-kilidi",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/metal-asma-kilit-istasyonu",
+   "destination": "/bd-x08-metal-asma-kilit-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/minyat%C3%BCr-devre-kesici-ekipman%C4%B1",
+   "destination": "/bd-d04/pow-minyatur-devre-kesici-kilitleme-ekipmani",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/k%C3%BC%C3%A7%C3%BCk-boy-kapaks%C4%B1z-loto-istasyonu",
+   "destination": "/bd-b105/kapaksiz-mini-loto-istasyonu",
+   "permanent": true
+  },
+  {
+   "source": "/product-page/universal-vana-kilitleme-ekipman%C4%B1-1-8m-kablo-bd-f34",
+   "destination": "/bd-f34-universal-kelebek-vana-kilitleme-ekipmani",
+   "permanent": true
+  }
+ ],
+ "headers": [
+  {
+   "source": "/assets/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=604800"
+    }
+   ]
+  },
+  {
+   "source": "/assets/fonts/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=31536000, immutable"
+    }
+   ]
+  }
+ ]
+}

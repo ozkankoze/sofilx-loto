@@ -1,0 +1,85 @@
+{% extends "base.html" %}{% from "_card.html" import card %}
+{% block main %}
+<section class="pd-wrap"><div class="wrap">
+ <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><a href="/{{ catobj.slug }}">{{ catobj.name }}</a><span aria-hidden="true">/</span><span>{{ p.code }}</span></nav>
+ <div class="pd">
+  <div class="gal">
+   <div class="main"><img src="{{ p.images[0].src if p.images else '/assets/sofilx-ikon.svg' }}" alt="{{ p.code }} {{ p.name }}" width="{{ p.images[0].w if p.images else 600 }}" height="{{ p.images[0].h if p.images else 600 }}" fetchpriority="high"></div>
+   {% if p.images|length > 1 %}<div class="thumbs">{% for im in p.images %}<button type="button" data-full="{{ im.src }}" data-alt="{{ p.code }} {{ p.name }} – görsel {{ loop.index }}" aria-current="{{ 'true' if loop.first else 'false' }}" aria-label="Görsel {{ loop.index }}"><img src="{{ im.thumb }}" alt="" width="76" height="76" loading="lazy"></button>{% endfor %}</div>{% endif %}
+  </div>
+  <div class="pi">
+   <span class="code-pill">{{ p.code }}</span>
+   <h1>{{ p.name }}</h1>
+   <p class="pcat">Kategori: <a href="/{{ catobj.slug }}">{{ catobj.name }}</a></p>
+   <ul class="pchecks">
+    <li><svg><use href="#i-shield"/></svg>Stoktan hızlı sevkiyat, aynı gün kargo</li>
+    <li><svg><use href="#i-shield"/></svg>OSHA 29 CFR 1910.147 uyumlu LOTO çözümü</li>
+    <li><svg><use href="#i-shield"/></svg>{% if p.group %}8 renk ve farklı / ortak / master anahtar seçeneği{% else %}Toplu alımlarda adet bazlı özel fiyat{% endif %}</li>
+   </ul>
+   {% if p.group %}<div class="varbox"><b>Renk: {{ p.variant.color_name }}</b>
+    <div class="sw">{% for s in p.group %}<a href="{{ s.path }}" title="{{ s.name }} – {{ s.code }}" style="background:{{ s.hex }}" {% if s.code==p.code %}aria-current="true"{% endif %}><span class="sr">{{ s.name }}</span></a>{% endfor %}</div></div>{% endif %}
+   <div class="pbtns">
+    <a class="btn btn-wa pill" href="https://wa.me/{{ site.wa }}?text={{ ('Merhaba, ' ~ p.code ~ ' (' ~ p.name ~ ') hakkında bilgi almak istiyorum.')|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>Bilgi al</a>
+    <a class="btn btn-ghost pill" href="#iletisim">Teklif iste <svg><use href="#i-arrow"/></svg></a>
+   </div>
+   <div class="buy">
+    <div class="qty"><button type="button" data-d="-1" aria-label="Azalt">−</button><input id="qty" type="number" min="1" value="1" aria-label="Adet"><button type="button" data-d="1" aria-label="Arttır">+</button></div>
+    <button class="btn btn-red pill" type="button" data-add data-code="{{ p.code }}" data-name="{{ p.name }}" data-img="{{ p.images[0].thumb if p.images else '' }}" data-url="{{ p.path }}"><svg><use href="#i-cart"/></svg>Teklif sepetine ekle</button>
+   </div>
+   <div class="detail">
+    <h2>Ürün Detayı</h2>
+    {% for para in p.intro %}<p>{{ para }}</p>{% endfor %}
+    {% if p.feats %}<ul class="dfeats">{% for k,v in p.feats %}<li>{% if k %}<b>{{ k }}:</b> {% endif %}{{ v }}</li>{% endfor %}</ul>{% endif %}
+    {% if p.specs %}<h3>Teknik özellikler</h3><table class="dspecs"><tbody><tr><th>Ürün kodu</th><td>{{ p.code }}</td></tr>{% for k,v in p.specs %}<tr><th>{{ k }}</th><td>{{ v }}</td></tr>{% endfor %}</tbody></table>{% endif %}
+    {% if p.usage %}<h3>Kullanım alanları</h3><div class="dusage">{% for u in p.usage %}<span>{{ u }}</span>{% endfor %}</div>{% endif %}
+    {% if p.pack %}<h3>Paket içeriği</h3><ul class="dfeats">{% for x in p.pack %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+   </div>
+  </div>
+ </div>
+</div></section>
+
+<section class="sec-sm" style="padding-top:0"><div class="wrap">
+ <div class="about-box reveal"><div><h2>Sofilx LOTO hakkında</h2><p>Sofilx LOTO, 2010'dan bu yana endüstriyel tesislere kilitleme ve etiketleme (LOTO / EKED) ekipmanları sağlar. Asma kilitlerden şalter, vana ve kablo kilitlerine, istasyonlardan hazır setlere kadar {{ total }} ürünü stoktan sunar; doğru ekipmanın seçiminde teknik destek verir.</p></div>
+  <a class="btn btn-red pill" href="/{{ catobj.slug }}">{{ catobj.name }} <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="fband reveal" style="margin-top:18px">
+  <div class="fb-feats">
+   <div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>
+   <div><i><svg><use href="#i-truck"/></svg></i><b>Hızlı sevkiyat</b><span>Stoktaki ürünler aynı gün kargoda</span></div>
+   <div><i><svg><use href="#i-tag"/></svg></i><b>Kişiye özel</b><span>Renk, etiket ve anahtar seçenekleri</span></div>
+   <div><i><svg><use href="#i-chat"/></svg></i><b>Teknik destek</b><span>Fotoğraftan doğru ürünü birlikte seçelim</span></div>
+  </div>
+ </div>
+</div></section>
+
+{% if related %}<section class="sec sec-paper"><div class="wrap">
+ <div class="sec-head"><h2 style="text-transform:none">{{ catobj.name }} kategorisindeki diğer ürünler</h2><a class="btn btn-line btn-sm" href="/{{ catobj.slug }}">Tümünü gör <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="grid">{% for r in related %}{{ card(r) }}{% endfor %}</div>
+</div></section>{% endif %}
+
+<section class="sec" id="iletisim"><div class="wrap">
+ <div class="ctitle"><span class="eyebrow">İletişim</span><h2>Size destek olmak için buradayız</h2><span class="bar"></span></div>
+ <div class="contact">
+  <div class="box" style="margin-top:0"><h2>Teklif formu</h2><div class="in">
+   <form id="contact-form" class="form">
+    <label>Ad Soyad<input name="ad" required autocomplete="name"></label>
+    <label>Firma<input name="firma" autocomplete="organization"></label>
+    <label>Telefon<input name="tel" type="tel" autocomplete="tel"></label>
+    <label>E-posta<input name="eposta" type="email" autocomplete="email"></label>
+    <label class="full">Mesajınız<textarea name="mesaj" rows="4" required>Merhaba, {{ p.code }} – {{ p.name }} için fiyat teklifi almak istiyorum. Adet: </textarea></label>
+    <div class="full" style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn btn-red pill" type="submit" value="mail"><svg><use href="#i-mail"/></svg>E-posta ile gönder</button><button class="btn btn-wa pill" type="submit" value="wa"><svg><use href="#i-wa"/></svg>WhatsApp ile gönder</button></div>
+   </form></div></div>
+  <div class="depot">
+   <h3>Sofilx LOTO</h3>
+   <p><svg><use href="#i-pin"/></svg>{{ site.address }}</p>
+   <p><svg><use href="#i-phone"/></svg><span><a href="tel:{{ site.tel1_raw }}">{{ site.tel1 }}</a><br><a href="tel:{{ site.tel2_raw }}">{{ site.tel2 }}</a> (WhatsApp)</span></p>
+   <p><svg><use href="#i-mail"/></svg><a href="mailto:{{ site.mail }}">{{ site.mail }}</a></p>
+   <a class="btn btn-white pill" href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener"><svg><use href="#i-tag"/></svg>Kataloğu indir (PDF)</a>
+  </div>
+ </div>
+</div></section>
+
+<section class="sec-sm sec-paper"><div class="wrap">
+ <div class="sec-head"><h2 style="font-size:1.9rem;text-transform:none">İlgili blog yazıları</h2><a class="btn btn-line btn-sm" href="/blog">Tüm yazılar <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="posts">{% for b in posts[:3] %}{% include "_post_card.html" %}{% endfor %}</div>
+</div></section>
+{% endblock %}

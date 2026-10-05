@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /teklif
+
+Sitemap: https://www.sofilxloto.com/sitemap.xml

@@ -1,0 +1,24 @@
+{% extends "base.html" %}{% from "_card.html" import card %}
+{% block main %}
+<section class="ph"><div class="wrap">
+ <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span>{% if cat %}<a href="/urunler">Ürünler</a><span aria-hidden="true">/</span><span>{{ cat.name }}</span>{% else %}<span>Ürünler</span>{% endif %}</nav>
+ <h1>{{ h1 }}</h1>
+ <p>{{ intro }}</p>
+</div></section>
+<section class="sec-sm"><div class="wrap">
+ <div class="filters">
+  {% if not cat %}<div class="chips" role="group" aria-label="Kategori filtresi">
+   <button class="chip" type="button" data-cat="all" aria-pressed="true">Tümü</button>
+   {% for c in cats %}<button class="chip" type="button" data-cat="{{ c.key }}" aria-pressed="false">{{ c.name }}</button>{% endfor %}
+  </div>{% endif %}
+  <label class="search"><span class="sr">Ürün ara</span><svg><use href="#i-search"/></svg><input id="q" type="search" placeholder="Kod veya ürün adı (ör. BD-G01, vana)" autocomplete="off"></label>
+ </div>
+ <p style="color:var(--muted);margin:-8px 0 18px"><b id="count">{{ products|length }}</b> ürün listeleniyor{% if products|selectattr("search")|list %} <small>(renk seçenekli kilitler tek kartta gösterilir)</small>{% endif %}</p>
+ <div class="grid" data-filter-grid>
+  {% for p in products %}{{ card(p, loop.index > 8) }}{% endfor %}
+ </div>
+ <div class="empty">Aramanızla eşleşen ürün bulunamadı. <a href="/iletisim">Bize yazın</a>, ihtiyacınız olan ekipmanı birlikte bulalım.</div>
+ {% if cat and cat.long %}<div class="prose" style="margin-top:56px">{{ cat.long|safe }}</div>{% endif %}
+</div></section>
+{% include "_cta.html" %}
+{% endblock %}

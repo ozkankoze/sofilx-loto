@@ -1,0 +1,180 @@
+{
+ "_aciklama": "Referans firmaları buraya ekleyin. 'sektor' alanı aşağıdaki sektör anahtarlarından biri olmalı. Logo dosyasını dist/assets/referanslar/ içine koyup sadece dosya adını yazın (ör. 'firma.png' – şeffaf PNG veya SVG, yatay). Logo yoksa firma adı yazı olarak gösterilir. Liste boşken sayfada logo bölümü gizlenir.",
+ "sektorler": [
+  {
+   "key": "enerji",
+   "ad": "Enerji ve Petrokimya",
+   "kisa": "ENERJİ",
+   "metin": "Rafineri, santral ve enerji dağıtım tesislerinde yüksek riskli izolasyon noktaları için kilitleme ve etiketleme."
+  },
+  {
+   "key": "metal",
+   "ad": "Metal ve Çelik",
+   "kisa": "METAL",
+   "metin": "Haddehane, döküm ve çelik hatlarındaki uzun bakım duruşlarında grup kilitleme çözümleri."
+  },
+  {
+   "key": "cimento",
+   "ad": "Çimento ve Yapı",
+   "kisa": "ÇİMENTO",
+   "metin": "Çimento fabrikaları, panel ve yapı malzemesi tesislerinde değirmen, fırın ve konveyör bakımı."
+  },
+  {
+   "key": "kimya",
+   "ad": "Kimya ve İlaç",
+   "kisa": "KİMYA",
+   "metin": "Kimya, kozmetik ve ilaç üretiminde vana, hat ve pnömatik kaynakların güvenli izolasyonu."
+  },
+  {
+   "key": "otomotiv",
+   "ad": "Otomotiv ve Makine",
+   "kisa": "OTOMOTİV",
+   "metin": "Otomotiv yan sanayi ve makine imalatında pres, robot hücresi ve tezgâh bakımları."
+  },
+  {
+   "key": "gida",
+   "ad": "Gıda ve İçecek",
+   "kisa": "GIDA",
+   "metin": "Hijyen temizliği ve hat değişimleri sırasında dolum, paketleme ve proses makinelerinin kilitlenmesi."
+  },
+  {
+   "key": "ambalaj",
+   "ad": "Ambalaj ve Plastik",
+   "kisa": "AMBALAJ",
+   "metin": "Enjeksiyon, ekstrüzyon ve baskı makinelerinde kalıp değişimi ve arıza müdahaleleri."
+  },
+  {
+   "key": "hizmet",
+   "ad": "Hizmet ve Altyapı",
+   "kisa": "HİZMET",
+   "metin": "Telekomünikasyon, su, atık ve kamu altyapı tesislerinde teknik bakım ekipleri."
+  }
+ ],
+ "firmalar": [
+  {
+   "ad": "Tüpraş",
+   "sektor": "enerji",
+   "logo": "tupras.webp"
+  },
+  {
+   "ad": "Enerjisa",
+   "sektor": "enerji",
+   "logo": "enerjisa.webp"
+  },
+  {
+   "ad": "Erdemir",
+   "sektor": "metal",
+   "logo": "erdemir.webp"
+  },
+  {
+   "ad": "MMK Metalurji",
+   "sektor": "metal",
+   "logo": "mmk-metalurji.webp"
+  },
+  {
+   "ad": "Henkel",
+   "sektor": "kimya",
+   "logo": "henkel.webp"
+  },
+  {
+   "ad": "Turkcell",
+   "sektor": "hizmet",
+   "logo": "turkcell.webp"
+  },
+  {
+   "ad": "Rönesans Holding",
+   "sektor": "cimento",
+   "logo": "ronesans-holding.webp"
+  },
+  {
+   "ad": "SASA Polyester",
+   "sektor": "kimya",
+   "logo": "sasa.webp"
+  },
+  {
+   "ad": "Kastamonu Entegre",
+   "sektor": "cimento",
+   "logo": "kastamonu-entegre.webp"
+  },
+  {
+   "ad": "Banvit",
+   "sektor": "gida",
+   "logo": "banvit.webp"
+  },
+  {
+   "ad": "Evyap",
+   "sektor": "kimya",
+   "logo": "evyap.webp"
+  },
+  {
+   "ad": "Çimentaş",
+   "sektor": "cimento",
+   "logo": "cimentas.webp"
+  },
+  {
+   "ad": "Aşkale Çimento",
+   "sektor": "cimento",
+   "logo": "askale-cimento.webp"
+  },
+  {
+   "ad": "Somçim",
+   "sektor": "cimento",
+   "logo": "somcim.webp"
+  },
+  {
+   "ad": "Tarkett Aspen",
+   "sektor": "cimento",
+   "logo": "tarkett-aspen.webp"
+  },
+  {
+   "ad": "Ficosa",
+   "sektor": "otomotiv",
+   "logo": "ficosa.webp"
+  },
+  {
+   "ad": "Opsan",
+   "sektor": "otomotiv",
+   "logo": "opsan.webp"
+  },
+  {
+   "ad": "Yarış",
+   "sektor": "otomotiv",
+   "logo": "yaris.webp"
+  },
+  {
+   "ad": "Egis",
+   "sektor": "kimya",
+   "logo": "egis.webp"
+  },
+  {
+   "ad": "Fater Temizlik Ürünleri",
+   "sektor": "kimya",
+   "logo": "fater.webp"
+  },
+  {
+   "ad": "Solufert",
+   "sektor": "kimya",
+   "logo": "solufert.webp"
+  },
+  {
+   "ad": "İSPARK",
+   "sektor": "hizmet",
+   "logo": "ispark.webp"
+  },
+  {
+   "ad": "Demak Group",
+   "sektor": "ambalaj",
+   "logo": "demak-group.webp"
+  },
+  {
+   "ad": "Modern Ambalaj",
+   "sektor": "ambalaj",
+   "logo": "modern-ambalaj.webp"
+  },
+  {
+   "ad": "Poelsan Plastik",
+   "sektor": "ambalaj",
+   "logo": "poelsan.webp"
+  }
+ ]
+}

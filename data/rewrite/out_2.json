@@ -1,0 +1,1505 @@
+[
+ {
+  "code": "BD-G38-PRP",
+  "name": "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Mor",
+  "summary": "BD-G38-PRP mor emniyet asma kilit: 76 mm iletken olmayan naylon çene, 6,2 mm kelepçe, toz kapaklı silindir ve anahtar tutma özelliği.",
+  "intro": [
+   "Mor renkli BD-G38-PRP, kilitleme-etiketleme uygulamalarında enerji izolasyon noktasını kişisel olarak güvenceye almak için kullanılan bir emniyet asma kilididir. Gövdesi mühendislik plastiği takviyeli naylon PA'dan, 76 mm yüksekliğindeki 6,2 mm çaplı kelepçesi ise iletken olmayan naylondan üretilir; bu sayede elektrik panolarında da gönül rahatlığıyla kullanılabilir.",
+   "Kilit açıkken anahtar silindirden çıkmaz, böylece kilidin açık unutulması engellenir. İtmeli-çekmeli toz kapağı silindiri tozdan korur. Mor renk, tesislerde çoğu zaman yükleniciler veya kimyasal hatlarda çalışan ekipler gibi ayrı tutulmak istenen gruplara ayrılabilir; bu tamamen tesisin kendi renk planına bağlı bir tercihtir."
+  ],
+  "feats": [
+   [
+    "Naylon PA Gövde",
+    "Tek parça kabuk, -30°C ile +120°C arasındaki sıcaklık değişimlerine ve darbeye karşı dayanıklıdır."
+   ],
+   [
+    "Yalıtkan Kelepçe",
+    "Naylon kelepçe elektrik iletmediği için gerilimli ekipman çevresinde güvenle kullanılır."
+   ],
+   [
+    "Toz Kapağı",
+    "İtmeli-çekmeli kapak, tozlu çalışma alanlarında anahtar deliğini kapalı tutar."
+   ],
+   [
+    "Anahtar Tutma",
+    "Kelepçe kapatılmadan anahtar çıkarılamadığından kilit açık bırakılamaz."
+   ],
+   [
+    "Otomatik Kelepçe",
+    "Kilit açıldığında kelepçe kendiliğinden yükselir, bastırıldığında silindir kendiliğinden kilitlenir."
+   ],
+   [
+    "Etiket Seçenekleri",
+    "Standart TEHLİKE etiketinin yanında farklı dillerde ve özel baskılı PVC etiketler uygulanabilir."
+   ]
+  ],
+  "usage": [
+   "Kişisel LOTO kilitlemesi",
+   "Yüklenici ekip ayrımı",
+   "Elektrik pano izolasyonu",
+   "Tozlu üretim alanları"
+  ]
+ },
+ {
+  "code": "BD-D01",
+  "name": "POS Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D01 POS tipi MCB kilidi: delik aralığı 12 mm'ye kadar olan Avrupa ve Asya tipi minyatür devre kesicileri kilitler, 7 mm kelepçe uyumlu.",
+  "intro": [
+   "BD-D01, minyatür devre kesicilerin kolunu kapalı konumda tutmak için kullanılan POS (Pin Out Standard) tipi bir kilitleme aparatıdır. Kesicinin kol deliklerine yerleşen pimler sayesinde, delik aralığı 12 mm'yi aşmayan tek ve çok kutuplu Avrupa ve Asya tipi MCB'lerde enerjinin yeniden verilmesi engellenir.",
+   "Basmalı düğme ya da döner silindir ile birkaç saniyede takılır ve alet gerektirmez. Güçlendirilmiş naylon PA gövdesi pano içindeki darbelere dayanır. Aparatın üzerindeki deliğe 7 mm'ye kadar kelepçe çaplı bir emniyet asma kilidi ve etiket takılarak, bakım yapan çalışanın kişisel kilitleme adımı tamamlanır."
+  ],
+  "feats": [
+   [
+    "Pin Out Yapısı",
+    "Pimler dışa doğru açılarak delik aralığı en fazla 12 mm olan kesicilere oturur."
+   ],
+   [
+    "MCB Uyumu",
+    "Avrupa ve Asya tipi tek ve çok kutuplu minyatür kesicilerde kullanılabilir."
+   ],
+   [
+    "Hızlı Montaj",
+    "Basmalı düğme veya döner silindirle aletsiz olarak sabitlenir."
+   ],
+   [
+    "Naylon PA Gövde",
+    "Güçlendirilmiş malzeme darbelere ve zorlu pano koşullarına dayanır."
+   ],
+   [
+    "Asma Kilit Bağlantısı",
+    "Kelepçe çapı 7 mm'ye kadar olan asma kilitlerle birlikte kullanılır."
+   ]
+  ],
+  "usage": [
+   "Dağıtım panosu bakımı",
+   "Tek kutuplu MCB izolasyonu",
+   "Çok kutuplu kesiciler",
+   "Kişisel kilitleme noktası"
+  ]
+ },
+ {
+  "code": "BD-D02",
+  "name": "PIS Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D02 PIS tipi minyatür devre kesici kilidi: delik aralığı 12 mm'ye kadar olan tek ve çok kutuplu MCB'lerde aletsiz enerji izolasyonu sağlar.",
+  "intro": [
+   "PIS (Pin In Standard) tipi BD-D02, pimleri içe doğru kapanarak minyatür devre kesicinin kolunu kavrayan bir kilitleme aparatıdır. Delik aralığı 12 mm'ye kadar olan tek ve çok kutuplu kesicilerde kolun açık konumda kalmasını sağlar ve Avrupa ile Asya kökenli birçok MCB modeline uyar.",
+   "Montaj için basmalı düğme ya da döner mekanizma yeterlidir; tornavida veya başka bir alete gerek kalmaz. Mühendislik plastiği ile güçlendirilmiş naylon PA gövdesi uzun süreli kullanıma uygundur. Aparat, 7 mm'ye kadar kelepçe çaplı bir emniyet asma kilidiyle kilitlendiğinde LOTO prosedüründeki izolasyon noktası yetkisiz müdahaleye kapanır."
+  ],
+  "feats": [
+   [
+    "Pin In Yapısı",
+    "İçe kapanan pimler, delik aralığı 12 mm'ye kadar olan kesicilere uyar."
+   ],
+   [
+    "Geniş Model Uyumu",
+    "Avrupa ve Asya üretimi pek çok devre kesiciyle birlikte kullanılabilir."
+   ],
+   [
+    "Aletsiz Kurulum",
+    "Basmalı düğme veya döner mekanizma ile kısa sürede takılır."
+   ],
+   [
+    "Tek ve Çok Kutup",
+    "Hem tekli hem çoklu minyatür kesicilerde aynı aparat kullanılır."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kelepçe çapı 7 mm'ye kadar olan emniyet asma kilitleriyle çalışır."
+   ]
+  ],
+  "usage": [
+   "Elektrik panosu bakımı",
+   "Minyatür kesici izolasyonu",
+   "Arıza müdahalesi",
+   "Periyodik bakım işleri"
+  ]
+ },
+ {
+  "code": "BD-D03",
+  "name": "TBLO Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D03 TBLO minyatür devre kesici kilidi: bağlantı çubuğuna takılarak tek ve çok kutuplu MCB'leri kilitler, 7 mm kelepçe çaplı kilit alır.",
+  "intro": [
+   "BD-D03, TBLO (Tie Bar Lock Out) yöntemiyle çalışan, yani devre kesicinin kollarını birleştiren bağlantı çubuğu üzerinden kilitleme yapan bir aparattır. Özellikle bağlantı çubuklu çok kutuplu minyatür kesicilerde tüm kutupların aynı anda kapalı konumda tutulmasına yardımcı olur; Avrupa ve Asya tipi MCB'lerle uyumludur.",
+   "Basmalı düğme veya döner silindirle aletsiz olarak takılır. Mühendislik plastiği ile güçlendirilmiş PA gövdesi darbelere karşı dayanıklıdır. Aparat 7 mm'ye kadar kelepçe çaplı bir asma kilit ve uyarı etiketiyle tamamlandığında, enerji izolasyon adımı LOTO prosedürüne uygun biçimde kayıt altına alınmış olur."
+  ],
+  "feats": [
+   [
+    "Bağlantı Çubuğu",
+    "Kolları bağlantı çubuğuyla birleştirilmiş kesicilerde çubuk üzerinden kilitleme yapar."
+   ],
+   [
+    "Kutup Esnekliği",
+    "Tek ve çok kutuplu minyatür kesicilerde kullanılabilir."
+   ],
+   [
+    "Kolay Takma",
+    "Basmalı düğme veya döner silindirle alet kullanmadan sabitlenir."
+   ],
+   [
+    "Güçlendirilmiş PA",
+    "Mühendislik plastiği katkılı gövde uzun ömürlüdür ve darbeye dayanır."
+   ],
+   [
+    "Asma Kilit Deliği",
+    "7 mm'ye kadar kelepçe çaplı asma kilitlerle izolasyon tamamlanır."
+   ]
+  ],
+  "usage": [
+   "Çok kutuplu MCB'ler",
+   "Bağlantı çubuklu kesiciler",
+   "Pano bakım çalışmaları",
+   "LOTO izolasyon noktası"
+  ]
+ },
+ {
+  "code": "BD-D04",
+  "name": "POW Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D04 POW geniş tip MCB kilidi: delik aralığı 20 mm'ye kadar olan tek ve çok kutuplu devre kesicilerde kullanılır, naylon PA gövdelidir.",
+  "intro": [
+   "BD-D04, POW (Pin Out Wide) tipinde, yani pimleri dışa doğru geniş açılan bir minyatür devre kesici kilitleme aparatıdır. Standart POS modellerden farklı olarak delik aralığı 20 mm'ye kadar çıkan tek ve çok kutuplu kesicilerde kullanılabilir; Avrupa ve Asya üretimi MCB'lerin çoğuna uyar.",
+   "Basmalı düğme ya da döner mekanizma ile aletsiz takılır, mühendislik plastiği ile güçlendirilmiş naylon PA gövdesi pano içi kullanımda dayanıklılık sağlar. Aparata 7 mm'ye kadar kelepçe çaplı bir emniyet asma kilidi takıldığında, bakım süresince kesicinin yeniden kapatılmasının önüne geçilir ve kişisel kilitleme adımı tamamlanır."
+  ],
+  "feats": [
+   [
+    "Geniş Pim Aralığı",
+    "Delik aralığı 20 mm'ye kadar olan kesicilere uyum sağlar."
+   ],
+   [
+    "Yaygın MCB Uyumu",
+    "Avrupa ve Asya menşeli minyatür kesicilerin büyük bölümünde kullanılır."
+   ],
+   [
+    "Pratik Montaj",
+    "Basmalı düğme veya döner silindirle aletsiz olarak yerleştirilir."
+   ],
+   [
+    "Çok Kutup Desteği",
+    "Tek ve çok kutuplu kesicilerde aynı aparatla çalışılabilir."
+   ],
+   [
+    "Kilit Uyumu",
+    "7 mm'ye kadar kelepçe çaplı emniyet asma kilitleri takılabilir."
+   ]
+  ],
+  "usage": [
+   "Geniş delikli MCB'ler",
+   "Dağıtım panoları",
+   "Çok kutuplu kesiciler",
+   "Planlı bakım duruşları"
+  ]
+ },
+ {
+  "code": "BD-D05-1-RED",
+  "name": "Universal Minyatür Şalter Kilitleme Ekipmanı",
+  "summary": "BD-D05-1-RED universal minyatür şalter kilidi: tornavidayla sabitlenir, çoğu MCB ve sigortaya uyar, 7 mm kelepçe çaplı tek asma kilit alır.",
+  "intro": [
+   "BD-D05-1-RED, farklı tip minyatür devre kesici ve sigortaların kolunu kapalı konumda sabitlemek için kullanılan universal bir kilitleme aparatıdır. Kesici koluna yerleştirildikten sonra tornavida ile sıkıştırılır ve kolun hareket etmesini engelleyerek enerjinin yanlışlıkla yeniden verilmesinin önüne geçer.",
+   "Güçlendirilmiş naylon PA gövdesi küçük boyutlarına rağmen darbelere karşı dayanıklıdır. Aparat, kelepçe çapı 7 mm'ye kadar olan tek bir emniyet asma kilidiyle kilitlenir; bu yapı onu bir çalışanın kendi kilidini taktığı kişisel kilitleme uygulamaları için uygun kılar. Kırmızı renk, pano içinde izolasyon noktasını kolayca fark edilir hale getirir."
+  ],
+  "feats": [
+   [
+    "Universal Uyum",
+    "Minyatür sigorta ve devre kesicilerin büyük çoğunluğuna takılabilir."
+   ],
+   [
+    "Vidalı Sabitleme",
+    "Tornavida ile sıkıştırılarak kesici koluna sağlam şekilde tutunur."
+   ],
+   [
+    "Naylon PA Gövde",
+    "Güçlendirilmiş malzeme darbe ve aşınmaya karşı dayanıklıdır."
+   ],
+   [
+    "Tek Kilit Girişi",
+    "Kelepçe çapı 7 mm'ye kadar olan bir asma kilitle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Minyatür devre kesiciler",
+   "Pano şalterleri",
+   "Sigorta kilitleme",
+   "Kişisel LOTO uygulaması"
+  ]
+ },
+ {
+  "code": "BD-D05-3",
+  "name": "Evrensel Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D05-3 evrensel devre kesici kilidi: ISO/DIN minyatür ve kalıplanmış kasa kesicilerde tornavidayla sabitlenir, 8,5 mm kilit deliği vardır.",
+  "intro": [
+   "BD-D05-3, ISO/DIN standardındaki minyatür devre kesiciler ile kalıplanmış kasa tipi kesicilerde kullanılan evrensel bir kilitleme aparatıdır. Kesici anahtarının üzerine geçirilir ve tornavida ile sıkıştırılarak kolun konumunu sabitler; böylece bakım sırasında enerjinin kazara verilmesi önlenir.",
+   "Mühendislik plastiği ile güçlendirilmiş naylon PA'dan üretilen gövdede 8,5 mm çapında bir kilitleme deliği bulunur. Bu delik, emniyet asma kilitlerinin yanı sıra çeşitli kilitleme aparatlarının takılmasına da olanak tanır. Farklı marka ve modellerdeki kesicilerin aynı aparatla kilitlenebilmesi, LOTO istasyonlarındaki ekipman çeşitliliğini azaltmaya yardımcı olur."
+  ],
+  "feats": [
+   [
+    "ISO/DIN Uyumu",
+    "ISO/DIN standardındaki farklı tip minyatür devre kesicileri kilitler."
+   ],
+   [
+    "Kasa Tipleri",
+    "Kalıplanmış kasa ve modüler yapıdaki kesicilerde de kullanılabilir."
+   ],
+   [
+    "Tornavidalı Montaj",
+    "Kesici anahtarına takıldıktan sonra tornavida ile sıkıca sabitlenir."
+   ],
+   [
+    "8,5 mm Delik",
+    "Kilitleme deliği asma kilitler ve farklı kilitleme aparatlarıyla uyumludur."
+   ],
+   [
+    "Güçlendirilmiş PA",
+    "Mühendislik plastiği katkılı naylon gövde dayanıklı bir yapı sunar."
+   ]
+  ],
+  "usage": [
+   "ISO/DIN minyatür kesiciler",
+   "Kalıplanmış kasa kesiciler",
+   "Karma marka panolar",
+   "Bakım ve onarım"
+  ]
+ },
+ {
+  "code": "BD-D05-4",
+  "name": "MCB Devre Kesici Kilitleme ve Etiketleme Ekipmanı",
+  "summary": "BD-D05-4 MCB kilitleme ve etiketleme aparatı: katlanır vidayla aletsiz takılır, tekli-dörtlü burunlu ve burunsuz devre kesicilere uyar.",
+  "intro": [
+   "BD-D05-4, tekli, çiftli, üçlü ve dörtlü minyatür devre kesicilerin kolunu kilitlemek için tasarlanmış çok amaçlı bir aparattır. Burunlu ya da burunsuz kol tiplerine tek bir parçayla uyum sağladığı için farklı kesicilerin bulunduğu panolarda ayrı ayrı kilit tutma ihtiyacını azaltır.",
+   "Katlanır vida mekanizması sayesinde sabitleme için tornavida gerekmez. UV dayanımlı ABS gövde metalik bir kilitleme somunuyla desteklenir. Aparat bir adet emniyet asma kilidiyle kilitlenir; birden fazla çalışanın aynı noktada çalışması gerektiğinde mandallı kilitleme aparatlarıyla birlikte kullanılarak grup izolasyonu uygulanabilir."
+  ],
+  "feats": [
+   [
+    "Kutup Çeşitliliği",
+    "Tekli, çiftli, üçlü ve dörtlü devre kesici modellerine uygundur."
+   ],
+   [
+    "Kol Tipi Uyumu",
+    "Burunlu ve burunsuz kesici kollarına aynı aparatla takılır."
+   ],
+   [
+    "Katlanır Vida",
+    "Sabitleme işlemi tornavida kullanmadan elle yapılır."
+   ],
+   [
+    "ABS ve Metal",
+    "UV dayanımlı ABS gövde metalik kilitleme somunuyla güçlendirilmiştir."
+   ],
+   [
+    "Grup Kilitleme",
+    "Mandallı kilitleme aparatlarıyla birden fazla kişinin kilidi bağlanabilir."
+   ]
+  ],
+  "usage": [
+   "Tekli-dörtlü MCB'ler",
+   "Pano izolasyonu",
+   "Grup kilitleme işleri",
+   "Bakım ekipleri"
+  ]
+ },
+ {
+  "code": "BD-D05-5-RED",
+  "name": "Geniş Ağız Evrensel Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D05-5-RED geniş ağızlı devre kesici kilidi: 1-4 kutuplu kesicilere aletsiz takılır, 9 mm kilit deliği ve 56x26x19 mm ölçülere sahiptir.",
+  "intro": [
+   "Geniş ağız yapısına sahip BD-D05-5-RED, tek, çift, üç ve dört kutuplu elektrik devre kesicilerinin kolunu kapalı konumda tutmak için kullanılır. 56 x 26 x 19 mm ölçülerindeki gövde, ortalama 13,5 mm iç kavrama mesafesi ve 11 mm kalınlığındaki kilitleme ucuyla burunlu ya da burunsuz kollara oturur.",
+   "Katlanabilir vida mekanizması montajı alet kullanmadan yapmayı sağlar. UV dayanımlı ABS gövde, metal takviyeli kilit somunuyla desteklenmiştir. 9 mm çapındaki kilitleme deliğine bir emniyet asma kilidi takılabilir; ekip halinde çalışılan durumlarda mandallı kilitleme aparatlarıyla birlikte kullanılarak grup izolasyonu yapılabilir."
+  ],
+  "feats": [
+   [
+    "Geniş Ağız",
+    "Burunlu veya burunsuz farklı kesici kol tiplerini kavrayabilir."
+   ],
+   [
+    "1-4 Kutup",
+    "Tek, çift, üç ve dört kutuplu devre kesicilerde kullanılabilir."
+   ],
+   [
+    "Aletsiz Sabitleme",
+    "Katlanabilir vida sayesinde tornavida gerekmeden monte edilir."
+   ],
+   [
+    "Metal Takviye",
+    "UV dayanımlı ABS gövde metal takviyeli kilit somunu ile birleştirilmiştir."
+   ],
+   [
+    "9 mm Delik",
+    "Kilitleme deliği 9 mm çapa kadar kelepçeli asma kilitleri kabul eder."
+   ]
+  ],
+  "usage": [
+   "Çok kutuplu kesiciler",
+   "Pano izolasyonları",
+   "Grup izolasyonu",
+   "Elektrik bakım ekipleri"
+  ]
+ },
+ {
+  "code": "BD-D05-6",
+  "name": "Çift Başlı Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D05-6 çift başlı minyatür devre kesici kilidi: 1-4 kutuplu kesicilere aletsiz takılır, ABS gövdeli, 9 mm kilit deliği bulunan aparat.",
+  "intro": [
+   "BD-D05-6, iki başlı yapısıyla tek, çift, üç ve dört kutuplu minyatür devre kesicilerde kullanılabilen evrensel bir kilitleme aparatıdır. Tek boy olarak üretilir ve burunlu ya da burunsuz kesici kollarına uyar. Gövde ölçüleri 56 x 26 x 19 mm, ortalama iç kavrama merkezi ise 13,5 mm'dir.",
+   "Kurulum katlanır vidalı sistemle yapılır, bu nedenle ek alet taşımaya gerek yoktur. Yüksek kaliteli ABS gövde metalik somunla birleştirilmiş olup dış etkenlere ve UV ışınına karşı dayanıklıdır. 9 mm çapındaki kilitleme deliğine asma kilit takılabilir; kilitleme mandalı eklendiğinde aynı kesici üzerinde birden fazla çalışanın kilidiyle grup izolasyonu uygulanabilir."
+  ],
+  "feats": [
+   [
+    "Tek Boy Uyum",
+    "Burunlu ve burunsuz tüm kesici tiplerine aynı aparatla uyar."
+   ],
+   [
+    "Kutup Aralığı",
+    "Tek, çift, üç ve dört kutuplu kesicilerde kullanılabilir."
+   ],
+   [
+    "Katlanır Vida",
+    "Montaj ek alete ihtiyaç duymadan elle yapılır."
+   ],
+   [
+    "UV Dayanımı",
+    "ABS gövde dış etkenlere karşı korumalı ve uzun ömürlüdür."
+   ],
+   [
+    "Grup Desteği",
+    "Kilitleme mandalı ile birden fazla kişinin kilidi takılabilir."
+   ]
+  ],
+  "usage": [
+   "Minyatür devre kesiciler",
+   "Çok kutuplu şalterler",
+   "Grup kilitleme",
+   "Pano bakımı"
+  ]
+ },
+ {
+  "code": "BD-D06",
+  "name": "Snap-On Kesici Kilitleme",
+  "summary": "BD-D06 snap-on kesici kilidi: özel saplı, standart dışı minyatür devre kesicilere geçmeli olarak aletsiz takılır, naylon PA gövdelidir.",
+  "intro": [
+   "BD-D06, standart aparatların oturmadığı özel saplı minyatür devre kesiciler için geliştirilmiş geçmeli (snap-on) bir kilitleme aparatıdır. Kesici üzerinde doğru konuma yerleştirildiğinde kendiliğinden kilitlenir ve kolun hareketini engelleyerek küçük cihazları besleyen devrelerin bakım sırasında yeniden enerjilenmesini önler.",
+   "Mühendislik plastiği takviyeli naylon PA gövdesi kompakt ve dayanıklıdır; montaj için herhangi bir alet gerekmez. Aparat bir emniyet asma kilidiyle birlikte kullanılır (7 mm'ye kadar kelepçe çapı önerilir). Böylece nadir rastlanan kesici tipleri de tesisin LOTO prosedürüne dahil edilerek kişisel kilitleme ve etiketleme uygulanabilir."
+  ],
+  "feats": [
+   [
+    "Geçmeli Yapı",
+    "Doğru pozisyonda takıldığında ek işlem gerektirmeden kilitlenir."
+   ],
+   [
+    "Özel Sap Uyumu",
+    "Standart dışı, özel kulplu minyatür devre kesicilere uygundur."
+   ],
+   [
+    "Naylon PA Gövde",
+    "Takviyeli mühendislik plastiği uzun süreli kullanıma dayanır."
+   ],
+   [
+    "Kompakt Boyut",
+    "Küçük elektrikli cihazların kesicilerinde dar alanlara sığar."
+   ],
+   [
+    "Asma Kilit Uyumu",
+    "Kelepçe çapı 7 mm'ye kadar olan kilitlerle kullanılması önerilir."
+   ]
+  ],
+  "usage": [
+   "Özel saplı MCB'ler",
+   "Küçük cihaz devreleri",
+   "Standart dışı şalterler",
+   "Bakım izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-D07",
+  "name": "Snap-On Kesici Kilitleme",
+  "summary": "BD-D07 snap-on kesici kilitleme aparatı: özel saplı ve az kullanılan minyatür devre kesicilere aletsiz geçer, 7 mm kelepçeli kilitle kilitlenir.",
+  "intro": [
+   "Özel sap yapısına sahip ve sahada seyrek karşılaşılan minyatür devre kesiciler, standart kilitleme aparatlarıyla her zaman güvenceye alınamaz. BD-D07 bu boşluğu dolduran geçmeli bir çözümdür: kesiciye doğru açıyla oturtulduğunda otomatik olarak kilitlenir ve kolun konumunu sabitler.",
+   "Takviyeli naylon PA'dan üretilen kompakt gövdesi, alanın dar olduğu pano içlerinde rahatça kullanılabilir. Montaj aletsiz ve hızlıdır. Kelepçe çapı 7 mm'ye kadar olan bir emniyet asma kilidi takıldığında aparat yalnızca kilidin sahibi tarafından sökülebilir; bu da kişisel kilitleme ilkesinin standart dışı ekipmanlarda da uygulanmasını sağlar."
+  ],
+  "feats": [
+   [
+    "Otomatik Oturma",
+    "Doğru konumda takıldığında kendiliğinden kilitlenir."
+   ],
+   [
+    "Özel Kesiciler",
+    "Standart dışı saplı küçük devre kesiciler için tasarlanmıştır."
+   ],
+   [
+    "Dar Alan Uyumu",
+    "Geçmeli kompakt yapısı sıkışık panolarda kullanılabilir."
+   ],
+   [
+    "Takviyeli PA",
+    "Mühendislik plastiği takviyeli naylon gövdeden üretilmiştir."
+   ],
+   [
+    "Kilit Bağlantısı",
+    "7 mm'ye kadar kelepçe çaplı emniyet asma kilitleriyle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Özel saplı kesiciler",
+   "Sıkışık pano içleri",
+   "Kişisel kilitleme",
+   "Arıza bakımı"
+  ]
+ },
+ {
+  "code": "BD-D08",
+  "name": "Snap-On Kesici Kilitleme",
+  "summary": "BD-D08 snap-on kesici kilitleme cihazı: özel saplı nadir minyatür devre kesicilerde aletsiz kullanılır, ≤7 mm kelepçeli asma kilitle uyumlu.",
+  "intro": [
+   "BD-D08, özel sap yapısına sahip nadir minyatür devre kesicilerin kilitlenmesi için tasarlanmış snap-on tipi bir cihazdır. Kesiciye hızla geçirilir ve anında kilitlenir; böylece elektrik panolarında bakım yapılırken kesicinin yetkisiz biçimde yeniden devreye alınması engellenir.",
+   "Takviyeli mühendislik naylonu (PA) gövdesi darbelere karşı dirençlidir. Hafif ve kompakt olduğu için bakım setlerine kolayca eklenebilir. Üzerindeki kilitleme deliği 7 mm'ye kadar kelepçe çaplı asma kilitleri kabul eder; asma kilit ve etiket takıldığında cihaz, LOTO prosedüründeki enerji izolasyon noktasını kişiye özel hale getirir."
+  ],
+  "feats": [
+   [
+    "Snap-On Montaj",
+    "Kesiciye hızlıca takılır ve alet kullanmadan anında kilitlenir."
+   ],
+   [
+    "Nadir Kesici Uyumu",
+    "Özel sap yapısındaki minyatür devre kesiciler için geliştirilmiştir."
+   ],
+   [
+    "Darbe Direnci",
+    "Takviyeli naylon PA gövde darbelere karşı dayanıklı ve uzun ömürlüdür."
+   ],
+   [
+    "Kilit Deliği",
+    "Kelepçe çapı 7 mm'ye kadar olan asma kilitlerle kullanılabilir."
+   ],
+   [
+    "Taşınabilirlik",
+    "Hafif ve kompakt yapısı bakım setlerine kolayca eklenmesini sağlar."
+   ]
+  ],
+  "usage": [
+   "Elektrik panoları",
+   "Özel saplı minyatür kesiciler",
+   "Enerji izolasyonu",
+   "Bakım setleri"
+  ]
+ },
+ {
+  "code": "BD-D09",
+  "name": "Snap-On Kesici Kilitleme Cihazı",
+  "summary": "BD-D09 snap-on kesici kilitleme cihazı: standart dışı özel saplı minyatür devre kesicileri açık konumda sabitler, aletsiz takılır.",
+  "intro": [
+   "BD-D09, standart dışı, özel saplı minyatür devre kesiciler için üretilen snap-on tipi bir enerji izolasyon cihazıdır. Kesiciye doğru pozisyonda yerleştirildiğinde kendiliğinden oturur ve kilitlenir; böylece bakım veya onarım sırasında devre kesici açık konumda sabit kalır ve yanlışlıkla enerji verilmesi önlenir.",
+   "Takviyeli mühendislik naylonu (PA) gövdesi sanayi ortamlarındaki zorlu koşullara karşı dayanıklıdır. Hafif yapısı bakım çantasında taşınmasını kolaylaştırır. Kelepçe çapı 7 mm'ye kadar olan bir asma kilitle kilitlendiğinde, enerji kaynağının izinsiz çalıştırılması engellenir ve kesici LOTO prosedüründe etiketlenebilir bir izolasyon noktasına dönüşür."
+  ],
+  "feats": [
+   [
+    "Kendiliğinden Oturma",
+    "Doğru konuma yerleştirildiğinde otomatik olarak oturur ve kilitlenir."
+   ],
+   [
+    "Özel Sap Uyumu",
+    "Standart dışı saplı minyatür devre kesiciler için uygundur."
+   ],
+   [
+    "Naylon PA Yapı",
+    "Takviyeli mühendislik plastiği zorlu sanayi ortamlarında dayanıklıdır."
+   ],
+   [
+    "Açık Konum Sabitleme",
+    "Bakım boyunca kesicinin açık konumda kalmasını sağlar."
+   ],
+   [
+    "Asma Kilit Desteği",
+    "7 mm'ye kadar kelepçe çaplı kilitlerle izinsiz çalıştırma önlenir."
+   ]
+  ],
+  "usage": [
+   "Küçük kesici sistemleri",
+   "Elektrik panoları",
+   "Acil arıza müdahalesi",
+   "Bakım çantası ekipmanı"
+  ]
+ },
+ {
+  "code": "BD-D100",
+  "name": "Deliksiz Termik Şalter Kilitleme Ekipmanı",
+  "summary": "BD-D100 deliksiz termik şalter kilidi: kilit deliği olmayan termik motor koruma şalterlerinin alnına takılır, 1 adet asma kilit alır.",
+  "intro": [
+   "BD-D100, üzerinde kilitleme deliği bulunmayan termik motor koruma şalterlerinin kilitlenmesi için kullanılan bir ekipmandır. Şalterin ön yüzüne, yani alın kısmına takılarak çalışır ve motor beslemesinin bakım sırasında yeniden devreye alınmasının önüne geçer.",
+   "Deliksiz şalterler doğrudan asma kilit kabul etmediği için çoğu zaman LOTO uygulamasının dışında kalır. Bu ekipman, şalter alnına yerleştirildikten sonra üzerine 1 adet asma kilit takılmasına imkân vererek bu tip şalterleri de kişisel kilitleme ve etiketleme sürecine dahil eder."
+  ],
+  "feats": [
+   [
+    "Deliksiz Şalter",
+    "Kilit deliği olmayan termik motor koruma şalterleri için tasarlanmıştır."
+   ],
+   [
+    "Alın Montajı",
+    "Şalterin ön alın kısmına takılarak kilitleme yapar."
+   ],
+   [
+    "Tek Kilit",
+    "Üzerine 1 adet asma kilit takılabilir."
+   ],
+   [
+    "LOTO Kapsamı",
+    "Doğrudan kilitlenemeyen şalterleri izolasyon prosedürüne dahil eder."
+   ]
+  ],
+  "usage": [
+   "Motor koruma şalterleri",
+   "Motor bakım çalışmaları",
+   "Kumanda panoları",
+   "Kişisel kilitleme"
+  ],
+  "specs": [
+   [
+    "Uygulama",
+    "Deliği olmayan termik motor koruma şalterleri"
+   ],
+   [
+    "Montaj",
+    "Şalter alnına takılarak"
+   ],
+   [
+    "Asma Kilit Kapasitesi",
+    "1 adet"
+   ]
+  ]
+ },
+ {
+  "code": "BD-D11",
+  "name": "120/277V Küçük Boy Kompakt Şalter Kilitleme Ekipmanı",
+  "summary": "BD-D11 küçük boy kompakt şalter kilidi: 120/277 V devre kesicileri sabitlemek için tasarlanmıştır, LOTO asma kilidiyle birlikte kullanılır.",
+  "intro": [
+   "BD-D11, 120/277 V devre kesicilerin kolunu sabitlemek için tasarlanmış küçük boy, kompakt bir şalter kilitleme ekipmanıdır. Kesici üzerine doğru şekilde takıldığında kolun hareket etmesini engeller ve bakım süresince devrenin yeniden enerjilenmesini önler.",
+   "Ekipman, bir LOTO asma kilidiyle kilitlendiğinde izolasyon noktası yalnızca kilit sahibinin açabileceği hale gelir. Küçük boyutu sayesinde kompakt kesicilerin bulunduğu panolarda yer sorunu yaşatmaz ve farklı endüstriyel ortamlardaki kilitleme-etiketleme uygulamalarına uyum sağlar. Kilidin yanına bir uyarı etiketi eklenmesi, kesiciyi kimin ve neden kilitlediğini sahadaki herkese gösterir."
+  ],
+  "feats": [
+   [
+    "120/277 V Kesiciler",
+    "Bu gerilim sınıfındaki devre kesicileri sabitlemek için tasarlanmıştır."
+   ],
+   [
+    "Kompakt Gövde",
+    "Küçük boyutu panolarda dar alanlarda kullanımı kolaylaştırır."
+   ],
+   [
+    "Asma Kilit Uyumu",
+    "LOTO asma kilidiyle kilitlenerek yetkisiz müdahaleyi önler."
+   ]
+  ],
+  "usage": [
+   "120/277 V kesiciler",
+   "Kompakt şalterler",
+   "Endüstriyel panolar",
+   "Bakım izolasyonu"
+  ],
+  "specs": [
+   [
+    "Uyumlu Gerilim",
+    "120/277 V devre kesiciler"
+   ],
+   [
+    "Boyut",
+    "Küçük boy, kompakt"
+   ],
+   [
+    "Kilitleme",
+    "LOTO asma kilidi ile"
+   ]
+  ]
+ },
+ {
+  "code": "BD-D11N",
+  "name": "Kelepçeli Sigorta Kilitleme Ekipmanı",
+  "summary": "BD-D11N kelepçeli sigorta kilidi: 120-270 V devre kesicilere başparmak vidasıyla aletsiz takılır, çıkarılabilir takoz seti ile gelir.",
+  "intro": [
+   "BD-D11N, 120 V ile 270 V arasındaki devre kesicilerin kolunu kelepçe yöntemiyle sıkıca kavrayarak kilitleyen bir ekipmandır. Kesici koluna yerleştirildikten sonra başparmak vidası çevrilerek sabitlenir; tornavida ya da başka bir alet gerekmez.",
+   "Yeni bıçaklı yapısı, vidaya daha az tork uygulanmasına rağmen daha sıkı bir kavrama sağlar. Polipropilen (PP) gövde darbeye dayanıklı naylon PA bileşenlerle desteklenmiştir. Pakette yer alan çıkarılabilir takozlar uyumlu kesici aralığını genişletir. Ekipman, 7 mm'ye kadar kelepçe çaplı bir emniyet asma kilidiyle kilitlenerek kişisel izolasyon adımını tamamlar."
+  ],
+  "feats": [
+   [
+    "Gerilim Aralığı",
+    "120 V ile 270 V arasındaki devre kesicilerde kullanılır."
+   ],
+   [
+    "Başparmak Vidası",
+    "Sabitleme işlemi alet kullanmadan elle yapılır."
+   ],
+   [
+    "Bıçaklı Kavrama",
+    "Yeni bıçak tasarımı düşük torkla daha sıkı tutuş sağlar."
+   ],
+   [
+    "Çıkarılabilir Takoz",
+    "Takozlar sayesinde daha fazla kesici modeline uyum sağlanır."
+   ],
+   [
+    "PP ve PA Yapı",
+    "Polipropilen gövde darbeye dayanıklı naylon parçalarla birleştirilmiştir."
+   ]
+  ],
+  "usage": [
+   "120-270 V kesiciler",
+   "Sigorta kilitleme",
+   "Dağıtım panoları",
+   "Kişisel izolasyon"
+  ]
+ },
+ {
+  "code": "BD-D12N",
+  "name": "480V/600V Orta Boy Kompakt Şalter Kilitleme Ekipmanı",
+  "summary": "BD-D12N orta boy kompakt şalter kilidi: PP ve naylon gövdeli, ayrılabilir takozlu, başparmak vidalı, 7 mm'ye kadar kanca çaplı asma kilit alır.",
+  "intro": [
+   "BD-D12N, 480 V ve 600 V sınıfındaki orta boy kompakt şalterlerin kilitlenmesi için kullanılan yeni tasarım bir kelepçe tipi ekipmandır. Sağlam polipropilen ve dayanıklı naylondan üretilir. Ayrılabilir takozları, ekipmanın uygulanabileceği şalter yelpazesini genişletir.",
+   "Yeni bıçak tasarımı, başparmak vidasına daha az tork uygulanarak daha sıkı kavrama elde edilmesini sağlar. Montajda kilit dili tespit vidasıyla sabitlenir, ardından kapak çekilip yerine oturtularak kelepçenin gevşemesi önlenir. Ekipman 7 mm'ye kadar kanca çapına sahip asma kilitleri kabul eder ve şalteri LOTO prosedürüne uygun biçimde kilitli tutar."
+  ],
+  "feats": [
+   [
+    "PP ve Naylon",
+    "Sağlam polipropilen ve dayanıklı naylondan üretilmiştir."
+   ],
+   [
+    "Ayrılabilir Takozlar",
+    "Uygulanabilir şalter yelpazesini genişletir."
+   ],
+   [
+    "Bıçak Tasarımı",
+    "Başparmak vidasında daha az torkla daha sıkı kavrama sağlar."
+   ],
+   [
+    "Kapaklı Sabitleme",
+    "Tespit vidası ve kapak, kelepçenin gevşemesini önler."
+   ],
+   [
+    "Kilit Kapasitesi",
+    "7 mm'ye kadar kanca çaplı asma kilitler takılabilir."
+   ]
+  ],
+  "usage": [
+   "480/600 V şalterler",
+   "Orta boy kompakt şalterler",
+   "Enerji dağıtım panoları",
+   "Bakım izolasyonu"
+  ],
+  "specs": [
+   [
+    "Uyumlu Gerilim",
+    "480 V / 600 V"
+   ],
+   [
+    "Malzeme",
+    "Polipropilen ve naylon"
+   ],
+   [
+    "Sabitleme",
+    "Başparmak vidası ve tespit vidası"
+   ],
+   [
+    "Ek Parça",
+    "Ayrılabilir takozlar"
+   ],
+   [
+    "Asma Kilit Uyumu",
+    "7 mm'ye kadar kanca çapı"
+   ]
+  ]
+ },
+ {
+  "code": "BD-D12X",
+  "name": "Clap-On Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D12X clamp-on devre kesici kilidi: 480-600 V kesicilerde başparmak tekerleğiyle aletsiz takılır, çıkarılabilir takozlu, 7 mm kelepçe uyumlu.",
+  "intro": [
+   "BD-D12X, 480 V ile 600 V arasındaki devre kesicilerin kolunu kelepçeyle kavrayarak kazara çalıştırılmalarını engelleyen bir kilitleme ekipmanıdır. Tek kutuplu kesicilerde ve dahili gezili çok kutuplu kesicilerde kullanılabilir. Polipropilen (PP) ve darbeye dayanıklı PA'dan oluşan gövdesi endüstriyel panolara uygundur.",
+   "Başparmak tekerleği tasarımı sayesinde montaj tornavida gerektirmez. Kurulumdan sonra kapak kapatılıp yerine sabitlendiğinde kelepçe gevşeyemez. Pakette bulunan çıkarılabilir takoz seti uygulanabilir kesici aralığını genişletir. 7 mm'ye kadar kelepçe çaplı bir asma kilit takılarak kesici, bakım ekibi işini bitirene kadar kapalı konumda tutulur."
+  ],
+  "feats": [
+   [
+    "480-600 V",
+    "Bu gerilim aralığındaki devre kesiciler için tasarlanmıştır."
+   ],
+   [
+    "Başparmak Tekerleği",
+    "Montaj tornavida kullanılmadan elle yapılır."
+   ],
+   [
+    "Kutup Uyumu",
+    "Tek kutuplu ve dahili gezili çok kutuplu kesicilerde kullanılabilir."
+   ],
+   [
+    "Gevşeme Önleyici",
+    "Kapak kapatılıp sabitlendiğinde kelepçenin gevşemesi engellenir."
+   ],
+   [
+    "Takoz Seti",
+    "Çıkarılabilir takozlar uygulanabilir kesici aralığını genişletir."
+   ],
+   [
+    "Kilit Uyumu",
+    "7 mm'ye kadar kelepçe çaplı asma kilitlerle kullanılır."
+   ]
+  ],
+  "usage": [
+   "480-600 V kesiciler",
+   "Çok kutuplu kesiciler",
+   "Endüstriyel panolar",
+   "Yüksek akımlı hatlar"
+  ]
+ },
+ {
+  "code": "BD-D13X",
+  "name": "Oversized Clamp-On Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D13X büyük boy clamp-on kesici kilidi: 480/600 V sistemlerde 57 mm genişlik ve 22 mm kalınlığa kadar kesici kollarını aletsiz kilitler.",
+  "intro": [
+   "Büyük boy devre kesici kolları standart kelepçelere sığmadığında BD-D13X kullanılabilir. 480/600 V sistemlere yönelik bu ekipman, 2-1/4 inç (57 mm) genişliğe ve 7/8 inç (22 mm) kalınlığa kadar olan kesici anahtarlarını kavrayarak bakım sırasında elektrik beslemesinin devre dışı kalmasını güvenceye alır.",
+   "Gövde dayanıklı polipropilen (PP) ile cam elyaf takviyeli, darbeye dayanıklı PA'dan oluşur. Başparmak vidası sayesinde tornavida gerekmez; yeni bıçaklı yapı daha az torkla daha sıkı bir tutuş sağlar. Çıkarılabilir takoz ile uyumlu kesici aralığı genişler. 7 mm'ye kadar kelepçe çaplı bir emniyet asma kilidi takılarak izolasyon noktası kişisel olarak kilitlenir."
+  ],
+  "feats": [
+   [
+    "Büyük Kol Uyumu",
+    "57 mm genişlik ve 22 mm kalınlığa kadar kesici anahtarlarına takılır."
+   ],
+   [
+    "Cam Elyaf Takviye",
+    "Cam elyaf takviyeli PA ve PP gövde darbelere karşı dayanıklıdır."
+   ],
+   [
+    "Aletsiz Kurulum",
+    "Başparmak vidasıyla tornavida kullanmadan sabitlenir."
+   ],
+   [
+    "Bıçaklı Kavrama",
+    "Yeni bıçak yapısı düşük torkla daha güvenli tutuş sağlar."
+   ],
+   [
+    "Takoz Desteği",
+    "Çıkarılabilir takoz daha geniş bir kesici aralığına uyum sağlar."
+   ]
+  ],
+  "usage": [
+   "480/600 V sistemler",
+   "Büyük boy kesiciler",
+   "Ana dağıtım panoları",
+   "Planlı bakım duruşları"
+  ]
+ },
+ {
+  "code": "BD-D14",
+  "name": "Evrensel Çok Fonksiyonlu Minyatür Devre Kesici Kilitleme Cihazı",
+  "summary": "BD-D14 çok fonksiyonlu MCB kilidi: küçük-orta boy MCCB ve ISO/DIN minyatür kesicilere başparmak vidasıyla takılır, ≤7 mm kelepçe uyumlu.",
+  "intro": [
+   "BD-D14, küçük ve orta boy kalıplı kasa devre kesicileri (MCCB) ile ISO/DIN tipi minyatür devre kesicilerin kilitlenmesinde kullanılan çok fonksiyonlu bir cihazdır. Takviyeli mühendislik naylonu (PA) gövde ve krom kaplı pirinç vidadan oluşur; kesici kolunu sabitleyerek bakım süresince enerjinin geri gelmesini engeller.",
+   "Kadran tipi başparmak vidası sayesinde montaj aletsiz yapılır. Kilitleme sonrasında kadrana erişim kapandığı için cihaz izinsiz sökülemez. Asma kilit hem dikey hem yatay takılabilir ve kelepçe çapı 7 mm'ye kadar olan kilitleri kabul eder. Kompakt yapısı bitişik kesicilere yan yana montaja izin verir; paslanmaz çelik etiket plakası isteğe göre özelleştirilebilir."
+  ],
+  "feats": [
+   [
+    "Geniş Uyum",
+    "Küçük-orta boy MCCB'ler ve ISO/DIN minyatür kesicilerde kullanılır."
+   ],
+   [
+    "Kadran Vidası",
+    "Başparmakla çevrilen vida sayesinde alet gerekmez."
+   ],
+   [
+    "Sökülme Koruması",
+    "Kilit takıldığında kadrana erişim engellenir."
+   ],
+   [
+    "Çift Yönlü Kilit",
+    "Asma kilit dikey veya yatay konumda uygulanabilir."
+   ],
+   [
+    "Yan Yana Montaj",
+    "Kompakt tasarım bitişik kesicilere birlikte takılmayı sağlar."
+   ],
+   [
+    "Malzeme",
+    "Takviyeli naylon PA gövde krom kaplı pirinç vidayla birleşir."
+   ]
+  ],
+  "usage": [
+   "Küçük-orta boy MCCB'ler",
+   "ISO/DIN minyatür kesiciler",
+   "Yoğun pano dizilimleri",
+   "Bakım güvenliği"
+  ]
+ },
+ {
+  "code": "BD-D15/D15W",
+  "name": "Sıkı Kavramalı Devre Kesici Kilitleme Cihazı",
+  "summary": "BD-D15/D15W sıkı kavramalı kesici kilidi: sap genişliği 20 mm'ye kadar orta boy kesicilerde kullanılır; pedallı ve pedalsız iki model vardır.",
+  "intro": [
+   "BD-D15 ve BD-D15W, sap genişliği 20 mm'yi aşmayan orta boy devre kesiciler için geliştirilmiş, kelepçe tipi kilitleme cihazlarıdır. İki model arasındaki fark kesicinin alt kısmına göre belirlenir: BD-D15 alt kısmı pedallı, BD-D15W ise pedalsız kesiciler için kullanılır. Her ikisi de kesici kolunu kavrayarak kazara çalıştırmayı önler.",
+   "Takviyeli naylon PA gövde, krom kaplı pirinç vida ve U şeklindeki paslanmaz çelik uçlarla birleşir; bu uçlar kilitleme sonrası salınım ve gevşemeyi önler. Kavisli bıçak ve katlanabilir yapı kola sıkı tutunur. Büyük tırtıklı başparmak vidası aletsiz montaj sağlar. 7 mm'ye kadar kelepçe çaplı asma kilitle MCCB sistemlerinde kişisel kilitleme uygulanır."
+  ],
+  "feats": [
+   [
+    "İki Model",
+    "BD-D15 pedallı, BD-D15W pedalsız orta boy kesiciler içindir."
+   ],
+   [
+    "Paslanmaz U Uçlar",
+    "Kilitlemeden sonra cihazın sallanmasını ve gevşemesini önler."
+   ],
+   [
+    "Kavisli Bıçak",
+    "Katlanabilir yapıyla birlikte kesici kolunu sıkıca kavrar."
+   ],
+   [
+    "Tırtıklı Vida",
+    "Büyük başparmak vidası montajı alet kullanmadan yapmayı sağlar."
+   ],
+   [
+    "Sap Uyumu",
+    "Sap genişliği 20 mm'ye kadar olan farklı kol şekillerine uyar."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kelepçe çapı 7 mm'ye kadar olan emniyet asma kilitleriyle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Orta boy devre kesiciler",
+   "MCCB sistemleri",
+   "Elektrik panoları",
+   "Bakım ve onarım"
+  ]
+ },
+ {
+  "code": "BD-D16/D16L",
+  "name": "Büyük Boy Kavramalı Sıkı Devre Kesici Kilitleme Cihazı",
+  "summary": "BD-D16/D16L büyük boy kavramalı kesici kilidi: 480/600 V büyük saplı devre kesicilerde aletsiz kullanılır, ≤7 mm kelepçeli asma kilit alır.",
+  "intro": [
+   "BD-D16 ve BD-D16L, 480/600 V büyük boy saplı devre kesicilerin kolunu sıkıca kavrayarak kilitlemek için tasarlanmış cihazlardır. BD-D16 orta boy saplara yönelikken, BD-D16L daha büyük saplar için uzun versiyon olarak üretilir. Amaç, endüstriyel elektrik panolarında kesicinin kazara devreye alınmasını önlemek ve enerji izolasyonunu sağlamaktır.",
+   "Takviyeli naylon gövde, krom kaplı pirinç vida ve paslanmaz çelik U şeklinde kilitleme parçasıyla birleşir. Katlanabilir yapısı farklı kol boyutlarına uyum sağlar; büyük tırtıklı başparmak vidası montajı alet gerektirmeden yapmayı mümkün kılar. Kimyasala dayanıklı yapıdaki cihaz, 7 mm'ye kadar kelepçe çaplı bir asma kilitle kilitlenir."
+  ],
+  "feats": [
+   [
+    "İki Uzunluk",
+    "BD-D16 orta boy, BD-D16L daha büyük saplı kesiciler içindir."
+   ],
+   [
+    "Paslanmaz Parça",
+    "U şeklindeki paslanmaz çelik kilitleme parçası sıkı tutuş sağlar."
+   ],
+   [
+    "Aletsiz Montaj",
+    "Büyük tırtıklı başparmak vidasıyla elle sabitlenir."
+   ],
+   [
+    "Katlanabilir Yapı",
+    "Farklı kol boyutlarına uyum sağlar."
+   ],
+   [
+    "Kimyasal Dayanım",
+    "Dayanıklı gövde endüstriyel ortamlara uygundur."
+   ]
+  ],
+  "usage": [
+   "480/600 V kesiciler",
+   "Büyük saplı şalterler",
+   "Endüstriyel elektrik panoları",
+   "Enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-D17",
+  "name": "Çift Yönlü Orta Devre Kesici Kilitleme Cihazı",
+  "summary": "BD-D17 çift yönlü devre kesici kilidi: 7,5-12 mm sap genişliğindeki 120 V ve 240 V kesicilerde kullanılır, döküm alüminyum gövdelidir.",
+  "intro": [
+   "BD-D17, küçük ve orta boy devre kesicilerin kolunu iki yönden kavrayarak kilitleyen bir cihazdır. 7,5 mm ile 12 mm arasındaki şalter sap genişliklerine ve 120 V ile 240 V evrensel şalter kolu yüksekliklerine uygundur. Bakım ve onarım sırasında enerji kaynağının yetkisiz veya kazara devreye alınmasını engeller.",
+   "Kilit gövdesi döküm alüminyum alaşım, naylon ve çelikten oluşur; yüzeyi toz boya püskürtme ile kaplanmıştır. Paslanmaz çelik başparmak vidası montajı aletsiz yapar, katlanabilir ve ayarlanabilir kol kesici üzerine sıkı tutunur. Kompakt ve taşınabilir yapısıyla endüstriyel panolarda geçici izolasyon noktası oluşturmak için kullanılabilir."
+  ],
+  "feats": [
+   [
+    "İki Yönlü Kavrama",
+    "Kesici kolunu iki yönden tutarak sağlam bir kilitleme sağlar."
+   ],
+   [
+    "Metal Gövde",
+    "Döküm alüminyum alaşım gövde toz boya ile kaplanmıştır."
+   ],
+   [
+    "Paslanmaz Vida",
+    "Başparmak vidasıyla alet kullanmadan sabitlenir."
+   ],
+   [
+    "Sap Uyumu",
+    "7,5-12 mm sap genişliğindeki kesicilere uyar."
+   ],
+   [
+    "Ayarlanabilir Kol",
+    "Katlanabilir yapı farklı kol yüksekliklerine uyum sağlar."
+   ]
+  ],
+  "usage": [
+   "120 V ve 240 V kesiciler",
+   "Küçük-orta boy şalterler",
+   "Geçici izolasyon",
+   "Zorlu endüstriyel ortamlar"
+  ]
+ },
+ {
+  "code": "BD-D2394",
+  "name": "Minyatür Devre Kesici Kilitleme Cihazı",
+  "summary": "BD-D2394 minyatür devre kesici kilidi: ISO/DIN MCB'lere kadran vidasıyla aletsiz takılır, asma kilit yatay veya dikey uygulanabilir.",
+  "intro": [
+   "BD-D2394, ISO/DIN standardındaki minyatür devre kesicilerin kilitlenmesi için kullanılan kompakt bir cihazdır. Dünya genelinde yaygın olan bu tip kesicilerin hemen hepsine uyar ve kesici kolunu kapalı konumda tutarak bakım sırasında enerji kaynağının devreye girmesini engeller.",
+   "Başparmakla çevrilen kadran vidası sayesinde montaj alet gerektirmez. Cihaz kilitlendiğinde kadrana erişim engellendiği için yetkisiz kişilerce sökülemez. Asma kilit yatay veya dikey olarak takılabilir; kimyasallara dayanıklı termoplastik gövde, bitişik kesicilere yan yana montaja imkân tanır. Böylece aynı pano içinde birden fazla kesici aynı anda izole edilebilir."
+  ],
+  "feats": [
+   [
+    "ISO/DIN Uyumu",
+    "Yaygın minyatür ISO/DIN devre kesicilerin hemen hepsine uyar."
+   ],
+   [
+    "Kadran Vidası",
+    "Başparmakla çevrilen vida sayesinde montaj aletsiz yapılır."
+   ],
+   [
+    "Sökme Koruması",
+    "Kilitli konumda kadrana erişim kapanır."
+   ],
+   [
+    "Esnek Kilit Yönü",
+    "Asma kilit yatay veya dikey konumda takılabilir."
+   ],
+   [
+    "Yan Yana Montaj",
+    "Bitişik kesicilere birlikte uygulanabilir."
+   ]
+  ],
+  "usage": [
+   "ISO/DIN minyatür kesiciler",
+   "Çoklu kesici izolasyonu",
+   "Dağıtım panoları",
+   "Periyodik bakım"
+  ]
+ },
+ {
+  "code": "BD-D301P",
+  "name": "Tek Kademeli Minyatür Devre Kesici Kilitleme Ekipmanı",
+  "summary": "BD-D301P tek kademeli MCB kilidi: 2 ve 3 kutuplu bağlantı çubuklu kesicilerde kullanılır, şeffaf kapaklı, yapıştırıcı tabanlı ve aletsizdir.",
+  "intro": [
+   "BD-D301P, bağlantı çubuğu kullanan iki ve üç kutuplu minyatür devre kesicileri tek kademede izole etmek için tasarlanmış bir kilitleme kapağıdır. Yapıştırıcı tabanı pano yüzeyine sabitlenir ve şeffaf kapak kapatıldığında kesici koluna erişim engellenir.",
+   "Cam elyaf dolgulu polikarbonat (PC) gövde şeffaf olduğu için kesicinin konumu kapak açılmadan görülebilir; bu, izolasyonun doğrulanmasını kolaylaştırır. Siyah tabanlı kapak, 7 mm'ye kadar kelepçe çaplı asma kilitler ve çoklu kilitleme aparatlarıyla kullanılabilir, dolayısıyla grup kilitleme uygulamalarına uygundur. Pakette yer alan paslanmaz çelik plakaya lazerle logo kazınabilir."
+  ],
+  "feats": [
+   [
+    "Bağlantı Çubuğu",
+    "Çubuklu iki ve üç kutuplu MCB'lerin çoğuyla uyumludur."
+   ],
+   [
+    "Şeffaf Kapak",
+    "Kesicinin konumu kapağı açmadan izlenebilir."
+   ],
+   [
+    "Yapıştırıcı Taban",
+    "Alet kullanmadan pano yüzeyine sabitlenir."
+   ],
+   [
+    "Cam Dolgulu PC",
+    "Dayanıklı polikarbonat gövde uzun süreli kullanım sağlar."
+   ],
+   [
+    "Çoklu Kilit",
+    "7 mm'ye kadar kelepçeli kilitler ve çoklu kilitleme aparatlarıyla çalışır."
+   ],
+   [
+    "Logo Plakası",
+    "Paslanmaz çelik plakaya lazer kazıma yapılabilir."
+   ]
+  ],
+  "usage": [
+   "2 ve 3 kutuplu MCB'ler",
+   "Kalıcı kilitleme noktaları",
+   "Grup kilitleme",
+   "Pano izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-D46",
+  "name": "Endüstriyel Su Geçirmez Fiş Kilidi",
+  "summary": "BD-D46 endüstriyel su geçirmez fiş kilidi: PC malzemeden üretilir, 16-125 A fişlerin prize takılmasını engelleyerek kilitleme sağlar.",
+  "intro": [
+   "BD-D46, endüstriyel su geçirmez fişlerin kilitlenmesi için kullanılan, PC (polikarbonat) malzemeden üretilmiş bir emniyet kilididir. Fişin uç çıkıntısına takılır ve fişin endüstriyel prize girmesini fiziksel olarak engeller.",
+   "16 ile 125 Amper arasındaki endüstriyel su geçirmez fiş çeşitlerine uygun olması, aynı ekipmanla farklı güçteki makine ve cihazların kilitlenmesine olanak tanır. Fişi prizden çekilmiş bir ekipmanın bakım bitmeden yeniden bağlanmasını önlediği için, fişli cihazlarda LOTO prosedürünün kilitleme adımında kullanılabilir. Kilit takıldıktan sonra fişe bir uyarı etiketi asılarak bakımın sürdüğü açıkça belirtilebilir."
+  ],
+  "feats": [
+   [
+    "PC Malzeme",
+    "Plastik PC (polikarbonat) malzemeden üretilmiştir."
+   ],
+   [
+    "Fiş Ucuna Montaj",
+    "Endüstriyel fişlerin uç çıkıntısına takılarak kullanılır."
+   ],
+   [
+    "Prize Girişi Engeller",
+    "Fişin endüstriyel prize takılmasını önler."
+   ],
+   [
+    "16-125 A Aralığı",
+    "Bu akım aralığındaki su geçirmez fiş çeşitlerine uygundur."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel fişler",
+   "Fişli makine bakımı",
+   "Taşınabilir ekipmanlar",
+   "Şantiye elektrik dağıtımı"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "PC (polikarbonat)"
+   ],
+   [
+    "Uygulama",
+    "Endüstriyel su geçirmez fişler"
+   ],
+   [
+    "Uyumlu Akım Aralığı",
+    "16–125 A"
+   ],
+   [
+    "Montaj",
+    "Fişin uç çıkıntısına takılarak"
+   ]
+  ]
+ },
+ {
+  "code": "BD-BVL31",
+  "name": "Çekme Kulplu Kelebek Vana Kilitleme Ekipmanı",
+  "summary": "BD-BVL31 çekme kollu kelebek vana kilidi: ½-8 inç vanalara uygun ABS gövdeli, 3 asma kilide kadar grup kilitleme yapılabilen ekipman.",
+  "intro": [
+   "BD-BVL31, çekme kollu kelebek vanaların kolunu sabitleyerek akışkan hattını güvenceye alan bir kilitleme ekipmanıdır. ½ inç ile 8 inç arasındaki vanalara uygundur ve kolu tam kapalı, kısmen açık veya tam açık konumda tutabilir. Dönmeyi önleyici yapısı kolun yanlışlıkla hareket etmesine izin vermez.",
+   "ABS plastikten tek parça olarak üretildiği için kullanımda ve depolamada parça kaybı yaşanmaz. Üzerine üç adede kadar asma kilit takılabildiğinden, aynı vana üzerinde çalışan birden fazla kişi kendi kilidini ekleyerek grup kilitleme yapabilir. Gıda, içecek, su, kimya ve ilaç tesisleri tipik uygulama alanlarıdır."
+  ],
+  "feats": [
+   [
+    "Vana Aralığı",
+    "½ inç ile 8 inç arasındaki çekme kollu vanalara uygundur."
+   ],
+   [
+    "Dönme Önleme",
+    "Vana kolunun istemeden hareket etmesini engeller."
+   ],
+   [
+    "Üç Konum",
+    "Kolu tam kapalı, kısmen açık veya tam açık tutabilir."
+   ],
+   [
+    "Tek Parça ABS",
+    "Parçalar bir arada kaldığından kayıp riski azalır."
+   ],
+   [
+    "Çoklu Kilit",
+    "Üç asma kilide kadar bağlanarak grup kilitleme yapılabilir."
+   ]
+  ],
+  "usage": [
+   "Gıda ve içecek tesisleri",
+   "Su tesisatları",
+   "Kimya ve ilaç hatları",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-BVL51",
+  "name": "Ayarlanabilir Büyük Kelebek Vana Kilitleme Ekipmanı",
+  "summary": "BD-BVL51 ayarlanabilir kelebek vana kilidi: ABS gövdeli, -20°C ile +90°C arası dayanıklı, 35 mm sıhhi kelebek vanalara uygun kilitleme ekipmanı.",
+  "intro": [
+   "BD-BVL51, farklı kol uzunluklarına ayarlanabilen büyük tip bir kelebek vana kilitleme ekipmanıdır. Vana kolunu kapsayarak hareket etmesini engeller ve bakım sırasında hattın yanlışlıkla açılmasının önüne geçer. 35 mm çaplı sıhhi kelebek vanalara uygundur.",
+   "ABS mühendislik plastiğinden üretilen gövde, -20°C ile +90°C arasındaki sıcaklıklarda kullanılabilir. Ayarlanabilir yapısı sayesinde tek bir ekipmanla farklı vana kollarına uyum sağlanır ve montajı tek kişi tarafından rahatlıkla yapılabilir. Hijyen gerektiren gıda ve ilaç tesislerinin yanı sıra diğer endüstriyel sektörlerde de LOTO uygulamasının parçası olarak kullanılabilir."
+  ],
+  "feats": [
+   [
+    "Ayarlanabilir Gövde",
+    "Farklı kelebek vana kol uzunluklarına uyum sağlar."
+   ],
+   [
+    "Sıcaklık Aralığı",
+    "ABS gövde -20°C ile +90°C arasında kullanılabilir."
+   ],
+   [
+    "Sıhhi Vana Uyumu",
+    "35 mm çaplı sıhhi kelebek vanalara uygundur."
+   ],
+   [
+    "Tek Kişi Kullanımı",
+    "Montaj ve sökme işlemi tek kişi tarafından yapılabilir."
+   ]
+  ],
+  "usage": [
+   "Gıda üretim hatları",
+   "İlaç tesisleri",
+   "Sıhhi tesisat vanaları",
+   "Proses hatları bakımı"
+  ]
+ },
+ {
+  "code": "BD-F01",
+  "name": "Ayarlanabilir Küresel Vana Kilitleme",
+  "summary": "BD-F01 ayarlanabilir küresel vana kilidi: DN8-DN50 küresel vanalara uygun, PP gövdeli, 9 mm'ye kadar kiriş çaplı asma kilit alır.",
+  "intro": [
+   "BD-F01, DN8 ile DN50 arasındaki küresel vanaların kolunu kapalı konumda tutmak için kullanılan ayarlanabilir bir kilitleme ekipmanıdır. Vana kolunun üzerine yerleştirilir ve kolun döndürülmesini engelleyerek bakım sırasında hattın açılmasını önler.",
+   "Polipropilen (PP) gövdesi darbelere ve kimyasallara karşı dirençlidir, bu nedenle proses tesislerinde uzun süre kullanılabilir. Ayarlanabilir yapısı montajı hızlandırır. Kiriş çapı 9 mm'yi aşmayan güvenlik asma kilitleriyle kilitlenir; kilidin yanına bir uyarı etiketi eklenerek vana, LOTO prosedüründe kimin tarafından kapatıldığı belli olan bir izolasyon noktası haline gelir."
+  ],
+  "feats": [
+   [
+    "DN8-DN50",
+    "Bu çap aralığındaki küresel vanalar için uygundur."
+   ],
+   [
+    "PP Gövde",
+    "Polipropilen malzeme darbe ve kimyasallara dirençlidir."
+   ],
+   [
+    "Ayarlanabilir",
+    "Farklı vana kollarına hızlı ve pratik şekilde uyum sağlar."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kiriş çapı 9 mm'ye kadar olan asma kilitlerle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Küçük çaplı küresel vanalar",
+   "Proses hatları",
+   "Kimyasal tesisler",
+   "Vana izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-F01D",
+  "name": "Ayarlanabilir Küresel Vana Kilitleme",
+  "summary": "BD-F01D ayarlanabilir küresel vana kilidi: DN50-DN100 vanalara uygun, PP gövdeli, çıkarılabilir ek parçalı, ≤9 mm kiriş çaplı kilit alır.",
+  "intro": [
+   "BD-F01D, DN50 ile DN100 arasındaki küresel vanalarda kullanılan ayarlanabilir bir kilitleme ekipmanıdır. 1/2 inç (13 mm) ile 2 inç (64 mm) arasındaki vanalara ayarlanabilir ve kapalı bir küresel vananın yanlışlıkla açılmasını engeller.",
+   "Çıkarılabilir ek parçası sayesinde farklı vana sapı tasarımlarına ve boyutlarına uyum sağlar. Polipropilen (PP) gövde darbelere ve kimyasallara karşı dirençlidir; standart renk kırmızıdır, diğer renkler sipariş üzerine sağlanır. Kiriş çapı 9 mm'ye kadar olan güvenlik asma kilitleriyle kilitlenerek vana, bakım boyunca kişisel kilitleme altında tutulur."
+  ],
+  "feats": [
+   [
+    "DN50-DN100",
+    "Bu çap aralığındaki küresel vanalara uygundur."
+   ],
+   [
+    "Ayar Aralığı",
+    "1/2 inç (13 mm) ile 2 inç (64 mm) arasındaki vanalara ayarlanır."
+   ],
+   [
+    "Ek Parça",
+    "Çıkarılabilir parça farklı sap tasarımlarına uyum sağlar."
+   ],
+   [
+    "PP Gövde",
+    "Polipropilen malzeme darbe ve kimyasallara dirençlidir."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kiriş çapı 9 mm'ye kadar olan asma kilitlerle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Orta çaplı küresel vanalar",
+   "Su ve proses hatları",
+   "Kimya tesisleri",
+   "Kişisel vana kilitleme"
+  ]
+ },
+ {
+  "code": "BD-F02",
+  "name": "Büyük Boy Ayarlanabilir Küresel Vana Kilitleme",
+  "summary": "BD-F02 büyük boy ayarlanabilir küresel vana kilidi: DN50-DN200 vanalarda kullanılır, polipropilen gövdeli, ≤9 mm kiriş çaplı kilitle uyumlu.",
+  "intro": [
+   "BD-F02, büyük çaplı küresel vanaların kapalı konumda sabitlenmesi için geliştirilmiş ayarlanabilir bir kilitleme ekipmanıdır. DN50 ile DN200 arasındaki vanalarda kullanılabilir ve vana kolunu kapsayarak hattın yetkisiz kişilerce açılmasını engeller.",
+   "Dayanıklı polipropilen (PP) gövdesi darbelere ve kimyasallara karşı dirençli olduğu için endüstriyel ortamlarda uzun ömürlüdür. Ayarlanabilir yapısı, farklı büyüklükteki vanalarda tek bir model kullanılmasına imkân verir. Kiriş çapı 9 mm'ye kadar olan güvenlik asma kilidi takıldığında, büyük hatlardaki vana izolasyonu LOTO prosedürüne uygun biçimde kilit altına alınır."
+  ],
+  "feats": [
+   [
+    "DN50-DN200",
+    "Büyük çaplı küresel vanalar için uygundur."
+   ],
+   [
+    "Ayarlanabilir Yapı",
+    "Farklı büyüklükteki vanalara tek modelle uyum sağlar."
+   ],
+   [
+    "PP Gövde",
+    "Polipropilen darbe ve kimyasallara karşı dirençlidir."
+   ],
+   [
+    "Kapalı Konum",
+    "Vanayı kapalı konumda sabitleyerek yetkisiz açılmayı önler."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kiriş çapı 9 mm'ye kadar olan asma kilitlerle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Büyük boy küresel vanalar",
+   "Ana besleme hatları",
+   "Endüstriyel tesisler",
+   "Vana izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-F03/F04",
+  "name": "Metal Küresel Vana Kilitleme Ekipmanı",
+  "summary": "BD-F03/F04 metal küresel vana kilidi: 31-76 mm (1-1/4\"-3\") çeyrek tur vanaları kapalı tutar, toz boyalı çelik sac gövdelidir.",
+  "intro": [
+   "BD-F03 ve BD-F04, manuel çeyrek tur küresel vanaları kapalı konumda kilitlemek için kullanılan metal kilitleme ekipmanlarıdır. 1-1/4 inç (31 mm) ile 3 inç (76 mm) arasındaki vana çaplarına uygundur ve vana kolunun döndürülmesini engelleyerek kazara açılmayı önler.",
+   "Gövde dayanıklı çelik sacdan üretilir ve yüksek sıcaklıkta püskürtme kaplama ile paslanmaya karşı korunur; bu sayede plastik ekipmanların tercih edilmediği zorlu ortamlarda kullanılabilir. Tek parça tasarımı vananın hızlı ve güvenilir biçimde kilitlenmesini sağlar. Asma kilit ve etiket takılarak vana, LOTO prosedüründe izole edilmiş bir enerji noktası olarak işaretlenir."
+  ],
+  "feats": [
+   [
+    "Çelik Sac Gövde",
+    "Yüksek sıcaklıkta püskürtme kaplama paslanmaya karşı koruma sağlar."
+   ],
+   [
+    "Vana Aralığı",
+    "1-1/4 inç (31 mm) ile 3 inç (76 mm) arasındaki vanalara uyar."
+   ],
+   [
+    "Tek Parça",
+    "Vanayı kapalı konumda hızlı ve güvenilir şekilde sabitler."
+   ],
+   [
+    "Çeyrek Tur Uyumu",
+    "Manuel çeyrek tur küresel vana kollarıyla kullanılır."
+   ]
+  ],
+  "usage": [
+   "Çeyrek tur küresel vanalar",
+   "Zorlu endüstriyel ortamlar",
+   "Buhar ve proses hatları",
+   "Vana izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-F05",
+  "name": "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı",
+  "summary": "BD-F05 ayarlanabilir küresel vana kilidi: 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki küresel vanaları kilitlemek için kullanılır.",
+  "intro": [
+   "BD-F05, küresel vanaların kolunu sabitleyerek vananın konumunun değiştirilmesini engelleyen ayarlanabilir bir kilitleme ekipmanıdır. 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vanalara uygundur.",
+   "Ayarlanabilir tasarımı sayesinde bu aralıktaki farklı boyutlardaki vanalar aynı ekipmanla kilitlenebilir; bu da tesiste bulundurulması gereken vana kilidi çeşidini azaltır. Ekipman, bakım öncesinde vanayı izole etmek ve asma kilitle güvenceye almak amacıyla LOTO prosedürünün vana kilitleme adımında kullanılabilir. Asma kilidin yanına takılan bir etiket, vanayı kimin hangi iş için kapattığını açıkça gösterir."
+  ],
+  "feats": [
+   [
+    "Ayarlanabilir Tasarım",
+    "Farklı boyuttaki küresel vanalara uyum sağlar."
+   ],
+   [
+    "Vana Aralığı",
+    "1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vanalara uygundur."
+   ],
+   [
+    "Kol Sabitleme",
+    "Vana kolunun döndürülmesini engelleyerek izolasyonu korur."
+   ]
+  ],
+  "usage": [
+   "Küresel vanalar",
+   "Proses hatları",
+   "Bakım öncesi izolasyon",
+   "Vana kilitleme istasyonları"
+  ],
+  "specs": [
+   [
+    "Uyumlu Vana Ölçüsü",
+    "1/2 inç (13 mm) – 2 3/4 inç (70 mm)"
+   ],
+   [
+    "Tasarım",
+    "Ayarlanabilir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-F05A",
+  "name": "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı",
+  "summary": "BD-F05A ayarlanabilir küresel vana kilidi: DN8-DN50 vanalara ve 13-70 mm saplara uyar, arka dişli parçalarla yükseltilmiş kolları da kilitler.",
+  "intro": [
+   "BD-F05A, DN8 ile DN50 arasındaki küresel vanalarda kullanılan ayarlanabilir bir kilitleme ekipmanıdır. Genişliği sağa ve sola ayarlanabildiği için 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vana saplarına uyar ve manuel çeyrek tur kolların yetkisiz şekilde açılmasını önler.",
+   "Modeli benzerlerinden ayıran özellik, yardımcı arka dişli parçalarıdır. Bu parçalar, yükseltilmiş veya uzatılmış küresel vana kollarının da güvenli biçimde kilitlenmesine destek olur. Dayanıklı mühendislik plastiğinden üretilen gövde, asma kilit ve etiketle tamamlandığında vananın LOTO prosedürü boyunca kapalı kalmasını sağlar."
+  ],
+  "feats": [
+   [
+    "DN8-DN50",
+    "Bu aralıktaki küresel vanalar için uygundur."
+   ],
+   [
+    "Sap Uyumu",
+    "13 mm ile 70 mm arasındaki vana saplarına ayarlanır."
+   ],
+   [
+    "Arka Dişli Parça",
+    "Yükseltilmiş ve uzatılmış vana kollarının kilitlenmesine destek olur."
+   ],
+   [
+    "İki Yönlü Ayar",
+    "Genişlik sağa ve sola ayarlanarak farklı vanalara uyum sağlar."
+   ],
+   [
+    "Açılma Önleme",
+    "Çeyrek tur vana kollarının yetkisiz açılmasını engeller."
+   ]
+  ],
+  "usage": [
+   "Küresel vanalar",
+   "Uzatılmış vana kolları",
+   "Endüstriyel tesisler",
+   "Vana izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-F06",
+  "name": "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı",
+  "summary": "BD-F06 ayarlanabilir küresel vana kilitleme ekipmanı: 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vanalara uyum sağlayan kilitleme çözümü.",
+  "intro": [
+   "BD-F06, küresel vanaların kolunu belirli bir konumda tutarak vananın yetkisiz kişilerce açılıp kapatılmasını önleyen bir kilitleme ekipmanıdır. Ayarlanabilir yapısı sayesinde 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vanalara uygulanabilir.",
+   "Tek bir ekipmanın bu ölçü aralığındaki birden çok vanaya uyması, bakım ekiplerinin sahada farklı boyutlar için ayrı kilit taşıma ihtiyacını azaltır. Vana kapatıldıktan sonra ekipman takılıp asma kilitle kilitlendiğinde, hat LOTO prosedüründe belirlenen izolasyon noktası olarak güvence altına alınmış olur."
+  ],
+  "feats": [
+   [
+    "Ayar Aralığı",
+    "1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki vanalara uyar."
+   ],
+   [
+    "Tek Model",
+    "Bu ölçü aralığındaki farklı vanalarda aynı ekipman kullanılabilir."
+   ],
+   [
+    "Konum Kilitleme",
+    "Vana kolunun hareket etmesini engelleyerek hattı izole tutar."
+   ]
+  ],
+  "usage": [
+   "Küresel vanalar",
+   "Akışkan hatları",
+   "Bakım ekipleri",
+   "Vana izolasyonu"
+  ],
+  "specs": [
+   [
+    "Uyumlu Vana Ölçüsü",
+    "1/2 inç (13 mm) – 2 3/4 inç (70 mm)"
+   ],
+   [
+    "Tasarım",
+    "Ayarlanabilir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-F06A",
+  "name": "Küresel Vana Kilitleme Ekipmanı",
+  "summary": "BD-F06A küresel vana kilidi: DN50-DN70 çift silindirli ve yükseltilmiş vanalarda kullanılır, yüksek sıcaklığa dayanıklı PP gövdelidir.",
+  "intro": [
+   "BD-F06A, çift silindirli ve yükseltilmiş küresel vanaların kilitlenmesi için tasarlanmış bir ekipmandır. DN50 ile DN70 arasındaki vanalara uygundur ve 1/2 inç (13 mm) ile 2 3/4 inç (70 mm) arasındaki sap genişliklerine ayarlanabilir. Manuel çeyrek tur vana kollarının yetkisiz açılmasını engeller.",
+   "Gövdesi yüksek sıcaklığa dayanıklı, yüksek mukavemetli polipropilenden (PP) üretilir. Genişliği sağa ve sola ayarlanabildiği için farklı vana türlerine uyar. Farklı tipteki güvenlik asma kilitleriyle kullanılabilir; kilit ve etiket takıldıktan sonra vana, bakım süresince LOTO prosedürü kapsamında kapalı konumda kalır."
+  ],
+  "feats": [
+   [
+    "DN50-DN70",
+    "Bu çap aralığındaki küresel vanalar için uygundur."
+   ],
+   [
+    "Çift Silindir Uyumu",
+    "Çift silindirli ve yükseltilmiş vanalarda kullanılabilir."
+   ],
+   [
+    "Isıya Dayanıklı PP",
+    "Yüksek sıcaklığa dayanıklı, yüksek mukavemetli polipropilen gövde."
+   ],
+   [
+    "Sap Ayarı",
+    "13 mm ile 70 mm arasındaki sap genişliklerine sağa-sola ayarlanır."
+   ],
+   [
+    "Kilit Esnekliği",
+    "Farklı tipteki güvenlik asma kilitleriyle kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Çift silindirli vanalar",
+   "Yükseltilmiş küresel vanalar",
+   "Sıcak proses hatları",
+   "Endüstriyel tesisler"
+  ]
+ },
+ {
+  "code": "BD-F07",
+  "name": "Büyük Boy Ayarlanabilir Küresel Vana Kilitleme",
+  "summary": "BD-F07 büyük boy küresel vana kilidi: DN70-DN200 vanalara ve 73-215 mm saplara uyar, yüksek sıcaklığa dayanıklı polipropilen gövdelidir.",
+  "intro": [
+   "Büyük çaplı hatlarda kullanılan BD-F07, DN70 ile DN200 arasındaki küresel vanaların kilitlenmesi için tasarlanmıştır. 2 4/5 inç (73 mm) ile 8 1/2 inç (215 mm) arasındaki sap genişliklerine ayarlanabilir ve özellikle çift silindirli ile yükseltilmiş küresel vanalarda kullanılır.",
+   "Yüksek sıcaklığa dayanıklı, yüksek mukavemetli polipropilen (PP) gövde sıcak proses hatlarında da işlevini korur. Genişlik ayarı sağa ve sola yapılabildiği için farklı vana türlerine uyar. Farklı tipte güvenlik asma kilitleriyle kilitlenerek manuel çeyrek tur kolların yetkisiz açılmasını engeller ve büyük hatlardaki izolasyonu kilit altında tutar."
+  ],
+  "feats": [
+   [
+    "DN70-DN200",
+    "Büyük çaplı küresel vanalar için uygundur."
+   ],
+   [
+    "Geniş Sap Aralığı",
+    "73 mm ile 215 mm arasındaki sap genişliklerine ayarlanır."
+   ],
+   [
+    "Isıya Dayanıklı PP",
+    "Yüksek mukavemetli polipropilen gövde yüksek sıcaklığa dayanır."
+   ],
+   [
+    "Çift Silindir Uyumu",
+    "Çift silindirli ve yükseltilmiş vanalarda kullanılabilir."
+   ],
+   [
+    "Açılma Önleme",
+    "Çeyrek tur vana kollarının yetkisiz açılmasını engeller."
+   ]
+  ],
+  "usage": [
+   "Büyük çaplı küresel vanalar",
+   "Ana proses hatları",
+   "Sıcak akışkan hatları",
+   "Vana izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-F08",
+  "name": "Ayarlanabilir Flanşlı Küresel Vana Kilitleme",
+  "summary": "BD-F08 ayarlanabilir flanşlı küresel vana kilidi: DN8-DN125 vanalara ve 6,35-140 mm saplara uyar, PP gövdeli, ≤9 mm kiriş çaplı kilit alır.",
+  "intro": [
+   "BD-F08, flanşlı küresel vanaların kilitlenmesinde kullanılan ayarlanabilir bir ekipmandır. DN8 ile DN125 arasındaki geniş bir vana aralığına uygundur ve 1/4 inç (6,35 mm) ile 5 inç (140 mm) arasındaki sap genişliklerine ayarlanabilir.",
+   "Genişliğin sağa ve sola ayarlanabilmesi, farklı küresel vana türlerinde aynı ekipmanın kullanılmasını sağlar. Polipropilen (PP) gövde darbelere ve kimyasallara karşı dayanıklıdır. Kiriş çapı 9 mm'ye kadar olan güvenlik asma kilitleriyle kilitlenir; böylece flanşlı hatlardaki vanalar bakım süresince LOTO prosedürüne uygun şekilde kapalı tutulur."
+  ],
+  "feats": [
+   [
+    "DN8-DN125",
+    "Bu aralıktaki flanşlı küresel vanalar için uygundur."
+   ],
+   [
+    "Geniş Ayar",
+    "6,35 mm ile 140 mm arasındaki sap genişliklerine uyum sağlar."
+   ],
+   [
+    "İki Yönlü Ayar",
+    "Genişlik sağa ve sola ayarlanarak farklı vanalara uyar."
+   ],
+   [
+    "PP Gövde",
+    "Polipropilen malzeme darbe ve kimyasallara dayanıklıdır."
+   ],
+   [
+    "Kilit Uyumu",
+    "Kiriş çapı 9 mm'ye kadar olan asma kilitlerle kullanılır."
+   ]
+  ],
+  "usage": [
+   "Flanşlı küresel vanalar",
+   "Endüstriyel boru hatları",
+   "Kimya tesisleri",
+   "Vana izolasyonu"
+  ]
+ }
+]

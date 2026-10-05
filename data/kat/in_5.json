@@ -1,0 +1,642 @@
+{
+ "set": {
+  "sofilx_category_name": "LOTO Setleri",
+  "sofilx_short": "Kişisel, elektriksel, mekanik ve vana kilitleme için hazır setler.",
+  "source": {
+   "lead": "Eked Setleri, iş güvenliği için gerekli olan kilitleme ve etiketleme ekipmanlarının bir arada sunulduğu, taşınabilir veya sabit şekilde kullanılabilen pratik LOTO çözümleridir. Sahada hızlı ve organize müdahale imkânı sağlar.",
+   "chips": [
+    "Elektriksel, vana, mekanik setler",
+    "Bel çantalı ve istasyonlu",
+    "Mini kitlerden 80+ parçaya",
+    "Hazır kullanım"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Eked Setleri Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Fabrikalar"
+    ],
+    [
+     "li",
+     "Enerji üretim ve dağıtım tesisleri"
+    ],
+    [
+     "li",
+     "Bakım-onarım birimleri"
+    ],
+    [
+     "li",
+     "Otomotiv, petrokimya, metal işleme ve üretim tesisleri"
+    ],
+    [
+     "li",
+     "Elektrik, mekanik ve pnömatik sistemlerin bulunduğu tüm iş sahalarında"
+    ],
+    [
+     "p",
+     "kullanılarak, sahada hızlı erişim, düzenli kullanım ve güvenli izolasyon imkânı sunar. Özellikle birden fazla çalışanla yürütülen çalışmalarda LOTO sürecinin eksiksiz uygulanmasını sağlar."
+    ],
+    [
+     "h2",
+     "Eked Setleri"
+    ],
+    [
+     "p",
+     "Eked setleri, Lockout & Tagout (LOTO) uygulamaları için gerekli olan kilitleme ekipmanları, uyarı etiketleri, çoklandırıcılar ve asma kilitlerin taşınabilir bir çanta veya sabit bir istasyon içinde bir araya getirildiği hazır güvenlik kitleridir. Bu setler, bakım ve onarım işlemleri sırasında enerji kaynaklarının yetkisiz kullanımını önlemek, çalışan güvenliğini sağlamak ve iş kazalarını engellemek amacıyla kullanılır."
+    ],
+    [
+     "p",
+     "Set içeriği genellikle;"
+    ],
+    [
+     "p",
+     "Emniyet asma kilitleri, çoklandırıcılar, uyarı etiketleri, vanalar, fişler veya panolar için kilitleme aparatları, taşıma çantası veya istasyon paneli gibi organizasyon araçlarından oluşur."
+    ]
+   ],
+   "def": "Kime uygun?LOTO’ya yeni başlayanlar, saha teknisyenleri, bakım ekipleri ve tüm ihtiyacı tek seferde karşılamak isteyen işletmeler.",
+   "nedir_title": "EKED (LOTO) Seti Nedir?",
+   "nedir": [
+    "EKED seti, kilitleme ve etiketleme için gereken temel ekipmanların tek pakette sunulduğu hazır LOTO çözümüdür. Bir set genellikle emniyet asma kilitleri, çoklandırıcılar, şalter veya vana kilitleme cihazları, uyarı etiketleri ve bunları taşıyan bir çanta, kutu ya da istasyondan oluşur.",
+    "Setler, LOTO programına yeni başlayan işletmeler ve sahada hızlı müdahale etmesi gereken teknisyenler için en pratik yoldur: ürünleri tek tek seçmek gerekmez, uyumluluk sorunu yaşanmaz ve ekipman her zaman eksiksiz bir arada durur.",
+    "Sofilx LOTO; elektrikçiler için bel çantalı kitlerden, duvara asılabilen istasyonlu setlere, vana ve pnömatik setlerden gemilere uygun profesyonel setlere kadar 25’ten fazla EKED seti sunar."
+   ],
+   "cesitler_title": "EKED Seti Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Elektriksel LOTO setleri",
+     "text": "Şalter, MCB ve fiş kilitleriyle elektrik panolarına yönelik setler.",
+     "mods": [
+      "BD-PE-E010S",
+      "BD-EK-S1100VV",
+      "BD-EB-S10V"
+     ]
+    },
+    {
+     "title": "Bel çantalı ve mini kitler",
+     "text": "Elektrikçi ve teknisyenlerin üzerinde taşıyabileceği kompakt kitler.",
+     "mods": [
+      "BD-MN-U80",
+      "BD-EKM-L040",
+      "BD-M-E07"
+     ]
+    },
+    {
+     "title": "İstasyonlu setler",
+     "text": "Duvara asılabilen istasyonla birlikte dolu gelen setler.",
+     "mods": [
+      "BD-B1100S",
+      "BD-X07S",
+      "BD-X07UN"
+     ]
+    },
+    {
+     "title": "Vana ve pnömatik setler",
+     "text": "Vana, boru hattı ve basınçlı hava izolasyonu için setler.",
+     "mods": [
+      "BD-VN-02",
+      "BD-PS02S",
+      "BD-GKV-S500"
+     ]
+    },
+    {
+     "title": "Karma (elektrik + mekanik) setler",
+     "text": "Hem elektriksel hem mekanik noktaları kapsayan büyük setler.",
+     "mods": [
+      "BD-PR-U07",
+      "BD-ZS030C",
+      "BD-VK-U067S (gemi)"
+     ]
+    },
+    {
+     "title": "Grup ve kişisel setler",
+     "text": "Grup kilitleme kutusu veya kişisel güvenlik ekipmanlarıyla setler.",
+     "mods": [
+      "BD-8812S",
+      "BD-X02C"
+     ]
+    }
+   ],
+   "secim_intro": "Kimin, nerede ve hangi enerji kaynaklarında kullanacağına göre seti seçin.",
+   "secim_head": [
+    "Kullanıcı / ihtiyaç",
+    "Kapsam",
+    "Önerilen set",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Elektrikçi (tek kişi)",
+     "MCB, şalter, fiş",
+     "BD-MN-U80",
+     "Bel çantalı, kompakt"
+    ],
+    [
+     "Elektrik bakım ekibi",
+     "Geniş elektriksel",
+     "BD-PE-E010S",
+     "Çok çeşitli şalter kilidi"
+    ],
+    [
+     "Tesis geneli (sabit)",
+     "İstasyonlu",
+     "BD-B1100S",
+     "Duvara monte"
+    ],
+    [
+     "Mekanik bakım",
+     "Vana ve hatlar",
+     "BD-VN-02",
+     "Farklı vana tipleri"
+    ],
+    [
+     "Karma uygulamalar",
+     "Elektrik + mekanik",
+     "BD-PR-U07",
+     "Taşıma kutulu"
+    ],
+    [
+     "Gemi ve tersane",
+     "Denizcilik",
+     "BD-VK-U067S",
+     "Gemiye uygun içerik"
+    ]
+   ],
+   "secim_note": "Set içerikleri ve parça adetleri her setin kendi sayfasında listelenir. İçeriği ihtiyacınıza göre özelleştirebiliriz.",
+   "nasil_title": "Doğru EKED seti nasıl seçilir?",
+   "nasil": [
+    [
+     "Enerji kaynakları",
+     "Setin içeriği, tesisinizdeki şalter, vana ve fiş tiplerini kapsamalı."
+    ],
+    [
+     "Kullanıcı sayısı",
+     "Kişisel kit mi, ekip seti mi, tesis geneli istasyon mu gerektiğini belirleyin."
+    ],
+    [
+     "Taşıma şekli",
+     "Sahada hareket eden ekipler için çanta/kutu, sabit noktalar için istasyonlu set seçin."
+    ],
+    [
+     "Kilit adedi",
+     "Setteki kişisel kilit sayısının ekip büyüklüğüne yetip yetmediğini kontrol edin."
+    ],
+    [
+     "Genişletme",
+     "Set yetmezse eksik ürünleri kilit ve şalter kilidi kategorilerinden tamamlayın."
+    ]
+   ],
+   "kullanim_title": "Eked Setleri Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Elektrik bakım ekipleri",
+     "Pano ve şalter bakımlarında hızlı müdahale."
+    ],
+    [
+     "Fabrikalar",
+     "LOTO programına hızlı ve eksiksiz başlangıç."
+    ],
+    [
+     "Gemi ve tersaneler",
+     "Denizcilik ortamına uygun kapsamlı setler."
+    ],
+    [
+     "Servis ve taşeron firmalar",
+     "Farklı sahalarda taşınabilir LOTO çözümü."
+    ]
+   ],
+   "faq": [
+    [
+     "EKED seti mi almalıyım, ürünleri tek tek mi?",
+     "LOTO’ya yeni başlıyorsanız veya sahada hızlı bir çözüm istiyorsanız set daha pratiktir. Belirli bir noktaya özel ihtiyacınız varsa ürünleri tek tek seçmek daha ekonomik olabilir."
+    ],
+    [
+     "Eked Setleri fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel eked setleri fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Set içeriği değiştirilebilir mi?",
+     "Evet. Toplu siparişlerde set içeriğini tesisinizdeki şalter ve vana tiplerine göre özelleştirebiliriz."
+    ],
+    [
+     "Elektriksel set hangi şalterlere uyar?",
+     "Elektriksel setlerimiz yaygın MCB ve kompakt şalter tiplerine uygun farklı kilitleme cihazları içerir. Özel bir şalter tipiniz varsa fotoğraf göndererek uyumluluğu kontrol edebiliriz."
+    ],
+    [
+     "Setler eğitimle birlikte verilebilir mi?",
+     "Evet. Set tedarikinin yanında uygulamalı EKED/LOTO eğitimi ve danışmanlık hizmeti de sunuyoruz."
+    ],
+    [
+     "Parça adetleri nerede yazıyor?",
+     "Her setin kendi sayfasında “Set İçeriği” bölümünde parça adetleri ve toplam parça sayısı listelenir."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-8773D",
+    "3 Gözlü V Otomat Elektrikçi Loto Seti"
+   ],
+   [
+    "BD-8812S",
+    "Grup Loto Kutusu Seti"
+   ],
+   [
+    "BD-B1100S",
+    "Geniş Kapsamlı Duvara Asılabilen Loto İstasyon Seti"
+   ],
+   [
+    "BD-EB-S10V",
+    "Geniş Elektriksel Bel Çantası Loto Seti"
+   ],
+   [
+    "BD-EK-S1100VV",
+    "Geniş Kapsamlı Profesyonel Elektriksel Loto Seti"
+   ],
+   [
+    "BD-EKM-L040",
+    "Ekonomik Model Bel Çantalı Mini Loto Kiti"
+   ],
+   [
+    "BD-ES-M10C",
+    "Mini Kilitleme Seti"
+   ],
+   [
+    "BD-GKV-S500",
+    "Geniş Kapsamlı Profesyonel Mekaniksel Loto Seti"
+   ],
+   [
+    "BD-L1010BD",
+    "Elektriksel Kilitleme Seti"
+   ],
+   [
+    "BD-M-E07",
+    "Mini Elektriksel Loto Kiti"
+   ],
+   [
+    "BD-MN-U80",
+    "Mini Taşınabilir Elektriksel LOTO Kiti"
+   ],
+   [
+    "BD-MV-B105",
+    "Mini Universal Elektriksel Loto Kiti"
+   ],
+   [
+    "BD-PE-E010S",
+    "Profesyonel Geniş Kapsamlı Elektriksel LOTO Kiti"
+   ],
+   [
+    "BD-PE-E09S",
+    "Taşınabilir Ekonomik Model Elektriksel LOTO Kiti"
+   ],
+   [
+    "BD-PR-U07",
+    "Profesyonel Geniş Kapsamlı Büyük Loto Seti"
+   ],
+   [
+    "BD-PS02S",
+    "Pnömatik Kilitleme Seti"
+   ],
+   [
+    "BD-VK-U067S",
+    "Profesyonel Gemilere Uygun Loto Seti"
+   ],
+   [
+    "BD-VN-02",
+    "Geniş Kapsamlı Vana Kilitleme Seti"
+   ],
+   [
+    "BD-X02-ELK-SET",
+    "Geniş Kapsamlı Elektrikçi Loto Seti"
+   ],
+   [
+    "BD-X02C",
+    "Kişisel Güvenlik Kilitleme Seti"
+   ],
+   [
+    "BD-X07S",
+    "Metal LOTO İstasyon Seti"
+   ],
+   [
+    "BD-X07UN",
+    "Universal Kilitleme Seti"
+   ],
+   [
+    "BD-ZS030C",
+    "Taşınabilir Mixed Medium Boy Loto Seti"
+   ],
+   [
+    "BD-B1100",
+    "Duvara Asılabilen LOTO İstasyon Seti"
+   ],
+   [
+    "BD-8773Y",
+    "Büyük Kapasiteli Çift Katmanlı Plastik Kilitleme Alet Kiti"
+   ],
+   [
+    "BD-ELK2394S",
+    "Geniş Kapsamlı Elektriksel Kilitleme Seti"
+   ],
+   [
+    "BD-ELS-10S",
+    "Ekonomik Elektrikçi Üniversal LOTO Seti"
+   ]
+  ]
+ },
+ "etiket": {
+  "sofilx_category_name": "Tehlike Uyarı Etiketleri",
+  "sofilx_short": "Kilitleme noktalarını işaretleyen dayanıklı uyarı etiketleri.",
+  "source": {
+   "lead": "Eked uyarı etiketleri, enerji izolasyonu sırasında ekipmanın kim tarafından ve neden kilitlendiğini belirtmek için kullanılan, üzerinde yazılabilir alan bulunan güvenlik etiketleridir. LOTO prosedürlerinde bilgi ve uyarı amaçlı kullanılır.",
+   "chips": [
+    "Türkçe uyarı metinleri",
+    "Yazılabilir alanlar",
+    "Askılı modeller",
+    "İskele etiketleri (Scafftag)"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Eked Uyarı Etiketi Nerelerde Kullanılır?"
+    ],
+    [
+     "p",
+     "Eked uyarı etiketleri, aşağıdaki alanlarda enerji izolasyonu ve bakım güvenliği sağlamak amacıyla kullanılır:"
+    ],
+    [
+     "li",
+     "Elektrik panoları"
+    ],
+    [
+     "li",
+     "Makine ve ekipman bakım alanları"
+    ],
+    [
+     "li",
+     "Vanalar ve basınçlı sistemler"
+    ],
+    [
+     "li",
+     "Endüstriyel üretim hatları"
+    ],
+    [
+     "li",
+     "Enerji kesme noktaları"
+    ],
+    [
+     "li",
+     "Fabrikalar, atölyeler, enerji santralleri"
+    ],
+    [
+     "p",
+     "Bu etiketler, kilitleme cihazlarıyla birlikte veya ayrı olarak kullanılarak, iş güvenliği prosedürlerinin şeffaf ve etkili bir şekilde uygulanmasını sağlar."
+    ],
+    [
+     "h2",
+     "Eked Uyarı Etiketi"
+    ],
+    [
+     "p",
+     "Eked uyarı etiketi, iş sağlığı ve güvenliği uygulamalarında kullanılan, özellikle Lockout & Tagout (LOTO) prosedürlerinin önemli bir parçası olan bilgilendirme ve uyarı amaçlı güvenlik etiketidir. Bu etiketler, bir ekipman ya da enerji kaynağının neden kilitlendiğini, kim tarafından işlem yapıldığını ve ne zaman kilitlendiğini belirtmek üzere tasarlanmıştır."
+    ],
+    [
+     "p",
+     "Etiket üzerinde genellikle çalışanın adı, departmanı, tarih, iletişim bilgisi ve özel notlar gibi bilgilerin yazılabileceği alanlar bulunur. Dayanıklı yapısı sayesinde iç ve dış ortamlarda kullanılabilir; yırtılmaya, suya, yağa ve kimyasallara karşı dirençlidir."
+    ]
+   ],
+   "def": "UnutmayınEtiket tek başına kilidin yerini tutmaz; kilitlenebilen her noktada kilit + etiket birlikte kullanılır.",
+   "nedir_title": "EKED Uyarı Etiketi Nedir?",
+   "nedir": [
+    "EKED uyarı etiketi, kilitleme yapılan noktaya asılan ve enerjinin neden, kim tarafından ve ne zaman kesildiğini gösteren güvenlik etiketidir. LOTO’daki “tagout” (etiketleme) adımının karşılığıdır; kilit fiziksel engeli, etiket ise bilgiyi sağlar.",
+    "Etiket üzerinde genellikle kilitleyen kişinin adı, departmanı, tarih ve işlemin nedeni yazılır. Böylece sahadaki herkes, ekipmanın neden çalıştırılmaması gerektiğini ve kime danışması gerektiğini anında öğrenir.",
+    "Sofilx LOTO; “Tamir Var Şalteri Açmayınız”, “Dikkat Bakım Var Çalıştırma”, “Yetkili Harici Açma Kapamak Yasaktır” gibi Türkçe uyarı metinli askılı etiketler, kilitleme bilgi etiketleri ve iskele güvenliği için Scafftag etiketleri sunar."
+   ],
+   "cesitler_title": "EKED Uyarı Etiketi Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Bakım / tamir uyarı etiketleri",
+     "text": "Bakım veya onarım sırasında ekipmanın çalıştırılmamasını bildiren askılı etiketler.",
+     "mods": [
+      "Tamir var",
+      "Bakım var"
+     ]
+    },
+    {
+     "title": "Şalter uyarı etiketleri",
+     "text": "Elektrik panoları ve şalterler için özel uyarı metinleri.",
+     "mods": [
+      "Şalteri açmadan çalıştırmayın",
+      "Yetkili harici açma yasak"
+     ]
+    },
+    {
+     "title": "Kilitleme bilgi etiketleri",
+     "text": "Kilitleyen kişi, tarih ve işlem bilgilerinin yazıldığı yazılabilir etiketler.",
+     "mods": [
+      "Bilgi etiketi",
+      "Kilitli tutma"
+     ]
+    },
+    {
+     "title": "Test ve devreye alma etiketleri",
+     "text": "Test, ayar ve devreye alma süreçlerinde ekipmanın durumunu bildiren etiketler.",
+     "mods": [
+      "Test ve devreye alma"
+     ]
+    },
+    {
+     "title": "Alan giriş uyarı etiketleri",
+     "text": "Yetkisiz kişilerin tehlikeli bölgeye girmesini önleyen uyarılar.",
+     "mods": [
+      "Görevli olmayan giremez"
+     ]
+    },
+    {
+     "title": "Scafftag iskele etiketleri",
+     "text": "İskelenin kullanıma uygun olup olmadığını gösteren durum etiketleri.",
+     "mods": [
+      "Scafftag"
+     ]
+    }
+   ],
+   "secim_intro": "Uyarının amacına göre doğru etiketi seçin.",
+   "secim_head": [
+    "Durum",
+    "Mesaj",
+    "Önerilen etiket",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Elektrik bakımı",
+     "Şalter açılmasın",
+     "Tamir var – şalteri açmayınız",
+     "Şalter kilidiyle birlikte"
+    ],
+    [
+     "Makine bakımı",
+     "Makine çalıştırılmasın",
+     "Dikkat bakım var",
+     "Ana şaltere ve makineye"
+    ],
+    [
+     "Yetki kontrolü",
+     "Sadece yetkili açar",
+     "Yetkili harici açma yasak",
+     "Panolar ve vanalar"
+    ],
+    [
+     "Kilit kaydı",
+     "Kim, ne zaman, neden",
+     "Kilitleme bilgi etiketi",
+     "Yazılabilir alanlar"
+    ],
+    [
+     "Devreye alma",
+     "Test sürüyor",
+     "Test ve devreye alma",
+     "Geçici durumlar"
+    ],
+    [
+     "İskele",
+     "Kullanım durumu",
+     "Scafftag",
+     "Uygun / uygun değil"
+    ]
+   ],
+   "secim_note": "Kurumunuza özel uyarı metni ve logo baskısı için bizimle iletişime geçin.",
+   "nasil_title": "Doğru EKED uyarı etiketi nasıl seçilir?",
+   "nasil": [
+    [
+     "Mesaj",
+     "Uyarı metni kısa, net ve Türkçe olmalı; sahadaki herkes tarafından anlaşılmalı."
+    ],
+    [
+     "Yazılabilir alan",
+     "Kilitleyen kişinin adı, departmanı ve tarih yazılabilmeli."
+    ],
+    [
+     "Dayanıklılık",
+     "Yağ, nem ve UV’ye dayanıklı, kolay yırtılmayan malzeme seçin."
+    ],
+    [
+     "Bağlantı",
+     "Etiket kilide veya cihaza sağlam şekilde asılabilmeli; yanlışlıkla düşmemeli."
+    ],
+    [
+     "Görünürlük",
+     "Kırmızı–beyaz gibi dikkat çekici renkler ve okunaklı yazı tercih edin."
+    ]
+   ],
+   "kullanim_title": "Eked Uyarı Etiketleri Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Elektrik panoları",
+     "Şalter kilitlerinin yanında bakım uyarısı."
+    ],
+    [
+     "Vana ve hatlar",
+     "Vana kilitleriyle birlikte akış uyarısı."
+    ],
+    [
+     "Makineler",
+     "Bakım, temizlik ve kalıp değişimi uyarıları."
+    ],
+    [
+     "İskeleler",
+     "Scafftag ile iskele kullanım durumu."
+    ]
+   ],
+   "faq": [
+    [
+     "Uyarı etiketi kilit yerine kullanılabilir mi?",
+     "Kilitlenebilen her noktada kilit ve etiket birlikte kullanılmalıdır. Etiket bilgi verir, fiziksel engel oluşturmaz."
+    ],
+    [
+     "Eked Uyarı Etiketleri fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel eked uyarı etiketleri fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Etiket üzerine neler yazılmalı?",
+     "Kilitleyen kişinin adı, departmanı, tarih ve işlemin nedeni yazılmalıdır. Gerekirse iletişim bilgisi de eklenir."
+    ],
+    [
+     "Türkçe uyarı metinli etiket var mı?",
+     "Evet, tüm uyarı etiketlerimiz Türkçe metinlerle üretilir. Kurumunuza özel metin baskısı da yapılabilir."
+    ],
+    [
+     "Etiketler tekrar kullanılabilir mi?",
+     "Yazılabilir alanlar silinebilir kalemle doldurulursa bazı etiketler tekrar kullanılabilir. Hasarlı veya okunmaz hale gelen etiketler değiştirilmelidir."
+    ],
+    [
+     "Scafftag nedir?",
+     "Scafftag, iskelenin kullanıma uygun olup olmadığını gösteren bir iskele durum etiketidir; kontrol eden kişi ve tarih bilgisini içerir."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-LT02-TR",
+    "Kilitleme Bilgi Etiketi"
+   ],
+   [
+    "BD-LT05",
+    "Kilitli Tutma Askılı Eked Uyarı Levhası"
+   ],
+   [
+    "BD-LT06",
+    "Test ve Devreye Alma EKED Uyarı Etiketi"
+   ],
+   [
+    "BD-LT07",
+    "Şalteri Açmadan Çalıştırmayın Askılı Uyarı Etiketi"
+   ],
+   [
+    "BD-LT11",
+    "Yetkili Harici Açma-Kapamak Yasaktır Askılı Uyarı Etiketi"
+   ],
+   [
+    "BD-LT12",
+    "Tamir Var Şarteli Açmayınız Askılı Eked Uyarı Etiketi"
+   ],
+   [
+    "BD-LT13",
+    "Görevli Olmayan Giremez Askılı Uyarı Etiketi"
+   ],
+   [
+    "BD-LT14",
+    "Dikkat Bakım Var Çalıştırma Askılı Uyarı Etiketi"
+   ],
+   [
+    "BD-P33",
+    "ScaffTag® İskele Etiketleri + Tutucular"
+   ],
+   [
+    "BD-T01",
+    "Güvenlik Uyarı Etiketi"
+   ],
+   [
+    "BD-P35",
+    "İskele Etiket Tutucusu"
+   ],
+   [
+    "BD-T03-TR",
+    "Kilitleme Uyarı Etiketi"
+   ],
+   [
+    "BD-LT04",
+    "Özelleştirilmiş Kimlik Etiketi"
+   ],
+   [
+    "BD-P36",
+    "Plastik İskele Tehlike Etiketi"
+   ],
+   [
+    "BD-LT02",
+    "Kilitleme Etiketi"
+   ]
+  ]
+ }
+}

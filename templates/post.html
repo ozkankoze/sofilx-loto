@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="ph"><div class="wrap"><nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><a href="/blog">Blog</a><span aria-hidden="true">/</span><span>Yazı</span></nav><h1 style="text-transform:none">{{ b.title }}</h1><p>{{ b.date_tr }} · {{ b.mins }} dk okuma</p></div></section>
+<section class="sec-sm"><div class="wrap" style="display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:48px" id="postgrid">
+ <article class="prose"><img src="/assets/blog/{{ b.slug }}.webp" alt="{{ b.title }}" width="1200" height="630" style="border-radius:6px;margin-bottom:28px">{{ b.html|safe }}</article>
+ <aside><div class="box" style="margin-top:0;position:sticky;top:100px"><h2>İlgili kategoriler</h2><div class="in" style="display:grid;gap:8px">{% for c in cats[:6] %}<a href="/{{ c.slug }}" style="display:flex;gap:10px;align-items:center"><img src="{{ c.img.thumb }}" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">{{ c.name }}</a>{% endfor %}</div></div></aside>
+</div></section>
+{% raw %}<style>@media(max-width:900px){#postgrid{grid-template-columns:1fr!important}}</style>{% endraw %}
+{% if others %}<section class="sec-sm sec-paper"><div class="wrap"><div class="sec-head"><h2>Diğer yazılar</h2></div><div class="posts">{% for b in others %}{% include "_post_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% include "_cta.html" %}
+{% endblock %}

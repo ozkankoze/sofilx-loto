@@ -1,0 +1,718 @@
+{
+ "asma": {
+  "sofilx_category_name": "Emniyet Asma Kilitler",
+  "sofilx_short": "Çelik ve plastik kelepçeli, 8 renk seçenekli LOTO asma kilitleri.",
+  "source": {
+   "lead": "Emniyet asma kilitler, iş güvenliği ve ekipman koruması için kullanılan önemli bir güvenlik çözümüdür. Farklı malzeme ve kilitleme mekanizmalarına sahip modellerimizle güvenliği en üst düzeye çıkarabilirsiniz.",
+   "chips": [
+    "EKED / LOTO kilit",
+    "8 renk seçeneği",
+    "38 mm ve 76 mm askı",
+    "Anahtar kilit kapanmadan çıkmaz",
+    "Farklı / ortak / master anahtar"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "EMNİYET ASMA KİLİT NEDİR?"
+    ],
+    [
+     "p",
+     "Emniyet asma kilitleri, kilitleme ve etiketleme (LOTO) prosedürlerinde kullanılan, iş güvenliği standartlarına uygun özel tasarlanmış kilitlerdir. Standart asma kilitlerden farklı olarak, yetkisiz erişimi engellemek ve bakım-onarım işlemleri sırasında enerji kaynaklarını izole etmek amacıyla kullanılırlar."
+    ],
+    [
+     "p",
+     "Bu kilitler, belirli bir çalışma alanında veya ekipmanda sadece yetkili personelin erişebilmesini sağlamak için kullanılır ve genellikle elektrik, mekanik ve endüstriyel güvenlik alanlarında tercih edilir."
+    ],
+    [
+     "h2",
+     "EMNİYET ASMA KİLİT NEREDE KULLANILIR?"
+    ],
+    [
+     "li",
+     "Elektrik Panoları ve Devre Kesiciler: Yetkisiz erişimi engellemek ve bakım sırasında enerji kaynaklarını güvenli hale getirmek için."
+    ],
+    [
+     "li",
+     "Endüstriyel Tesisler: Makine bakımı, üretim hatları ve tesisat sistemlerinde güvenliği sağlamak için."
+    ],
+    [
+     "li",
+     "İnşaat ve Şantiye Alanları: Çalışma sırasında tehlikeli bölgelere girişin önlenmesi için."
+    ],
+    [
+     "li",
+     "Makine ve Ekipmanlar: Plansız çalıştırmayı önleyerek iş kazalarını en aza indirmek için."
+    ],
+    [
+     "li",
+     "Kurumsal ve Kamu Alanları: Yetkilendirilmiş personelin kullanabileceği özel alanlarda."
+    ]
+   ],
+   "def": "Altın kuralBir kişi – bir kilit – bir anahtar. LOTO kilidi başkasına verilmez, başkasının kilidi açılmaz.",
+   "nedir_title": "Emniyet Asma Kilidi Nedir?",
+   "nedir": [
+    "Emniyet asma kilidi (sahada EKED kilit, LOTO kilit veya LOTO asma kilit olarak da anılır), LOTO (kilitleme–etiketleme) uygulamalarında enerji kaynağını kilitleyen kişiye özel güvenlik kilididir. Bakım yapacak her çalışan kendi kilidini şalter kilidine, vana kilidine ya da çoklandırıcıya takar; anahtar yalnızca onda kaldığı için işi bitip kilidini çıkarmadan kimse o enerji kaynağını açamaz.",
+    "Emniyet asma kilitleri mülk koruma için kullanılan sıradan asma kilitlerden farklıdır: gövdeleri hafif ve darbeye dayanıklıdır, renk kodlamaya uygundur, üzerlerinde “TEHLİKE – KİLİTLENDİ” uyarısı bulunur ve anahtar, kilit kapanmadan çıkarılamaz. Böylece kilidin açık bırakılması ya da anahtarın kaybolması önlenir.",
+    "Sofilx LOTO emniyet asma kilitleri 38 mm ve 76 mm askı boyu seçenekleriyle; kırmızı, sarı, mavi, yeşil, siyah, beyaz, turuncu ve mor olmak üzere 8 renkte üretilir. Kişiye, ekibe veya departmana özel renk ve anahtar sistemi kurmak mümkündür."
+   ],
+   "cesitler_title": "Emniyet Asma Kilidi Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Çelik askılı 38 mm kilitler",
+     "text": "Standart pano, şalter ve vana kilitleme uygulamaları için en yaygın tip. Kompakt yapısıyla çoklandırıcı deliklerine ve kilitleme cihazlarına kolayca oturur.",
+     "mods": [
+      "BD-G01 kırmızı",
+      "BD-G02 sarı",
+      "BD-G03 mavi"
+     ]
+    },
+    {
+     "title": "Plastik askılı 38 mm kilitler",
+     "text": "Elektriksel risk bulunan noktalarda iletken olmayan askı tercih edilir. Hafif yapısı sayesinde bel çantası ve kişisel setlerde rahat taşınır.",
+     "mods": [
+      "BD-G11 kırmızı",
+      "BD-G12 sarı"
+     ]
+    },
+    {
+     "title": "Uzun askılı 76 mm kilitler",
+     "text": "Kalın vana kolları, geniş hasp delikleri veya birden fazla parçayı aynı anda kilitlemek gereken noktalar için uzun askılı modeller kullanılır.",
+     "mods": [
+      "BD-G21 kırmızı",
+      "BD-G31 kırmızı"
+     ]
+    },
+    {
+     "title": "Renk kodlu kilit sistemleri",
+     "text": "Her renk bir ekibi, vardiyayı veya taşeronu temsil eder. Sahada kimin kilidinin nerede olduğu tek bakışta anlaşılır, yanlış kişiye ait kilitle işlem yapılmaz.",
+     "mods": []
+    },
+    {
+     "title": "Anahtar sistemleri",
+     "text": "Farklı anahtar (her kilidin tek anahtarı), ortak anahtar (bir ekibin kilitleri aynı anahtarla) ve master anahtar (yönetici erişimi) seçenekleriyle LOTO programınıza uygun yapı kurulur.",
+     "mods": []
+    },
+    {
+     "title": "Etiketli ve özel baskılı kilitler",
+     "text": "Kilit gövdesine isim, sicil numarası, departman veya fotoğraf etiketi uygulanarak kilidin sahibi kolayca tanınır. Özel baskı seçenekleri için bizimle iletişime geçin.",
+     "mods": []
+    }
+   ],
+   "secim_intro": "Seriyi askı boyuna ve kullanım yerine göre seçin; renk, ekip ya da departman ayrımı için belirlenir.",
+   "secim_head": [
+    "Seri",
+    "Askı",
+    "Renkler",
+    "Önerilen kullanım"
+   ],
+   "secim_rows": [
+    [
+     "BD-G01 – G08",
+     "38 mm",
+     "8 renk",
+     "Şalter, vana ve çoklandırıcı kilitlemede genel kullanım"
+    ],
+    [
+     "BD-G11 – G18",
+     "38 mm",
+     "8 renk",
+     "Elektrik panoları ve kişisel LOTO setleri"
+    ],
+    [
+     "BD-G21 – G28",
+     "76 mm",
+     "8 renk",
+     "Kalın kollar, geniş hasp delikleri, büyük kilitleme cihazları"
+    ],
+    [
+     "BD-G31 – G38",
+     "76 mm",
+     "8 renk",
+     "Uzun askı gerektiren elektriksel ve zorlu ortam uygulamaları"
+    ]
+   ],
+   "secim_note": "Malzeme, sıcaklık dayanımı ve silindir detayları her modelin ürün sayfasında yer alır.",
+   "nasil_title": "Doğru emniyet asma kilidi nasıl seçilir?",
+   "nasil": [
+    [
+     "Askı boyu",
+     "Kilitleyeceğiniz cihazın delik çapını ve kalınlığını ölçün; 38 mm çoğu uygulamaya yeter, kalın parçalar için 76 mm seçin."
+    ],
+    [
+     "Askı malzemesi",
+     "Elektriksel risk olan noktalarda iletken olmayan askılı modelleri tercih edin."
+    ],
+    [
+     "Renk planı",
+     "Renkleri ekip, vardiya veya taşeron bazında önceden belirleyip yazılı LOTO prosedürünüze ekleyin."
+    ],
+    [
+     "Anahtar yönetimi",
+     "Kişisel kilitlerde farklı anahtar, ekip kilitlerinde ortak anahtar, acil durumlar için kontrollü master anahtar sistemi kurun."
+    ],
+    [
+     "Adet",
+     "Her yetkili çalışana en az bir kişisel kilit; birden fazla noktayı kilitleyen çalışanlar için ek kilit planlayın."
+    ],
+    [
+     "Saklama",
+     "Kilitleri EKED istasyonlarında ya da kişisel çantalarda düzenli tutun."
+    ]
+   ],
+   "kullanim_title": "Emniyet Asma Kilitler Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Elektrik panoları",
+     "Şalter kilitleme cihazlarıyla birlikte devre kesicilerin kilitlenmesi."
+    ],
+    [
+     "Vana ve boru hatları",
+     "Küresel, kelebek ve sürgülü vana kilitlerinin sabitlenmesi."
+    ],
+    [
+     "Grup bakım çalışmaları",
+     "Çoklandırıcı ve grup kilit kutularıyla çok kişili LOTO."
+    ],
+    [
+     "Üretim hatları",
+     "Makine bakımı, kalıp değişimi ve temizlik sırasında enerji izolasyonu."
+    ]
+   ],
+   "faq": [
+    [
+     "EKED kilit fiyatları ne kadar?",
+     "EKED kilit (emniyet asma kilidi) fiyatları askı malzemesine (çelik / plastik), askı boyuna (38 mm / 76 mm), anahtar sistemine, renk ve baskı ihtiyacına ve sipariş adedine göre değişir. Toplu alımlarda adet bazlı indirim uygulanır. Güncel fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli."
+    ],
+    [
+     "EKED / LOTO kilit renkleri ne anlama gelir?",
+     "Renklerin evrensel olarak sabit bir anlamı yoktur; her işletme kendi renk planını belirler. Yaygın kullanımda kırmızı kişisel kilitler, sarı veya turuncu taşeronlar, mavi ve yeşil farklı departmanlar için tercih edilir. Ayrıntılar için EKED / LOTO kilit renkleri yazımıza göz atın."
+    ],
+    [
+     "Emniyet asma kilidi ile normal asma kilit arasındaki fark nedir?",
+     "Emniyet asma kilidi yalnızca LOTO amaçlı kullanılır; hafif, renk kodlu ve uyarı etiketlidir, anahtar kilit kapanmadan çıkmaz. Normal asma kilitler mülk koruma içindir ve LOTO uygulamasında kullanılmamalıdır."
+    ],
+    [
+     "Her çalışana kaç kilit gerekir?",
+     "Temel kural her yetkili çalışana en az bir kişisel kilittir. Aynı anda birden fazla enerji kaynağını kilitleyen çalışanlar için ek kilit ya da grup kilitleme kutusu kullanılır."
+    ],
+    [
+     "Renkler neye göre seçilir?",
+     "Renkler genellikle departman, vardiya, taşeron veya görev tipine göre belirlenir. Önemli olan seçilen renk planının yazılı prosedürde tanımlanması ve tüm çalışanlarca bilinmesidir."
+    ],
+    [
+     "Ortak anahtar ve master anahtar nedir?",
+     "Ortak anahtarda bir gruptaki tüm kilitler aynı anahtarla açılır. Master anahtar ise yetkili bir yöneticinin tüm kilitleri açabilmesini sağlar; kontrollü ve kayıt altında kullanılmalıdır."
+    ],
+    [
+     "Kilitlerin üzerine isim yazdırabilir miyim?",
+     "Evet. Kilit gövdesine isim, sicil numarası veya departman bilgisi içeren etiket ya da baskı uygulanabilir. Toplu siparişlerde özel renk ve baskı seçenekleri için bizimle iletişime geçin."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-G17-ORJ",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Turuncu"
+   ],
+   [
+    "BD-G01-RED",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı"
+   ],
+   [
+    "BD-G02-YLW",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı"
+   ],
+   [
+    "BD-G03-BLUE",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi"
+   ],
+   [
+    "BD-G04-GRN",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil"
+   ],
+   [
+    "BD-G05-BLK",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah"
+   ],
+   [
+    "BD-G06-WHITE",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Beyaz"
+   ],
+   [
+    "BD-G07-ORJ",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Turuncu"
+   ],
+   [
+    "BD-G08-PRP",
+    "Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Mor"
+   ],
+   [
+    "BD-G11-RED",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı"
+   ],
+   [
+    "BD-G12-YLW",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı"
+   ],
+   [
+    "BD-G13-BLUE",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi"
+   ],
+   [
+    "BD-G14-GRN",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil"
+   ],
+   [
+    "BD-G15-BLK",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah"
+   ],
+   [
+    "BD-G16-WHITE",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Beyaz"
+   ],
+   [
+    "BD-G18-PRP",
+    "Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mor"
+   ],
+   [
+    "BD-G21-RED",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Kırmızı"
+   ],
+   [
+    "BD-G22-YLW",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Sarı"
+   ],
+   [
+    "BD-G23-BLUE",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Mavi"
+   ],
+   [
+    "BD-G24-GRN",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Yeşil"
+   ],
+   [
+    "BD-G25-BLK",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Siyah"
+   ],
+   [
+    "BD-G26-WHITE",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Beyaz"
+   ],
+   [
+    "BD-G27-ORJ",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Turuncu"
+   ],
+   [
+    "BD-G28-PRP",
+    "Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Mor"
+   ],
+   [
+    "BD-G31-RED",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Kırmızı"
+   ],
+   [
+    "BD-G32-YLW",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Sarı"
+   ],
+   [
+    "BD-G33-BLUE",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Mavi"
+   ],
+   [
+    "BD-G34-GRN",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Yeşil"
+   ],
+   [
+    "BD-G35-BLK",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Siyah"
+   ],
+   [
+    "BD-G36-WHITE",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Beyaz"
+   ],
+   [
+    "BD-G37-ORJ",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Turuncu"
+   ],
+   [
+    "BD-G38-PRP",
+    "Naylon Gövdeli Emniyet Asma Kilit 76 mm – Mor"
+   ],
+   [
+    "BD-G13DP",
+    "Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi"
+   ],
+   [
+    "BD-G14DP",
+    "Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil"
+   ],
+   [
+    "BD-G11DP",
+    "Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı"
+   ],
+   [
+    "BD-G15DP",
+    "Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah"
+   ],
+   [
+    "BD-G29",
+    "Plastik Kelepçeli Emniyet Asma Kilit 76 mm – Kahverengi"
+   ],
+   [
+    "BD-G12DP",
+    "Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı"
+   ],
+   [
+    "BD-G01DP",
+    "Toz Korumalı Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı"
+   ],
+   [
+    "BD-G02DP",
+    "Toz Korumalı Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı"
+   ]
+  ]
+ },
+ "salter": {
+  "sofilx_category_name": "Şalter ve Devre Kesici Kilitleri",
+  "sofilx_short": "Minyatür, kompakt ve kalıplı devre kesiciler için kilitleme ekipmanları.",
+  "source": {
+   "lead": "Şalter kilitleme ekipmanları, elektrik panoları ve devre kesicilerde yetkisiz erişimi önlemek ve iş güvenliğini sağlamak için tasarlanmıştır. Dayanıklı malzeme ve LOTO uyumluluğuyla maksimum koruma sunar.",
+   "chips": [
+    "MCB / minyatür şalter",
+    "Kompakt şalter (TMŞ)",
+    "Clamp-on & snap-on modeller",
+    "Aletsiz montaj"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Şalter Kilitleme Ekipmanları"
+    ],
+    [
+     "p",
+     "Şalter kilitleme ekipmanları, devre kesiciler, elektrik panoları ve anahtar sistemlerini kilitleyerek yetkisiz erişimi önleyen güvenlik çözümleridir. LOTO (Kilitleme-Etiketleme) prosedürleri kapsamında kullanılarak bakım ve onarım çalışmaları sırasında elektrik akımının kazara açılmasını engeller."
+    ],
+    [
+     "p",
+     "Farklı tip ve boyutlardaki şalterlere uygun olarak tasarlanan bu ekipmanlar, iş kazalarını önlemek ve çalışan güvenliğini sağlamak amacıyla endüstriyel tesislerden enerji santrallerine kadar geniş bir kullanım alanına sahiptir."
+    ],
+    [
+     "h2",
+     "Şalter Kilitleme Ekipmanları Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Endüstriyel Tesisler: Üretim hatlarında makinelerin bakım ve onarım süreçlerinde güvenliği sağlamak için."
+    ],
+    [
+     "li",
+     "Enerji Santralleri: Yüksek voltajlı elektrik sistemlerinde kazaları önlemek amacıyla."
+    ],
+    [
+     "li",
+     "Elektrik Panoları ve Devre Kesiciler: Yetkisiz erişimi engellemek ve çalışma sırasında enerjiyi izole etmek için."
+    ],
+    [
+     "li",
+     "Şantiyeler ve İnşaat Alanları: Geçici elektrik bağlantılarında güvenlik önlemi olarak."
+    ],
+    [
+     "li",
+     "Hastaneler ve Kamu Binaları: Kritik elektrik sistemlerinde güvenliği artırmak için."
+    ],
+    [
+     "li",
+     "Petrokimya ve Kimya Tesisleri: Yanıcı ve patlayıcı ortamlar için ekstra güvenlik sağlamak amacıyla."
+    ]
+   ],
+   "def": "ÖnemliKilitlemeden önce şalteri kapatın; kilitledikten sonra hattın gerçekten enerjisiz olduğunu ölçüm cihazıyla doğrulayın.",
+   "nedir_title": "Şalter Kilitleme Ekipmanı Nedir?",
+   "nedir": [
+    "Şalter kilitleme ekipmanları (sahada şalter kilidi, sigorta kilidi, EKED şalter kilidi veya pano sigorta kilidi olarak da aranır), elektrik panolarındaki devre kesicilerin bakım sırasında yanlışlıkla açılmasını ya da kapatılmasını önleyen LOTO cihazlarıdır. Şalter kapalı (OFF) konuma alındıktan sonra kilitleme cihazı tetiğe takılır, üzerine emniyet asma kilidi ve uyarı etiketi eklenir.",
+    "Elektrik kaynaklı iş kazalarının önemli bir kısmı, bakım yapılan hattın başka biri tarafından enerjilendirilmesiyle yaşanır. Şalter kilidi bu riski fiziksel olarak ortadan kaldırır; etiket ise panonun neden kilitli olduğunu herkese gösterir.",
+    "Şalterler marka ve tipe göre farklı tetik genişliği ve yapıya sahip olduğundan tek bir model her panoya uymaz. Sofilx LOTO; minyatür devre kesiciler (MCB), kompakt şalterler, büyük tip devre kesiciler ve sigortalar için 20’den fazla şalter kilitleme modeli sunar. Minyatür şalter kilidi, kompakt şalter kilidi ve pako şalter kilidi ihtiyaçlarınız için aşağıdaki seçim tablosunu kullanabilirsiniz."
+   ],
+   "cesitler_title": "Şalter Kilitleme Ekipmanı Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Minyatür devre kesici (MCB) kilitleri",
+     "text": "Pano içindeki otomat sigortalar için POS, PIS, TBLO ve POW tipi modeller. Tetiğin konumuna (yukarı / aşağı) ve deliğe takılma şekline göre seçilir.",
+     "mods": [
+      "POS",
+      "PIS",
+      "TBLO",
+      "POW"
+     ]
+    },
+    {
+     "title": "Evrensel (universal) MCB kilitleri",
+     "text": "Farklı marka ve tetik genişliklerine uyum sağlayan ayarlanabilir modeller; karışık marka panolar için pratik çözüm.",
+     "mods": [
+      "Evrensel",
+      "Geniş ağız",
+      "Universal MCB"
+     ]
+    },
+    {
+     "title": "Clamp-on (kelepçeli) kilitler",
+     "text": "Kompakt şalter ve geniş tetikli devre kesiciler için, vida ile sıkıştırılarak tetiği saran modeller.",
+     "mods": [
+      "BD-D11N",
+      "BD-D12X",
+      "BD-D13X"
+     ]
+    },
+    {
+     "title": "Snap-on kesici kilitleri",
+     "text": "Aletsiz, hızlı takılan geçmeli modeller. Sık bakım yapılan panolarda zaman kazandırır.",
+     "mods": [
+      "BD-D06",
+      "BD-D07",
+      "BD-D08"
+     ]
+    },
+    {
+     "title": "Büyük tip devre kesici kilitleri",
+     "text": "Yüksek akımlı, geniş tetikli devre kesiciler için sıkı kavramalı ve büyük boy modeller.",
+     "mods": [
+      "BD-D14",
+      "BD-D15",
+      "BD-D16"
+     ]
+    },
+    {
+     "title": "Etiketli MCB kilitleri",
+     "text": "Kilitleme ve etiketlemeyi tek gövdede birleştiren modeller; küçük panolarda ek etiket ihtiyacını azaltır.",
+     "mods": [
+      "MCB etiketli"
+     ]
+    }
+   ],
+   "secim_intro": "Şalterin tipini ve tetik yapısını belirleyin, ardından uygun kilit ailesini seçin.",
+   "secim_head": [
+    "Şalter tipi",
+    "Tetik yapısı",
+    "Önerilen model",
+    "Rehber"
+   ],
+   "secim_rows": [
+    [
+     "Minyatür devre kesici (MCB)",
+     "Dar tetik, pano içi",
+     "POS / PIS / TBLO / POW",
+     "Minyatür şalter →"
+    ],
+    [
+     "Karışık marka MCB",
+     "Farklı genişlikler",
+     "Evrensel MCB kilidi",
+     "ABB uyumlu →"
+    ],
+    [
+     "Kompakt şalter / TMŞ",
+     "Geniş tetik",
+     "Clamp-on BD-D12X",
+     "TMŞ şalter →"
+    ],
+    [
+     "Büyük devre kesici",
+     "Çok geniş tetik",
+     "Oversized BD-D13X",
+     "Kompakt şalter →"
+    ],
+    [
+     "Kelepçeli sigorta",
+     "Kısa tetik",
+     "BD-D11N",
+     "Schneider uyumlu →"
+    ],
+    [
+     "Pako şalter",
+     "Döner kol",
+     "Kablo kilidi + hasp",
+     "Pako şalter →"
+    ]
+   ],
+   "secim_note": "Emin değilseniz şalterin önden ve yandan fotoğrafını WhatsApp’tan gönderin; uyumlu modeli birlikte belirleyelim.",
+   "nasil_title": "Doğru şalter kilitleme ekipmanı nasıl seçilir?",
+   "nasil": [
+    [
+     "Şalter tipi",
+     "MCB, kompakt şalter veya büyük devre kesici olduğunu belirleyin; her biri farklı kilit ailesi gerektirir."
+    ],
+    [
+     "Tetik ölçüsü",
+     "Tetiğin genişliğini ve kalınlığını ölçün; universal modeller farklı ölçülere uyum sağlar."
+    ],
+    [
+     "Tetik konumu",
+     "Bazı modeller tetiğin altındaki/üstündeki deliklere takılır (pin in / pin out); şalterin yapısını kontrol edin."
+    ],
+    [
+     "Montaj",
+     "Sık bakım yapılan panolarda aletsiz snap-on modeller, kalıcı ve sıkı tutuş gereken yerlerde clamp-on modeller tercih edilir."
+    ],
+    [
+     "Kilit uyumu",
+     "Cihazın kilit deliği, kullandığınız emniyet asma kilidinin askı çapına uygun olmalı."
+    ],
+    [
+     "Hazır set",
+     "Karışık panolar için birçok şalter kilidini bir arada sunan elektriksel EKED setlerini değerlendirin."
+    ]
+   ],
+   "kullanim_title": "Şalter Kilitleme Ekipmanları Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Dağıtım panoları",
+     "Bina ve tesis dağıtım panolarında hat bazında enerji izolasyonu."
+    ],
+    [
+     "Makine kumanda panoları",
+     "Üretim makinelerinin bakımı öncesi ana ve yardımcı şalterlerin kilitlenmesi."
+    ],
+    [
+     "Otomasyon ve MCC panoları",
+     "Motor kontrol merkezlerinde çoklu devre kesici kilitleme."
+    ],
+    [
+     "Enerji ve altyapı",
+     "Trafo, jeneratör ve enerji tesislerinde güvenli bakım."
+    ]
+   ],
+   "faq": [
+    [
+     "Hangi şalter kilidi benim panoma uyar?",
+     "Önce şalter tipini (MCB, kompakt şalter, büyük devre kesici) ve tetik genişliğini belirleyin. Karışık marka panolar için evrensel modeller, kompakt şalterler için clamp-on modeller uygundur. Fotoğraf gönderirseniz uygun modeli birlikte seçebiliriz."
+    ],
+    [
+     "Şalter Kilitleme Ekipmanları fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel şalter kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "POS, PIS, TBLO ve POW ne anlama geliyor?",
+     "Bunlar minyatür devre kesici kilitlerinin şaltere takılma şeklini ifade eden tip adlarıdır; tetiğin konumu ve şalter üzerindeki deliklere göre farklılaşır. Panonuzdaki şalterin yapısına göre uygun tip seçilir."
+    ],
+    [
+     "Şalter kilidi takarken alet gerekir mi?",
+     "Snap-on ve birçok MCB kilidi aletsiz takılır. Clamp-on modeller tetiği sıkıca kavramak için küçük bir vida ile sabitlenir."
+    ],
+    [
+     "Bir şaltere birden fazla kişi kilit takabilir mi?",
+     "Evet. Şalter kilidinin deliğine bir çoklandırıcı (hasp) takılır, her çalışan kendi kilidini haspa ekler. Son kilit çıkarılmadan şalter açılamaz."
+    ],
+    [
+     "ABB, Schneider gibi markalara uyumlu mu?",
+     "Evet. Universal ve ayarlanabilir modellerimiz yaygın marka şalterlerin büyük bölümüne uyum sağlar. Marka bazlı detaylar için ilgili rehber yazılarımıza göz atabilirsiniz."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-D01",
+    "POS Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D02",
+    "PIS Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D03",
+    "TBLO Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D04",
+    "POW Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D05-1-RED",
+    "Universal Minyatür Şalter Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D05-3",
+    "Evrensel Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D05-4",
+    "MCB Devre Kesici Kilitleme ve Etiketleme Ekipmanı"
+   ],
+   [
+    "BD-D05-5-RED",
+    "Geniş Ağız Evrensel Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D05-6",
+    "Çift Başlı Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D06",
+    "Snap-On Kesici Kilitleme"
+   ],
+   [
+    "BD-D07",
+    "Snap-On Kesici Kilitleme"
+   ],
+   [
+    "BD-D08",
+    "Snap-On Kesici Kilitleme"
+   ],
+   [
+    "BD-D09",
+    "Snap-On Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D11N",
+    "Kelepçeli Sigorta Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D12X",
+    "Clap-On Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D13X",
+    "Oversized Clamp-On Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D14",
+    "Evrensel Çok Fonksiyonlu Minyatür Devre Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D15/D15W",
+    "Sıkı Kavramalı Devre Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D16/D16L",
+    "Büyük Boy Kavramalı Sıkı Devre Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D17",
+    "Çift Yönlü Orta Devre Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D301P",
+    "Tek Kademeli Minyatür Devre Kesici Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D2394",
+    "Minyatür Devre Kesici Kilitleme Cihazı"
+   ],
+   [
+    "BD-D11",
+    "120/277V Küçük Boy Kompakt Şalter Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D12N",
+    "480V/600V Orta Boy Kompakt Şalter Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D46",
+    "Endüstriyel Su Geçirmez Fiş Kilidi"
+   ],
+   [
+    "BD-D100",
+    "Deliksiz Termik Şalter Kilitleme Ekipmanı"
+   ]
+  ]
+ }
+}

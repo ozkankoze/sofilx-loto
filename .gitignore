@@ -1,0 +1,10 @@
+# yayına/depoya girmeyecekler
+_to_delete/
+onizleme/
+gorseller/
+*.zip
+*.command
+gorsel-oncesi-sonrasi.png
+__pycache__/
+.DS_Store
+.vercel

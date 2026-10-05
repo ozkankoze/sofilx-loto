@@ -1,0 +1,614 @@
+{
+ "coklandirici": {
+  "sofilx_category_name": "Kilit Çoklandırıcılar",
+  "sofilx_short": "Grup kilitleme için çelik, alüminyum ve iletken olmayan çoklandırıcılar.",
+  "source": {
+   "lead": "Çoklandırıcılar, birden fazla çalışanın aynı anda ekipman üzerinde çalışırken güvenliğini sağlamak için kullanılan kilitleme cihazlarıdır. Tek bir noktada birden fazla asma kilit takılmasını mümkün kılarak enerji izolasyonunu güvence altına alır.",
+   "chips": [
+    "Kilit çoklayıcı (hasp)",
+    "25 mm ve 38 mm çene",
+    "Çelik, alüminyum, plastik",
+    "İletken olmayan modeller",
+    "6–8 kilit kapasitesi"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Kaydırmalı İletken Olmayan Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Kaydırmalı İletken Olmayan Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Vinil Kaplı 38mm Çelik Çene Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "38mm Vinil Kaplamalı Alüminyum Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "8 Delikli Etiketli Alüminyum Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Alüminyum Büyük Sürgülü Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "İletken Olmayan Plastik Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Paslanmaya Dayanıklı Çelik 25mm Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Paslanmaz Çelik Çoklandırıcı Ekipmanı"
+    ],
+    [
+     "h3",
+     "Etiketli Alüminyum Büyük Boy Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Plastik Model Termik Kilitleme"
+    ],
+    [
+     "h3",
+     "Standart 6 Delikli Plastik Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Kırmızı Plastik Saplı Şalter Kilitleme"
+    ],
+    [
+     "h3",
+     "Etiketli Snap-On Alüminyum Çoklandırıcı"
+    ],
+    [
+     "h3",
+     "Vinil Kaplı 25mm 4 Delikli Kısa Gövde Çoklandırıcı"
+    ],
+    [
+     "h2",
+     "Çoklandırıcılar Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Çoklandırıcılar, özellikle bakım, onarım veya temizlik sırasında birden fazla çalışanın aynı anda güvenli şekilde çalışmasını sağlamak amacıyla kullanılır. Fabrikalar, enerji santralleri, petrokimya tesisleri, gıda üretim alanları ve bakım atölyeleri gibi endüstriyel ortamlarda yaygın olarak tercih edilir. Elektrik panoları, vanalar, pnomatik ve hidrolik sistemler gibi enerjiyle çalışan ekipmanların kontrol noktalarında, her çalışanın kendi asma kilidini takmasına imkân tanıyarak kazara çalıştırmaları önler ve LOTO prosedürlerinin etkinliğini artırır."
+    ],
+    [
+     "h2",
+     "Çoklandırıcılar"
+    ],
+    [
+     "p",
+     "Çoklandırıcı, iş güvenliği uygulamalarında kullanılan, birden fazla çalışanın aynı enerji kontrol noktasına kendi kişisel asma kilidini takmasına olanak sağlayan bir kilitleme ekipmanıdır. Özellikle bakım ve onarım süreçlerinde, ekipmanın kazara çalıştırılmasını önlemek amacıyla enerji kaynaklarının izole edilmesinde kritik rol oynar."
+    ],
+    [
+     "p",
+     "Çoklandırıcılar genellikle metal veya dayanıklı plastik malzemeden üretilir ve üzerinde birden fazla kilit deliği bulunur. Bu sayede her çalışan kendi asma kilidini takarak işlemin tamamlanmadan başlatılamamasını garanti altına alır."
+    ]
+   ],
+   "def": "KuralBir noktada birden fazla kişi çalışıyorsa çoklandırıcı zorunludur; kilit paylaşılmaz.",
+   "nedir_title": "Kilit Çoklayıcı (Çoklandırıcı / Hasp) Nedir?",
+   "nedir": [
+    "Kilit çoklayıcı — diğer adlarıyla kilit çoklandırıcı, EKED kilit çoklayıcı, LOTO kilit çoklayıcı veya hasp — tek bir enerji izolasyon noktasına birden fazla kişinin kendi kilidini takabilmesini sağlayan LOTO ekipmanıdır. Çoklandırıcı şalter veya vana kilidine takılır; bakım ekibindeki her çalışan kendi emniyet asma kilidini çoklandırıcının deliklerinden birine ekler.",
+    "Çoklandırıcı, son kilit çıkarılmadan açılamaz. Böylece işini bitiren çalışan kilidini çıkarsa bile, ekipte çalışmaya devam eden biri olduğu sürece enerji geri verilemez. Bu özellik grup bakım çalışmalarında en kritik güvenlik önlemidir.",
+    "Sofilx LOTO çoklandırıcıları; vinil kaplı çelik, alüminyum, paslanmaz çelik ve iletken olmayan plastik gövdelerle, 25 mm ve 38 mm çene seçenekleriyle ve etiketli modellerle 20 farklı çeşitte üretilir."
+   ],
+   "cesitler_title": "Kilit Çoklayıcı (Çoklandırıcı) Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Vinil kaplı çelik çoklandırıcılar",
+     "text": "Dayanıklı çelik çene, kaymayı önleyen ve yüzeyi koruyan vinil kaplama. Genel amaçlı en yaygın tip.",
+     "mods": [
+      "25 mm BD-K01",
+      "38 mm BD-K02"
+     ]
+    },
+    {
+     "title": "Alüminyum çoklandırıcılar",
+     "text": "Hafif, kıvılcım riskinin önemli olduğu alanlara uygun; büyük boy ve sürgülü modeller.",
+     "mods": [
+      "BD-K11",
+      "BD-K61",
+      "BD-K71"
+     ]
+    },
+    {
+     "title": "İletken olmayan plastik çoklandırıcılar",
+     "text": "Elektriksel riskin bulunduğu noktalarda yalıtkan gövdeli çözüm.",
+     "mods": [
+      "BD-K43",
+      "BD-K42",
+      "BD-K45"
+     ]
+    },
+    {
+     "title": "Paslanmaz ve paslanmaya dayanıklı çelik",
+     "text": "Nemli, kimyasal ve gıda tesislerinde korozyona dayanıklı kullanım.",
+     "mods": [
+      "BD-K33",
+      "BD-K03"
+     ]
+    },
+    {
+     "title": "Etiketli çoklandırıcılar",
+     "text": "Gövdesinde yazılabilir uyarı alanı bulunan modeller; kilit ve etiketi tek parçada birleştirir.",
+     "mods": [
+      "BD-K51",
+      "BD-K52",
+      "BD-K54"
+     ]
+    },
+    {
+     "title": "Termik şalter kilitleri",
+     "text": "Termik ve motor koruma şalterleri için özel tasarlanmış kilitleme aparatları.",
+     "mods": [
+      "BD-K46-1",
+      "BD-K34"
+     ]
+    }
+   ],
+   "secim_intro": "Çene çapı, gövde malzemesi ve kişi sayısına göre doğru çoklandırıcıyı seçin.",
+   "secim_head": [
+    "Kullanım",
+    "Gövde / çene",
+    "Önerilen model",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Genel amaçlı",
+     "Vinil kaplı çelik, 25 mm",
+     "BD-K01",
+     "Şalter ve vana kilitleriyle"
+    ],
+    [
+     "Kalın kol / büyük delik",
+     "Vinil kaplı çelik, 38 mm",
+     "BD-K02",
+     "Geniş çene açıklığı"
+    ],
+    [
+     "Elektriksel risk",
+     "İletken olmayan plastik",
+     "BD-K43",
+     "Pano içi uygulamalar"
+    ],
+    [
+     "Nemli / kimyasal",
+     "Paslanmaz çelik",
+     "BD-K33",
+     "Gıda, kimya, dış ortam"
+    ],
+    [
+     "Kalabalık ekip",
+     "Alüminyum, 8 delik",
+     "BD-K52",
+     "Daha fazla kilit kapasitesi"
+    ],
+    [
+     "Etiket gerekli",
+     "Etiketli gövde",
+     "BD-K51",
+     "Kilit + uyarı tek parçada"
+    ]
+   ],
+   "secim_note": "Kişi sayısı çoklandırıcının kapasitesini aşıyorsa çoklandırıcılar zincirleme bağlanabilir veya grup kilitleme kutusu kullanılır.",
+   "nasil_title": "Doğru kilit çoklandırıcı nasıl seçilir?",
+   "nasil": [
+    [
+     "Kişi sayısı",
+     "Aynı noktada çalışacak maksimum kişi sayısını belirleyin; 6 veya 8 delikli model seçin."
+    ],
+    [
+     "Çene çapı",
+     "25 mm standart cihazlar için, 38 mm kalın kollar ve büyük delikler için uygundur."
+    ],
+    [
+     "Malzeme",
+     "Elektriksel riskte iletken olmayan, nemli/kimyasal ortamda paslanmaz modeller tercih edin."
+    ],
+    [
+     "Etiket ihtiyacı",
+     "Etiketli çoklandırıcılar ayrı etiket asma ihtiyacını azaltır."
+    ],
+    [
+     "Büyük ekipler",
+     "Çok kalabalık ekiplerde grup kilitleme kutuları daha pratiktir."
+    ]
+   ],
+   "kullanim_title": "Çoklandırıcılar Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Ekip halinde bakım",
+     "Birden fazla teknisyenin aynı makinede çalıştığı bakım duruşları."
+    ],
+    [
+     "Pano ve şalterler",
+     "Şalter kilitleme cihazına çoklu kilit eklenmesi."
+    ],
+    [
+     "Vana izolasyonu",
+     "Vana kilitleriyle birlikte grup kilitleme."
+    ],
+    [
+     "Vardiya devri",
+     "Vardiya değişiminde kilitlerin kontrollü devri."
+    ]
+   ],
+   "faq": [
+    [
+     "Kilit çoklayıcı ile çoklandırıcı aynı şey mi?",
+     "Evet. Kilit çoklayıcı, kilit çoklandırıcı, EKED kilit çoklayıcı, LOTO hasp ve grup kilitleme haspı aynı ürünü anlatır: tek bir izolasyon noktasına birden fazla kişinin kendi kilidini takmasını sağlayan ekipman."
+    ],
+    [
+     "EKED kilit çoklayıcı fiyatları ne kadar?",
+     "Fiyat; gövde malzemesine (vinil kaplı çelik, alüminyum, paslanmaz çelik, plastik), çene çapına (25 / 38 mm), delik sayısına ve sipariş adedine göre değişir. Güncel fiyat listesi için WhatsApp hattımıza yazabilirsiniz."
+    ],
+    [
+     "Çoklandırıcı ne işe yarar?",
+     "Bir enerji izolasyon noktasına birden fazla kişinin kendi kilidini takmasını sağlar. Son kilit çıkarılmadan çoklandırıcı açılamadığı için ekipteki herkes korunur."
+    ],
+    [
+     "Kaç kişi kilit takabilir?",
+     "Modele göre genellikle 6 veya 8 kilit takılabilir. Daha kalabalık ekiplerde çoklandırıcılar zincirleme bağlanır ya da grup kilitleme kutusu kullanılır."
+    ],
+    [
+     "25 mm ve 38 mm çene farkı nedir?",
+     "Çene çapı, çoklandırıcının takılabileceği delik veya parçanın kalınlığını belirler. 25 mm standart cihazlar için, 38 mm daha kalın kollar ve büyük delikler için uygundur."
+    ],
+    [
+     "Elektrik panolarında hangi çoklandırıcıyı kullanmalıyım?",
+     "Elektriksel riskin bulunduğu noktalarda iletken olmayan plastik gövdeli çoklandırıcılar tercih edilmelidir."
+    ],
+    [
+     "Çoklandırıcı tek başına kilit yerine geçer mi?",
+     "Hayır. Çoklandırıcı kilitleme noktası oluşturur; her çalışanın kendi emniyet asma kilidini takması gerekir."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-K01-1/K02-1",
+    "Vinil Kaplı 4 Delikli Kısa Gövde Çelik Çene Çoklandırıcılar"
+   ],
+   [
+    "BD-K01",
+    "Vinil Kaplı 25mm Çelik Çene Çoklandırıcı Ekipmanı"
+   ],
+   [
+    "BD-K02",
+    "Vinil Kaplı 38mm Çelik Çene Çoklandırıcı"
+   ],
+   [
+    "BD-K03",
+    "Paslanmaya Dayanıklı Çelik 25mm Çoklandırıcı"
+   ],
+   [
+    "BD-K04",
+    "Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı"
+   ],
+   [
+    "BD-K11",
+    "25mm Vinil Kaplamalı Alüminyum Çoklandırıcı"
+   ],
+   [
+    "BD-K12",
+    "38mm Vinil Kaplamalı Alüminyum Çoklandırıcı"
+   ],
+   [
+    "BD-K33/K33X",
+    "Paslanmaz Çelik Çoklandırıcı"
+   ],
+   [
+    "BD-K34",
+    "Kırmızı Plastik Saplı Termik Şalter Kilitleme"
+   ],
+   [
+    "BD-K42",
+    "Standart 6 Delikli Plastik Çoklandırıcı"
+   ],
+   [
+    "BD-K43/K44",
+    "İletken Olmayan Plastik Çoklandırıcı"
+   ],
+   [
+    "BD-K45/K46",
+    "Kaydırmalı İletken Olmayan Çoklandırıcı"
+   ],
+   [
+    "BD-K46-1",
+    "Plastik Model Termik Kilitleme"
+   ],
+   [
+    "BD-K51",
+    "Etiketli Çelik Çoklandırıcı Ekipmanı"
+   ],
+   [
+    "BD-K52",
+    "8 Delikli Etiketli Alüminyum Çoklandırıcı"
+   ],
+   [
+    "BD-K53",
+    "Etiketli Alüminyum Büyük Boy Çoklandırıcı"
+   ],
+   [
+    "BD-K54",
+    "Etiketli Snap-on Alüminyum Çoklandırıcı"
+   ],
+   [
+    "BD-K61",
+    "Çift Çeneli Alüminyum Çoklandırıcı"
+   ],
+   [
+    "BD-K62",
+    "Çift Başlı Çelik Çoklandırıcı Ekipmanı"
+   ],
+   [
+    "BD-K71",
+    "Alüminyum Büyük Sürgülü Çoklandırı"
+   ],
+   [
+    "BD-K24",
+    "6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 38 mm"
+   ],
+   [
+    "BD-K23",
+    "6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 25 mm"
+   ],
+   [
+    "BD-K72",
+    "24 Delikli Sürgülü Alüminyum Çoklandırıcı – 25 mm"
+   ],
+   [
+    "BD-K41",
+    "Akrep Tip 6 Delikli Plastik Çoklandırıcı – 7 mm"
+   ]
+  ]
+ },
+ "pnomatik": {
+  "sofilx_category_name": "Elektrik ve Pnömatik Kilitleme",
+  "sofilx_short": "Fiş, priz ve pnömatik bağlantılar için kilitleme ekipmanları.",
+  "source": {
+   "lead": "Pnömatik Bağlantı Kilitleme Ekipmanları – Basınçlı hava sistemlerinin güvenli şekilde izole edilmesini sağlayan LOTO ekipmanlarıdır. Hava bağlantı noktalarını kilitleyerek yetkisiz erişimi ve kazaları önler.",
+   "chips": [
+    "Elektrik fişi kilitleri",
+    "Pnömatik bağlantı kilitleri",
+    "Kanal fişi koruma",
+    "Taşınabilir fiş çantası"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Pnömatik Bağlantı Kilitleme Ekipmanları Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Fabrikalar ve üretim hatları"
+    ],
+    [
+     "li",
+     "Pnömatik kontrollü makineler"
+    ],
+    [
+     "li",
+     "Otomotiv ve montaj sanayii"
+    ],
+    [
+     "li",
+     "Basınçlı hava ile çalışan ekipmanlar"
+    ],
+    [
+     "li",
+     "Bakım-onarım süreçleri sırasında enerji izolasyonu gereken alanlar"
+    ],
+    [
+     "p",
+     "Pnömatik kilitleme ekipmanları, özellikle hava kaçaklarının tehlike oluşturabileceği ortamlarda, ekipmanın tekrar devreye alınmasını engelleyerek çalışan güvenliğini artırır ve olası kazaları önlemeye yardımcı olur."
+    ],
+    [
+     "h2",
+     "Pnömatik Bağlantı Kilitleme Ekipmanları"
+    ],
+    [
+     "p",
+     "Pnömatik bağlantı kilitleme ekipmanları, basınçlı hava sistemlerinde güvenli enerji izolasyonu sağlamak amacıyla kullanılan Lockout & Tagout (LOTO) ürünleridir. Bu ekipmanlar, hava hortumlarının veya pnömatik bağlantıların kontrolsüz bir şekilde sökülmesini ya da çalıştırılmasını önlemek için bağlantı noktalarına takılarak fiziksel kilitleme yapar. Böylece, sistemdeki hava basıncı kesilmeden yapılacak müdahalelerin önüne geçilmiş olur."
+    ]
+   ],
+   "def": "KuralFişi çekmek izolasyon değildir; fiş kilitlenip etiketlenmeden bakım başlatılmamalıdır.",
+   "nedir_title": "Pnömatik Bağlantı ve Fiş Kilitleme Nedir?",
+   "nedir": [
+    "Pnömatik bağlantı ve fiş kilitleme ekipmanları, fişli elektrikli cihazların ve basınçlı hava ile çalışan aletlerin bakım sırasında yeniden bağlanmasını engelleyen LOTO cihazlarıdır. Fiş veya hızlı bağlantı ucu, kilitlenebilir bir muhafazanın içine alınır; muhafaza kilitlendiğinde fiş prize, hortum ise hava hattına takılamaz.",
+    "Atölyelerde ve üretim hatlarında fişli makineler ve pnömatik aletler en sık bakım yapılan ekipmanlar arasındadır. Fişin çekilmesi tek başına yeterli değildir; biri farkında olmadan tekrar takabilir. Fiş kilidi bu riski fiziksel olarak ortadan kaldırır.",
+    "Sofilx LOTO; küçük ve büyük elektrik fişleri, endüstriyel kanal fişleri ve kombinasyon (elektrik + pnömatik) bağlantılar için kilitleme ekipmanları ve fiş kilitleme çantası sunar."
+   ],
+   "cesitler_title": "Fiş ve Pnömatik Kilitleme Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Elektrik fişi kilitleri",
+     "text": "Monofaze fişleri kilitleyen kompakt muhafazalar.",
+     "mods": [
+      "Küçük fiş BD-D41"
+     ]
+    },
+    {
+     "title": "Kanal (endüstriyel) fiş kilitleri",
+     "text": "Büyük endüstriyel fiş ve kanal bağlantıları için koruma kilitleri.",
+     "mods": [
+      "Kanal fişi BD-D45"
+     ]
+    },
+    {
+     "title": "Kombinasyon elektrik + pnömatik",
+     "text": "Hem elektrik fişlerine hem pnömatik hızlı bağlantılara uyum sağlayan çok amaçlı model.",
+     "mods": [
+      "BD-D31"
+     ]
+    },
+    {
+     "title": "Fiş kilitleme çantası",
+     "text": "Büyük fişleri veya birden fazla fişi birlikte kilitlemek için kilitlenebilir çanta.",
+     "mods": [
+      "BD-D71"
+     ]
+    }
+   ],
+   "secim_intro": "Kilitlenecek bağlantının tipine ve boyutuna göre doğru ekipmanı seçin.",
+   "secim_head": [
+    "Bağlantı",
+    "Örnek kullanım",
+    "Önerilen model",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Küçük elektrik fişi",
+     "El aletleri, küçük makineler",
+     "BD-D41",
+     "Kompakt muhafaza"
+    ],
+    [
+     "Endüstriyel / kanal fişi",
+     "Üretim makineleri",
+     "BD-D45",
+     "Büyük fişler"
+    ],
+    [
+     "Pnömatik hızlı bağlantı",
+     "Havalı aletler",
+     "BD-D31",
+     "Elektrik + hava"
+    ],
+    [
+     "Çok büyük / çoklu fiş",
+     "Kaynak makineleri, kablo makaraları",
+     "BD-D71 çanta",
+     "Esnek kullanım"
+    ],
+    [
+     "Hava hattı vanası",
+     "Kompresör hatları",
+     "Vana kilitleri",
+     "Hat izolasyonu için"
+    ]
+   ],
+   "secim_note": "Pnömatik sistemlerde bağlantıyı kilitlemeden önce hattaki basıncı boşaltmayı unutmayın.",
+   "nasil_title": "Doğru fiş ve pnömatik kilitleme ekipmanı nasıl seçilir?",
+   "nasil": [
+    [
+     "Fiş boyutu",
+     "Fişin en geniş ölçüsünü ölçün; muhafazanın içine rahatça girmeli."
+    ],
+    [
+     "Bağlantı tipi",
+     "Elektrik, pnömatik veya her ikisi için mi kullanılacağını belirleyin."
+    ],
+    [
+     "Basınç boşaltma",
+     "Pnömatik hatlarda kilitlemeden önce kalıntı basıncı boşaltın."
+    ],
+    [
+     "Kilit + etiket",
+     "Muhafazaya emniyet asma kilidi ve uyarı etiketi ekleyin."
+    ],
+    [
+     "Hat izolasyonu",
+     "Basınçlı hava hattının tamamı için vana kilitleri kullanın."
+    ]
+   ],
+   "kullanim_title": "Pnömatik Bağlantı Kilitleme Ekipmanları Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Atölyeler",
+     "Fişli tezgâh makineleri ve el aletlerinin bakımı."
+    ],
+    [
+     "Pnömatik hatlar",
+     "Havalı aletler ve hızlı bağlantılar."
+    ],
+    [
+     "Üretim hatları",
+     "Fişli makinelerin bakım ve temizliği."
+    ],
+    [
+     "Şantiye ve saha",
+     "Kaynak makineleri ve kablo makaraları."
+    ]
+   ],
+   "faq": [
+    [
+     "Fişi çekmek yeterli değil mi?",
+     "Hayır. Çekilen fiş başka biri tarafından farkında olmadan tekrar takılabilir. Fiş kilitlenip etiketlendiğinde bu risk ortadan kalkar."
+    ],
+    [
+     "Pnömatik Bağlantı Kilitleme Ekipmanları fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel pnömatik bağlantı kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Hangi fişler için uygundur?",
+     "Küçük monofaze fişlerden endüstriyel kanal fişlerine kadar farklı boyutlar için modellerimiz vardır. Çok büyük fişler için fiş kilitleme çantası kullanılabilir."
+    ],
+    [
+     "Pnömatik bağlantı nasıl kilitlenir?",
+     "Hattaki basınç boşaltılır, hızlı bağlantı ucu kombinasyon kilitleme cihazının içine alınır ve cihaz kilitlenir. Hattın tamamı için vana kilidi de kullanılabilir."
+    ],
+    [
+     "Birden fazla kişi aynı fiş kilidine kilit takabilir mi?",
+     "Muhafazaya bir çoklandırıcı eklenerek birden fazla kişi kendi kilidini takabilir."
+    ],
+    [
+     "Fiş kilidi elektrik çarpmasına karşı koruma sağlar mı?",
+     "Fiş kilidi, cihazın yeniden enerjilenmesini engelleyerek bakım yapan kişiyi korur. Ancak bakım öncesinde cihazın enerjisiz olduğunun doğrulanması gerekir."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-D31",
+    "Kombinasyon Elektrik ve Pnömatik Fiş Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-D41",
+    "Küçük Elektrik Fişi Kilitleme Cihazı"
+   ],
+   [
+    "BD-D45",
+    "Kanal Fişi Koruma Kilidi"
+   ],
+   [
+    "BD-D71",
+    "Fiş Kilitleme Çantası"
+   ],
+   [
+    "BD-E81",
+    "ABS Plastik Elektrik Fişi Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-Q31",
+    "Ayarlanabilir Gaz Silindiri Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-Q01",
+    "Pnömatik Hızlı Bağlantı Kesme Kilidi"
+   ],
+   [
+    "BD-Q21",
+    "Plastik Silindir Tank Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-Q11",
+    "Pnömatik Gaz ve Hava Kaynağı Kilitleme Ekipmanı"
+   ]
+  ]
+ }
+}

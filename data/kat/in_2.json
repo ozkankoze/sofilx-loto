@@ -1,0 +1,658 @@
+{
+ "vana": {
+  "sofilx_category_name": "Vana Kilitleme Ekipmanları",
+  "sofilx_short": "Küresel, kelebek, sürgülü ve tapa vanalar için kilitler.",
+  "source": {
+   "lead": "Vana Kilitleme Ekipmanları – İş güvenliği ve enerji izolasyonu için tasarlanmış vana kilitleme çözümleri. Manuel ve otomatik vanaların yetkisiz kullanımını önleyerek güvenliği artırır. Farklı vana tiplerine uyumlu, dayanıklı ve LOTO prosedürlerine uygun kilitleme sistemleri sunar.",
+   "chips": [
+    "Küresel, kelebek, sürgülü vana",
+    "Kör flanş ve tapa vana",
+    "Ayarlanabilir & universal",
+    "25+ model"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Vana Kilitleme Ekipmanları"
+    ],
+    [
+     "p",
+     "Vana kilitleme ekipmanları, iş güvenliği ve enerji izolasyonu kapsamında kullanılan kilitleme/etiketleme (LOTO) çözümleridir. Bu ekipmanlar, manuel ve otomatik vanaların yetkisiz açılmasını önleyerek iş kazalarını ve beklenmedik enerji akışlarını engellemek için tasarlanmıştır."
+    ],
+    [
+     "p",
+     "Farklı vana tiplerine uyumlu olarak üretilen bu kilitleme cihazları, küresel vanalar, kelebek vanalar, sürgülü vanalar ve silindirik vanalar gibi çeşitli sistemlerde güvenli kullanım sağlar. Kimya, petrol, gaz, enerji ve su tesisleri gibi endüstriyel alanlarda yaygın olarak tercih edilir."
+    ],
+    [
+     "p",
+     "Dayanıklı malzemelerden üretilen vana kilitleme cihazları, korozyona, kimyasallara ve zorlu hava koşullarına dayanıklıdır. İş güvenliği standartlarına uygun olarak tasarlanan bu sistemler, çalışanların güvenliğini sağlamak ve operasyonel riskleri en aza indirmek için kritik öneme sahiptir."
+    ],
+    [
+     "h2",
+     "Vana Kilitleme Ekipmanları Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Petrol ve Gaz Sektörü → Boru hatları ve rafinerilerde akış kontrolünü güvence altına almak için kullanılır."
+    ],
+    [
+     "li",
+     "Kimya ve İlaç Endüstrisi → Kimyasal madde taşıyan boru sistemlerini izole ederek güvenli çalışma ortamı sağlar."
+    ],
+    [
+     "li",
+     "Su Arıtma ve Atık Yönetimi → Su ve atık sistemlerinin kontrolsüz açılmasını önlemek için kullanılır."
+    ],
+    [
+     "li",
+     "Enerji ve Elektrik Santralleri → Buhar, gaz ve sıvı akışlarının güvenli şekilde kapatılmasını sağlar."
+    ],
+    [
+     "li",
+     "Gıda ve İçecek Üretimi → Sıvı ve gaz akışlarını düzenleyerek hijyen ve güvenlik standartlarını korur."
+    ],
+    [
+     "li",
+     "Fabrika ve Üretim Tesisleri → Üretim hatlarında bulunan vanaların yanlışlıkla açılmasını önleyerek operasyonel güvenliği artırır."
+    ]
+   ],
+   "def": "İpucuVana tipini (kollu mu, volanlı mı) ve boru/kol ölçüsünü bilmek, doğru kilidi seçmenin en hızlı yoludur.",
+   "nedir_title": "Vana Kilitleme Ekipmanı Nedir?",
+   "nedir": [
+    "Vana kilitleme ekipmanları (vana kilidi, küresel vana kilidi, kelebek vana kilidi), boru hatlarındaki su, buhar, gaz, hava veya kimyasal akışını kontrol eden vanaların bakım sırasında açılmasını engelleyen LOTO cihazlarıdır. Vana kapalı konuma alınır, kilitleme cihazı kolu ya da volanı saracak şekilde takılır ve üzerine emniyet asma kilidi ile uyarı etiketi eklenir.",
+    "Basınçlı veya sıcak akışkan taşıyan hatlarda yanlışlıkla açılan tek bir vana ciddi yanık, zehirlenme veya patlama riskine yol açabilir. Bu nedenle vana izolasyonu, LOTO programlarının elektrik izolasyonu kadar kritik parçasıdır.",
+    "Vanaların tipi ve ölçüsü çok çeşitli olduğundan Sofilx LOTO; küresel vana, kelebek vana, sürgülü (simit) vana, kör flanş ve tapa vanalar için ayarlanabilir ve universal modellerle 25’ten fazla vana kilitleme çözümü sunar."
+   ],
+   "cesitler_title": "Vana Kilitleme Ekipmanı Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Küresel vana kilitleri",
+     "text": "Çeyrek tur kollu vanalar için kolu kapalı konumda sabitleyen modeller. Ayarlanabilir, büyük boy, flanşlı ve metal seçenekler.",
+     "mods": [
+      "Ayarlanabilir BD-F01",
+      "Büyük boy BD-F07",
+      "Metal BD-F03"
+     ]
+    },
+    {
+     "title": "Kelebek vana kilitleri",
+     "text": "Kollu kelebek vanaların kolunu ve tetiğini kilitleyen modeller; çekme kulplu ve büyük boy seçenekler.",
+     "mods": [
+      "BD-F21",
+      "Ayarlanabilir BD-F22",
+      "Büyük BD-BVL51"
+     ]
+    },
+    {
+     "title": "Sürgülü (simit) vana kilitleri",
+     "text": "Volanlı vanaların volanını tamamen kapatarak döndürülmesini engelleyen modeller.",
+     "mods": [
+      "BD-F16",
+      "Simit vana"
+     ]
+    },
+    {
+     "title": "Universal vana kilitleri",
+     "text": "Kol ve kablo kombinasyonuyla farklı vana tiplerine uyum sağlayan, tek kollu ve çift blokaj kollu modeller.",
+     "mods": [
+      "BD-F32",
+      "BD-F33",
+      "BD-F35"
+     ]
+    },
+    {
+     "title": "Kör flanş kilitleri",
+     "text": "Boru hattının flanş bağlantısından tamamen ayrıldığı izolasyonlarda flanşın sökülmesini engeller.",
+     "mods": [
+      "Kör flanş"
+     ]
+    },
+    {
+     "title": "Tapa vana ve özel uygulamalar",
+     "text": "Tapa vanalar, kalıcı montajlı (perma-mount) kilitler ve vana kilitleme çantaları.",
+     "mods": [
+      "Tapa vana",
+      "Perma-mount",
+      "Çanta"
+     ]
+    }
+   ],
+   "secim_intro": "Vananın tipini ve ölçüsünü belirleyin; aşağıdaki tablo ilk seçim için yol gösterir.",
+   "secim_head": [
+    "Vana tipi",
+    "Kontrol şekli",
+    "Önerilen model",
+    "Rehber"
+   ],
+   "secim_rows": [
+    [
+     "Küresel vana (küçük–orta)",
+     "Çeyrek tur kol",
+     "Ayarlanabilir BD-F01",
+     "Küresel vana →"
+    ],
+    [
+     "Küresel vana (büyük)",
+     "Uzun kol",
+     "Büyük boy BD-F07",
+     "Küresel vana →"
+    ],
+    [
+     "Kelebek vana",
+     "Tetikli kol",
+     "BD-F21 / BD-F22",
+     "Vana grubu →"
+    ],
+    [
+     "Sürgülü (simit) vana",
+     "Volan",
+     "BD-F16",
+     "Sürgülü vana →"
+    ],
+    [
+     "Farklı / karışık vanalar",
+     "Değişken",
+     "Universal BD-F32",
+     "—"
+    ],
+    [
+     "Kör flanş",
+     "Flanş bağlantısı",
+     "Kör flanş kilidi",
+     "—"
+    ]
+   ],
+   "secim_note": "Volan çapı ve kol ölçüleri model sayfalarında yer alır. Ölçüden emin değilseniz fotoğraf gönderin.",
+   "nasil_title": "Doğru vana kilitleme ekipmanı nasıl seçilir?",
+   "nasil": [
+    [
+     "Vana tipi",
+     "Kollu (küresel / kelebek) mu, volanlı (sürgülü) mu olduğunu belirleyin."
+    ],
+    [
+     "Ölçü",
+     "Boru çapını, kol uzunluğunu veya volan çapını ölçün; ayarlanabilir modeller birden fazla ölçüye uyar."
+    ],
+    [
+     "Ortam",
+     "Sıcak, kimyasal veya dış ortamlarda metal ya da dayanıklı malzemeli modeller tercih edin."
+    ],
+    [
+     "Çoklu vana",
+     "Birbirine yakın birçok vanayı tek seferde kilitlemek için kablo kilitleri kullanın."
+    ],
+    [
+     "Grup çalışması",
+     "Aynı vanada birden fazla kişi çalışacaksa çoklandırıcı ekleyin."
+    ],
+    [
+     "Hazır çözüm",
+     "Farklı vana tiplerini kapsayan vana kilitleme setlerini inceleyin."
+    ]
+   ],
+   "kullanim_title": "Vana Kilitleme Ekipmanları Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Su ve atık su hatları",
+     "Pompa istasyonları, arıtma tesisleri ve şebeke bakımı."
+    ],
+    [
+     "Buhar ve sıcak su",
+     "Kazan daireleri ve ısı merkezlerinde yanık riskine karşı izolasyon."
+    ],
+    [
+     "Kimya ve petrokimya",
+     "Kimyasal hatlarda kör flanş ve vana izolasyonu."
+    ],
+    [
+     "Gaz ve basınçlı hava",
+     "Doğalgaz ve hava hatlarında güvenli bakım."
+    ]
+   ],
+   "faq": [
+    [
+     "Vana kilidi nasıl seçilir?",
+     "Önce vananın tipini (küresel, kelebek, sürgülü) ve ölçüsünü belirleyin. Kollu vanalar için kol kilitleri, volanlı vanalar için volanı saran kilitler, karışık vanalar için universal modeller seçilir."
+    ],
+    [
+     "Vana Kilitleme Ekipmanları fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel vana kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Küresel vana ile kelebek vana kilidi aynı mı?",
+     "Hayır. Küresel vana kilitleri çeyrek tur kolu, kelebek vana kilitleri ise tetikli kolu kapalı konumda sabitler. Universal modeller her iki tipe de uyum sağlayabilir."
+    ],
+    [
+     "Volanlı vana nasıl kilitlenir?",
+     "Sürgülü (simit) vana kilitleri volanın üzerini tamamen kapatarak döndürülmesini engeller. Volan çapına uygun boyut seçilmelidir."
+    ],
+    [
+     "Birden fazla vanayı tek kilitle kilitleyebilir miyim?",
+     "Evet, kablo kilitleme ekipmanlarıyla birbirine yakın birden fazla vana tek kabloyla bağlanıp kilitlenebilir."
+    ],
+    [
+     "Vana kilitleri dış ortama dayanıklı mı?",
+     "Modellerimiz endüstriyel ortamlar için dayanıklı malzemelerden üretilir. Kimyasal veya aşırı sıcak ortamlar için metal modelleri tercih etmenizi öneririz."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-BVL31",
+    "Çekme Kulplu Kelebek Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-BVL51",
+    "Ayarlanabilir Büyük Kelebek Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F01",
+    "Ayarlanabilir Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F01D",
+    "Ayarlanabilir Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F02",
+    "Büyük Boy Ayarlanabilir Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F03/F04",
+    "Metal Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F05A",
+    "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F06A",
+    "Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F07",
+    "Büyük Boy Ayarlanabilir Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F08",
+    "Ayarlanabilir Flanşlı Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F09/F09X",
+    "Perma-Mount Küresel Vana Kilitleme"
+   ],
+   [
+    "BD-F10",
+    "Küresel Vana Kilitleme Çantası"
+   ],
+   [
+    "BD-F20",
+    "Ayarlanabilir Kelebek Vana Kilitleme"
+   ],
+   [
+    "BD-F16",
+    "Ayarlanabilir Sürgülü Vana Kilidi"
+   ],
+   [
+    "BD-F21",
+    "Kelebek Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F22",
+    "Ayarlanabilir Kelebek Vana Kilitleme"
+   ],
+   [
+    "BD-F31/F31S",
+    "Tek Kollu Universal Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F32/F32X",
+    "Çift Blokaj Kollu Universal Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F33/F33X",
+    "1.8M Kablo Destekli Universal Vana Kilitleme"
+   ],
+   [
+    "BD-F34",
+    "Universal Kelebek Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F35/F35X",
+    "1.8M Kablolu Destek Çubuklu Universal Vana Kilitleme"
+   ],
+   [
+    "BD-F36-1/F36-2",
+    "Kelebek Vana Sıkıştırma Ekipmanı"
+   ],
+   [
+    "BD-F37-1/F37-2",
+    "Çekme Kulplu Kelebek Vana Kilitleme"
+   ],
+   [
+    "BD-F38",
+    "Kulplu Metal Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F41/44",
+    "Tapa Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-FL01/FL02/FL03",
+    "Kör Flanş Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F11",
+    "Serisi Simit Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F06",
+    "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F36",
+    "Evrensel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F05",
+    "Ayarlanabilir Küresel Vana Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-F15-PLUS",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (330–450 mm) Plus"
+   ],
+   [
+    "BD-F14",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (165–254 mm)"
+   ],
+   [
+    "BD-F13",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (127–165 mm)"
+   ],
+   [
+    "BD-F15",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (254–330 mm)"
+   ],
+   [
+    "BD-F12",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (64–127 mm)"
+   ],
+   [
+    "BD-F15B",
+    "Polipropilen Sürgülü Vana Kilitleme Ekipmanı (450–600 mm)"
+   ]
+  ]
+ },
+ "kablo": {
+  "sofilx_category_name": "Kablo Kilitleme Ekipmanları",
+  "sofilx_short": "Birden fazla noktayı tek kilitle güvenceye alan ayarlanabilir kablolar.",
+  "source": {
+   "lead": "Sofilx LOTO kablo kilitleme ekipmanları, enerji kaynaklarını izole ederek iş güvenliğini sağlar. Esnek ve dayanıklı yapısıyla vanalar, devre kesiciler ve enerji bağlantı noktalarında kullanılabilir. Farklı uzunluk ve renk seçenekleriyle maksimum güvenlik sunar.",
+   "chips": [
+    "Tek cihazla çoklu nokta",
+    "Çelik ve yalıtkan kablo",
+    "Ayarlanabilir uzunluk",
+    "Geri çekilebilir modeller"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Kablo Kilitleme Ekipmanları"
+    ],
+    [
+     "p",
+     "Kablo kilitleme ekipmanları, iş güvenliği ve kilitleme/etiketleme (LOTO) prosedürleri kapsamında kullanılan güvenlik cihazlarıdır. Esnek kablo mekanizması sayesinde vanalar, devre kesiciler ve enerji bağlantı noktaları gibi farklı ekipmanların yetkisiz açılmasını önler."
+    ],
+    [
+     "p",
+     "Farklı uzunluk ve malzeme seçenekleriyle sunulan bu ekipmanlar, elektrik, endüstriyel bakım ve enerji tesislerinde yaygın olarak kullanılır. Çok yönlü yapısı sayesinde birden fazla noktayı aynı anda kilitleme avantajı sunar, böylece iş kazalarının önüne geçer."
+    ],
+    [
+     "h2",
+     "Kablo Kilitleme Ekipmanları Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Elektrik Panoları: Devre kesicileri ve elektrik bağlantı noktalarını kilitleyerek yetkisiz erişimi önler."
+    ],
+    [
+     "li",
+     "Endüstriyel Tesisler: Makine ve ekipman bakımında enerji kaynaklarını güvenli şekilde izole eder."
+    ],
+    [
+     "li",
+     "Petrol, Gaz ve Kimya Sektörü: Tehlikeli madde taşıyan boru hatları ve vanaları güvence altına alır."
+    ],
+    [
+     "li",
+     "Üretim ve Fabrika Ortamları: Mekanik ve elektrikli sistemlerin kontrolsüz çalışmasını engeller."
+    ],
+    [
+     "li",
+     "Tersaneler ve Enerji Santralleri: Yüksek gerilim hatlarında ve büyük enerji sistemlerinde güvenliği artırır."
+    ]
+   ],
+   "def": "Ne zaman kablo kilidi?Kilitlenecek nokta standart bir cihaza uymuyorsa ya da birden fazla noktanın tek seferde kilitlenmesi gerekiyorsa.",
+   "nedir_title": "Kablo Kilitleme Ekipmanı Nedir?",
+   "nedir": [
+    "Kablo kilitleme ekipmanları, esnek bir çelik veya yalıtkan kablo yardımıyla bir ya da birden fazla enerji izolasyon noktasını aynı anda kilitleyen LOTO cihazlarıdır. Kablo, vana kollarından, şalter deliklerinden veya kapak kulplarından geçirilir, gerdirilir ve kilit gövdesine emniyet asma kilidi takılır.",
+    "Standart vana veya şalter kilitlerinin oturmadığı, düzensiz şekilli ya da birbirine çok yakın kilitleme noktalarında kablo kilidi en pratik çözümdür. Örneğin bir boru hattındaki birkaç vanayı tek kabloyla bağlayarak hepsini birlikte kilitleyebilirsiniz.",
+    "Sofilx LOTO; ekonomik, çok amaçlı, ayarlanabilir, geri çekilebilir ve paslanmaz çelik kablolu modellerle farklı uzunluk ve kullanım ihtiyaçlarına uygun 11 kablo kilitleme modeli sunar."
+   ],
+   "cesitler_title": "Kablo Kilitleme Ekipmanı Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Ayarlanabilir kablo kilitleri",
+     "text": "Kablo boyu ihtiyaca göre gerdirilip sabitlenir; vana grupları ve pano kapakları için en çok tercih edilen tip.",
+     "mods": [
+      "BD-L01",
+      "BD-L02",
+      "BD-L11"
+     ]
+    },
+    {
+     "title": "Çok amaçlı kablo kilitleri",
+     "text": "Birden fazla kişinin kilit takabileceği delikli gövdeye sahip modeller; grup çalışmalarında hasp ihtiyacını azaltır.",
+     "mods": [
+      "BD-L12",
+      "BD-L22",
+      "BD-L31"
+     ]
+    },
+    {
+     "title": "Geri çekilebilir kablo kilidi",
+     "text": "Kablo gövde içine sarılarak saklanır; dolaşmaz, taşıması kolaydır.",
+     "mods": [
+      "BD-L41"
+     ]
+    },
+    {
+     "title": "Paslanmaz çelik kablolu modeller",
+     "text": "Nemli, kimyasal veya dış ortamlarda korozyona dayanıklı kullanım.",
+     "mods": [
+      "BD-L61"
+     ]
+    },
+    {
+     "title": "Mikro ve evrensel kablo kilitleri",
+     "text": "Dar alanlar, küçük kollar ve kompakt kilitleme noktaları için ince kablolu modeller.",
+     "mods": [
+      "Mikro BD-L45",
+      "Evrensel BD-L62"
+     ]
+    },
+    {
+     "title": "Ekonomik kablo kilidi",
+     "text": "Temel ihtiyaçlar ve geniş ölçekli dağıtım için uygun maliyetli çözüm.",
+     "mods": [
+      "BD-L21"
+     ]
+    }
+   ],
+   "secim_intro": "Kilitleme noktası sayısı, ortam koşulları ve kişi sayısına göre doğru kablo kilidini seçin.",
+   "secim_head": [
+    "Uygulama",
+    "İhtiyaç",
+    "Önerilen model",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Birden fazla vana",
+     "Tek kabloyla bağlama",
+     "Ayarlanabilir BD-L01",
+     "Kablo boyunu vana arası mesafeye göre seçin"
+    ],
+    [
+     "Grup bakım çalışması",
+     "Çok kişili kilitleme",
+     "Çok amaçlı BD-L12",
+     "Her çalışan kendi kilidini takar"
+    ],
+    [
+     "Pako şalter / kapak kulpu",
+     "Düzensiz nokta",
+     "Evrensel BD-L62",
+     "Hasp ile birlikte kullanılabilir"
+    ],
+    [
+     "Nemli / dış ortam",
+     "Korozyon dayanımı",
+     "Paslanmaz BD-L61",
+     "Kimyasal ve denizcilik uygulamaları"
+    ],
+    [
+     "Sık taşınan set",
+     "Kompakt ve düzenli",
+     "Geri çekilebilir BD-L41",
+     "Kablo gövdeye sarılır"
+    ],
+    [
+     "Dar alan",
+     "İnce kablo",
+     "Mikro BD-L45",
+     "Küçük kol ve delikler"
+    ]
+   ],
+   "secim_note": "Kablo uzunluğu ve çapı her modelin ürün sayfasında belirtilmiştir.",
+   "nasil_title": "Doğru kablo kilitleme ekipmanı nasıl seçilir?",
+   "nasil": [
+    [
+     "Kablo uzunluğu",
+     "Bağlanacak en uzak iki nokta arasındaki mesafeyi ölçün ve pay bırakın."
+    ],
+    [
+     "Kablo malzemesi",
+     "Elektriksel uygulamalarda yalıtkan kaplı, nemli ortamlarda paslanmaz çelik kablo tercih edin."
+    ],
+    [
+     "Kişi sayısı",
+     "Çok kişili işlerde çok amaçlı (çok delikli) gövdeler veya çoklandırıcılar kullanın."
+    ],
+    [
+     "Gerdirme",
+     "Kablo, kilitlenen kolun hareket etmeyeceği kadar gergin olmalı; boşluk bırakılmamalı."
+    ],
+    [
+     "Etiket",
+     "Kablo kilidinin üzerine mutlaka bir EKED uyarı etiketi ekleyin."
+    ]
+   ],
+   "kullanim_title": "Kablo Kilitleme Ekipmanları Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Vana grupları",
+     "Manifoldlar ve paralel hatlardaki çok sayıda vananın birlikte kilitlenmesi."
+    ],
+    [
+     "Pako ve döner şalterler",
+     "Standart kilit uymayan döner kollu şalterlerin sabitlenmesi."
+    ],
+    [
+     "Makine kapakları",
+     "Koruyucu kapak ve muhafazaların açılmasının engellenmesi."
+    ],
+    [
+     "Denizcilik ve dış saha",
+     "Gemi, liman ve açık alan tesislerinde korozyona dayanıklı kilitleme."
+    ]
+   ],
+   "faq": [
+    [
+     "Kablo kilidi hangi durumlarda kullanılır?",
+     "Standart vana veya şalter kilidinin oturmadığı düzensiz noktalarda ve birden fazla kilitleme noktasının tek cihazla bağlanması gereken durumlarda kablo kilidi kullanılır."
+    ],
+    [
+     "Kablo Kilitleme Ekipmanları fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel kablo kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Kablo kilidi tek başına yeterli mi?",
+     "Kablo kilidi bir izolasyon cihazıdır; üzerine mutlaka kişisel emniyet asma kilidi ve uyarı etiketi takılmalıdır."
+    ],
+    [
+     "Kablo uzunluğunu nasıl seçmeliyim?",
+     "Bağlanacak noktalar arasındaki toplam mesafeyi ölçün ve kabloyu geçirip gerdirmek için pay bırakın. Uzunluk bilgisi her modelin sayfasında yer alır."
+    ],
+    [
+     "Birden fazla kişi aynı kablo kilidine kilit takabilir mi?",
+     "Çok amaçlı modellerde gövdede birden fazla kilit deliği bulunur. Standart modellerde ise gövdeye bir çoklandırıcı (hasp) eklenir."
+    ],
+    [
+     "Paslanmaz çelik kablo ne zaman gerekir?",
+     "Nemli, kimyasal maddeye maruz kalan, dış ortamda veya denizcilik sektöründe kullanılacak kilitlerde korozyon dayanımı için paslanmaz çelik kablo önerilir."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-L01",
+    "Ayarlanabilir Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L02",
+    "Ayarlanabilir Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L11-1/L11-2",
+    "Ayarlanabilir Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L12",
+    "Çok Amaçlı Ayarlanabilir Kablo Kilitleme Cihazı"
+   ],
+   [
+    "BD-L21",
+    "Ekonomik Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L22",
+    "Çok Amaçlı Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L31",
+    "Yuvarlak Çok Amaçlı Kablo Kilidi"
+   ],
+   [
+    "BD-L41",
+    "Geri Çekilebilir Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L42",
+    "Mikro Kablo Kilitleme Cihazı"
+   ],
+   [
+    "BD-L61",
+    "Paslanmaz Çelik Kablolu Çok Amaçlı Kablo Kilitleme Ekipmanı"
+   ],
+   [
+    "BD-L62",
+    "PVC Kaplamalı Çelik Kablo ile Evrensel Kablo Kilidi"
+   ],
+   [
+    "BD-L32",
+    "Paslanmaz Çelik Kablolu Tekerlek Tipi Kablo Kilidi"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{% macro card(p, lazy=True) -%}
+<article class="pc" data-cat="{{ p.cat }}" data-s="{{ p.code }} {{ p.name }} {{ p.catname }} {{ p.search or '' }}">
+ <a class="im" href="{{ p.path }}"><img src="{{ p.images[0].thumb if p.images else '/assets/sofilx-ikon.svg' }}" alt="{{ p.code }} {{ p.name }}" width="520" height="520" {% if lazy %}loading="lazy"{% endif %} decoding="async"></a>
+ <div class="bd">
+  <span class="code">{{ p.code }}</span>
+  <h3><a href="{{ p.path }}">{{ p.name }}</a></h3>
+  {% if p.swatches %}<div class="sw" aria-label="Renk seçenekleri">{% for s in p.swatches %}<i style="background:{{ s.hex }}" title="{{ s.name }}"></i>{% endfor %}</div>{% endif %}
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="{{ p.path }}">İncele</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="{{ p.add_code or p.code }}" data-name="{{ p.add_name or p.name }}" data-img="{{ p.images[0].thumb if p.images else '' }}" data-url="{{ p.path }}">+ Teklif</button>
+  </div>
+ </div>
+</article>
+{%- endmacro %}

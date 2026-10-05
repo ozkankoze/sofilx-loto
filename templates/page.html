@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="ph"><div class="wrap">
+ <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span>{% if parent %}<a href="{{ parent[1] }}">{{ parent[0] }}</a><span aria-hidden="true">/</span>{% endif %}<span>{{ crumb or h1 }}</span></nav>
+ <h1>{{ h1 }}</h1>{% if intro %}<p>{{ intro }}</p>{% endif %}
+</div></section>
+{{ body|safe }}
+{% if not no_cta %}{% include "_cta.html" %}{% endif %}
+{% endblock %}

@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="ph"><div class="wrap"><nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><span>Blog</span></nav><h1>Blog</h1><p>LOTO / EKED uygulamaları, iş güvenliği ve doğru ekipman seçimi üzerine yazılar.</p></div></section>
+<section class="sec-sm"><div class="wrap"><div class="posts">{% for b in posts %}{% include "_post_card.html" %}{% endfor %}</div></div></section>
+{% include "_cta.html" %}
+{% endblock %}

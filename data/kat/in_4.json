@@ -1,0 +1,644 @@
+{
+ "istasyon": {
+  "sofilx_category_name": "LOTO İstasyonları",
+  "sofilx_short": "Kilit, etiket ve ekipmanları bir arada tutan duvar ve taşınabilir istasyonlar.",
+  "source": {
+   "lead": "Etiket İstasyon Modelleri, Lockout & Tagout (LOTO) sistemlerinde kullanılan etiketlerin düzenli, erişilebilir ve güvenli bir şekilde saklanmasını sağlayan duvar tipi veya taşınabilir düzenleme panolarıdır. Genellikle bakım ve enerji izolasyonu sırasında kullanılan uyarı etiketlerini, asma kilitleri ve kilitleme aparatlarını bir arada tutmak için tasarlanmıştır.",
+   "chips": [
+    "EKED / LOTO istasyonu",
+    "Kapaklı ve kapaksız",
+    "Plastik, akrilik, metal",
+    "Duvara monte & taşınabilir",
+    "Anahtar yönetimi"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Eked İstasyon Modelleri Nerelerde Kullanılır?"
+    ],
+    [
+     "p",
+     "Etiket istasyonları, iş güvenliği uygulamalarının yoğun olduğu endüstriyel tesisler, fabrikalar, enerji santralleri, bakım-onarım atölyeleri ve lojistik merkezleri gibi alanlarda yaygın olarak kullanılır."
+    ],
+    [
+     "p",
+     "Özellikle Lockout & Tagout (LOTO) prosedürlerinin uygulandığı yerlerde;"
+    ],
+    [
+     "li",
+     "Elektrik panoları,"
+    ],
+    [
+     "li",
+     "Makine bakım alanları,"
+    ],
+    [
+     "li",
+     "Üretim hatları,"
+    ],
+    [
+     "li",
+     "Tehlikeli enerji kaynaklarının bulunduğu bölgeler,"
+    ],
+    [
+     "li",
+     "Atölye ve bakım odalarında,"
+    ],
+    [
+     "p",
+     "kilitleme ve etiketleme ekipmanlarının düzenli saklanması, hızlı erişim sağlanması ve bilgi karmaşasının önlenmesi amacıyla tercih edilir. Bu istasyonlar, iş kazalarını önlemeye yönelik etkili bir organizasyon aracı olarak görev yapar."
+    ],
+    [
+     "h2",
+     "Eked İstasyon Modelleri"
+    ],
+    [
+     "p",
+     "Etiket İstasyon Modelleri, Lockout & Tagout (LOTO) sistemlerinde kullanılan etiketlerin düzenli, erişilebilir ve güvenli bir şekilde saklanmasını sağlayan duvar tipi veya taşınabilir düzenleme panolarıdır. Genellikle bakım ve enerji izolasyonu sırasında kullanılan uyarı etiketlerini, asma kilitleri ve kilitleme aparatlarını bir arada tutmak için tasarlanmıştır."
+    ],
+    [
+     "p",
+     "Kullanım amacı, ekipmanın kim tarafından, ne zaman kilitlendiğini açıkça göstermek ve iş güvenliği sürecinde net bilgi akışı sağlamaktır. Farklı sayıda etiket ve kilit kapasitesi sunan modelleriyle, iş yerlerinin büyüklüğüne ve ihtiyacına göre özelleştirilebilir."
+    ]
+   ],
+   "def": "Konum önerisiİstasyonu, kilitleme yapılan noktaya en yakın ve herkesin görebileceği bir duvara monte edin.",
+   "nedir_title": "EKED (LOTO) İstasyonu Nedir?",
+   "nedir": [
+    "EKED istasyonu — diğer adlarıyla LOTO istasyonu, EKED kilitleme istasyonu veya LOTO kilit istasyonu — emniyet asma kilitlerinin, çoklandırıcıların, kilitleme cihazlarının ve uyarı etiketlerinin bir arada, düzenli ve görünür şekilde saklandığı duvar panosu veya dolaptır. Genellikle bakım alanlarının, pano odalarının veya üretim hatlarının girişine monte edilir.",
+    "İstasyon, LOTO programının sürekliliğini sağlar: ekipmanlar kaybolmaz, eksikler hemen fark edilir ve çalışan ihtiyaç duyduğu kilide saniyeler içinde ulaşır. Gölge panolu modeller her ekipmanın yerini gösterdiği için düzeni kendiliğinden korur.",
+    "Sofilx LOTO; kapaksız, kapaklı, akrilik, plastik ve metal gövdeli istasyonlar, metal LOTO dolapları, taşınabilir istasyonlar ve anahtar yönetim panolarıyla 20’den fazla istasyon modeli sunar."
+   ],
+   "cesitler_title": "EKED / LOTO İstasyonu Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Kapaksız istasyonlar",
+     "text": "Ekipmana en hızlı erişim; gölge panolu, mini ve plastik seçenekler.",
+     "mods": [
+      "Mini BD-B105",
+      "Plastik BD-B301",
+      "Akrilik"
+     ]
+    },
+    {
+     "title": "Kapaklı istasyonlar",
+     "text": "Toz, nem ve yetkisiz kullanıma karşı şeffaf veya kilitlenebilir kapaklı modeller.",
+     "mods": [
+      "BD-B101",
+      "BD-B103"
+     ]
+    },
+    {
+     "title": "Kombinasyon istasyonları",
+     "text": "Kilit, çoklandırıcı, cihaz ve etiketleri bir arada barındıran büyük kapasiteli modeller.",
+     "mods": [
+      "BD-B201",
+      "BD-B202",
+      "BD-B401"
+     ]
+    },
+    {
+     "title": "Metal LOTO dolapları",
+     "text": "Ağır sanayi ve geniş ekipman setleri için dayanıklı metal dolaplar.",
+     "mods": [
+      "BD-X07",
+      "BD-X09",
+      "BD-X07-6"
+     ]
+    },
+    {
+     "title": "Taşınabilir istasyonlar",
+     "text": "Sahada hareket eden ekipler için taşınabilir istasyon ve kilit askıları.",
+     "mods": [
+      "BD-X23",
+      "12’li askı"
+     ]
+    },
+    {
+     "title": "Anahtar ve izin kontrol",
+     "text": "Anahtar yönetimi ve grup kilit kutusu ile izin kontrolü sağlayan istasyonlar.",
+     "mods": [
+      "Anahtar istasyonu",
+      "İzin kontrol BD-X60"
+     ]
+    }
+   ],
+   "secim_intro": "Ekip büyüklüğü, ortam ve saklanacak ekipman miktarına göre istasyon seçin.",
+   "secim_head": [
+    "İhtiyaç",
+    "Ortam",
+    "Önerilen model",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Küçük ekip (birkaç kilit)",
+     "İç mekân",
+     "Kapaksız mini BD-B105",
+     "Hızlı erişim"
+    ],
+    [
+     "Orta ekip",
+     "Tozlu / nemli",
+     "Kapaklı BD-B101",
+     "Ekipmanı korur"
+    ],
+    [
+     "Kilit + cihaz + etiket",
+     "Bakım atölyesi",
+     "Kombinasyon BD-B201",
+     "Geniş kapasite"
+    ],
+    [
+     "Ağır sanayi",
+     "Zorlu ortam",
+     "Metal dolap BD-X09",
+     "Kilitlenebilir gövde"
+    ],
+    [
+     "Sahada hareketli ekip",
+     "Değişken",
+     "Taşınabilir BD-X23",
+     "Taşıma kolaylığı"
+    ],
+    [
+     "Anahtar kontrolü",
+     "Ofis / bakım şefliği",
+     "Anahtar istasyonu BD-B60",
+     "Anahtar takibi"
+    ]
+   ],
+   "secim_note": "İstasyonları kilit ve ekipmanlarla birlikte dolu olarak sunan EKED setlerimiz de mevcuttur.",
+   "nasil_title": "Doğru EKED istasyonu nasıl seçilir?",
+   "nasil": [
+    [
+     "Kapasite",
+     "Saklanacak kilit, çoklandırıcı ve cihaz sayısını belirleyin; büyüme payı bırakın."
+    ],
+    [
+     "Kapak",
+     "Tozlu, nemli veya yetkisiz erişim riski olan alanlarda kapaklı modeller seçin."
+    ],
+    [
+     "Malzeme",
+     "Genel kullanımda plastik/akrilik, ağır sanayide metal gövde tercih edin."
+    ],
+    [
+     "Konum",
+     "Kilitleme noktalarına yakın, görünür ve kolay erişilebilir bir duvar seçin."
+    ],
+    [
+     "Hazır set",
+     "İstasyonu ekipmanlarıyla birlikte almak için istasyonlu EKED setlerini inceleyin."
+    ]
+   ],
+   "kullanim_title": "Eked İstasyon Modelleri Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Üretim hatları",
+     "Hat başında ekipmanların hazır bulunması."
+    ],
+    [
+     "Pano odaları",
+     "Elektrik bakımı için kilit ve şalter cihazları."
+    ],
+    [
+     "Bakım atölyeleri",
+     "Tüm LOTO ekipmanlarının merkezi saklanması."
+    ],
+    [
+     "Vardiyalı işletmeler",
+     "Vardiya ekiplerinin ortak ekipman yönetimi."
+    ]
+   ],
+   "faq": [
+    [
+     "EKED istasyonu ile LOTO istasyonu arasında fark var mı?",
+     "Hayır. EKED istasyonu, LOTO istasyonu ve EKED kilitleme istasyonu aynı ürünü anlatır: kilitlerin, çoklayıcıların, kilitleme cihazlarının ve uyarı etiketlerinin düzenli saklandığı duvar panosu veya dolap."
+    ],
+    [
+     "EKED istasyonu fiyatları ne kadar?",
+     "Fiyat; istasyonun kapaklı / kapaksız olmasına, gövde malzemesine (plastik, akrilik, metal), kapasitesine ve boş ya da dolu (setli) olmasına göre değişir. Güncel fiyat listesi için WhatsApp hattımıza yazabilirsiniz."
+    ],
+    [
+     "EKED istasyonu zorunlu mu?",
+     "Mevzuat istasyonu doğrudan şart koşmasa da LOTO ekipmanlarının düzenli, erişilebilir ve kontrol altında tutulması etkin bir LOTO programı için büyük önem taşır. İstasyon bu düzeni sağlar."
+    ],
+    [
+     "Kapaklı mı kapaksız mı seçmeliyim?",
+     "Temiz iç mekânlarda hızlı erişim için kapaksız, tozlu veya nemli alanlarda ve yetkisiz kullanım riski olan yerlerde kapaklı model önerilir."
+    ],
+    [
+     "İstasyon boş mu gelir?",
+     "İstasyonlar ayrı olarak boş sunulur. Kilit ve cihazlarla dolu hazır çözüm isterseniz istasyonlu EKED setlerimizi tercih edebilirsiniz."
+    ],
+    [
+     "Montaj nasıl yapılır?",
+     "Duvara monte modeller dübel ve vida ile kolayca sabitlenir. Taşınabilir modeller montaj gerektirmez."
+    ],
+    [
+     "İstasyona logo veya özel yazı eklenebilir mi?",
+     "Toplu siparişlerde firma logosu ve özel bölüm yazıları için bizimle iletişime geçebilirsiniz."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-B31/B34",
+    "Metal Askı Ekipmanları"
+   ],
+   [
+    "BD-B101",
+    "Duvara Monte Edilebilen Kapaklı Loto İstasyonu"
+   ],
+   [
+    "BD-B102",
+    "Duvara Monte Edilebilen Kapaklı Loto İstasyonu"
+   ],
+   [
+    "BD-B103",
+    "Duvara Asılabilen Şeffaf Kapaklı Geniş Loto İstasyonu"
+   ],
+   [
+    "BD-B104",
+    "Duvara Asılabilen Loto İstasyonu"
+   ],
+   [
+    "BD-B105",
+    "Kapaksız Mini Loto İstasyonu"
+   ],
+   [
+    "BD-B201",
+    "Kombinasyon Gelişmiş Büyük Loto İstasyonu"
+   ],
+   [
+    "BD-B202",
+    "Kombinasyon Gelişmiş Büyük Kilit İstasyonu"
+   ],
+   [
+    "BD-B301",
+    "Kapaksız Plastik Loto İstasyonu"
+   ],
+   [
+    "BD-B302",
+    "Kapaksız Plastik Loto İstasyonu"
+   ],
+   [
+    "BD-B306A/B307A/B308A",
+    "Akrilik Kapakasız Loto İstasyonları"
+   ],
+   [
+    "BD-B401",
+    "Serisi Kombine Kilitleme İstasyonu"
+   ],
+   [
+    "BD-B41",
+    "Taşınabilir 12'li Kilit Askısı"
+   ],
+   [
+    "BD-B60",
+    "Kancalı Anahtar Yönetim İstasyonu"
+   ],
+   [
+    "BD-B7",
+    "Serisi Kapaksız Gölge Kilit İstasyonları"
+   ],
+   [
+    "BD-X07-6",
+    "Metal Kilit Dolabı"
+   ],
+   [
+    "BD-X07",
+    "Duvara Asılabilir Metal Loto Dolabı"
+   ],
+   [
+    "BD-X08-1",
+    "Metal Asma Kilit İstasyonu"
+   ],
+   [
+    "BD-X09",
+    "Serisi Metal Loto Dolabı"
+   ],
+   [
+    "BD-X23",
+    "Serisi Taşınabilir Kombinasyon Loto İstasyonu"
+   ],
+   [
+    "BD-X60",
+    "Grup Kilit Kutusu ile İzin Kontrol İstasyonu"
+   ],
+   [
+    "BD-B71-1",
+    "Alüminyum Kapaksız Duvara Asılabilen LOTO İstasyonu"
+   ],
+   [
+    "BD-B61",
+    "Metal Anahtar Saklama Dolabı"
+   ],
+   [
+    "BD-S62",
+    "Plastik Kapaksız Asma Kilit İstasyonu"
+   ],
+   [
+    "BD-X08",
+    "Metal Asma Kilit İstasyonu"
+   ]
+  ]
+ },
+ "kutu": {
+  "sofilx_category_name": "Grup Kilit Kutuları ve Çantalar",
+  "sofilx_short": "Grup kilitleme kutuları ve sahada taşınabilir LOTO çantaları.",
+  "source": {
+   "lead": "Grup Kilitleme Kutuları ve Eked Çantaları, birden fazla çalışanın aynı ekipman üzerinde güvenli şekilde çalışabilmesi için tasarlanmış, taşınabilir veya sabit yapılı LOTO ekipmanlarıdır. Kilit anahtarları merkezi olarak saklanır, sadece tüm çalışanlar kendi kilidini kaldırdığında erişim sağlanır. Güvenli, organize ve denetimli grup çalışmaları için ideal çözümdür.",
+   "chips": [
+    "12+1 ve 18+1 delikli kutular",
+    "Anahtar yönetim kutuları",
+    "Bel ve taşıma çantaları",
+    "Su geçirmez modeller"
+   ],
+   "seo_prose": [
+    [
+     "h2",
+     "Grup Kilitleme Kutuları ve Eked Çantaları Nerelerde Kullanılır?"
+    ],
+    [
+     "li",
+     "Endüstriyel üretim tesislerinde"
+    ],
+    [
+     "li",
+     "Elektrik, mekanik veya hidrolik sistemlerin bakım-onarım işlemlerinde"
+    ],
+    [
+     "li",
+     "Enerji santralleri ve trafo merkezlerinde"
+    ],
+    [
+     "li",
+     "Petrokimya ve rafineri tesislerinde"
+    ],
+    [
+     "li",
+     "Grup halinde yapılan tüm enerji izolasyonu gerektiren çalışmalarda"
+    ],
+    [
+     "p",
+     "Bu ekipmanlar, tüm çalışanların sürece dahil olduğunu göstererek yetkisiz erişimi önler ve kazaların önüne geçer. Aynı zamanda kilitleme sürecinde organizasyonu kolaylaştırır."
+    ],
+    [
+     "h2",
+     "Grup Kilitleme Kutuları ve Eked Çantaları"
+    ],
+    [
+     "p",
+     "Grup kilitleme kutuları ve eked çantaları, Lockout & Tagout (LOTO) prosedürlerinde kullanılan, birden fazla çalışanın aynı ekipman üzerinde eş zamanlı ve güvenli şekilde çalışmasını sağlayan güvenlik ekipmanlarıdır. Bu kutular, genellikle ekipmana ait birincil anahtarın içine yerleştirildiği ve yalnızca tüm çalışanların kişisel asma kilitlerini kaldırmasıyla erişim sağlanan, kilit paylaşımı ve kontrol noktası görevi gören sistemlerdir."
+    ],
+    [
+     "p",
+     "Eked çantaları ise aynı amaçla kullanılan taşınabilir versiyonlardır. Üzerlerinde uyarı etiketleri bulunabilir, anahtarların taşınması ve korunması için idealdir. Her iki ekipman da özellikle ekip çalışmasıyla yapılan bakım, onarım ve enerji izolasyonları sırasında, iş güvenliğini merkezi bir yapı üzerinden yürütmeye yardımcı olur."
+    ]
+   ],
+   "def": "Ne zaman grup kutusu?Kilitlenecek nokta sayısı ve çalışan sayısı birlikte arttığında; özellikle planlı duruş bakımlarında.",
+   "nedir_title": "Grup Kilitleme Kutusu Nedir?",
+   "nedir": [
+    "Grup kilitleme kutusu, çok sayıda kilitleme noktasının ve çalışanın olduğu büyük bakım işlerinde kullanılan LOTO ekipmanıdır. Yetkili kişi tüm enerji noktalarını kilitler ve bu kilitlerin anahtarlarını kutuya koyar; ardından ekipteki her çalışan kutuyu kendi kişisel kilidiyle kilitler.",
+    "Böylece onlarca noktaya ayrı ayrı onlarca kilit takmak gerekmez. Kutudaki anahtarlara, son çalışan kilidini çıkarmadan ulaşılamaz; yani enerji, ekipteki herkes işini bitirene kadar geri verilemez. Duruş bakımları ve büyük revizyonlar için en verimli yöntemdir.",
+    "EKED çantaları ise teknisyenin ihtiyaç duyduğu kilit, cihaz ve etiketleri sahaya düzenli ve güvenli şekilde taşımasını sağlar. Sofilx LOTO bel tipi, kişisel, mini, su geçirmez ve kilitlenebilir çanta seçenekleri sunar."
+   ],
+   "cesitler_title": "Grup Kutusu ve Çanta Çeşitleri",
+   "cesitler": [
+    {
+     "title": "Delikli grup LOTO kutuları",
+     "text": "Çok sayıda çalışanın kişisel kilidini takabildiği grup kilitleme kutuları.",
+     "mods": [
+      "12+1 BD-X04",
+      "18+1 BD-LK077",
+      "BD-X03"
+     ]
+    },
+    {
+     "title": "Anahtar yönetim kutuları",
+     "text": "Kilit anahtarlarının kontrollü saklanması ve takibi için kutular.",
+     "mods": [
+      "BD-X21",
+      "BD-X22"
+     ]
+    },
+    {
+     "title": "Taşınabilir LOTO kutuları",
+     "text": "Ekipmanları sahaya taşımak için sağlam plastik kutular.",
+     "mods": [
+      "BD-Z03S",
+      "BD-Z03L"
+     ]
+    },
+    {
+     "title": "Kilitlenebilir EKED çantası",
+     "text": "İçindeki ekipmanın yetkisiz kullanımını önleyen güvenlik kilitli çanta.",
+     "mods": [
+      "BD-Z02"
+     ]
+    },
+    {
+     "title": "Bel ve kişisel çantalar",
+     "text": "Teknisyenin ellerini serbest bırakan bel tipi ve kişisel çantalar.",
+     "mods": [
+      "3 gözlü bel çantası",
+      "Kişisel BD-8771C",
+      "Mini BD-8771D"
+     ]
+    },
+    {
+     "title": "Su geçirmez çanta",
+     "text": "Nemli ve dış ortamlarda ekipmanı koruyan su geçirmez model.",
+     "mods": [
+      "BD-8770A"
+     ]
+    }
+   ],
+   "secim_intro": "Ekip büyüklüğü ve sahaya taşıma ihtiyacına göre seçim yapın.",
+   "secim_head": [
+    "İhtiyaç",
+    "Ölçek",
+    "Önerilen model",
+    "Not"
+   ],
+   "secim_rows": [
+    [
+     "Planlı duruş bakımı",
+     "Orta ekip",
+     "12+1 grup kutusu",
+     "12 çalışan + 1 yetkili"
+    ],
+    [
+     "Büyük revizyon",
+     "Kalabalık ekip",
+     "18+1 grup kutusu",
+     "Daha fazla kilit kapasitesi"
+    ],
+    [
+     "Anahtar takibi",
+     "Tesis geneli",
+     "Anahtar yönetim kutusu",
+     "Kontrollü erişim"
+    ],
+    [
+     "Elektrikçi / teknisyen",
+     "Kişisel",
+     "Bel çantası",
+     "Eller serbest"
+    ],
+    [
+     "Sahada ekip seti",
+     "Ekip",
+     "Taşınabilir BD-Z03L",
+     "Geniş iç hacim"
+    ],
+    [
+     "Dış ortam",
+     "Değişken",
+     "Su geçirmez çanta",
+     "Nem ve yağmura karşı"
+    ]
+   ],
+   "secim_note": "Çantaları içleri dolu olarak tercih etmek isterseniz bel çantalı EKED setlerimize göz atın.",
+   "nasil_title": "Doğru grup kilitleme kutusu nasıl seçilir?",
+   "nasil": [
+    [
+     "Ekip büyüklüğü",
+     "Aynı anda kutuyu kilitleyecek maksimum kişi sayısını belirleyin."
+    ],
+    [
+     "Anahtar sayısı",
+     "Kutunun, kilitlenen noktaların tüm anahtarlarını alacak hacimde olması gerekir."
+    ],
+    [
+     "Taşınabilirlik",
+     "Sahada hareket eden ekipler için çanta veya taşınabilir kutu tercih edin."
+    ],
+    [
+     "Ortam",
+     "Nemli ve dış alanlarda su geçirmez modeller kullanın."
+    ],
+    [
+     "Prosedür",
+     "Grup kilitleme sırası ve sorumlu kişi yazılı LOTO prosedürünüzde tanımlanmalıdır."
+    ]
+   ],
+   "kullanim_title": "Grup Kilitleme Kutuları ve Eked Çantaları Nerelerde Kullanılır?",
+   "kullanim": [
+    [
+     "Duruş bakımları",
+     "Fabrikalarda planlı bakım ve revizyon dönemleri."
+    ],
+    [
+     "Enerji tesisleri",
+     "Çok sayıda izolasyon noktası olan santral ve trafo bakımları."
+    ],
+    [
+     "Kimya ve rafineri",
+     "Geniş boru hattı ve vana gruplarının izolasyonu."
+    ],
+    [
+     "Saha servis ekipleri",
+     "Teknisyenlerin ekipmanı çantayla taşıması."
+    ]
+   ],
+   "faq": [
+    [
+     "Grup kilitleme kutusu nasıl kullanılır?",
+     "Yetkili kişi tüm enerji noktalarını kilitler ve anahtarları kutuya koyar. Ardından ekipteki her çalışan kutuyu kendi kişisel kilidiyle kilitler. Son kilit çıkarılmadan anahtarlara ulaşılamaz."
+    ],
+    [
+     "Grup Kilitleme Kutuları ve Eked Çantaları fiyatları ne kadar?",
+     "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel grup kilitleme kutuları ve eked çantaları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+    ],
+    [
+     "Çoklandırıcı ile grup kutusu arasındaki fark nedir?",
+     "Çoklandırıcı tek bir izolasyon noktası için kullanılır. Grup kutusu ise çok sayıda izolasyon noktasının anahtarlarını tek merkezde toplar; kalabalık ekip ve çok noktalı işler için daha pratiktir."
+    ],
+    [
+     "12+1 ne demek?",
+     "12 delik ekip üyelerinin kişisel kilitleri, +1 delik ise sorumlu kişinin kilidi içindir."
+    ],
+    [
+     "EKED çantası boş mu gelir?",
+     "Çantalar ayrı olarak boş sunulur. İçi dolu çözüm isterseniz bel çantalı veya taşınabilir EKED setlerimizi tercih edebilirsiniz."
+    ],
+    [
+     "Anahtar yönetim kutusu ne işe yarar?",
+     "Kilit anahtarlarının kontrollü saklanmasını, kimin hangi anahtarı aldığının takibini ve yedek anahtarların güvenliğini sağlar."
+    ]
+   ]
+  },
+  "products": [
+   [
+    "BD-8770A",
+    "Su Geçirmez Taşınabilir Kilitleme Çantası"
+   ],
+   [
+    "BD-8771B",
+    "3 Gözlü Loto Bel Kilitleme Çantası"
+   ],
+   [
+    "BD-8771C",
+    "Kişisel Güvenlik Kilitleme Çantası"
+   ],
+   [
+    "BD-8771D",
+    "Taşınabilir Mini Loto Çantası"
+   ],
+   [
+    "BD-LK077",
+    "Kombinasyon 18+1 Grup Kilitleme Kutusu"
+   ],
+   [
+    "BD-X03",
+    "Güvenlik Kilitleme Kutusu"
+   ],
+   [
+    "BD-X04",
+    "12+1 Delikli Grup Loto Kutusu"
+   ],
+   [
+    "BD-X21",
+    "Anahtar Yönetme Kutusu"
+   ],
+   [
+    "BD-X22",
+    "Anahtar ve Kilit Yönetim Kutusu"
+   ],
+   [
+    "BD-Z02",
+    "Güvenlik Kilitli Taşınabilir EKED Çantası"
+   ],
+   [
+    "BD-Z03L",
+    "Taşınabilir Plastik Loto Kutusu"
+   ],
+   [
+    "BD-Z03S",
+    "Taşınabilir Plastik Loto Kutusu"
+   ],
+   [
+    "BD-B14",
+    "Karbon Çelik Taşınabilir Metal Grup Emniyet Kilit Kutusu"
+   ],
+   [
+    "BD-Z03",
+    "Taşınabilir LOTO Kutusu"
+   ],
+   [
+    "BD-505",
+    "Taşınabilir Grup Kilitleme Kutusu"
+   ],
+   [
+    "BD-8811",
+    "Taşınabilir Emniyet Kilidi Kutusu"
+   ],
+   [
+    "BD-D73-1",
+    "Rögar Kilit Torbası"
+   ]
+  ]
+ }
+}

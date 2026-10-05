@@ -1,0 +1,1455 @@
+[
+ {
+  "code": "BD-K03",
+  "name": "Paslanmaya Dayanıklı Çelik 25mm Çoklandırıcı",
+  "summary": "BD-K03 çelik çoklandırıcı: 25 mm çene, 10,5 mm kilit deliği ve 6 asma kilit kapasitesiyle zorlu ortamlarda grup kilitleme için.",
+  "intro": [
+   "BD-K03, tek bir enerji izolasyon noktasını birden fazla çalışanın aynı anda kilitleyebilmesi için kullanılan 25 mm çeneli bir çelik çoklandırıcıdır. Çene, şalter kolu, vana kilitleme cihazı veya benzeri bir noktaya takılır; ardından her çalışan kendi asma kilidini gövdedeki deliklerden birine geçirir.",
+   "Gövde, yüksek sıcaklıkta plastik püskürtme yöntemiyle kaplanmış çelikten üretilir; bu kaplama darbeye, pasa ve yüksek sıcaklığa karşı direnç kazandırır. 10,5 mm çaplı deliklere altı asma kilide kadar takılabilir. Grup kilitleme prosedüründe çene, ekipteki son kişi kilidini çıkarana kadar açılamadığından enerji kaynağı yeniden devreye alınamaz."
+  ],
+  "feats": [
+   [
+    "Kaplamalı Çelik",
+    "Yüksek sıcaklıkta plastik püskürtmeyle kaplanan çelik gövde darbe, pas ve ısıya karşı dirençlidir."
+   ],
+   [
+    "25 mm Çene",
+    "İç çene açıklığı standart kilitleme noktalarına uygun ölçüdedir."
+   ],
+   [
+    "6 Kilit Kapasitesi",
+    "Aynı anda altı asma kilide kadar bağlantı yapılabilir."
+   ],
+   [
+    "10,5 mm Delik",
+    "10,5 mm (2/5\") delik çapı farklı asma kilit tipleriyle kullanıma imkân verir."
+   ],
+   [
+    "Son Kilit Kuralı",
+    "Son çalışanın kilidi sökülmeden enerji kaynağı aktif hale getirilemez."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme uygulamaları",
+   "Bakım ve onarım duruşları",
+   "Dış ortam izolasyon noktaları",
+   "Yüksek sıcaklıklı alanlar"
+  ]
+ },
+ {
+  "code": "BD-K04",
+  "name": "Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı",
+  "summary": "BD-K04 çelik çoklandırıcı: 38 mm geniş çene, 10,5 mm delik ve 6 asma kilit kapasitesi. Büyük kilitleme noktalarında grup kilitleme sağlar.",
+  "intro": [
+   "Daha kalın kilitleme cihazları ve geniş bağlantı noktaları için hazırlanan BD-K04, 38 mm iç çene açıklığına sahip çelik bir grup kilitleme çoklandırıcısıdır. Enerji izolasyon cihazına takıldıktan sonra her ekip üyesi kendi kilidini ekleyerek ekipmanın bakım süresince çalıştırılmasını engeller.",
+   "Çelik gövdenin yüzeyi yüksek sıcaklıkta plastik püskürtmeyle kaplanmıştır; bu sayede pas ve darbelere karşı korunur, dış ortamlarda da kullanılabilir. 10,5 mm (2/5\") çaplı deliklere altı asma kilide kadar takılabilir. LOTO sürecinde sistem, son çalışan kilidini çıkarmadan yeniden çalıştırılamaz."
+  ],
+  "feats": [
+   [
+    "38 mm Çene",
+    "Geniş iç çene çapı büyük kilitleme noktalarına uyum sağlar."
+   ],
+   [
+    "Kaplamalı Gövde",
+    "Plastik püskürtme kaplı çelik, paslanma ve darbeye karşı dayanıklıdır."
+   ],
+   [
+    "Çoklu Kilit",
+    "Altı asma kilide kadar eş zamanlı kullanım sunar."
+   ],
+   [
+    "Delik Çapı",
+    "10,5 mm delikler pek çok asma kilit modeliyle uyumludur."
+   ],
+   [
+    "Grup Güvenliği",
+    "Son kilit sökülene kadar sistemin yeniden devreye alınmasını önler."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel grup kilitleme",
+   "Dış ortam ekipmanları",
+   "Bakım-onarım çalışmaları",
+   "Enerji izolasyon noktaları"
+  ]
+ },
+ {
+  "code": "BD-K11",
+  "name": "25mm Vinil Kaplamalı Alüminyum Çoklandırıcı",
+  "summary": "BD-K11 vinil kaplamalı alüminyum çoklandırıcı: 25 mm çene, 9 mm kilit deliği, 6 asma kilit kapasitesi. Hafif gövdeli grup kilitleme ekipmanı.",
+  "intro": [
+   "BD-K11, birden fazla çalışanın aynı enerji kaynağını kilitlemesi gereken bakım ve onarım işleri için hafif bir grup kilitleme çözümüdür. 25 mm çenesi izolasyon noktasına geçirilir, ardından her çalışan kendi asma kilidini gövdeye takar; böylece iç ve dış mekanda kontrolsüz enerji açılması önlenir.",
+   "Gövde krom kaplamalı alüminyumdan, sap ise naylon PA veya PVC kaplamadan oluşur; bu kombinasyon düşük ağırlıkla birlikte rahat bir tutuş sağlar. 9 mm çaplı deliklere altı asma kilit bağlanabilir. Grup kilitleme prosedüründe ekipman, son çalışan kilidini çıkarana kadar tekrar çalıştırılamaz."
+  ],
+  "feats": [
+   [
+    "Hafif Alüminyum",
+    "Krom kaplamalı alüminyum gövde taşıma ve uygulamada kolaylık sağlar."
+   ],
+   [
+    "Kaplamalı Sap",
+    "Naylon PA veya PVC kaplı sap ergonomik ve uzun ömürlü kullanım sunar."
+   ],
+   [
+    "25 mm Çene",
+    "Standart kilitleme noktalarına uyumlu çene açıklığına sahiptir."
+   ],
+   [
+    "9 mm Delik",
+    "Delikler farklı asma kilit türleriyle kullanılabilir."
+   ],
+   [
+    "6 Asma Kilit",
+    "Aynı anda altı çalışana kadar kilitleme yapılabilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Bakım ve onarım işleri",
+   "İç ve dış mekan uygulamaları"
+  ]
+ },
+ {
+  "code": "BD-K12",
+  "name": "38mm Vinil Kaplamalı Alüminyum Çoklandırıcı",
+  "summary": "BD-K12 alüminyum çoklandırıcı: 38 mm (1,5\") çene, 9 mm delik, 6 asma kilit kapasitesi ve PVC/PA kaplı sap ile geniş noktalarda grup kilitleme.",
+  "intro": [
+   "Geniş bağlantı noktalarında grup kilitleme yapılması gerektiğinde BD-K12, 38 mm (1,5\") çene açıklığıyla izolasyon cihazını kavrar ve birden fazla çalışanın kendi kilidini eklemesine imkân tanır. Bakım, onarım ve enerji izolasyonu sırasında ekipmanın beklenmedik şekilde devreye girmesini engeller.",
+   "Krom kaplamalı alüminyum gövde darbe ve korozyona karşı dirençlidir; PVC veya PA kaplamalı sap kaymayı azaltır ve uzun süreli kullanımda konfor sağlar. 9 mm çaplı deliklere altı asma kilit takılabilir. LOTO prosedüründe ekipman, son çalışanın kilidi sökülmeden yeniden devreye alınamaz."
+  ],
+  "feats": [
+   [
+    "Geniş Çene",
+    "38 mm (1,5\") açıklık büyük kilitleme noktaları için uygundur."
+   ],
+   [
+    "Alüminyum Gövde",
+    "Krom kaplamalı alüminyum darbe ve korozyona karşı dirençlidir."
+   ],
+   [
+    "Kaymaz Sap",
+    "Vinil/PVC veya PA kaplama güvenli ve konforlu tutuş sağlar."
+   ],
+   [
+    "9 mm Delikler",
+    "Farklı asma kilitlerle birlikte kullanılabilir."
+   ],
+   [
+    "6 Kilit Kapasitesi",
+    "Altı asma kilit aynı anda takılabilir."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel LOTO uygulamaları",
+   "Grup kilitleme",
+   "Bakım-onarım duruşları",
+   "Enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-K23",
+  "name": "6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 25 mm",
+  "summary": "BD-K23 6 delikli çoklandırıcı: 25 mm çelik kanca ve plastik gövde ile tek izolasyon noktasında birden fazla çalışanın kilitleme yapmasını sağlar.",
+  "intro": [
+   "BD-K23, plastik bir gövdeye bağlı 25 mm çelik kancadan oluşan bir kilit çoklandırıcısıdır. Kanca enerji izolasyon noktasına ya da kilitleme cihazına takılır ve gövdedeki altı delik sayesinde aynı noktaya birden fazla asma kilit eklenebilir.",
+   "Çelik kanca ile plastik gövdenin birlikte kullanıldığı yapı, kilitleme noktasında sağlam bir bağlantı kurarken gövdede hafiflik sağlar. Grup kilitleme uygulamalarında her çalışan kendi asma kilidini ayrı bir deliğe takar; böylece kilitlerin tamamı çıkarılmadan kanca açılamaz ve ekipman çalışma süresince izole kalır."
+  ],
+  "feats": [
+   [
+    "Çelik Kanca",
+    "25 mm çelik kanca kilitleme noktasını kavrar."
+   ],
+   [
+    "Plastik Gövde",
+    "Gövde kısmı plastikten üretilmiştir."
+   ],
+   [
+    "6 Delik",
+    "Altı ayrı delik birden fazla asma kilidin aynı anda takılmasına imkân verir."
+   ],
+   [
+    "Grup Kilitleme",
+    "Her çalışanın kendi kilidiyle izolasyona katılmasını sağlar."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Bakım ve onarım işleri",
+   "Enerji izolasyon noktaları"
+  ],
+  "specs": [
+   [
+    "Kanca ölçüsü",
+    "25 mm"
+   ],
+   [
+    "Kanca malzemesi",
+    "Çelik"
+   ],
+   [
+    "Gövde malzemesi",
+    "Plastik"
+   ],
+   [
+    "Delik sayısı",
+    "6"
+   ]
+  ]
+ },
+ {
+  "code": "BD-K24",
+  "name": "6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 38 mm",
+  "summary": "BD-K24 6 delikli çoklandırıcı: 38 mm çelik kanca ve plastik gövdeyle daha geniş kilitleme noktalarında grup kilitleme yapılmasını sağlar.",
+  "intro": [
+   "Daha geniş bağlantı noktaları için tasarlanan BD-K24, 38 mm çelik kanca ve plastik gövdeden oluşan altı delikli bir çoklandırıcıdır. Kanca izolasyon cihazına geçirildikten sonra bakım ekibindeki her kişi kendi asma kilidini gövdeye ekleyebilir.",
+   "38 mm kanca açıklığı, 25 mm modele göre daha kalın kilitleme noktalarına yerleştirmeye olanak tanır; plastik gövde ise ekipmanı hafif tutar. Grup kilitleme prosedüründe altı deliğe takılan kilitlerin hepsi sökülmeden kanca açılamaz, bu da enerji kaynağının yanlışlıkla devreye alınmasını önler."
+  ],
+  "feats": [
+   [
+    "38 mm Kanca",
+    "Geniş çelik kanca daha büyük kilitleme noktalarına uyar."
+   ],
+   [
+    "Plastik Gövde",
+    "Gövdenin plastik olması ekipmanı hafif tutar."
+   ],
+   [
+    "Altı Delik",
+    "Aynı noktaya altı asma kilit eklenebilir."
+   ],
+   [
+    "Ortak Kontrol",
+    "Tüm kilitler çıkarılmadan izolasyon kaldırılamaz."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Geniş izolasyon noktaları",
+   "Bakım duruşları"
+  ],
+  "specs": [
+   [
+    "Kanca ölçüsü",
+    "38 mm"
+   ],
+   [
+    "Kanca malzemesi",
+    "Çelik"
+   ],
+   [
+    "Gövde malzemesi",
+    "Plastik"
+   ],
+   [
+    "Delik sayısı",
+    "6"
+   ]
+  ]
+ },
+ {
+  "code": "BD-K33/K33X",
+  "name": "Paslanmaz Çelik Çoklandırıcı",
+  "summary": "BD-K33 / BD-K33X paslanmaz çelik çoklandırıcı: 304 paslanmaz gövde, 5 veya 6 mm kelepçe, 7–8 asma kilit kapasitesi. Nemli ve aşındırıcı ortamlar için.",
+  "intro": [
+   "BD-K33 ve BD-K33X, nemli, sıcak veya kimyasal etkiye açık alanlarda grup kilitleme yapmak için kullanılan paslanmaz çelik çoklandırıcılardır. Kelepçe enerji izolasyon noktasına takılır ve ekipteki her çalışan kendi asma kilidiyle sürece katılır.",
+   "Gövde 304 paslanmaz çelikten üretilir ve yüksek sıcaklıkta plastik püskürtme kaplamayla aşınmaya karşı ilave koruma alır. İki model kelepçe çapıyla ayrılır: BD-K33 5 mm, BD-K33X 6 mm. Yedi ila sekiz asma kilit takılabilen gövde, son çalışanın kilidi çıkarılana kadar ekipmanın devreye alınmasına izin vermez."
+  ],
+  "feats": [
+   [
+    "304 Paslanmaz",
+    "Paslanma ve korozyona karşı dirençli gövde malzemesidir."
+   ],
+   [
+    "Kaplamalı Yüzey",
+    "Plastik püskürtme kaplama aşınmaya karşı ek koruma sağlar."
+   ],
+   [
+    "İki Kelepçe Seçeneği",
+    "BD-K33 5 mm, BD-K33X 6 mm kelepçe çapına sahiptir."
+   ],
+   [
+    "7–8 Kilit",
+    "Gövdeye yedi ila sekiz asma kilit takılabilir."
+   ],
+   [
+    "Yetkisiz Açmaya Karşı",
+    "Kilit noktalarında yetkisiz erişimi zorlaştıran yapı sunar."
+   ]
+  ],
+  "usage": [
+   "Nemli ve sıcak ortamlar",
+   "Kimyasal tesisler",
+   "Dış ortam ekipmanları",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-K34",
+  "name": "Kırmızı Plastik Saplı Termik Şalter Kilitleme",
+  "summary": "BD-K34 termik şalter kilitleme ekipmanı: ABS sap, 304 paslanmaz çene, 4 mm kelepçe ve 27 mm iç yükseklik; 2 asma kilit kapasitesi.",
+  "intro": [
+   "BD-K34, termik şalterler ve küçük kontrol panolarındaki dar enerji kontrol noktaları için geliştirilmiş kompakt bir kilitleme ekipmanıdır. 4 mm çaplı kelepçesi ve 27 mm iç yüksekliği sayesinde sınırlı alanlara yerleştirilerek şalterin güvenli konumda tutulmasına yardımcı olur.",
+   "Kırmızı ABS plastik sap ile 304 paslanmaz çelik kilit çenesinin birlikteliği, korozyona ve aşınmaya karşı dayanım sağlar. Gövdeye iki asma kilit takılabildiğinden küçük ekiplerde ortak kilitleme yapılabilir; son kullanıcı kilidini çıkarmadan sistem devreye alınamaz. Basit yapısı uygulama süresini kısaltır."
+  ],
+  "feats": [
+   [
+    "Kompakt Yapı",
+    "Dar alanlardaki termik şalterlere uygulanabilir."
+   ],
+   [
+    "ABS ve Paslanmaz",
+    "ABS sap ile 304 paslanmaz çelik çene korozyon ve aşınmaya dayanır."
+   ],
+   [
+    "İki Kilit",
+    "Aynı anda 2 asma kilit kullanılabilir."
+   ],
+   [
+    "Ölçüler",
+    "4 mm kelepçe çapı ve 27 mm iç yüksekliğe sahiptir."
+   ],
+   [
+    "Hızlı Uygulama",
+    "Sade kilitleme mekanizması zaman kazandırır."
+   ]
+  ],
+  "usage": [
+   "Termik şalterler",
+   "Küçük kontrol panoları",
+   "Bakım-onarım çalışmaları"
+  ]
+ },
+ {
+  "code": "BD-K41",
+  "name": "Akrep Tip 6 Delikli Plastik Çoklandırıcı – 7 mm",
+  "summary": "BD-K41 akrep tip 6 delikli plastik çoklandırıcı: elektrik enerjisi izolasyonunda, korozyon ve patlama riski olan alanlarda grup kilitleme için.",
+  "intro": [
+   "BD-K41, akrep tipi formda tasarlanmış, altı delikli plastik bir kilit çoklandırıcısıdır. Elektrik enerjisinin izole edildiği noktalarda, birden fazla çalışanın aynı izolasyon cihazına kendi asma kilidini takmasına olanak verir.",
+   "Plastik yapısı, korozyon ve patlama riski bulunan alanlarda kullanılmasını mümkün kılar. Grup kilitleme prosedüründe her çalışan altı delikten birine kilidini ekler; tüm kilitler çıkarılmadan çoklandırıcı açılamadığından elektrik kaynağı bakım süresince devre dışı kalır. Hafif gövde, sık uygulanan izolasyon noktalarında taşınmasını da kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Akrep Tipi",
+    "Akrep formundaki gövde kilitleme noktasına takılarak kullanılır."
+   ],
+   [
+    "Plastik Gövde",
+    "Elektrik enerjisi izolasyonu uygulamalarında tercih edilir."
+   ],
+   [
+    "6 Delik",
+    "Altı asma kilide kadar grup kilitleme yapılabilir."
+   ],
+   [
+    "Zorlu Ortamlar",
+    "Korozyon ve patlama riski olan yerlerde kullanılır."
+   ]
+  ],
+  "usage": [
+   "Elektrik enerjisi izolasyonu",
+   "Korozyon riskli alanlar",
+   "Patlama riskli alanlar",
+   "Grup kilitleme"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Plastik"
+   ],
+   [
+    "Delik sayısı",
+    "6"
+   ],
+   [
+    "Ölçü",
+    "7 mm"
+   ]
+  ]
+ },
+ {
+  "code": "BD-K42",
+  "name": "Standart 6 Delikli Plastik Çoklandırıcı",
+  "summary": "BD-K42 iletken olmayan ABS çoklandırıcı: 6 delik, 1 ons ağırlık ve 1.000 libreye kadar dayanım. Elektriksel izolasyonda grup kilitleme için.",
+  "intro": [
+   "BD-K42, elektriksel izolasyon gerektiren noktalarda kullanılmak üzere iletken olmayan ABS plastikten üretilmiş altı delikli bir çoklandırıcıdır. İzolasyon cihazına takıldığında altı çalışana kadar kendi asma kilidiyle aynı enerji kaynağını güvenceye alabilir.",
+   "Yalnızca 1 ons ağırlığındaki gövde, 1.000 libreye kadar kuvvete dayanacak şekilde tasarlanmıştır. Hava koşullarına karşı dirençli yapısı açık alanlarda, korozyon ve patlama riski taşıyan ortamlarda kullanılmasına imkân verir. Grup kilitlemede son çalışan kilidini çıkarana kadar sistem devreye alınamaz; bu da ekipteki herkesin kendi güvenliğini kendi kilidiyle kontrol etmesini sağlar."
+  ],
+  "feats": [
+   [
+    "İletken Değil",
+    "ABS gövde elektriksel uygulamalarda yalıtım sağlar."
+   ],
+   [
+    "6 Delik",
+    "Altı asma kilide kadar eş zamanlı kilitleme yapılabilir."
+   ],
+   [
+    "Hafif ve Dayanıklı",
+    "1 ons ağırlığa karşın 1.000 libreye kadar dayanım sunar."
+   ],
+   [
+    "Zorlu Ortamlar",
+    "Korozyon, patlama riski ve dış hava koşullarına uygundur."
+   ],
+   [
+    "Erişim Kontrolü",
+    "Son kilit sökülmeden sistem devreye alınamaz."
+   ]
+  ],
+  "usage": [
+   "Elektriksel izolasyon",
+   "Grup kilitleme",
+   "Açık alan uygulamaları",
+   "Bakım ve onarım"
+  ]
+ },
+ {
+  "code": "BD-K43/K44",
+  "name": "İletken Olmayan Plastik Çoklandırıcı",
+  "summary": "BD-K43 / BD-K44 iletken olmayan ABS çoklandırıcı: 1 ons ağırlık, 1.000 libreye kadar dayanım; elektriksel ve dış ortam grup kilitlemesi için.",
+  "intro": [
+   "BD-K43 ve BD-K44, elektrik kaynaklı tehlikelerin bulunduğu noktalarda grup kilitleme yapmak için ABS malzemeden üretilen iletken olmayan çoklandırıcılardır. İzolasyon cihazına takılarak birden fazla çalışanın aynı noktayı kendi kilidiyle güvence altına almasını sağlar.",
+   "ABS gövde yüksek elektriksel yalıtım sunar; korozyon ve patlama riskine dayanıklı yapısı iç ve dış mekanda kullanıma uygundur. 1 ons gibi düşük bir ağırlığa sahip olmasına karşın 1.000 libreye kadar dayanım gösterir. LOTO prosedüründe son çalışan kilidini çıkarana kadar sistem yeniden başlatılamaz."
+  ],
+  "feats": [
+   [
+    "Yalıtkan ABS",
+    "İletken olmayan gövde elektriksel uygulamalarda güvenli kullanım sağlar."
+   ],
+   [
+    "Ortam Dayanımı",
+    "Korozyon ve patlama riskine karşı dayanıklıdır."
+   ],
+   [
+    "Düşük Ağırlık",
+    "1 ons ağırlığa ve 1.000 libreye kadar dayanıma sahiptir."
+   ],
+   [
+    "Çoklu Kilit",
+    "Birden fazla çalışanın aynı anda kilitleme yapmasına izin verir."
+   ]
+  ],
+  "usage": [
+   "Elektriksel izolasyon",
+   "Dış ortam uygulamaları",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-K45/K46",
+  "name": "Kaydırmalı İletken Olmayan Çoklandırıcı",
+  "summary": "BD-K45 / BD-K46 kaydırmalı iletken olmayan çoklandırıcı: 3 mm ve 6 mm seçenekli, çoklu asma kilit kabul eden elektriksel grup kilitleme ekipmanı.",
+  "intro": [
+   "BD-K45 ve BD-K46, kaydırmalı mekanizmaya sahip, iletken olmayan malzemeden üretilmiş grup kilitleme çoklandırıcılarıdır. Elektriksel uygulamalarda izolasyon noktasına takılır ve tek noktaya birden fazla asma kilit eklenmesine olanak verir.",
+   "Model seçimi kelepçe ölçüsüne göre yapılır: BD-K45 3 mm, BD-K46 6 mm versiyondur. Kaydırmalı yapı uygulamayı hızlandırır, dış ortam koşullarına dayanıklı tasarım ise açık alanlardaki ekipmanlarda kullanımı mümkün kılar. Enerji kaynağı, son çalışanın kilidi çıkarılana kadar devreye alınamaz; böylece her ekip üyesi izolasyonu kendi kilidiyle denetler."
+  ],
+  "feats": [
+   [
+    "Yalıtkan Malzeme",
+    "İletken olmayan yapı elektriksel uygulamalara uygundur."
+   ],
+   [
+    "İki Ölçü",
+    "BD-K45 3 mm, BD-K46 6 mm seçeneğiyle sunulur."
+   ],
+   [
+    "Kaydırmalı Mekanizma",
+    "Hızlı ve kolay uygulama sağlar."
+   ],
+   [
+    "Çoklu Kilit",
+    "Tek noktaya birden fazla asma kilit takılabilir."
+   ],
+   [
+    "Dış Ortam",
+    "Zorlu hava koşullarına dayanıklıdır."
+   ]
+  ],
+  "usage": [
+   "Elektriksel uygulamalar",
+   "Dış mekan ekipmanları",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-K46-1",
+  "name": "Plastik Model Termik Kilitleme",
+  "summary": "BD-K46-1 plastik termik kilitleme ekipmanı: iletken olmayan, hafif gövdeli; termik şalterlerde birden fazla asma kilitle grup kilitleme sağlar.",
+  "intro": [
+   "BD-K46-1, termik şalterler ve küçük devre kesiciler gibi dar alanlı enerji izolasyon noktalarında kullanılan plastik bir çoklandırıcı modelidir. Kilitleme noktasına takıldığında birden fazla çalışanın aynı ekipman üzerinde kendi kilidiyle güvenli şekilde çalışmasına imkân verir.",
+   "Dayanıklı ve iletken olmayan plastik gövde, elektriksel güvenlik açısından uygundur ve hafifliği sayesinde küçük şalterlerde kolayca uygulanır. Grup kilitleme sürecinde gövdeye birden fazla asma kilit takılabilir; son çalışan kilidini çıkarana kadar kumanda açılamaz. Bu sayede küçük panolarda da kişisel kilitleme esasına dayalı bir prosedür uygulanabilir."
+  ],
+  "feats": [
+   [
+    "İletken Olmayan",
+    "Plastik gövde elektriksel uygulamalarda güvenlik sağlar."
+   ],
+   [
+    "Hafif Yapı",
+    "Termik şalterlerde kolay uygulanır."
+   ],
+   [
+    "Çoklu Kilit",
+    "Tek noktada birden fazla asma kilit kullanılabilir."
+   ],
+   [
+    "LOTO Uyumu",
+    "Son kilit sökülene kadar kumanda açılamaz."
+   ]
+  ],
+  "usage": [
+   "Termik şalterler",
+   "Küçük devre kesiciler",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-K51",
+  "name": "Etiketli Çelik Çoklandırıcı Ekipmanı",
+  "summary": "BD-K51 etiketli çelik çoklandırıcı: 5 mm kelepçe, 6 asma kilit kapasitesi ve yazılabilir etiket alanı. BD-K51S versiyonu 304 paslanmaz çelik.",
+  "intro": [
+   "BD-K51, grup kilitlemeyi tanımlama ile birleştiren etiketli bir çoklandırıcıdır. 5 mm çaplı kelepçesi standart enerji izolasyon noktalarına takılır; gövdeye altı asma kilide kadar eklenebilir ve etiket alanına kullanıcı, ekipman veya departman bilgisi yazılabilir.",
+   "Standart modelde gövde çelikten, hasp kirişi alüminyumdan üretilir; BD-K51S versiyonu tamamen 304 paslanmaz çeliktir. Yüzey yüksek sıcaklıkta plastik püskürtme ile kaplanarak pas ve aşınmaya karşı korunur. Etiket alanı LOTO sürecinde kilidi kimin taktığını görünür kılar ve enerji kaynağı son kilit çıkarılmadan devreye alınamaz."
+  ],
+  "feats": [
+   [
+    "Etiket Alanı",
+    "Kullanıcı, ekipman veya departman bilgisi yazılabilir."
+   ],
+   [
+    "Malzeme Seçeneği",
+    "Çelik gövde ve alüminyum kiriş ya da BD-K51S'te 304 paslanmaz çelik."
+   ],
+   [
+    "Kaplamalı Yüzey",
+    "Plastik püskürtme kaplama pas ve aşınmaya karşı korur."
+   ],
+   [
+    "6 Asma Kilit",
+    "Altı asma kilide kadar grup kilitleme yapılabilir."
+   ],
+   [
+    "5 mm Kelepçe",
+    "Standart izolasyon noktalarına uygundur."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Kilitleme kaydı ve tanımlama",
+   "Bakım-onarım çalışmaları",
+   "Zorlu endüstriyel ortamlar"
+  ]
+ },
+ {
+  "code": "BD-K52",
+  "name": "8 Delikli Etiketli Alüminyum Çoklandırıcı",
+  "summary": "BD-K52 8 delikli etiketli alüminyum çoklandırıcı: 8,5 mm delikler, 70x5x180 mm ölçü ve ısıya dayanıklı yazılabilir etiket alanı.",
+  "intro": [
+   "BD-K52, sekiz asma kilide kadar grup kilitleme imkânı veren ve üzerinde yazılabilir etiket alanı bulunan alüminyum bir çoklandırıcıdır. Enerji izolasyon noktasına takıldıktan sonra ekipteki her kişi kilidini ekler; etiket bölümüne ekipman, kullanıcı veya tarih bilgisi kalemle not edilebilir.",
+   "Kalın, oksitlenmiş alüminyum alaşımlı gövde kırılmaya karşı yüksek direnç sunar. 70 mm x 5 mm x 180 mm ölçülerindeki ekipmanda 8,5 mm çaplı delikler çoğu standart kilit halkasıyla uyumludur. Isıya dayanıklı etiket yüzeyi farklı ortam koşullarında okunaklı kalarak kilitleme kaydının izlenmesine katkı sağlar."
+  ],
+  "feats": [
+   [
+    "8 Delik",
+    "Aynı anda sekiz asma kilit takılabilir."
+   ],
+   [
+    "Yazılabilir Etiket",
+    "Kalemle ekipman, kullanıcı veya tarih bilgisi yazılabilir."
+   ],
+   [
+    "Oksitlenmiş Alüminyum",
+    "Kalın alaşım gövde kırılmaya karşı dirençlidir."
+   ],
+   [
+    "8,5 mm Delik",
+    "Çoğu standart kilit halkasıyla uyumludur."
+   ],
+   [
+    "Isıya Dayanıklı",
+    "Etiket yüzeyi farklı ortam koşullarında kalıcı tanımlama sağlar."
+   ]
+  ],
+  "usage": [
+   "Kalabalık ekiplerle grup kilitleme",
+   "Kimliklendirme gerektiren LOTO",
+   "Enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-K53",
+  "name": "Etiketli Alüminyum Büyük Boy Çoklandırıcı",
+  "summary": "BD-K53 büyük boy etiketli çoklandırıcı: 5052 eloksallı alüminyum, 8 mm delik, 6 kilit kapasitesi, 180x76 mm ölçü ve üç dilde uyarı yazısı.",
+  "intro": [
+   "BD-K53, kilitleme ile tanımlamayı tek parçada toplayan geniş gövdeli bir çoklandırıcıdır. Altı asma kilit kapasitesi sayesinde birden fazla çalışan aynı izolasyon noktasını güvenceye alabilir; ön ve arka yüzündeki yazılabilir alanlar kalıcı kalem, tükenmez ya da kurşun kalemle doldurulabilir.",
+   "Gövde 5052 eloksallı alüminyum alaşımdan üretilir ve 180 mm x 76 mm ölçülerindedir; kilit delikleri 8 mm çaplıdır. Ön yüzde \"TEHLİKE – ÇALIŞTIRMAYIN\", arka yüzde yalnızca imzası bulunan kişilerin kilidi/etiketi kaldırabileceğini belirten uyarı bulunur; mesajlar İngilizce, Fransızca ve İspanyolca yer alır. Renk talebe göre özelleştirilebilir."
+  ],
+  "feats": [
+   [
+    "Etiket ve Hasp",
+    "Kilitleme ve tanımlama tek ekipmanda birleşir."
+   ],
+   [
+    "6 Kilit Kapasitesi",
+    "Birden fazla çalışan aynı anda kilitleme yapabilir."
+   ],
+   [
+    "5052 Alüminyum",
+    "Eloksallı alaşım korozyona ve zorlu koşullara dayanıklıdır."
+   ],
+   [
+    "Çok Dilli Uyarı",
+    "İngilizce, Fransızca ve İspanyolca uyarı mesajları içerir."
+   ],
+   [
+    "Özel Renk",
+    "Gövde rengi özelleştirilebilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Kilitleme sorumlusu takibi",
+   "Çok uluslu tesisler",
+   "Bakım duruşları"
+  ]
+ },
+ {
+  "code": "BD-K54",
+  "name": "Etiketli Snap-on Alüminyum Çoklandırıcı",
+  "summary": "BD-K54 snap-on etiketli çoklandırıcı: yaylı kilitleme kolu, 44x54 mm iç çene, 5 asma kilit kapasitesi ve sert eloksallı alüminyum gövde.",
+  "intro": [
+   "BD-K54, yaylı kilitleme kolu sayesinde izolasyon noktasına tak-çıkar mantığıyla hızla uygulanan etiketli bir alüminyum çoklandırıcıdır. 1-3/4 x 2-1/8 inç (44 x 54 mm) iç çene açıklığı farklı kilitleme noktalarına uyum sağlar ve beş asma kilide kadar grup kilitleme yapılabilir.",
+   "Sert eloksallı alüminyum alaşımdan üretilen 73 mm x 178 mm gövde, sağlamlık ve korozyon direnci sunar. Ön ve arka yüzde bulunan kalıcı yazı alanlarına kullanıcı, tarih veya ekipman bilgisi yazılabilir; üzerindeki uyarılar İngilizce, Fransızca ve İspanyolcadır. Bu yapı, hızlı müdahale gerektiren LOTO uygulamalarında hem kilitleme hem tanımlama sağlar."
+  ],
+  "feats": [
+   [
+    "Snap-on Kol",
+    "Yaylı kilitleme kolu hızlı uygulama sağlar."
+   ],
+   [
+    "Geniş Çene",
+    "44 x 54 mm iç çene farklı noktalara uyum sağlar."
+   ],
+   [
+    "5 Asma Kilit",
+    "Beş çalışana kadar eş zamanlı kilitleme imkânı sunar."
+   ],
+   [
+    "Yazılabilir Yüzey",
+    "Ön ve arka yüzde kalıcı yazı alanı bulunur."
+   ],
+   [
+    "Eloksallı Alüminyum",
+    "Sert eloksal kaplama korozyona karşı dirençlidir."
+   ]
+  ],
+  "usage": [
+   "Hızlı LOTO uygulamaları",
+   "Grup kilitleme ve tanımlama",
+   "Bakım-onarım çalışmaları"
+  ]
+ },
+ {
+  "code": "BD-K61",
+  "name": "Çift Çeneli Alüminyum Çoklandırıcı",
+  "summary": "BD-K61 çift çeneli alüminyum çoklandırıcı: 25 mm ve 38 mm çene, 6–8 asma kilit kapasitesi, kıvılcım dayanımlı alaşım. Grup kilitleme için.",
+  "intro": [
+   "BD-K61, iki ucunda farklı boyda çene bulunan alüminyum bir çoklandırıcıdır. 1 inç (25 mm) ve 1,5 inç (38 mm) çeneleri sayesinde tek ürünle hem dar hem geniş kilitleme noktalarına uygulanabilir; bakım sırasında ekipmanın kazara çalıştırılmasını önler.",
+   "Yüksek yangın dayanımlı alüminyum alaşım, pas ve oksidasyona karşı özel işlemle güçlendirilmiştir; kıvılcım dayanımlı yapısı yanıcı ve patlama riski olan ortamlarda kullanılmasına imkân verir. Altı ila sekiz asma kilit takılabilir. Grup kilitleme sürecinde son çalışan kilidini çıkarmadan kontrol açılamaz."
+  ],
+  "feats": [
+   [
+    "Çift Çene",
+    "25 mm ve 38 mm çene iki farklı ihtiyacı karşılar."
+   ],
+   [
+    "Kıvılcım Dayanımı",
+    "Alüminyum yapı yanıcı ortamlarda kullanıma uygundur."
+   ],
+   [
+    "İşlenmiş Alaşım",
+    "Pas ve oksidasyona karşı özel işlem görmüştür."
+   ],
+   [
+    "6–8 Kilit",
+    "Altı ila sekiz asma kilit aynı anda kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Patlama riskli alanlar",
+   "Yüksek sıcaklık ortamları",
+   "Grup kilitleme",
+   "Endüstriyel tesisler"
+  ]
+ },
+ {
+  "code": "BD-K62",
+  "name": "Çift Başlı Çelik Çoklandırıcı Ekipmanı",
+  "summary": "BD-K62 çift başlı çelik çoklandırıcı: farklı ebatlı iki uç, galvaniz kaplı yüksek mukavemetli çelik ve 6 asma kilit kapasitesi.",
+  "intro": [
+   "BD-K62, iki ucunda farklı ebat ve tasarımda kanca bulunan çift başlı bir çelik çoklandırıcıdır. Kilitleme noktasının yapısına göre uygun uç seçilerek kullanılır ve altı çalışana kadar aynı enerji kaynağını kendi kilidiyle güvenceye alabilir.",
+   "Yüksek mukavemetli çelik gövde pas önleyici galvaniz kaplamayla korunur; bu yapı darbeye, korozyona ve yüksek ısıya karşı direnç sağlar. Kompakt boyutu sınırlı alanlarda ve silindir tank uygulamalarında kullanılmasına imkân tanır. LOTO prosedüründe enerji kaynağı son kilit çıkarılana kadar yeniden devreye alınamaz."
+  ],
+  "feats": [
+   [
+    "Çift Başlı",
+    "Farklı ebatlı iki uç farklı kilitleme noktalarına uyar."
+   ],
+   [
+    "Galvaniz Çelik",
+    "Darbe, korozyon ve yüksek ısıya karşı dirençlidir."
+   ],
+   [
+    "6 Asma Kilit",
+    "Altı çalışana kadar grup kilitleme yapılabilir."
+   ],
+   [
+    "Kompakt Yapı",
+    "Dar alanlarda kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Silindir tank uygulamaları",
+   "Dar alanlı izolasyon noktaları",
+   "Grup kilitleme"
+  ]
+ },
+ {
+  "code": "BD-K71",
+  "name": "Alüminyum Büyük Sürgülü Çoklandırı",
+  "summary": "BD-K71 sürgülü alüminyum çoklandırıcı: 12 asma kilit kapasitesi, 7 veya 8 mm delik, 229x44 mm ölçü. Kalabalık ekiplerin grup kilitlemesi için.",
+  "intro": [
+   "BD-K71, çok sayıda çalışanın aynı anda katıldığı bakım işleri için tasarlanmış sürgülü bir alüminyum çoklandırıcıdır. Tek gövdeye 12 asma kilide kadar takılabildiğinden hasp'leri zincirleme bağlama ihtiyacı ortadan kalkar; 9/32 inç çapa kadar kelepçeleri kabul eder.",
+   "Eloksallı alüminyum alaşım gövde korozyona dayanıklıdır ve kıvılcım çıkarmaz. Ofset kilitleme delikleri mandalın açık konumdayken kilitlenmesini engeller; yükseltilmiş tutma alanları sürgünün rahat kaydırılmasını sağlar. 229 mm x 44 mm ölçülerindeki ekipmanda kilit delikleri 7 mm veya 8 mm çaplıdır ve sistem son kilit çıkarılmadan çalıştırılamaz."
+  ],
+  "feats": [
+   [
+    "12 Kilit Kapasitesi",
+    "Kalabalık ekiplerin tek noktada kilitleme yapmasına olanak tanır."
+   ],
+   [
+    "Ofset Delikler",
+    "Mandal açık konumdayken kilitlenemez."
+   ],
+   [
+    "Kıvılcımsız Gövde",
+    "Eloksallı alüminyum korozyona dayanıklıdır ve kıvılcım çıkarmaz."
+   ],
+   [
+    "Zincirleme Gerekmez",
+    "Hasp'leri papatya zinciri şeklinde bağlama ihtiyacını kaldırır."
+   ],
+   [
+    "Kolay Sürgü",
+    "Yükseltilmiş alanlar rahat kaydırma sağlar."
+   ]
+  ],
+  "usage": [
+   "Büyük bakım duruşları",
+   "Kalabalık ekiplerle grup kilitleme",
+   "Enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-K72",
+  "name": "24 Delikli Sürgülü Alüminyum Çoklandırıcı – 25 mm",
+  "summary": "BD-K72 24 delikli sürgülü alüminyum çoklandırıcı: 25 mm, eloksallı alüminyum gövde ve ofset deliklerle büyük ekiplerde grup kilitleme sağlar.",
+  "intro": [
+   "BD-K72, tek bir kilitleme cihazını çok sayıda asma kilitle güvence altına almak için kullanılan 24 delikli, sürgülü bir alüminyum çoklandırıcıdır. Her kilitleme noktasında birden fazla çalışanın kilit takmasına olanak verir ve onarım ya da ayar sırasında ekipmanı hizmet dışı tutar.",
+   "Eloksallı alüminyum gövde korozyona karşı direnç gösterir. Ofset kilitleme delikleri mandalın açık konumdayken kilitlenmesini önler; geniş kapasitesi sayesinde grup kilitlemede hasp'leri zincirleme bağlama ihtiyacı ortadan kalkar. Kontroller, son çalışanın asma kilidi mandaldan çıkarılana kadar açılamaz."
+  ],
+  "feats": [
+   [
+    "24 Delik",
+    "Çok sayıda asma kilit tek gövdeye takılabilir."
+   ],
+   [
+    "Eloksallı Alüminyum",
+    "Korozyona karşı yüksek direnç gösterir."
+   ],
+   [
+    "Ofset Delikler",
+    "Mandal açık konumdayken kilitlenemez."
+   ],
+   [
+    "Zincirleme Gerekmez",
+    "Hasp'leri papatya zinciri ile bağlama ihtiyacını ortadan kaldırır."
+   ]
+  ],
+  "usage": [
+   "Büyük ekiplerle grup kilitleme",
+   "Onarım ve ayar çalışmaları",
+   "Enerji izolasyonu"
+  ],
+  "specs": [
+   [
+    "Delik sayısı",
+    "24"
+   ],
+   [
+    "Ölçü",
+    "25 mm"
+   ],
+   [
+    "Malzeme",
+    "Eloksallı alüminyum"
+   ],
+   [
+    "Mekanizma",
+    "Sürgülü"
+   ]
+  ]
+ },
+ {
+  "code": "BD-D31",
+  "name": "Kombinasyon Elektrik ve Pnömatik Fiş Kilitleme Ekipmanı",
+  "summary": "BD-D31 elektrik ve pnömatik fiş kilitleme ekipmanı: 89 mm çap ve 127 mm uzunluğa kadar fişler, 5 pnömatik delik, 4 asma kilit kapasitesi.",
+  "intro": [
+   "BD-D31, elektrik fişlerini ve pnömatik hortum bağlantılarını tek cihazla izole etmek için kullanılan ABS gövdeli bir kilitleme ekipmanıdır. Maksimum 89 mm çap ve 127 mm uzunluktaki fişler kutuya yerleştirilir; çift açılı tasarım, boynu aşağı bakan pnömatik erkek konnektörlerin de aynı anda kilitlenmesine izin verir.",
+   "Gövdede 9,5 / 10,4 / 11,4 / 12 / 18,2 mm ölçülerinde beş pnömatik giriş deliği bulunur. 110V, 220V ve 550V fişlerle kullanılabilen cihaz, kelepçe çapı 7 mm'ye kadar olan dört asma kilidi kabul eder. Böylece bakım süresince fişin prize takılması ve hava hattının bağlanması grup kilitlemeyle önlenir."
+  ],
+  "feats": [
+   [
+    "Geniş Fiş Uyumu",
+    "89 mm çap ve 127 mm uzunluğa kadar fişleri alır."
+   ],
+   [
+    "Çift Açılı Yapı",
+    "Elektrik fişi ve pnömatik erkek konnektör birlikte kilitlenebilir."
+   ],
+   [
+    "5 Pnömatik Delik",
+    "9,5–18,2 mm arası bağlantı ölçülerine uyum sağlar."
+   ],
+   [
+    "4 Asma Kilit",
+    "Kelepçe çapı 7 mm'ye kadar dört kilit takılabilir."
+   ],
+   [
+    "Gerilim Aralığı",
+    "110V, 220V ve 550V fişlerle kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Elektrik fişleri",
+   "Pnömatik hortum bağlantıları",
+   "Bakım ve enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-D41",
+  "name": "Küçük Elektrik Fişi Kilitleme Cihazı",
+  "summary": "BD-D41 küçük elektrik fişi kilitleme cihazı: polipropilen gövde, 13 mm kablo uyumu, 220V–500V fişler ve 2–4 asma kilit kapasitesi.",
+  "intro": [
+   "BD-D41, elektrikli ekipmanın fişini kapalı bir gövde içine alarak bakım ve onarım sırasında prize takılmasını engelleyen bir fiş kilitleme cihazıdır. 220V – 500V elektrik fişlerine ve 13 mm çapındaki güç kablolarına uygundur; ölçüleri 3,5\" (U) x 2\" (G) x 2\" (Y) şeklindedir.",
+   "Sağlam polipropilen gövde hafif olmasına karşın darbelere dayanıklıdır. Çift açılı ve altıgen tasarım farklı şekil ve boyuttaki endüstriyel fişlere esnek uyum sağlar. Kelepçe çapı 7 mm'ye kadar 2–4 asma kilit takılabilir, böylece iki yönetici ayrı kilit uygulayabilir. Üzerindeki \"TEHLİKE\" mesajı çalışanları uyarır."
+  ],
+  "feats": [
+   [
+    "Altıgen Tasarım",
+    "Çift açılı yapı farklı şekil ve boyuttaki fişlere uyar."
+   ],
+   [
+    "Kablo ve Gerilim",
+    "13 mm kablolar ve 220V – 500V fişlerle uyumludur."
+   ],
+   [
+    "2–4 Kilit",
+    "7 mm'ye kadar kelepçe çaplı kilitlerle grup kilitleme yapılabilir."
+   ],
+   [
+    "TEHLİKE Uyarısı",
+    "Cihaz üzerindeki mesaj güvenlik farkındalığı sağlar."
+   ],
+   [
+    "Polipropilen Gövde",
+    "Hafif ve darbeye dayanıklıdır."
+   ]
+  ],
+  "usage": [
+   "Elektrik fişleri",
+   "Taşınabilir elektrikli ekipmanlar",
+   "Bakım-onarım uygulamaları"
+  ]
+ },
+ {
+  "code": "BD-D45",
+  "name": "Kanal Fişi Koruma Kilidi",
+  "summary": "BD-D45 kanal fişi koruma kilidi: PP gövde, 16A–125A BS4343 fiş ve cihaz girişlerine uyum, 7 mm'ye kadar kelepçeli birden fazla asma kilit.",
+  "intro": [
+   "BD-D45, endüstriyel su geçirmez prizlerde ve enerji fişlerinde izinsiz ya da kazara bağlantı yapılmasını önlemek için kullanılan bir fiş koruma kilididir. Erkek soket kenarına yerleştirildiğinde fişin bağlantı yapması engellenir; 16A – 125A arası BS4343 fişler ve cihaz girişleriyle uyumludur.",
+   "Polipropilen (PP) gövde sağlam ve uzun ömürlüdür; renkli tasarımı uzaktan fark edilmesini sağlar. Kelepçe çapı 7 mm'ye kadar olan birden fazla asma kilitle kilitlenebildiği için elektrik bakım ekipleri grup kilitleme yapabilir. Üretim hatlarında, uzun süreli bakım işlerinde ve uzak makinelerin izolasyonunda kullanılabilir."
+  ],
+  "feats": [
+   [
+    "BS4343 Uyumu",
+    "16A – 125A arası fiş ve cihaz girişlerine uygundur."
+   ],
+   [
+    "Kolay Takma",
+    "Erkek soket kenarına yerleştirilerek bağlantıyı engeller."
+   ],
+   [
+    "Çoklu Kilit",
+    "7 mm'ye kadar kelepçeli birden fazla asma kilit takılabilir."
+   ],
+   [
+    "Renkli Gövde",
+    "Görünür tasarım dikkat çeker."
+   ],
+   [
+    "PP Malzeme",
+    "Polipropilen gövde sağlam ve uzun ömürlüdür."
+   ]
+  ],
+  "usage": [
+   "Elektrik bakım ekipleri",
+   "Fabrika üretim hatları",
+   "Uzun süreli bakım çalışmaları",
+   "Uzak makinelerde izolasyon"
+  ]
+ },
+ {
+  "code": "BD-D71",
+  "name": "Fiş Kilitleme Çantası",
+  "summary": "BD-D71 fiş kilitleme çantası: polyester kumaş ve PVC iç kaplama; büyük fişleri, kumanda butonlarını ve parçaları asma kilitle izole eder.",
+  "intro": [
+   "BD-D71, büyük fişlerin, kontrol düğmelerinin veya endüstriyel parçaların içine alınarak izole edildiği taşınabilir bir kilitleme çantasıdır. Ağzı asma kilitle kapatıldığında içerideki fişe ya da butona erişim engellenir; asma kilit ürüne dahil değildir ve ayrıca temin edilir.",
+   "Dış yüzey aşınmaya dayanıklı polyester kumaştan, iç yüzey PVC kaplamadan oluşur; bu kaplama asansör gibi ekipmanların kumanda butonlarının izinsiz çalıştırılmasını önlemeye yöneliktir. Geniş iç hacim çoklu kontrol düğmelerini de kapsayabilir. Yüzeydeki İngilizce uyarılar LOTO sürecinde güvenlik mesajını görünür kılar."
+  ],
+  "feats": [
+   [
+    "Polyester Kumaş",
+    "Aşınmaya dayanıklı dış yüzeye sahiptir."
+   ],
+   [
+    "PVC İç Kaplama",
+    "Kumanda butonlarının izinsiz kullanımına karşı koruma sağlar."
+   ],
+   [
+    "Geniş Hacim",
+    "Büyük fişler ve çoklu kontrol düğmeleri için yeterli alan sunar."
+   ],
+   [
+    "Uyarı Yazıları",
+    "Yüzeyde İngilizce güvenlik uyarıları bulunur."
+   ],
+   [
+    "Asma Kilitle Kapanır",
+    "Kilit ayrı satılır ve çantanın ağzını kapatır."
+   ]
+  ],
+  "usage": [
+   "Büyük elektrik fişleri",
+   "Asansör butonları",
+   "Kumanda panelleri",
+   "Mobil kontrol sistemleri"
+  ]
+ },
+ {
+  "code": "BD-E81",
+  "name": "ABS Plastik Elektrik Fişi Kilitleme Ekipmanı",
+  "summary": "BD-E81 ABS elektrik fişi kilitleme ekipmanı: fişi tamamen kapatarak kazara yeniden bağlantıyı önleyen, darbeye dayanıklı plastik gövde.",
+  "intro": [
+   "BD-E81, elektrik fişini tamamen kapatarak prize yeniden takılmasını önleyen bir fiş kilitleme ekipmanıdır. Bakım veya onarım öncesinde fişi çekilen ekipmanın, iş sürerken başka biri tarafından kazara enerjilendirilmesinin önüne geçer.",
+   "Gövde darbelere dayanıklı ABS malzemeden üretilmiştir. Fiş kapalı gövde içinde kaldığı için LOTO prosedüründe elektrik kaynağının ayrıldığı nokta fiziksel olarak güvence altına alınır; uygulamayı yapan kişi kendi asma kilidi ve etiketiyle izolasyonu işaretleyebilir. Böylece işin kim tarafından ve neden durdurulduğu da sahada açıkça görülür."
+  ],
+  "feats": [
+   [
+    "Tam Kapatma",
+    "Fişi bütünüyle kapatarak prize takılmasını engeller."
+   ],
+   [
+    "ABS Gövde",
+    "Darbelere karşı dayanıklı malzemeden üretilmiştir."
+   ],
+   [
+    "Kazara Bağlantıya Karşı",
+    "Bakım sırasında yeniden enerjilendirmeyi önler."
+   ]
+  ],
+  "usage": [
+   "Elektrik fişleri",
+   "Taşınabilir elektrikli cihazlar",
+   "Bakım ve onarım"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "ABS"
+   ]
+  ]
+ },
+ {
+  "code": "BD-Q01",
+  "name": "Pnömatik Hızlı Bağlantı Kesme Kilidi",
+  "summary": "BD-Q01 pnömatik hızlı bağlantı kilidi: 1/4\" (6,4 mm), 3/8\" (9,5 mm) ve 1/2\" (12,7 mm) erkek bağlantıları hava kaynağından izole eder.",
+  "intro": [
+   "BD-Q01, basınçlı hava kaynaklarından ayrılan erkek hızlı bağlantı uçlarına takılarak ekipmanın yeniden hava hattına bağlanmasını önleyen bir pnömatik kilitleme cihazıdır. 1/4\" (6,4 mm), 3/8\" (9,5 mm) ve 1/2\" (12,7 mm) ölçülerindeki bağlantı aksesuarlarının çoğuna uyum sağlar.",
+   "Cihazın ortasındaki delik, kilidin hava hortumu üzerinde kalıcı olarak saklanmasına imkân verir; böylece gerektiğinde aranmadan hemen uygulanabilir. Yan taraftaki halka, hortumu ve kilitleme cihazını asmak için kullanılabilir. Pnömatik enerji izolasyonunda bağlantı ucunu fiziksel olarak kapatarak bakım süresince basınçlı havanın devreye girmesini engeller."
+  ],
+  "feats": [
+   [
+    "Üç Ölçü",
+    "1/4\", 3/8\" ve 1/2\" bağlantıların çoğuna uyar."
+   ],
+   [
+    "Hortumda Saklama",
+    "Orta delik sayesinde hortum üzerinde kalıcı olarak durur."
+   ],
+   [
+    "Asma Halkası",
+    "Yan halka hortum ve cihazı asmak için kullanılır."
+   ],
+   [
+    "Erkek Uç İzolasyonu",
+    "Erkek bağlantının hava kaynağına takılmasını engeller."
+   ]
+  ],
+  "usage": [
+   "Basınçlı hava hatları",
+   "Pnömatik el aletleri",
+   "Bakım ve onarım"
+  ],
+  "specs": [
+   [
+    "Uyumlu bağlantı ölçüleri",
+    "1/4\" (6,4 mm), 3/8\" (9,5 mm), 1/2\" (12,7 mm)"
+   ],
+   [
+    "Uygulama",
+    "Erkek hızlı bağlantı uçları"
+   ]
+  ]
+ },
+ {
+  "code": "BD-Q11",
+  "name": "Pnömatik Gaz ve Hava Kaynağı Kilitleme Ekipmanı",
+  "summary": "BD-Q11 paslanmaz çelik pnömatik kilitleme ekipmanı: 7–20 mm hava kaynaklarına uyum, 196x35x3 mm ölçü ve 4 asma kilit kapasitesi.",
+  "intro": [
+   "BD-Q11, pnömatik hatlarda hava ve gaz kaynaklarını kilitlemek için kullanılan paslanmaz çelik bir kilitleme ekipmanıdır. 7 mm'den 20 mm'ye kadar olan tüm hava kaynaklarına uyumlu olacak şekilde tasarlanmıştır ve bağlantı noktasının bakım süresince kullanılmasını engeller.",
+   "196 mm x 35 mm x 3 mm ölçülerindeki ince ve düz gövde paslanmaz çelikten üretilmiştir. Delik çapı 7 mm'ye kadar olan asma kilitlerle kullanılır ve dört asma kilit takılabildiği için aynı kaynak üzerinde grup kilitleme yapılabilir; her çalışan kendi kilidini çıkarmadan bağlantı serbest kalmaz."
+  ],
+  "feats": [
+   [
+    "Paslanmaz Çelik",
+    "Gövde paslanmaz çelikten üretilmiştir."
+   ],
+   [
+    "7–20 mm Uyum",
+    "Bu aralıktaki tüm hava kaynaklarına uygundur."
+   ],
+   [
+    "4 Asma Kilit",
+    "Dört asma kilitle grup kilitleme yapılabilir."
+   ],
+   [
+    "İnce Gövde",
+    "196 x 35 x 3 mm ölçülerindedir."
+   ]
+  ],
+  "usage": [
+   "Pnömatik hatlar",
+   "Hava ve gaz kaynakları",
+   "Grup kilitleme"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Paslanmaz çelik"
+   ],
+   [
+    "Uyumlu hava kaynağı",
+    "7–20 mm"
+   ],
+   [
+    "Ölçüler",
+    "196 mm x 35 mm x 3 mm"
+   ],
+   [
+    "Asma kilit uyumu",
+    "Delik çapı 7 mm'ye kadar"
+   ],
+   [
+    "Kilit kapasitesi",
+    "4 asma kilit"
+   ]
+  ]
+ },
+ {
+  "code": "BD-Q21",
+  "name": "Plastik Silindir Tank Kilitleme Ekipmanı",
+  "summary": "BD-Q21 plastik silindir tank kilitleme ekipmanı: polistiren gövde, 1,25 inç valf gövdesi deliği; çatallı ve tekli propan tankları için.",
+  "intro": [
+   "BD-Q21, çatallı ve tek başına kullanılan propan tankları dahil silindir tankların valfini kilitlemek için geliştirilmiş plastik bir kilitleme cihazıdır. Valf gövdesi deliği 1,25 inç çapındadır; cihaz valfin üzerine yerleştirilerek tankın bakım veya depolama sırasında yetkisiz açılmasını önler.",
+   "Sağlam polistiren plastikten üretilen gövdenin özel tasarımı, silindirlerin yan yana durduğu dar alanlarda da uygulanabilmesini sağlar. LOTO prosedüründe tank valfi fiziksel olarak kapatılır ve cihaz asma kilitle sabitlenerek gaz kaynağının izolasyonu güvence altına alınır."
+  ],
+  "feats": [
+   [
+    "Polistiren Gövde",
+    "Sağlam plastik malzemeden üretilmiştir."
+   ],
+   [
+    "Propan Tank Uyumu",
+    "Çatallı ve tekli propan tanklarında kullanılabilir."
+   ],
+   [
+    "Dar Alan Tasarımı",
+    "Sınırlı alanlarda uygulanabilir."
+   ],
+   [
+    "1,25 inç Delik",
+    "Valf gövdesi deliği 1,25 inç çapındadır."
+   ]
+  ],
+  "usage": [
+   "Propan tankları",
+   "Gaz silindirleri",
+   "Silindir depolama alanları"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Polistiren plastik"
+   ],
+   [
+    "Valf gövdesi deliği çapı",
+    "1,25 inç"
+   ],
+   [
+    "Uyumlu tanklar",
+    "Çatallı ve tekli propan tankları"
+   ]
+  ]
+ },
+ {
+  "code": "BD-Q31",
+  "name": "Ayarlanabilir Gaz Silindiri Kilitleme Ekipmanı",
+  "summary": "BD-Q31 ayarlanabilir gaz silindiri kilitleme ekipmanı: 3 1/2 inç boyun halkalarına uyar, farklı çap ve kapak dişlerine saniyeler içinde takılır.",
+  "intro": [
+   "BD-Q31, gaz tüplerinin valfine erişimi engellemek için silindir boynuna takılan ayarlanabilir bir kilitleme ekipmanıdır. Farklı çaplardaki silindirlere ve silindir kapaklarının dişlerine uyum sağlayabilir; 3 1/2 inç çaplı boyun halkalarına oturacak şekilde üretilmiştir.",
+   "Ayarlanabilir yapısı sayesinde cihaz yalnızca birkaç saniyede monte edilir ve tek bir model farklı silindirlerde kullanılabilir. Gaz enerjisinin izolasyonu sırasında valf fiziksel olarak kapatılır ve cihaz asma kilitle güvenceye alınarak tüpün izinsiz açılması engellenir. Bu yöntem, depolama ve bakım alanlarında silindirlerin kontrolsüz kullanımını da önler."
+  ],
+  "feats": [
+   [
+    "Ayarlanabilir",
+    "Çeşitli çaplara ve kapak dişlerine uyum sağlar."
+   ],
+   [
+    "Hızlı Montaj",
+    "Birkaç saniye içinde takılabilir."
+   ],
+   [
+    "Boyun Halkası Uyumu",
+    "3 1/2 inç boyun halkalarına uygun üretilmiştir."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel gaz tüpleri",
+   "Silindir depolama alanları",
+   "Bakım ve dolum noktaları"
+  ],
+  "specs": [
+   [
+    "Uyumlu boyun halkası çapı",
+    "3 1/2 inç"
+   ],
+   [
+    "Yapı",
+    "Ayarlanabilir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-B101",
+  "name": "Duvara Monte Edilebilen Kapaklı Loto İstasyonu",
+  "summary": "BD-B101 kapaklı LOTO istasyonu: 5 kanca ile 10 asma kilit ve 20 mandal kapasitesi, şeffaf kapak ve aksesuar bölmesi. Duvara monte edilir.",
+  "intro": [
+   "BD-B101, kilitleme ve etiketleme ekipmanlarını tek noktada toplamak için duvara monte edilen kapaklı bir LOTO istasyonudur. Küçük ve orta ölçekli ekipler için uygun olan istasyonda her biri 2 asma kilit ve 4 mandal taşıyan 5 kanca bulunur; toplam kapasite 10 asma kilit ve 20 mandaldır.",
+   "Sağlam plastik gövde şeffaf kapakla tamamlanır; içerik dışarıdan görülebilirken toz, dış etkenler ve yetkisiz erişimden korunur. Ek bölmeler etiket, kablo bağı ve küçük kilitleme aksesuarlarını barındırır. Sabit bir istasyon, LOTO uygulamasında ekipmanın kaybolmasını önler ve gerekli malzemeye hızlı ulaşılmasını sağlar."
+  ],
+  "feats": [
+   [
+    "Kanca Kapasitesi",
+    "5 kanca, her biri 2 asma kilit ve 4 mandal taşır."
+   ],
+   [
+    "Aksesuar Bölmesi",
+    "Etiket, kablo bağı ve küçük aksesuarlar için ek alan sunar."
+   ],
+   [
+    "Şeffaf Kapak",
+    "İçerik görünür kalırken dış etkenlerden korunur."
+   ],
+   [
+    "Duvar Montajı",
+    "Ekipmanlar sabit bir noktada toplanır."
+   ]
+  ],
+  "usage": [
+   "Bakım-onarım alanları",
+   "Atölye çalışma alanları",
+   "Üretim tesisleri"
+  ]
+ },
+ {
+  "code": "BD-B102",
+  "name": "Duvara Monte Edilebilen Kapaklı Loto İstasyonu",
+  "summary": "BD-B102 kapaklı LOTO istasyonu: 14 kanca ile 28 asma kilit ve 56 mandal kapasitesi, şeffaf kapak ve aksesuar alanı. Büyük ekipler için.",
+  "intro": [
+   "Büyük ekiplerin kilitleme ekipmanlarını merkezi bir noktada tutmak için tasarlanan BD-B102, duvara monte edilen kapaklı bir LOTO istasyonudur. 14 kanca pozisyonuna toplam 28 asma kilit ve 56 mandal yerleştirilebilir; eş zamanlı çok sayıda kilitleme yapılan tesislere uygundur.",
+   "Sağlam plastik gövde ve şeffaf kapak, ekipmanları korurken içeriğin bir bakışta kontrol edilmesini sağlar. Asma kilit ve mandalların yanında etiket, kablo bağı ve diğer kilitleme aparatları için ek alan bulunur. Atölye, üretim hattı veya bakım noktasında sabit bir kilitleme merkezi oluşturarak sürecin hızlanmasına katkı verir."
+  ],
+  "feats": [
+   [
+    "Yüksek Kapasite",
+    "14 kanca ile 28 asma kilit ve 56 mandal alır."
+   ],
+   [
+    "Ek Alan",
+    "Etiket, kablo bağı ve aparatlar için yer sunar."
+   ],
+   [
+    "Şeffaf Kapak",
+    "Ekipmanlar korunur ve kolayca izlenir."
+   ],
+   [
+    "Duvar Montajı",
+    "Sabit bir kilitleme merkezi oluşturur."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel tesisler",
+   "Enerji merkezleri",
+   "Bakım departmanları"
+  ]
+ },
+ {
+  "code": "BD-B103",
+  "name": "Duvara Asılabilen Şeffaf Kapaklı Geniş Loto İstasyonu",
+  "summary": "BD-B103 şeffaf kapaklı geniş LOTO istasyonu: 10 kanca ile 20 asma kilit ve 40 mandal kapasitesi, aksesuar alanı ve duvar montajı.",
+  "intro": [
+   "BD-B103, kilitleme ekipmanlarını görünür ve düzenli biçimde saklamak için duvara asılan şeffaf kapaklı bir LOTO istasyonudur. 10 kanca pozisyonu sayesinde aynı anda 20 asma kilit ve 40 mandal yerleştirilebilir; ayrıca etiketler, kablo bağları ve diğer aksesuarlar için alan bulunur.",
+   "Dayanıklı plastik gövde ve şeffaf kapak, ekipmanı korurken eksik malzemenin kolayca fark edilmesini sağlar. Duvara monte edilerek bakım birimi veya enerji kontrol noktasında sabit bir kilitleme merkezi oluşturur. BD-B104 ile birlikte kullanılarak alan genişletilebilir."
+  ],
+  "feats": [
+   [
+    "Geniş Kapasite",
+    "10 kanca pozisyonu yüksek kapasite sağlar."
+   ],
+   [
+    "Aksesuar Alanı",
+    "Etiket, kablo bağı ve diğer ekipmanlar için yer vardır."
+   ],
+   [
+    "Şeffaf Kapak",
+    "Malzeme takibini kolaylaştırır ve koruma sağlar."
+   ],
+   [
+    "Duvar Montajı",
+    "Sabit kilitleme merkezi oluşturur."
+   ]
+  ],
+  "usage": [
+   "Üretim sahaları",
+   "Bakım birimleri",
+   "Enerji kontrol noktaları"
+  ]
+ },
+ {
+  "code": "BD-B104",
+  "name": "Duvara Asılabilen Loto İstasyonu",
+  "summary": "BD-B104 duvara asılabilen LOTO istasyonu: 8 kanca ile 16 asma kilit ve 32 mandal kapasitesi; BD-B103 ile birlikte modüler kullanılabilir.",
+  "intro": [
+   "BD-B104, bakım ve enerji izolasyonu sırasında kullanılan kilitleme ekipmanlarını düzenli tutmak için duvara asılan bir LOTO istasyonudur. 8 kanca pozisyonuna 16 asma kilit ve 32 mandal yerleştirilebilir; etiketler, kablo bağları ve diğer aksesuarlar için de alan ayrılmıştır.",
+   "İstasyonun öne çıkan özelliği BD-B103 ile birlikte kullanılabilmesidir; iki ürün yan yana monte edilerek ihtiyaca göre genişletilebilen modüler bir kilitleme alanı oluşturulur. Sağlam yapısı ve sabit duvar montajı, bakım personelinin tüm LOTO ekipmanına tek noktadan ulaşmasını sağlar."
+  ],
+  "feats": [
+   [
+    "Fonksiyonel Depolama",
+    "8 kanca pozisyonu ile fonksiyonel depolama sunar."
+   ],
+   [
+    "Modüler Uyum",
+    "BD-B103 ile birlikte kullanılarak alan genişletilebilir."
+   ],
+   [
+    "Aksesuar Alanı",
+    "Etiket ve kablo bağları için yer bulunur."
+   ],
+   [
+    "Sabit Montaj",
+    "Duvara monte edilerek kalıcı istasyon oluşturur."
+   ]
+  ],
+  "usage": [
+   "Fabrika bakım alanları",
+   "Atölye çalışma alanları",
+   "Bakım merkezleri",
+   "Enerji kontrol alanları"
+  ]
+ },
+ {
+  "code": "BD-B105",
+  "name": "Kapaksız Mini Loto İstasyonu",
+  "summary": "BD-B105 kapaksız mini LOTO istasyonu: 4 kanca ile 8 asma kilit ve 16 mandal kapasitesi, açık ön yüz ve duvar montajı. Dar alanlar için.",
+  "intro": [
+   "BD-B105, sınırlı alanlarda kilitleme ekipmanlarını düzenli tutmak için tasarlanmış kompakt ve kapaksız bir LOTO istasyonudur. 4 kanca pozisyonuna 8 asma kilit ve 16 mandal asılabilir; etiketler, kablo bağları ve küçük kilitleme ekipmanları için de alan bulunur.",
+   "Kapak bulunmaması, ekipmana hızlı ulaşılması gereken noktalarda zaman kazandırır. Az yer kaplayan gövde duvara kolayca monte edilir ve endüstriyel ortamlara uygun dayanıklı yapıdadır. Küçük bakım noktalarında, üretim hücrelerinde veya mobil iş istasyonlarında LOTO malzemesinin tek noktadan alınmasını sağlar."
+  ],
+  "feats": [
+   [
+    "Kompakt Kapasite",
+    "4 kanca ile 8 asma kilit ve 16 mandal alır."
+   ],
+   [
+    "Açık Ön Yüz",
+    "Kapaksız yapı hızlı erişim sağlar."
+   ],
+   [
+    "Aksesuar Alanı",
+    "Etiket ve kablo bağları için yer sunar."
+   ],
+   [
+    "Kolay Montaj",
+    "Az yer kaplar, duvara kolayca takılır."
+   ]
+  ],
+  "usage": [
+   "Kompakt bakım noktaları",
+   "Üretim hücreleri",
+   "Mobil iş istasyonları"
+  ]
+ },
+ {
+  "code": "BD-B201",
+  "name": "Kombinasyon Gelişmiş Büyük Loto İstasyonu",
+  "summary": "BD-B201 büyük kombinasyon LOTO istasyonu: 26 kanca pozisyonu ve 2 geniş kutu ile kilit, çoklandırıcı ve etiketleri tek merkezde toplar.",
+  "intro": [
+   "BD-B201, enerji izolasyonunu merkezi bir noktadan yönetmek isteyen tesisler için tasarlanmış büyük bir kombinasyon LOTO istasyonudur. 26 kanca pozisyonuna asma kilitler, çoklandırıcılar ve mandallar asılabilir; iki geniş kutu ise etiket, kablo bağı ve küçük kilitler gibi yardımcı ekipmanları korur.",
+   "Gövde, model varyasyonuna göre dayanıklı mühendislik plastiği veya çelikten üretilir. Kilitleme ve etiketleme malzemesinin tamamının bir arada bulunması, yoğun bakım duruşlarında doğru ekipmana hızlı ulaşılmasını sağlar ve karışıklık riskini azaltır. Üretim tesisleri, enerji santralleri ve bakım atölyeleri için uygundur."
+  ],
+  "feats": [
+   [
+    "26 Kanca",
+    "Asma kilit, çoklandırıcı ve mandallar düzenli saklanır."
+   ],
+   [
+    "2 Geniş Kutu",
+    "Etiket, kablo bağı ve küçük kilitler için ayrı alan sunar."
+   ],
+   [
+    "Malzeme Seçeneği",
+    "Model varyasyonuna göre mühendislik plastiği veya çelik gövde."
+   ],
+   [
+    "Hızlı Erişim",
+    "Tüm LOTO ekipmanını tek noktada toplar."
+   ]
+  ],
+  "usage": [
+   "Üretim tesisleri",
+   "Enerji santralleri",
+   "Bakım atölyeleri",
+   "Enerji izolasyon noktaları"
+  ]
+ },
+ {
+  "code": "BD-B202",
+  "name": "Kombinasyon Gelişmiş Büyük Kilit İstasyonu",
+  "summary": "BD-B202 büyük kombinasyon kilit istasyonu: 30 kanca pozisyonu, özelleştirilebilir renk ve etiket seçenekleriyle merkezi LOTO ekipman yönetimi.",
+  "intro": [
+   "BD-B202, geniş kapsamlı enerji izolasyon işlemlerinde kilitleme ekipmanlarını merkezi bir noktada düzenlemek için kullanılan büyük bir kombinasyon istasyonudur. 30 kanca pozisyonuna asma kilitler, çoklandırıcılar (mandallar), kablo kilitleri ve diğer LOTO ekipmanları yerleştirilebilir.",
+   "Farklı ekiplerin aynı anda çalıştığı tesislerde kilit ve etiketlerin tek merkezden yönetilmesi, ekipman kaybını azaltır ve prosedüre uyumu kolaylaştırır; ekipmana kolay erişim de iş güvenliği adımlarının atlanma ihtimalini düşürür. Endüstriyel ortamlara dayanıklı malzeme yapısı uzun süreli kullanım sağlar; renk ve etiket seçenekleri şirket içi prosedürlere göre özelleştirilebilir."
+  ],
+  "feats": [
+   [
+    "30 Kanca",
+    "Çok sayıda kilit ve LOTO ekipmanı düzenli saklanır."
+   ],
+   [
+    "Merkezi Yönetim",
+    "Birden fazla ekibin ekipmanı tek noktadan yönetilir."
+   ],
+   [
+    "Özelleştirme",
+    "Renk ve etiket seçenekleri iç prosedürlere uyarlanabilir."
+   ],
+   [
+    "Dayanıklı Yapı",
+    "Sanayi ortamlarına uygun malzemeden üretilmiştir."
+   ]
+  ],
+  "usage": [
+   "Üretim hatları",
+   "Bakım atölyeleri",
+   "Enerji santralleri"
+  ]
+ },
+ {
+  "code": "BD-B301",
+  "name": "Kapaksız Plastik Loto İstasyonu",
+  "summary": "BD-B301 kapaksız plastik LOTO istasyonu: PP gövde; 2 çoklayıcı, 7 asma kilit ve 20 etikete kadar kapasite. Hızlı erişim gereken alanlar için.",
+  "intro": [
+   "BD-B301, enerji izolasyonunda sık kullanılan ekipmanların açık ve erişilebilir biçimde tutulduğu kapaksız bir plastik LOTO istasyonudur. Üzerinde 2 çoklayıcı (mandal), 7 asma kilit ve 20 adede kadar etiket asılabilir; kablo bağları gibi yardımcı malzemeler de aynı noktada tutulabilir.",
+   "Yüksek kaliteli polipropilen (PP) gövde aşınmaya, korozyona ve düşük sıcaklığa karşı dirençlidir. Kapağın olmaması, yoğun bakım-onarım alanlarında ekipmana birkaç saniyede ulaşılmasını sağlar. Fabrikalar, atölyeler ve enerji santrallerinde LOTO prosedürünün sahada düzenli uygulanmasını destekler."
+  ],
+  "feats": [
+   [
+    "PP Gövde",
+    "Aşınma, korozyon ve düşük sıcaklığa dayanıklıdır."
+   ],
+   [
+    "Kapaksız Yapı",
+    "Ekipmanlara hızlı erişim sağlar."
+   ],
+   [
+    "Kapasite",
+    "2 çoklayıcı, 7 asma kilit ve 20 etikete kadar alır."
+   ],
+   [
+    "Yaygın Kullanım",
+    "Fabrika, atölye ve santrallerde kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Fabrika üretim alanları",
+   "Bakım alanları",
+   "Atölye çalışma alanları",
+   "Enerji santralleri"
+  ]
+ },
+ {
+  "code": "BD-B302",
+  "name": "Kapaksız Plastik Loto İstasyonu",
+  "summary": "BD-B302 kapaksız PP LOTO istasyonu: 2 çoklayıcı, 16 asma kilit yuvası ve 10 etiket askısı; renk ve uyarı yazısı talebe göre özelleştirilebilir.",
+  "intro": [
+   "BD-B302, LOTO ekipmanlarının açık rafta düzenli tutulması için tasarlanmış kompakt, kapaksız bir plastik istasyondur. Üzerinde 2 çoklayıcı, 16 asma kilit yuvası ve 10 etiket askısı bulunur; mandal ve kablo bağı gibi diğer LOTO ekipmanlarıyla da uyumludur.",
+   "Polipropilen (PP) gövde aşınmaya, darbeye, korozyona ve düşük sıcaklıklara karşı dirençlidir. Açık tasarım, yoğun ekipman kullanılan bakım alanlarında hızlı erişim sağlar. İstasyon rengi ve üzerindeki uyarı yazıları talebe göre özelleştirilebildiğinden tesisin kendi renk kodlaması ve prosedürleriyle uyumlu hale getirilebilir."
+  ],
+  "feats": [
+   [
+    "Dayanıklı PP",
+    "Aşınma, darbe ve zorlu ortam koşullarına dayanıklıdır."
+   ],
+   [
+    "16 Kilit Yuvası",
+    "2 çoklayıcı ve 10 etiket askısıyla birlikte sunulur."
+   ],
+   [
+    "Açık Tasarım",
+    "Ekipmana hızlı erişim sağlar."
+   ],
+   [
+    "Özelleştirme",
+    "Renk ve uyarı yazıları talebe göre değiştirilebilir."
+   ]
+  ],
+  "usage": [
+   "Atölye çalışma alanları",
+   "Bakım ekipleri",
+   "Üretim hatları",
+   "Enerji izolasyonu"
+  ]
+ }
+]

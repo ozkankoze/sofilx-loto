@@ -1,0 +1,1454 @@
+[
+ {
+  "code": "BD-B306A/B307A/B308A",
+  "name": "Akrilik Kapakasız Loto İstasyonları",
+  "summary": "BD-B306A/B307A/B308A akrilik kapaksız LOTO istasyonları; 10, 20 ve 36 kilit kapasiteli sarı panellerle kilitleme ekipmanlarını düzenli saklayın.",
+  "intro": [
+   "Sarı akrilikten üretilen bu kapaksız istasyon ailesi, asma kilitleri ve diğer kilitleme-etiketleme malzemelerini duvarda tek bir noktada toplar. Üç ölçü sunulur: 10 kilitlik 343 × 343 mm, 20 kilitlik 597 × 292 mm ve 36 kilitlik 546 × 597 mm (Y × G) panel.",
+   "Kapak bulunmadığından personel, enerji izolasyonuna başlamadan önce ihtiyaç duyduğu kilidi ve etiketi bekleme olmadan alır; boş kalan yuvalar hangi ekipmanın sahada olduğunu da gösterir. Panel yüzeyine firma, departman veya güvenlik mesajı eklenebildiği için istasyon, bakım atölyelerinde ve üretim hatlarında LOTO noktasının görsel işareti olarak da kullanılabilir."
+  ],
+  "feats": [
+   [
+    "Sarı Akrilik Gövde",
+    "Darbeye dayanıklı akrilik malzeme, uzun süreli duvar kullanımına uygundur."
+   ],
+   [
+    "Kapaksız Erişim",
+    "Kilitleme ekipmanına kapak açmadan doğrudan ulaşılır."
+   ],
+   [
+    "Üç Kapasite",
+    "10, 20 ve 36 kilitlik seçeneklerle ekip büyüklüğüne göre seçim yapılabilir."
+   ],
+   [
+    "Kişiselleştirme",
+    "Panele firma adı, departman bilgisi veya güvenlik mesajı uygulanabilir."
+   ],
+   [
+    "Toplu Düzen",
+    "Asma kilit, çoklayıcı ve uyarı etiketleri aynı panelde düzenlenir."
+   ]
+  ],
+  "usage": [
+   "Bakım atölyeleri",
+   "Üretim hatları",
+   "Enerji tesisleri",
+   "Merkezi LOTO noktaları"
+  ]
+ },
+ {
+  "code": "BD-B31/B34",
+  "name": "Metal Askı Ekipmanları",
+  "summary": "BD-B31/B34 metal kilit askıları; toz boyalı çelik sac gövde, 5-10-15-20 asma kilit kapasitesi ile duvar veya panoya montaj için uygundur.",
+  "intro": [
+   "Bu seri, asma kilitleri duvarda veya pano yüzeyinde sıralı biçimde asmak için kullanılan çelik sac askılardan oluşur. Gövde yüksek sıcaklıkta elektrostatik toz boya ile kaplanmıştır. Dört kapasite mevcuttur: BD-B31 5, BD-B32 10, BD-B33 15 ve BD-B34 20 asma kilit taşır.",
+   "Her kilidin sabit bir yeri olması, vardiya sonunda eksik kilidin hemen fark edilmesini sağlar ve kilitlerin rastgele çekmecelere dağılmasını önler. Bakım odası, kontrol panosu yanı ya da LOTO istasyonu içinde kişisel kilitlerin günlük olarak toplandığı nokta olarak konumlandırılabilir; kapasite ekip sayısına göre seçilir."
+  ],
+  "feats": [
+   [
+    "Çelik Sac",
+    "Darbeye ve paslanmaya karşı dirençli çelik sac yapıdadır."
+   ],
+   [
+    "Toz Boya Kaplama",
+    "Yüksek sıcaklıkta uygulanan elektrostatik toz boya yüzeyi korur."
+   ],
+   [
+    "Kolay Montaj",
+    "Duvara veya pano yüzeyine pratik şekilde sabitlenir."
+   ],
+   [
+    "Dört Kapasite",
+    "5, 10, 15 ve 20 kilitlik modellerle farklı ölçekte alanlara uyum sağlar."
+   ],
+   [
+    "Kilit Takibi",
+    "Sabit yerleşim, kilitlerin kaybolmasını önler."
+   ]
+  ],
+  "usage": [
+   "Bakım odaları",
+   "Kontrol panoları",
+   "LOTO istasyonları",
+   "Vardiya kilit takibi"
+  ]
+ },
+ {
+  "code": "BD-B401Serisi",
+  "name": "Serisi Kombine Kilitleme İstasyonu",
+  "summary": "BD-B401 Serisi (LG11) kombine kilitleme istasyonu; sarı PC gövde, asma kilitle kilitlenen kapak ve 520 × 631 × 85 mm ölçülerle LOTO depolama sunar.",
+  "intro": [
+   "LG11 olarak da anılan BD-B401 Serisi, asma kilit, çoklandırıcı, uyarı etiketi ve mini kilitleme cihazlarını kapaklı tek bir gövdede saklayan kombine bir istasyondur. Sarı renkli gövde mühendislik plastiği PC'den üretilmiştir ve 520 mm (G) × 631 mm (Y) × 85 mm (D) ölçülerindedir.",
+   "Kapak bir asma kilitle kilitlenir; böylece içerideki ekipmana yalnızca yetkili personel ulaşır ve malzemeler toz ile dış etkenlerden korunur. Tesisin merkezi LOTO deposu olarak kullanıldığında, izolasyon öncesi gereken tüm ekipmanın tek yerden temin edilmesini ve iş bitiminde aynı noktaya iade edilmesini kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "PC Gövde",
+    "Mühendislik plastiği gövde darbeye ve çevresel koşullara dayanıklıdır."
+   ],
+   [
+    "Kapaklı Yapı",
+    "Kapak, kilitleme ekipmanlarını dış etkenlerden korur."
+   ],
+   [
+    "Kilitlenebilir Kapak",
+    "Asma kilitle kilitlenerek yetkisiz erişimi sınırlar."
+   ],
+   [
+    "Geniş İç Hacim",
+    "Kilit, çoklandırıcı, etiket ve mini cihazlar için yeterli alan bulunur."
+   ],
+   [
+    "Merkezi Saklama",
+    "Tüm LOTO ekipmanı tek noktada toplanır."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel tesisler",
+   "Enerji santralleri",
+   "Bakım atölyeleri",
+   "Güvenlik yönetim alanları"
+  ]
+ },
+ {
+  "code": "BD-B41",
+  "name": "Taşınabilir 12'li Kilit Askısı",
+  "summary": "BD-B41 taşınabilir 12'li kilit askısı; takviyeli naylon gövde, ≤7 mm kelepçeli 12 asma kilit kapasitesi ve uyarı etiketiyle sahada kilit taşıma.",
+  "intro": [
+   "BD-B41, on iki asma kilidi ve anahtarlarını bir arada sahaya götürmek için kullanılan elde taşınır bir askıdır. Mühendislik plastiğiyle güçlendirilmiş naylondan enjeksiyon kalıplama yöntemiyle üretilir; kelepçe çapı 7 mm ve altındaki kilitlerle uyumludur.",
+   "Bakım ekibi izolasyon yapılacak makineye giderken kilitleri cepte ya da kutuda değil, sıralı bir askıda taşır; hangi kilidin kullanıldığı ve hangisinin boşta kaldığı bir bakışta görülür. Üzerindeki uyarı etiketleri askının LOTO amaçlı olduğunu belirtir ve kimliklendirmeyi kolaylaştırır. Hafif yapısı, sık yer değiştiren bakım çalışmalarında pratiklik sağlar."
+  ],
+  "feats": [
+   [
+    "Elde Taşınır",
+    "Kompakt gövde kilitlerin sahaya kolayca götürülmesini sağlar."
+   ],
+   [
+    "12 Kilit",
+    "12 adede kadar asma kilit aynı anda düzenli taşınır."
+   ],
+   [
+    "Kelepçe Uyumu",
+    "7 mm ve altı kelepçe çapındaki kilitler için uygundur."
+   ],
+   [
+    "Enjeksiyon Gövde",
+    "Takviyeli naylon yapı darbeye dayanıklıdır."
+   ],
+   [
+    "Uyarı Etiketi",
+    "Üzerindeki etiketler kimliklendirmeyi kolaylaştırır."
+   ]
+  ],
+  "usage": [
+   "Saha bakım çalışmaları",
+   "Enerji izolasyonu",
+   "Mobil kilit taşıma",
+   "Onarım ekipleri"
+  ]
+ },
+ {
+  "code": "BD-B60",
+  "name": "Kancalı Anahtar Yönetim İstasyonu",
+  "summary": "BD-B60 kancalı anahtar yönetim istasyonu; 20 ayarlanabilir kanca ve kaplamalı çelik gövdeyle anahtar ve kartların düzenli takibini sağlar.",
+  "intro": [
+   "BD-B60, farklı boyutlardaki anahtarları, kartları ve küçük ekipmanları dolap içinde 20 kanca üzerinde düzenleyen çelik bir anahtar yönetim istasyonudur. Gövde kaplamalı çelikten üretilir ve kancalar ayarlanabilir olduğundan farklı boyuttaki anahtarlar aynı dolapta yerleştirilebilir. Ürün farklı ölçü seçenekleriyle sunulur.",
+   "Çok kullanıcılı sahalarda hangi anahtarın kimde olduğunu izlemek, LOTO sürecinin denetlenebilirliği açısından önemlidir. Kancalar departman veya ekipman bazında atanarak erişim yetkileri görünür hale getirilebilir. Farklı renklerde anahtar askıları ve alet kartlarıyla birlikte kullanıldığında renk kodlu bir takip düzeni kurulabilir."
+  ],
+  "feats": [
+   [
+    "20 Kanca",
+    "Anahtar, kart ve küçük ekipmanlar ayrı kancalarda tutulur."
+   ],
+   [
+    "Ayarlanabilir Askı",
+    "Kancalar farklı anahtar boyutlarına göre düzenlenebilir."
+   ],
+   [
+    "Çelik Gövde",
+    "Kaplamalı çelik yapı uzun süreli kullanıma uygundur."
+   ],
+   [
+    "Aksesuar Uyumu",
+    "Renkli anahtar askıları ve alet kartlarıyla birlikte kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Anahtar takibi",
+   "Erişim kontrolü",
+   "Departman bazlı yetkilendirme",
+   "Bakım birimleri"
+  ]
+ },
+ {
+  "code": "BD-B61",
+  "name": "Metal Anahtar Saklama Dolabı",
+  "summary": "BD-B61 metal anahtar saklama dolabı; anahtar, kart ve kilitlerin asılarak düzenli saklanması için LOTO ve bakım alanlarında kullanılır.",
+  "intro": [
+   "BD-B61, anahtarların, kartların ve benzeri küçük malzemelerin asılarak saklandığı metal bir dolap tipi istasyondur. Çeşitli sektörlerde kilitleme ekipmanlarını ve anahtarları tek noktada toplamak amacıyla kullanılır.",
+   "Kilitleme-etiketleme uygulamalarında anahtarların dağınık durması, hangi kilidin kimde olduğunun takibini zorlaştırır. Dolap, anahtarları ve kilitleri belirli bir yerde toplayarak bakım ekiplerinin iş başlangıcında ve bitişinde aynı noktayı kullanmasını sağlar. Dolap, bakım atölyesi veya kontrol odası gibi ortak kullanılan bir alana yerleştirilebilir. Bu düzen, LOTO prosedüründe anahtar kontrolünü ve günlük kilit sayımını kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Metal Gövde",
+    "Metal yapı atölye ve tesis ortamında kullanıma uygundur."
+   ],
+   [
+    "Asma Düzeni",
+    "Anahtarlar ve kartlar asılarak düzenli tutulur."
+   ],
+   [
+    "Kilit Saklama",
+    "Asma kilitlerin toplu saklanması için de kullanılabilir."
+   ],
+   [
+    "Geniş Kullanım",
+    "Farklı sektörlerdeki bakım alanlarına uyum sağlar."
+   ]
+  ],
+  "usage": [
+   "Anahtar saklama",
+   "Kilit depolama",
+   "Bakım atölyeleri",
+   "Endüstriyel tesisler"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Metal"
+   ]
+  ]
+ },
+ {
+  "code": "BD-B71-1",
+  "name": "Alüminyum Kapaksız Duvara Asılabilen LOTO İstasyonu",
+  "summary": "BD-B71-1 alüminyum kapaksız duvara asılabilen LOTO istasyonu; kilitleme-etiketleme ekipmanlarını duvarda açık ve erişilebilir biçimde toplar.",
+  "intro": [
+   "BD-B71-1, kilitleme ve etiketleme ekipmanlarının duvara asılarak saklandığı alüminyum, kapaksız bir LOTO istasyonudur. Asma kilitler ve ilgili malzemeler, izolasyon yapılacak alanın yakınında açıkta ve görünür biçimde bekletilir.",
+   "Kapaksız yapı sayesinde personel, enerji kaynağını izole etmeden önce ihtiyaç duyduğu ekipmanı kapak açmadan alır. Duvarda sabit bir noktada bulunması, kilitlerin ve etiketlerin iş bitiminde aynı yere iade edilmesini ve eksik ekipmanın kolayca fark edilmesini destekler. Atölye, üretim alanı ve pano odası girişlerinde LOTO noktasını belirlemek için kullanılabilir."
+  ],
+  "feats": [
+   [
+    "Alüminyum Yapı",
+    "Alüminyum malzemeden üretilmiş bir istasyondur."
+   ],
+   [
+    "Kapaksız Tasarım",
+    "Ekipmana kapak açmadan doğrudan erişilir."
+   ],
+   [
+    "Duvar Montajı",
+    "Duvara asılarak sabit bir LOTO noktası oluşturur."
+   ],
+   [
+    "Görünür Düzen",
+    "Eksik ekipman açık panelde kolayca fark edilir."
+   ]
+  ],
+  "usage": [
+   "Üretim alanları",
+   "Pano odaları",
+   "Bakım atölyeleri",
+   "Duvar tipi LOTO noktası"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Alüminyum"
+   ],
+   [
+    "Tasarım",
+    "Kapaksız"
+   ],
+   [
+    "Montaj",
+    "Duvara asılabilir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-B7Serisi",
+  "name": "Serisi Kapaksız Gölge Kilit İstasyonları",
+  "summary": "BD-B7 Serisi kapaksız gölge kilit istasyonları; alüminyum çerçeveli PVC panel ve ekipman konturlarıyla eksik LOTO malzemesini anında gösterir.",
+  "intro": [
+   "BD-B7 Serisi, her kilitleme ekipmanının yerinin panel üzerinde gölge konturla işaretlendiği kapaksız istasyonlardan oluşur. Taban tahta sertliğinde PVC'dir ve düşmelere karşı koruma sağlayan alüminyum çerçeveyle desteklenir. Küçük işletmelerden büyük üretim bölümlerine kadar farklı ölçeklerde kullanılabilir.",
+   "Kontur sistemi, bir kilit ya da cihaz sahadayken boş kalan şekli görünür kılar; böylece grup çalışmalarında hangi ekipmanın kullanımda olduğu panele bakarak anlaşılır. Kapak olmadığı için yoğun vardiyalarda erişim hızlıdır. Logo, tasarım ve yerleşim tesisin ekipman listesine göre düzenlenebilir."
+  ],
+  "feats": [
+   [
+    "Gölge Kontur",
+    "Her ekipmanın yeri işaretlidir, eksikler kolayca görülür."
+   ],
+   [
+    "Kapaksız Erişim",
+    "Yoğun çalışma ortamlarında ekipmana hızlı ulaşılır."
+   ],
+   [
+    "PVC ve Alüminyum",
+    "Sert PVC taban alüminyum çerçeveyle desteklenir."
+   ],
+   [
+    "Özelleştirme",
+    "Logo, tasarım ve yerleşim isteğe göre düzenlenebilir."
+   ]
+  ],
+  "usage": [
+   "Fabrikalar",
+   "Bakım atölyeleri",
+   "Elektrik panosu yakınları",
+   "Grup kilitleme alanları"
+  ]
+ },
+ {
+  "code": "BD-S62",
+  "name": "Plastik Kapaksız Asma Kilit İstasyonu",
+  "summary": "BD-S62 plastik kapaksız asma kilit istasyonu; emniyet asma kilitlerini açık panelde düzenli ve görünür tutarak LOTO noktasında hızlı erişim sağlar.",
+  "intro": [
+   "BD-S62, emniyet asma kilitlerinin açık bir panel üzerinde saklandığı plastik gövdeli, kapaksız bir istasyondur. Kilitler sıralı biçimde asıldığı için her birinin yeri belirgindir ve günlük kilit sayımı kolaylaşır.",
+   "Kapak bulunmaması, bakım personelinin izolasyon öncesinde kilidini hızla almasını sağlar; boş kalan yuvalar ise hangi kilitlerin sahada kullanımda olduğunu gösterir. Kişisel kilitlerin vardiya başında alınıp iş sonunda iade edildiği ortak nokta olarak kullanılabilir. Plastik yapısı, istasyonun bakım alanlarında ve pano odalarında konumlandırılmasını kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Plastik Gövde",
+    "İstasyon plastik malzemeden üretilmiştir."
+   ],
+   [
+    "Kapaksız Panel",
+    "Asma kilitlere doğrudan erişim sağlanır."
+   ],
+   [
+    "Kilit Takibi",
+    "Boş yuvalar sahadaki kilitleri gösterir."
+   ],
+   [
+    "Ortak Nokta",
+    "Kişisel kilitlerin alınıp iade edildiği merkez olarak kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Kişisel kilit saklama",
+   "Bakım alanları",
+   "Pano odaları",
+   "Vardiya kilit takibi"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Plastik"
+   ],
+   [
+    "Tasarım",
+    "Kapaksız"
+   ]
+  ]
+ },
+ {
+  "code": "BD-X07",
+  "name": "Duvara Asılabilir Metal Loto Dolabı",
+  "summary": "BD-X07 duvara asılabilir metal LOTO dolabı; plastik püskürtme kaplı çelik sac gövde ve 2 hareketli bölme plakasıyla ekipmanları düzenli saklar.",
+  "intro": [
+   "BD-X07, kilitleme ekipmanlarını duvara vidalanan kapalı bir gövdede saklayan metal bir LOTO dolabıdır. Çelik sac gövdenin yüzeyi sıcaklık püskürtme yöntemiyle plastik kaplanmıştır. İçeride yeri değiştirilebilen 2 adet bölme plakası bulunur; ön panel şeffaf değildir ve özelleştirilebilir.",
+   "Hareketli bölmeler sayesinde iç hacim; asma kilit, mandal, kablo kilidi ve LOTO etiketi gibi farklı ölçüdeki ekipmanlara göre ayarlanabilir. Dolap, izolasyon yapılan bölümün yakınına sabitlendiğinde ekipmanın tek yerde toplanmasını sağlar. Talep halinde logosuz, kuruma özel ya da daha büyük ölçülerde üretilebilir."
+  ],
+  "feats": [
+   [
+    "Kaplamalı Çelik",
+    "Sıcaklık püskürtme plastik kaplı çelik sac gövdeye sahiptir."
+   ],
+   [
+    "Hareketli Bölmeler",
+    "İki bölme plakasıyla iç düzen ayarlanabilir."
+   ],
+   [
+    "Vidalı Montaj",
+    "Duvara vidayla sabitlenir."
+   ],
+   [
+    "Geniş Saklama",
+    "Kilit, mandal, kablo kilidi ve etiketler birlikte saklanır."
+   ],
+   [
+    "Özel Üretim",
+    "Logosuz, markalı veya daha büyük ölçülerde üretilebilir."
+   ]
+  ],
+  "usage": [
+   "Atölyeler",
+   "Üretim sahaları",
+   "Bakım alanları",
+   "Enerji izolasyon noktaları"
+  ]
+ },
+ {
+  "code": "BD-X07-6",
+  "name": "Metal Kilit Dolabı",
+  "summary": "BD-X07-6 metal kilit dolabı; 30 asma kilit pozisyonu (≤7 mm kelepçe), 450 × 88 × 600 mm kaplamalı çelik sac gövde ile duvar montajına uygundur.",
+  "intro": [
+   "BD-X07-6, otuz asma kilit pozisyonuna sahip, duvara monte edilen bir metal kilit dolabıdır. Gövde yüksek sıcaklık püskürtme plastik işlemli çelik sacdan üretilir; ölçüleri 450 mm (G) × 88 mm (D) × 600 mm (Y) olup kelepçe çapı 7 mm ve altındaki kilitlerle uyumludur.",
+   "Orta ve büyük ölçekli bakım ekiplerinde kişisel kilitlerin her biri için ayrı bir pozisyon ayrılabilir; asma kilitlerin yanında mandal ve diğer kilitleme aksesuarları da aynı dolapta tutulur. Renk ve etiket talebine göre üretim yapılabildiğinden dolap, tesisin LOTO renk ve isimlendirme düzenine uyarlanabilir."
+  ],
+  "feats": [
+   [
+    "30 Pozisyon",
+    "Otuz asma kilit için ayrı pozisyon sunar."
+   ],
+   [
+    "Kaplamalı Çelik",
+    "Yüksek sıcaklık püskürtme işlemli çelik sac gövdeye sahiptir."
+   ],
+   [
+    "Aksesuar Saklama",
+    "Mandal ve diğer kilitleme aksesuarları da muhafaza edilir."
+   ],
+   [
+    "Duvar Montajı",
+    "Atölye ve bakım alanlarında sabit kullanıma uygundur."
+   ],
+   [
+    "Özelleştirme",
+    "Renk ve etiket talebine göre üretilebilir."
+   ]
+  ],
+  "usage": [
+   "Endüstriyel bakım alanları",
+   "Üretim tesisleri",
+   "Enerji izolasyonu",
+   "Kişisel kilit yönetimi"
+  ]
+ },
+ {
+  "code": "BD-X08",
+  "name": "Metal Asma Kilit İstasyonu",
+  "summary": "BD-X08 metal asma kilit istasyonu; asma kilit, anahtar ve çoklandırıcıları tek noktada toplayarak kilitleme işlerini merkezileştirmeye yardımcı olur.",
+  "intro": [
+   "BD-X08, farklı kilitleme ve etiketleme ekipmanlarını bir arada barındıran metal bir istasyondur. Asma kilitler, asma kilit anahtarları ve çoklandırıcılar aynı gövde üzerinde, ayrı ayrı aranmalarına gerek kalmadan düzenlenir.",
+   "Kilitleme ekipmanının tek bir konumda toplanması, izolasyon öncesinde malzemenin aranmasını önler ve iş bitiminde iadeyi kolaylaştırır. Kişisel kilitlerin yanında grup kilitlemede kullanılan çoklandırıcıların da aynı yerde bulunması, birden fazla çalışanın katıldığı bakım işlerinde hazırlığı hızlandırır. İstasyon, tesisin LOTO ekipman ihtiyacını merkezileştirmek için ortak nokta olarak konumlandırılabilir."
+  ],
+  "feats": [
+   [
+    "Metal Gövde",
+    "Metal yapı endüstriyel ortamda kullanıma uygundur."
+   ],
+   [
+    "Toplu Düzen",
+    "Kilitler, anahtarlar ve çoklandırıcılar birlikte tutulur."
+   ],
+   [
+    "Merkezi Konum",
+    "Kilitleme ekipmanı tek noktada toplanır."
+   ],
+   [
+    "Grup Hazırlığı",
+    "Çoklandırıcılar grup kilitleme için hazırda bekler."
+   ]
+  ],
+  "usage": [
+   "Merkezi LOTO noktası",
+   "Grup kilitleme",
+   "Bakım atölyeleri",
+   "Üretim tesisleri"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Metal"
+   ]
+  ]
+ },
+ {
+  "code": "BD-X08-1",
+  "name": "Metal Asma Kilit İstasyonu",
+  "summary": "BD-X08-1 metal asma kilit istasyonu; her pozisyonda 2 kilit veya 2 çoklandırıcı, 480 × 500 × 85 mm sarı kaplamalı çelik gövde ile grup kilitleme.",
+  "intro": [
+   "BD-X08-1, asma kilit ve çoklandırıcıları sabit pozisyonlarda tutan sarı renkli metal bir istasyondur. Gövde, yüzeyi yüksek sıcaklıkta püskürtme plastikle işlenmiş çelik sacdan üretilir ve 480 mm (G) × 500 mm (Y) × 85 mm (D) ölçülerindedir.",
+   "Her pozisyona 2 asma kilit veya 2 çoklandırıcı asılabilmesi, grup kilitleme uygulamalarında kişisel kilitlerle çoklandırıcıların yan yana düzenlenmesini sağlar. Pozisyonlar kullanıcılara atanarak kişiye özel kilit yönetimi kurulabilir. Opak panel ihtiyaca göre özel olarak üretilebilir; darbe ve korozyona dirençli yüzey uzun süreli kullanım sunar."
+  ],
+  "feats": [
+   [
+    "Çift Pozisyon",
+    "Her noktaya 2 kilit veya 2 çoklandırıcı yerleştirilir."
+   ],
+   [
+    "Kaplamalı Çelik",
+    "Yüksek sıcaklık boyalı yüzey darbe ve korozyona dirençlidir."
+   ],
+   [
+    "Kullanıcı Ataması",
+    "Pozisyonlar kişiye özel kilit yönetimi için ayrılabilir."
+   ],
+   [
+    "Özel Panel",
+    "Opak panel ihtiyaca göre üretilebilir."
+   ]
+  ],
+  "usage": [
+   "Fabrikalar",
+   "Enerji santralleri",
+   "Bakım atölyeleri",
+   "Grup kilitleme alanları"
+  ]
+ },
+ {
+  "code": "BD-X09Serisi",
+  "name": "Serisi Metal Loto Dolabı",
+  "summary": "BD-X09 Serisi metal LOTO dolabı; 22 kanca, 4 etiket kutusu, 30 kilit ve mandal pozisyonu ile 560 × 460 × 70 mm kaplamalı çelik sac gövde.",
+  "intro": [
+   "BD-X09, kilit, mandal ve LOTO etiketlerini kapalı bir gövdede merkezi olarak saklayan metal dolaptır. Çelik sac gövde sıcaklık püskürtme plastikle kaplanmıştır ve 560 mm (G) × 460 mm (Y) × 70 mm (D) ölçülerindedir. İçeride 22 kanca ve 4 etiket kutusu bulunur; toplamda 30 asma kilit ve mandal pozisyonu sağlar.",
+   "Her kanca 2 asma kilit ve 2 mandal alır, etiket kutularında yaklaşık 40 LOTO etiketi saklanabilir. Dolap kilitlenerek yetkisiz erişime kapatılabilir. Opak panel markasız veya özelleştirilmiş olarak üretilebilir."
+  ],
+  "feats": [
+   [
+    "Kaplamalı Çelik",
+    "Plastik püskürtme kaplı çelik sac gövde uzun ömürlüdür."
+   ],
+   [
+    "22 Kanca",
+    "Her kanca 2 asma kilit ve 2 mandal taşır."
+   ],
+   [
+    "Etiket Kutuları",
+    "4 kutuda yaklaşık 40 LOTO etiketi saklanır."
+   ],
+   [
+    "Kilitli Yönetim",
+    "Yetkisiz kişilerin erişimi kilitle engellenebilir."
+   ],
+   [
+    "Özel Panel",
+    "Markasız veya opak panelle üretilebilir."
+   ]
+  ],
+  "usage": [
+   "LOTO ekipman yönetimi",
+   "Enerji izolasyonu",
+   "Bakım noktaları",
+   "Fabrika atölyeleri"
+  ]
+ },
+ {
+  "code": "BD-X23Serisi",
+  "name": "Serisi Taşınabilir Kombinasyon Loto İstasyonu",
+  "summary": "BD-X23 Serisi taşınabilir kombinasyon LOTO istasyonu; A-E modellerinde 10-12 asma kilit pozisyonu, kanca ve etiket kutusu seçenekleri sunar.",
+  "intro": [
+   "BD-X23 Serisi, kilitleme ve etiketleme ekipmanını sahaya taşımak için geliştirilmiş kombinasyon istasyonlarından oluşur. Beş model bulunur: BD-X23A 10 kilit pozisyonu ve 6 kanca, BD-X23B 10 kilit, 2 kanca ve 2 etiket kutusu, BD-X23C 10 kilit ve 3 etiket kutusu, BD-X23D 10 kilit ve 1 etiket kutusu, BD-X23E ise 12 kilit pozisyonu sunar.",
+   "Model seçimi, ekibin daha çok kilit mi yoksa etiket ve küçük cihaz mı taşıdığına göre yapılır. Asma kilit, çoklandırıcı, mini kilitler ve etiketler için ayrılmış alanlar, geçici saha işlerinde ekipmanın düzenli kalmasını sağlar."
+  ],
+  "feats": [
+   [
+    "Taşınabilir Yapı",
+    "Kompakt gövde saha kullanımına uygundur."
+   ],
+   [
+    "Beş Model",
+    "Kilit, kanca ve etiket kutusu kombinasyonları ihtiyaca göre seçilir."
+   ],
+   [
+    "Ayrılmış Alanlar",
+    "Kilit, çoklandırıcı, mini kilit ve etiketlere özel yerler bulunur."
+   ],
+   [
+    "Dayanıklı Malzeme",
+    "Endüstriyel koşullara uygun malzemeden üretilir."
+   ]
+  ],
+  "usage": [
+   "Saha bakım çalışmaları",
+   "Enerji izolasyonu",
+   "Geçici işlemler",
+   "Mobil bakım ekipleri"
+  ]
+ },
+ {
+  "code": "BD-X60",
+  "name": "Grup Kilit Kutusu ile İzin Kontrol İstasyonu",
+  "summary": "BD-X60 grup kilit kutulu izin kontrol istasyonu; 22 asma kilit kapasitesi (≤7 mm), kaplamalı soğuk haddelenmiş çelik, duvar veya taşınabilir kullanım.",
+  "intro": [
+   "BD-X60, grup kilit kutusunu ve izin belgelerinin tutulduğu kontrol alanını tek gövdede birleştiren bir istasyondur. Preslenmiş soğuk haddelenmiş çelik sacdan üretilir ve yüzeyi yüksek sıcaklıkta plastik püskürtmeyle kaplanır. Duvara sabitlenebilir ya da sahaya taşınabilir.",
+   "Kutu, kelepçe çapı 7 mm ve altındaki 22 asma kilidin aynı anda takılmasına izin verir; böylece birden fazla çalışan kendi kilidiyle grup izolasyonuna katılır. Ekipman durumu, yetkili kişiler ve iş izni belgeleri aynı noktada görüldüğünden, izinli çalışma süreci ile kilitleme adımları birlikte denetlenebilir."
+  ],
+  "feats": [
+   [
+    "Duvar veya Taşınabilir",
+    "Sabit montaj ya da sahada taşınarak kullanılabilir."
+   ],
+   [
+    "Kaplamalı Çelik",
+    "Soğuk haddelenmiş çelik plastik püskürtmeyle kaplanmıştır."
+   ],
+   [
+    "22 Kilit",
+    "Kelepçesi 7 mm ve altı 22 asma kilit aynı anda takılır."
+   ],
+   [
+    "İzin Alanı",
+    "İş izni ve yetkili bilgileri istasyonda tutulur."
+   ],
+   [
+    "Merkezi Denetim",
+    "Kilitleme noktaları tek yerden izlenir."
+   ]
+  ],
+  "usage": [
+   "Grup izolasyonu",
+   "İzinli çalışma yönetimi",
+   "Bakım-onarım süreçleri",
+   "Vardiya devirleri"
+  ]
+ },
+ {
+  "code": "BD-505",
+  "name": "Taşınabilir Grup Kilitleme Kutusu",
+  "summary": "BD-505 taşınabilir grup kilitleme kutusu; toz boyalı ağır çelik, kilitlenebilir saklama bölmesi ve PC pencereli grup kilitleme bölmesi içerir.",
+  "intro": [
+   "BD-505, kilitlenebilir bir saklama bölmesi ile bir grup kilitleme bölmesini aynı kutuda birleştirir. Gövde, pas direncini artırmak için toz boyalı ağır çelikten üretilmiştir. Grup kilitleme bölmesinde anahtar deliği yuvası bulunan açık bir PC pencere yer alır.",
+   "Uygulamada her enerji kontrol noktası bir iş kilidiyle kilitlenir ve bu kilitlerin anahtarları kutuya bırakılır. Ardından her çalışan kendi kişisel kilidini kutuya takar. Kutuda tek bir kişisel kilit kaldığı sürece iş kilitlerinin anahtarlarına ulaşılamaz; böylece her çalışan kendi güvenliği üzerindeki kontrolü elinde tutar."
+  ],
+  "feats": [
+   [
+    "Çift Bölme",
+    "Saklama bölmesi ve grup kilitleme bölmesi birlikte bulunur."
+   ],
+   [
+    "Toz Boyalı Çelik",
+    "Ağır çelik gövde pas direnci için toz boyalıdır."
+   ],
+   [
+    "PC Pencere",
+    "Anahtar yuvalı şeffaf pencere içeriği gösterir."
+   ],
+   [
+    "Kişisel Kontrol",
+    "Son kilit sökülene kadar iş anahtarlarına erişilemez."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Çok noktalı izolasyon",
+   "Bakım ekipleri",
+   "Anahtar kontrolü"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Toz boyalı ağır çelik"
+   ],
+   [
+    "Pencere",
+    "Anahtar deliği yuvalı PC pencere"
+   ],
+   [
+    "Bölmeler",
+    "Kilitlenebilir saklama bölmesi + grup kilitleme bölmesi"
+   ]
+  ]
+ },
+ {
+  "code": "BD-8770A",
+  "name": "Su Geçirmez Taşınabilir Kilitleme Çantası",
+  "summary": "BD-8770A su geçirmez taşınabilir kilitleme çantası; kırmızı naylon kumaş, 200 × 120 × 75 mm ölçülerle asma kilit, mandal ve etiket taşımaya uygun.",
+  "intro": [
+   "BD-8770A, temel kilitleme ekipmanını sahaya götürmek için kullanılan kırmızı renkli, kompakt bir el çantasıdır. Su geçirmez naylon kumaştan üretilir ve 200 mm (U) × 120 mm (Y) × 75 mm (G) ölçülerindedir.",
+   "Asma kilit, mandal ve uyarı etiketleri bu çantada bir arada tutulduğunda teknisyen izolasyon noktasına gereken her şeyle birlikte gider. Su geçirmez kumaş, nemli ya da açık hava koşullarında içeriği korur. Küçük boyutu, çantanın kişisel LOTO kiti olarak bireysel bakım işlerinde kullanılmasına uygundur."
+  ],
+  "feats": [
+   [
+    "Su Geçirmez Kumaş",
+    "Naylon kumaş içeriği dış etkenlerden korur."
+   ],
+   [
+    "Kompakt Ölçü",
+    "200 × 120 × 75 mm boyutlarıyla kolay taşınır."
+   ],
+   [
+    "El Tipi",
+    "Elde taşınır yapısı sahada hareket kolaylığı sağlar."
+   ],
+   [
+    "Temel Kit",
+    "Kilit, mandal ve etiketler düzenli saklanır."
+   ]
+  ],
+  "usage": [
+   "Kişisel LOTO kiti",
+   "Saha bakımı",
+   "Onarım işleri",
+   "Açık alan çalışmaları"
+  ]
+ },
+ {
+  "code": "BD-8771B",
+  "name": "3 Gözlü Loto Bel Kilitleme Çantası",
+  "summary": "BD-8771B 3 gözlü LOTO bel kilitleme çantası; su geçirmez polyester, ayarlanabilir bel askısı ve 620 × 160 × 100 mm ölçüyle eller serbest taşıma.",
+  "intro": [
+   "BD-8771B, belde taşınan ve üç ayrı bölmeye sahip bir LOTO çantasıdır. Su geçirmez polyester kumaştan üretilir, ölçüleri 620 mm (U) × 160 mm (Y) × 100 mm (G) şeklindedir. Standart rengi kırmızıdır; farklı renklerde özelleştirilebilir.",
+   "Ayarlanabilir bel askısı farklı bedenlere uyar ve teknisyenin ellerini serbest bırakır; bu özellik, merdivende veya dar alanlarda yapılan izolasyonlarda önem taşır. Bölmeler mandal, asma kilit ve etiket gibi ekipmanların ayrı tutulmasını sağlar. Çanta üzerindeki yazı alanına firma veya departman bilgisi eklenebilir."
+  ],
+  "feats": [
+   [
+    "Polyester Kumaş",
+    "Su geçirmez polyester zorlu koşullara dayanır."
+   ],
+   [
+    "Bel Askısı",
+    "Ayarlanabilir askı farklı bedenlere uyum sağlar."
+   ],
+   [
+    "3 Bölme",
+    "Mandal, kilit ve etiketler ayrı gözlerde taşınır."
+   ],
+   [
+    "Yazı Alanı",
+    "Firma adı veya departman bilgisi eklenebilir."
+   ],
+   [
+    "Renk Seçeneği",
+    "Kırmızı dışındaki renklerde özelleştirilebilir."
+   ]
+  ],
+  "usage": [
+   "Saha bakımı",
+   "Elektrik izolasyonu",
+   "Yüksekte çalışma",
+   "Kişisel LOTO kiti"
+  ]
+ },
+ {
+  "code": "BD-8771C",
+  "name": "Kişisel Güvenlik Kilitleme Çantası",
+  "summary": "BD-8771C kişisel güvenlik kilitleme çantası; kırmızı suya dayanıklı polyester, 280 × 300 × 80 mm ölçülerle bireysel LOTO ekipmanı taşıma.",
+  "intro": [
+   "BD-8771C, bir çalışanın kişisel kilitleme ve etiketleme ekipmanını tek yerde toplaması için tasarlanmış kırmızı renkli bir çantadır. Suya dayanıklı polyester kumaştan üretilir ve 280 mm (U) × 300 mm (Y) × 80 mm (G) ölçülerindedir.",
+   "Bireysel enerji kontrolünde her teknisyenin kendi kilidini, etiketini ve gerekli cihazlarını yanında bulundurması beklenir. Bu çanta, söz konusu kişisel kiti bakım-onarım işine hazır tutar ve malzemenin başka ekiplerin ekipmanıyla karışmasını önler. Hafif yapısı günlük kullanımda taşımayı kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Polyester Kumaş",
+    "Suya dayanıklı malzeme uzun süreli kullanım sağlar."
+   ],
+   [
+    "Kompakt Ölçü",
+    "280 × 300 × 80 mm boyutlarıyla kolay taşınır."
+   ],
+   [
+    "Kişisel Kit",
+    "Bireysel kilitleme ekipmanı tek çantada toplanır."
+   ],
+   [
+    "Hızlı Erişim",
+    "Gerekli malzemeler sahada hazır bulunur."
+   ]
+  ],
+  "usage": [
+   "Bireysel LOTO",
+   "Bakım-onarım",
+   "Teknisyen kiti",
+   "Saha ekipmanı taşıma"
+  ]
+ },
+ {
+  "code": "BD-8771D",
+  "name": "Taşınabilir Mini Loto Çantası",
+  "summary": "BD-8771D taşınabilir mini LOTO çantası; aşınmaya dayanıklı kırmızı polyester, 23 × 13,2 × 10,5 cm ölçülerle temel kilitleme ekipmanını taşır.",
+  "intro": [
+   "BD-8771D, birkaç kilit ve temel kilitleme aracını taşımak için tasarlanmış kırmızı renkli mini bir LOTO çantasıdır. Aşınmaya dayanıklı polyester kumaştan üretilir ve 23 cm (G) × 13,2 cm (Y) × 10,5 cm (D) ölçülerindedir.",
+   "Küçük hacmi, çantanın kemerde, alet çantasında veya araçta yer kaplamadan bulunmasını sağlar. Günlük kısa bakım işlerinde teknisyen kişisel kilidini ve etiketini yanında taşıyarak izolasyon adımını atlamadan uygular. Kapalı yapısı, içerideki ekipmanı toz ve dış etkenlerden korur."
+  ],
+  "feats": [
+   [
+    "Polyester Kumaş",
+    "Aşınmaya dayanıklı malzeme yoğun kullanıma uygundur."
+   ],
+   [
+    "Mini Boyut",
+    "23 × 13,2 × 10,5 cm ölçüleriyle sahada kolay taşınır."
+   ],
+   [
+    "Hafif Yapı",
+    "Bakım personeli tarafından rahatça taşınır."
+   ],
+   [
+    "Koruma",
+    "İçerideki ekipmanı dış etkenlerden korur."
+   ]
+  ],
+  "usage": [
+   "Günlük bakım",
+   "Kişisel kilitleme",
+   "Temel ekipman taşıma",
+   "Kısa onarım işleri"
+  ]
+ },
+ {
+  "code": "BD-8811",
+  "name": "Taşınabilir Emniyet Kilidi Kutusu",
+  "summary": "BD-8811 taşınabilir emniyet kilidi kutusu; toz boyalı ağır çelik, kapakta 16 asma kilit yeri ve 40 kilitlik saklama kapasitesiyle grup kilitleme.",
+  "intro": [
+   "BD-8811, grup kilitleme ve kilit saklama işlevlerini birleştiren taşınabilir bir emniyet kutusudur. Pasa karşı dayanım için ağır çelikten üretilip toz boyayla kaplanmıştır. Kapakta 16 asma kilit takılabilir; kutu kilitliyken anahtarların içeri bırakılmasına izin veren bir yuva bulunur.",
+   "İş kilitlerinin anahtarları kutuya konduktan sonra her çalışan kendi kilidini kapağa takar; kapakta tek bir kilit kaldığı sürece içerideki anahtarlara ulaşılamaz. Grup işi bulunmadığında kutu, 40 adet asma kilit için kilitli saklama kutusu olarak da kullanılabilir."
+  ],
+  "feats": [
+   [
+    "Toz Boyalı Çelik",
+    "Ağır çelik gövde pas direnci için kaplanmıştır."
+   ],
+   [
+    "16 Kilit Yeri",
+    "Kapakta 16 asma kilit takılabilir."
+   ],
+   [
+    "Anahtar Yuvası",
+    "Kutu kilitliyken anahtarlar içeri bırakılabilir."
+   ],
+   [
+    "Saklama Modu",
+    "40 asma kilit için kilitli kutu olarak kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Kilit saklama",
+   "Çok kişili bakım",
+   "Anahtar kontrolü"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Toz boyalı ağır çelik"
+   ],
+   [
+    "Kapak kilit kapasitesi",
+    "16 asma kilit"
+   ],
+   [
+    "Saklama kapasitesi",
+    "40 asma kilit"
+   ]
+  ]
+ },
+ {
+  "code": "BD-B14",
+  "name": "Karbon Çelik Taşınabilir Metal Grup Emniyet Kilit Kutusu",
+  "summary": "BD-B14 karbon çelik taşınabilir grup emniyet kilit kutusu; toz boyalı ağır çelik, kapakta çoklu asma kilit yeri ve anahtar yuvasıyla grup LOTO.",
+  "intro": [
+   "BD-B14, ağır hizmet tipi karbon çelikten üretilmiş, pas direnci için toz boyayla kaplanmış taşınabilir bir grup kilitleme kutusudur. Kapakta birden fazla asma kilit yeri, ön tarafta kilitlenebilir bir toka ve kutu kilitliyken anahtarların içeri bırakılmasını sağlayan bir yuva bulunur. Kilitler ürüne dahil değildir.",
+   "Devre kesiciler gibi çok sayıda izolasyon noktasında her noktaya ayrı çoklandırıcı takmak yerine iş anahtarları kutuda toplanır; bu yöntem daha az kilit gerektirir ve daha hafif bir uygulama sağlar. Kutu, birçok asma kilidi tutan kilitli saklama kutusu olarak da kullanılabilir."
+  ],
+  "feats": [
+   [
+    "Karbon Çelik",
+    "Ağır hizmet tipi çelik gövde toz boyalıdır."
+   ],
+   [
+    "Çoklu Kilit Yeri",
+    "Kapakta birden fazla asma kilit takılabilir."
+   ],
+   [
+    "Anahtar Yuvası",
+    "Kutu kilitliyken anahtarlar içeri bırakılır."
+   ],
+   [
+    "Kilitli Toka",
+    "Ön taraftaki toka kilitlenebilir."
+   ],
+   [
+    "Saklama Modu",
+    "Asma kilitler için kilitli kutu olarak kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Devre kesici izolasyonu",
+   "Kilit saklama",
+   "Çok noktalı bakım"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Toz boyalı karbon çelik"
+   ],
+   [
+    "Kilit dahil mi",
+    "Hayır, asma kilitler dahil değildir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-D73-1",
+  "name": "Rögar Kilit Torbası",
+  "summary": "BD-D73-1 rögar kilit torbası; kilitleme-etiketleme uygulamalarında rögar noktalarına yönelik kullanılan, taşınabilir bir LOTO torbasıdır.",
+  "intro": [
+   "BD-D73-1, LOTO ekipmanları arasında rögar uygulamalarına yönelik sunulan bir kilit torbasıdır. Kilitleme-etiketleme sürecinde, rögar noktalarında yapılacak çalışmalarda kullanılmak üzere tasarlanmıştır.",
+   "Rögar ve benzeri yer altı erişim noktalarında yapılan bakım işlerinde, bu noktaların yetkisiz kişilerce açılmasının önlenmesi ve uygulamanın etiketle görünür kılınması LOTO prosedürünün bir parçasıdır. Torba, bu tür sahalarda kilitleme uygulamasını destekleyen yardımcı bir ekipman olarak değerlendirilebilir. Ürünün tam ölçü ve uyumluluk bilgileri için uygulama alanınızı paylaşarak teyit almanız önerilir."
+  ],
+  "feats": [
+   [
+    "Rögar Odaklı",
+    "Rögar noktalarındaki LOTO uygulamalarına yöneliktir."
+   ],
+   [
+    "Torba Tipi",
+    "Torba formunda bir kilitleme ekipmanıdır."
+   ],
+   [
+    "Saha Kullanımı",
+    "Yer altı erişim noktalarında kullanım için düşünülmüştür."
+   ]
+  ],
+  "usage": [
+   "Rögar bakımı",
+   "Altyapı çalışmaları",
+   "Saha kilitleme",
+   "Yer altı erişim noktaları"
+  ],
+  "specs": []
+ },
+ {
+  "code": "BD-LK077",
+  "name": "Kombinasyon 18+1 Grup Kilitleme Kutusu",
+  "summary": "BD-LK077 18+1 grup kilitleme kutusu; 430 paslanmaz çelik, numaralı 18 kilit yeri + 1 işlem kilidi, 288 × 144 × 128 mm istiflenebilir gövde.",
+  "intro": [
+   "BD-LK077, 430 sınıf paslanmaz çelikten üretilen, 18 çalışan kilidi ve 1 işlem kilidi alan grup kilitleme kutusudur. Ölçüleri 288 mm (G) × 144 mm (Y) × 128 mm (D) olup taşınabilir veya sabit olarak kullanılabilir. Asma kilitler ayrı satılır.",
+   "Numaralandırılmış 18 pozisyon her çalışana ayrı bir yer verir; işlem kilidi mandalı ise sorumlu kişinin kontrolünü sağlar. Anahtarlar contalı giriş haznesinden bırakılır ve darbeye dayanıklı şeffaf pencereden izlenir. Yan pencere kullanılmayan kilitleri gösterir, drenaj delikleri sıvı birikimini önler, istiflenebilir gövde yer tasarrufu sağlar."
+  ],
+  "feats": [
+   [
+    "430 Paslanmaz",
+    "Paslanmaz çelik gövde korozyona dayanıklıdır."
+   ],
+   [
+    "18+1 Pozisyon",
+    "18 numaralı çalışan kilidi ve 1 işlem kilidi mandalı bulunur."
+   ],
+   [
+    "Şeffaf Pencereler",
+    "Ön ve yan pencereler anahtarları ve kilitleri gösterir."
+   ],
+   [
+    "Contalı Giriş",
+    "Anahtarlar contalı hazneden güvenle bırakılır."
+   ],
+   [
+    "Drenaj ve İstif",
+    "Alt delikler sıvıyı boşaltır, gövde istiflenebilir."
+   ],
+   [
+    "Yedek Hazne",
+    "İsteğe bağlı çıkarılabilir anahtar kutularıyla genişletilebilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Anahtar kontrolü",
+   "Enerji izolasyonu",
+   "Nemli ortamlar"
+  ]
+ },
+ {
+  "code": "BD-X03",
+  "name": "Güvenlik Kilitleme Kutusu",
+  "summary": "BD-X03 güvenlik kilitleme kutusu; 14 kullanıcıya kadar eş zamanlı kilitleme, kaplamalı çelik sac gövde ve paslanmaz çelik + naylon sap.",
+  "intro": [
+   "BD-X03, büyük ekipmanların bakımında iş kilidi anahtarlarını saklayan ve birden fazla çalışanın aynı anda kilitleme yapmasına imkân tanıyan bir grup kilitleme kutusudur. Gövde yüksek sıcaklık püskürtme yüzeyli çelik sacdan, sap ise paslanmaz çelik ve naylondan üretilir.",
+   "Kutu 14 kullanıcıya kadar eş zamanlı kilitlemeye uygundur; her çalışan kişisel kilidini taktığı sürece içerideki anahtarlar korunur. Duvara monte edilerek sabit bir grup kilitleme noktası oluşturabilir veya sapından tutularak sahaya taşınabilir. Renk, uygulama alanına veya tesis düzenine göre seçilebilir."
+  ],
+  "feats": [
+   [
+    "Sabit veya Mobil",
+    "Duvara monte edilebilir ya da taşınabilir."
+   ],
+   [
+    "14 Kullanıcı",
+    "Aynı anda 14 çalışan kilitleme yapabilir."
+   ],
+   [
+    "Anahtar Saklama",
+    "İş kilidi anahtarları güvenli şekilde tutulur."
+   ],
+   [
+    "Çelik Gövde",
+    "Kaplamalı çelik sac ile paslanmaz çelik ve naylon sap bulunur."
+   ],
+   [
+    "Renk Seçimi",
+    "Uygulama alanına göre renk belirlenebilir."
+   ]
+  ],
+  "usage": [
+   "Büyük ekipman bakımı",
+   "Grup kilitleme",
+   "Anahtar saklama",
+   "Endüstriyel bakım"
+  ]
+ },
+ {
+  "code": "BD-X04",
+  "name": "12+1 Delikli Grup Loto Kutusu",
+  "summary": "BD-X04 12+1 delikli grup LOTO kutusu; 12 asma kilit ve 1 yetkili kilit noktası, kaplamalı çelik sac gövde ve paslanmaz çelik + naylon sap.",
+  "intro": [
+   "BD-X04, grup kilitleme için tasarlanmış kompakt ve taşınabilir bir LOTO kutusudur. Gövdesi yüksek sıcaklık püskürtme işlemli çelik sacdan, sapı paslanmaz çelik ve naylondan üretilir. Kapakta 12 asma kilit deliği ve 1 yetkili kilit noktası bulunur.",
+   "Yetkili kişi kendi kilidini ek noktaya takarak süreci yönetir, ekip üyeleri ise 12 delikten birine kişisel kilitlerini takar; kilitler sökülmeden kutudaki anahtarlara ulaşılamaz. Mini boyutu sayesinde sahaya kolayca götürülür. İç hacim etiket, mandal ve mini kilitleme cihazlarının saklanmasına da elverir."
+  ],
+  "feats": [
+   [
+    "12+1 Delik",
+    "12 çalışan kilidi ve 1 yetkili kilit takılabilir."
+   ],
+   [
+    "Kompakt Gövde",
+    "Mini boyutuyla mobil kullanıma uygundur."
+   ],
+   [
+    "Kaplamalı Çelik",
+    "Çelik sac gövde ile paslanmaz çelik ve naylon sap bulunur."
+   ],
+   [
+    "İç Saklama",
+    "Etiket, mandal ve mini cihazlar içeride tutulabilir."
+   ]
+  ],
+  "usage": [
+   "Grup enerji izolasyonu",
+   "Bakım-onarım",
+   "Anahtar saklama",
+   "Saha ekipleri"
+  ]
+ },
+ {
+  "code": "BD-X21",
+  "name": "Anahtar Yönetme Kutusu",
+  "summary": "BD-X21 anahtar yönetme kutusu; ABS ve PC gövde, şeffaf kapak, 8 asma kilit (≤7 mm) ile kilitleme, 6 iç ve 2 dış kanca ile anahtar kontrolü.",
+  "intro": [
+   "BD-X21, kritik anahtarları şeffaf kapaklı ve kilitlenebilir bir kutuda saklamak için kullanılan anahtar yönetim kutusudur. Gövde ABS ve PC mühendislik plastiğinden üretilir. İçeride 6, dışarıda 2 olmak üzere toplam 8 kanca bulunur.",
+   "Kapak, kelepçe çapı 7 mm ve altındaki 8 emniyet asma kilidiyle aynı anda kilitlenebilir; bu sayede kutu, birden fazla çalışanın katıldığı izolasyonlarda küçük ölçekli grup kilit kutusu işlevi görür. Şeffaf kapak, anahtarların içeride olup olmadığının açmadan kontrol edilmesini sağlar ve süreç takibini kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Şeffaf Kapak",
+    "İçerik açmadan kontrol edilir."
+   ],
+   [
+    "8 Kilit",
+    "Kelepçesi 7 mm ve altı 8 asma kilitle kilitlenir."
+   ],
+   [
+    "ABS ve PC",
+    "Mühendislik plastiği gövde dayanıklıdır."
+   ],
+   [
+    "8 Kanca",
+    "İçeride 6, dışarıda 2 kanca bulunur."
+   ],
+   [
+    "Erişim Kontrolü",
+    "Birden fazla çalışan için erişim takibi sağlar."
+   ]
+  ],
+  "usage": [
+   "Anahtar yönetimi",
+   "Enerji izolasyonu",
+   "Küçük grup kilitleme",
+   "Erişim kontrolü"
+  ]
+ },
+ {
+  "code": "BD-X22",
+  "name": "Anahtar ve Kilit Yönetim Kutusu",
+  "summary": "BD-X22 anahtar ve kilit yönetim kutusu; ABS + PC gövde, şeffaf kilitlenebilir kapak, 12 asma kilit (≤7 mm) kapasitesi ve 6 iç kanca sunar.",
+  "intro": [
+   "BD-X22, anahtarları ve kilitleri aynı kutuda düzenleyen, şeffaf kapaklı ve kilitlenebilir bir yönetim kutusudur. ABS ve PC mühendislik plastiğinden üretilen gövde darbelere ve kimyasallara karşı dayanıklıdır. İç kısımdaki 6 kanca anahtar ve kilitleri ayrı ayrı tutar.",
+   "Kapak, kelepçe çapı 7 mm ve altındaki 12 emniyet asma kilidiyle aynı anda kilitlenebilir. Bu kapasite, kutunun grup izolasyonlarında iş anahtarlarını korumak için kullanılmasına olanak tanır; kutu yalnızca tüm kilitler söküldüğünde açılır. Şeffaf kapak içeriğin dışarıdan izlenmesini sağlarken erişimi yetkili kişilerle sınırlar."
+  ],
+  "feats": [
+   [
+    "Çift Amaç",
+    "Hem anahtar hem kilit yönetiminde kullanılır."
+   ],
+   [
+    "ABS ve PC",
+    "Gövde darbelere ve kimyasallara dayanıklıdır."
+   ],
+   [
+    "Şeffaf Kapak",
+    "İçerik dışarıdan görülür."
+   ],
+   [
+    "12 Kilit",
+    "Kelepçesi 7 mm ve altı 12 asma kilitle kilitlenir."
+   ],
+   [
+    "6 İç Kanca",
+    "Anahtar ve kilitler düzenli asılır."
+   ]
+  ],
+  "usage": [
+   "Anahtar ve kilit düzeni",
+   "Grup izolasyonu",
+   "Erişim kontrolü",
+   "Bakım birimleri"
+  ]
+ },
+ {
+  "code": "BD-Z02",
+  "name": "Güvenlik Kilitli Taşınabilir EKED Çantası",
+  "summary": "BD-Z02 güvenlik kilitli taşınabilir EKED çantası; aşınmaya dirençli polyester, 310 × 200 × 230 mm, taşıma kulpu ve özelleştirilebilir etiket alanı.",
+  "intro": [
+   "BD-Z02, kilit, anahtar ve uyarı etiketlerini taşımak ve kilitli biçimde saklamak için kullanılan bir EKED çantasıdır. Aşınmaya dirençli polyester kumaştan üretilir; ölçüleri 310 mm (U) × 200 mm (G) × 230 mm (Y) şeklindedir. Pakette taşıma kulpu ve özelleştirilebilir etiket alanı bulunur.",
+   "Çanta kilitlenebilir yapıdadır: içine bırakılan anahtarlara ancak tüm kilitler kaldırıldığında ulaşılır. Bu özellik, çantanın sahada taşınabilir bir grup kilitleme noktası olarak kullanılmasına imkân verir. Etiket paneline şirket veya departman bilgisi yazılabilir."
+  ],
+  "feats": [
+   [
+    "Polyester Kumaş",
+    "Aşınmaya dirençli malzeme uzun süre kullanılır."
+   ],
+   [
+    "Kilitli Yapı",
+    "Anahtarlara tüm kilitler sökülünce erişilir."
+   ],
+   [
+    "Taşıma Kulpu",
+    "Sahada kolay taşınır."
+   ],
+   [
+    "Etiket Alanı",
+    "Şirket veya departman bilgisi eklenebilir."
+   ],
+   [
+    "Grup Uyumu",
+    "Çok kullanıcılı izolasyonlarda kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Grup kilitleme",
+   "Saha bakımı",
+   "Anahtar saklama",
+   "Mobil EKED uygulamaları"
+  ]
+ },
+ {
+  "code": "BD-Z03",
+  "name": "Taşınabilir LOTO Kutusu",
+  "summary": "BD-Z03 taşınabilir LOTO kutusu; PP plastik ve kaplamalı demirden üretilmiş gövdesiyle kilitleme-etiketleme ekipmanlarını sahaya taşımak için.",
+  "intro": [
+   "BD-Z03, kilitleme ve etiketleme ekipmanlarını tek bir kutuda toplayıp sahaya taşımak için kullanılan bir LOTO kutusudur. Gövdesinde PP plastik ve kaplamalı demir bir arada kullanılmıştır.",
+   "Bakım ekipleri, izolasyon yapılacak noktaya giderken asma kilit, etiket ve kilitleme cihazlarını bu kutuda düzenli şekilde taşıyabilir. Ekipmanın aynı kutuda bulunması, iş başlamadan önce eksik malzemenin fark edilmesini ve iş bitiminde tüm parçaların geri toplanmasını kolaylaştırır. Kutu, kişisel veya ekip bazlı LOTO kiti olarak kullanılabilir."
+  ],
+  "feats": [
+   [
+    "PP ve Demir",
+    "Plastik PP ile kaplamalı demir bir arada kullanılmıştır."
+   ],
+   [
+    "Taşınabilir",
+    "Ekipmanı sahaya götürmek için uygundur."
+   ],
+   [
+    "Toplu Saklama",
+    "Kilitler, etiketler ve cihazlar tek kutuda durur."
+   ],
+   [
+    "Kit Kullanımı",
+    "Kişisel veya ekip LOTO kiti olarak düzenlenebilir."
+   ]
+  ],
+  "usage": [
+   "Saha bakımı",
+   "Mobil LOTO kiti",
+   "Ekipman taşıma",
+   "Onarım ekipleri"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "PP plastik ve kaplamalı demir"
+   ]
+  ]
+ },
+ {
+  "code": "BD-Z03L",
+  "name": "Taşınabilir Plastik Loto Kutusu",
+  "summary": "BD-Z03L taşınabilir plastik LOTO kutusu; 19” gövde, metal kilit ve 260 × 490 × 240 mm iç hacimle kilit, çoklayıcı ve etiketleri taşır.",
+  "intro": [
+   "BD-Z03L, 19” boyutunda, plastik gövdeli ve metal kilitli bir taşınabilir LOTO kutusudur. Ölçüleri 260 mm (Y) × 490 mm (U) × 240 mm (G) olup ergonomik taşıma koluna sahiptir.",
+   "Geniş iç hacim, birden fazla asma kilidin yanında çoklayıcı, etiket ve aksesuarların aynı kutuda taşınmasına izin verir; bu nedenle ekip bazlı izolasyon işleri için kapsamlı bir saha kiti oluşturmaya uygundur. Metal kilit mekanizması, kutu kullanılmadığında içeriğe yetkisiz erişimi engeller. Darbeye dayanıklı plastik gövde zorlu saha koşullarına uygundur."
+  ],
+  "feats": [
+   [
+    "Geniş Hacim",
+    "260 × 490 × 240 mm iç hacim çok sayıda ekipman alır."
+   ],
+   [
+    "Metal Kilit",
+    "Kilit mekanizması yetkisiz erişimi engeller."
+   ],
+   [
+    "Plastik Gövde",
+    "Darbeye dayanıklı plastikten üretilmiştir."
+   ],
+   [
+    "Taşıma Kolu",
+    "Ergonomik kol sahada rahat taşıma sağlar."
+   ]
+  ],
+  "usage": [
+   "Ekip LOTO kiti",
+   "Bakım-onarım",
+   "Enerji izolasyonu",
+   "Saha ekipman depolama"
+  ]
+ },
+ {
+  "code": "BD-Z03S",
+  "name": "Taşınabilir Plastik Loto Kutusu",
+  "summary": "BD-Z03S taşınabilir plastik LOTO kutusu; 17” raflı iç yapı, 230 × 410 × 190 mm kompakt gövde ile kişisel veya grup kilitleme ekipmanı taşır.",
+  "intro": [
+   "BD-Z03S, kilitleme-etiketleme ekipmanını taşımak için kullanılan kompakt bir plastik LOTO kutusudur. Darbeye dayanıklı plastikten üretilir ve 230 mm (Y) × 410 mm (U) × 190 mm (G) ölçülerindedir.",
+   "17” raflı iç yapısı, mini kilitleme cihazları ve etiket gibi küçük parçaların asma kilit ve mandallardan ayrı tutulmasını sağlar; böylece sahada aranan parça kutuyu boşaltmadan bulunur. Hafif gövdesi sık yer değiştiren bakım işlerine uygundur. Kutu, ihtiyaca göre kişisel kilitleme kiti ya da küçük bir ekibin ortak kiti olarak düzenlenebilir."
+  ],
+  "feats": [
+   [
+    "Plastik Gövde",
+    "Darbelere dayanıklı malzemeden üretilir."
+   ],
+   [
+    "Hafif Yapı",
+    "Ergonomik tasarım sahada kolay taşıma sağlar."
+   ],
+   [
+    "Raflı İç Düzen",
+    "17” raf küçük parçaları ayrı tutar."
+   ],
+   [
+    "İç Hacim",
+    "Kilit, mandal ve etiketler rahatça sığar."
+   ]
+  ],
+  "usage": [
+   "Mobil bakım",
+   "Kişisel LOTO kiti",
+   "Küçük ekip kiti",
+   "Enerji izolasyonu"
+  ]
+ },
+ {
+  "code": "BD-8773D",
+  "name": "3 Gözlü V Otomat Elektrikçi Loto Seti",
+  "summary": "BD-8773D 3 gözlü V otomat elektrikçi LOTO seti; elektrik bakımında otomat sigortaların kilitlenmesi için ekipmanları üç bölmede bir arada sunar.",
+  "intro": [
+   "BD-8773D, elektrik bakım ekiplerinin otomat sigorta kilitleme işlerinde kullandığı ekipmanları üç gözlü bir düzende bir araya getiren LOTO setidir. Set, pano ve dağıtım tablolarında enerji kesildikten sonra otomatın tekrar devreye alınmasını önlemeye yönelik uygulamalar için hazırlanmıştır.",
+   "Bölmeli yapı, kilitleme cihazlarının, asma kilitlerin ve etiketlerin ayrı tutulmasını ve elektrikçinin sahada ihtiyaç duyduğunu hızla bulmasını sağlar. Kişisel kilitleme uygulamalarında teknisyenin kendi kitini yanında taşımasına uygun bir çözümdür. Set içeriği hakkında ayrıntılı bilgi için satış ekibiyle iletişime geçilebilir."
+  ],
+  "feats": [
+   [
+    "Üç Göz",
+    "Ekipmanlar üç ayrı bölmede düzenlenir."
+   ],
+   [
+    "Otomat Odaklı",
+    "Otomat sigorta kilitleme uygulamalarına yöneliktir."
+   ],
+   [
+    "Elektrikçi Kiti",
+    "Elektrik bakım ekiplerinin saha ihtiyacına göre hazırlanmıştır."
+   ],
+   [
+    "Kişisel Kullanım",
+    "Teknisyenin kendi LOTO kiti olarak taşınabilir."
+   ]
+  ],
+  "usage": [
+   "Elektrik panoları",
+   "Otomat sigortalar",
+   "Elektrik bakım ekipleri",
+   "Kişisel kilitleme"
+  ]
+ },
+ {
+  "code": "BD-8773Y",
+  "name": "Büyük Kapasiteli Çift Katmanlı Plastik Kilitleme Alet Kiti",
+  "summary": "BD-8773Y büyük kapasiteli çift katmanlı kilitleme kiti; takviyeli plastik, toz ve suya dayanıklı gövde, ön yüzde standart Tehlike etiketi.",
+  "intro": [
+   "BD-8773Y, kilitleme-etiketleme ekipmanını iki katmanlı bir bavul düzeninde saklayan büyük kapasiteli bir plastik alet kitidir. Gövde takviyeli plastikten üretilmiştir; toz geçirmez ve suya dayanıklı tasarımı sert fiziksel darbelere karşı dayanım sağlar.",
+   "Çift katmanlı iç yapı hacmin verimli kullanılmasını sağlar; küçük parçalar ve büyük kilitleme cihazları ayrı katmanlarda düzenlenebilir. Bavulun ön kısmında standart “Tehlike” etiketi ve üzerine bilgi yazılabilen etiketler bulunur. Bu yapı, kitin bir bakım ekibinin ortak LOTO ekipman merkezi olarak sahaya taşınmasına uygundur."
+  ],
+  "feats": [
+   [
+    "Takviyeli Plastik",
+    "Gövde sert darbelere dayanacak şekilde üretilmiştir."
+   ],
+   [
+    "Toz ve Su Direnci",
+    "Toz geçirmez ve suya dayanıklı tasarıma sahiptir."
+   ],
+   [
+    "Çift Katman",
+    "İki katmanlı iç düzen hacmi verimli kullanır."
+   ],
+   [
+    "Tehlike Etiketi",
+    "Ön yüzde standart “Tehlike” ve yazılabilir etiketler bulunur."
+   ]
+  ],
+  "usage": [
+   "Ekip LOTO kiti",
+   "Saha bakımı",
+   "Zorlu ortamlar",
+   "Ekipman taşıma"
+  ],
+  "specs": [
+   [
+    "Malzeme",
+    "Takviyeli plastik"
+   ],
+   [
+    "Yapı",
+    "Çift katmanlı"
+   ],
+   [
+    "Koruma",
+    "Toz geçirmez, suya dayanıklı"
+   ],
+   [
+    "Etiket",
+    "Ön yüzde standart “Tehlike” etiketi"
+   ]
+  ]
+ },
+ {
+  "code": "BD-8812S",
+  "name": "Grup Loto Kutusu Seti",
+  "summary": "BD-8812S grup LOTO kutusu seti; birden fazla çalışanın katıldığı bakım işlerinde iş anahtarlarını grup kilit kutusunda güvenceye almak için.",
+  "intro": [
+   "BD-8812S, grup kilitleme uygulamalarında kullanılan bir LOTO kutusu setidir. Birden fazla çalışanın aynı ekipman üzerinde çalıştığı durumlarda, enerji kontrol noktalarını kilitleyen iş kilitlerinin anahtarları grup kutusunda toplanır.",
+   "Her çalışan kutuya kendi kişisel kilidini taktığında, içerideki anahtarlara ancak son kilit de söküldükten sonra erişilebilir. Bu yöntem, çok sayıda izolasyon noktasının bulunduğu bakım işlerinde her çalışanın kendi güvenliği üzerinde kontrol sahibi olmasını sağlar. Set içeriği hakkında ayrıntılı bilgi için satış ekibiyle iletişime geçilebilir."
+  ],
+  "feats": [
+   [
+    "Grup Kilitleme",
+    "Birden fazla çalışanın katıldığı işler için hazırlanmıştır."
+   ],
+   [
+    "Anahtar Toplama",
+    "İş kilidi anahtarları kutuda güvenceye alınır."
+   ],
+   [
+    "Kişisel Kontrol",
+    "Son kilit sökülene kadar anahtarlara erişilmez."
+   ]
+  ],
+  "usage": [
+   "Grup izolasyonu",
+   "Çok noktalı bakım",
+   "Vardiyalı bakım işleri",
+   "Anahtar kontrolü"
+  ]
+ },
+ {
+  "code": "BD-B1100",
+  "name": "Duvara Asılabilen LOTO İstasyon Seti",
+  "summary": "BD-B1100 duvara asılabilen LOTO istasyon seti; silindir, kablolu ve vana kilitleri ile etiketleri duvardaki tek bir noktada düzenli saklar.",
+  "intro": [
+   "BD-B1100, farklı tipteki kilitleme ekipmanlarını duvardaki tek bir istasyonda saklamak için hazırlanmış bir LOTO setidir. Silindir kilitler, kablolu kilitler, vana kilitleri ve etiketler başta olmak üzere çeşitli ekipmanlar bu istasyonda bir arada tutulabilir.",
+   "Mekanik, elektrik ve akışkan kaynaklarının izolasyonunda farklı cihazlar gerektiğinden, bu ekipmanın aynı noktada bulunması bakım hazırlığını kısaltır. Duvar istasyonu, ekiplerin ihtiyaç duyduğu cihazı alıp iş sonunda geri bıraktığı sabit bir merkez işlevi görür ve eksik ekipmanın fark edilmesini kolaylaştırır."
+  ],
+  "feats": [
+   [
+    "Duvar Tipi",
+    "Duvara asılarak sabit bir LOTO noktası oluşturur."
+   ],
+   [
+    "Çok Yönlü Saklama",
+    "Silindir, kablolu ve vana kilitleri birlikte saklanır."
+   ],
+   [
+    "Etiket Alanı",
+    "Uyarı etiketleri de istasyonda tutulabilir."
+   ],
+   [
+    "Merkezi Erişim",
+    "Ekipman alma ve iade tek noktada yapılır."
+   ]
+  ],
+  "usage": [
+   "Merkezi LOTO noktası",
+   "Vana izolasyonu",
+   "Bakım atölyeleri",
+   "Üretim tesisleri"
+  ],
+  "specs": [
+   [
+    "Montaj",
+    "Duvara asılabilir"
+   ],
+   [
+    "Saklanabilen ekipman",
+    "Silindir kilitler, kablolu kilitler, vana kilitleri, etiketler"
+   ]
+  ]
+ },
+ {
+  "code": "BD-B1100S",
+  "name": "Geniş Kapsamlı Duvara Asılabilen Loto İstasyon Seti",
+  "summary": "BD-B1100S geniş kapsamlı duvara asılabilen LOTO istasyon seti; farklı enerji kaynakları için kilitleme ekipmanlarını duvarda bir arada toplar.",
+  "intro": [
+   "BD-B1100S, çeşitli kilitleme ve etiketleme ekipmanlarını duvara asılan bir istasyonda bir araya getiren geniş kapsamlı bir LOTO setidir. Farklı enerji kaynaklarının izolasyonunda kullanılan cihazların tek bir noktada bulunmasını amaçlar.",
+   "Duvar istasyonu, bakım ekiplerinin işe başlamadan önce gerekli kilidi, cihazı ve etiketi aldığı, iş bitiminde ise ekipmanı geri bıraktığı ortak merkez olarak konumlanır. Ekipmanın sabit bir yerde düzenli tutulması, eksiklerin fark edilmesini ve prosedürün tutarlı uygulanmasını kolaylaştırır. Set içeriği hakkında ayrıntılı bilgi için satış ekibiyle iletişime geçilebilir."
+  ],
+  "feats": [
+   [
+    "Geniş Kapsam",
+    "Farklı tipteki kilitleme ekipmanları bir aradadır."
+   ],
+   [
+    "Duvar Tipi",
+    "Duvara asılarak sabit bir LOTO merkezi oluşturur."
+   ],
+   [
+    "Merkezi Erişim",
+    "Ekipman alma ve iade aynı noktada yapılır."
+   ],
+   [
+    "Görünür Düzen",
+    "Eksik ekipman kolayca fark edilir."
+   ]
+  ],
+  "usage": [
+   "Merkezi LOTO noktası",
+   "Üretim tesisleri",
+   "Bakım atölyeleri",
+   "Çok kaynaklı izolasyon"
+  ]
+ },
+ {
+  "code": "BD-EB-S10V",
+  "name": "Geniş Elektriksel Bel Çantası Loto Seti",
+  "summary": "BD-EB-S10V geniş elektriksel bel çantası LOTO seti; elektrik kilitleme ekipmanlarını belde taşıyarak teknisyenin ellerini serbest bırakır.",
+  "intro": [
+   "BD-EB-S10V, elektrik kaynaklı enerji izolasyonlarında kullanılan kilitleme ekipmanlarını bel çantasında bir arada sunan bir LOTO setidir. Çanta belde taşındığı için teknisyen, panolar arasında dolaşırken ekipmanı yanında bulundurur.",
+   "Elektrik bakımında kişisel kilit, etiket ve kilitleme cihazlarının her an erişilebilir olması, izolasyon adımlarının eksiksiz uygulanmasını destekler. Eller serbest taşıma, merdivende veya dar pano odalarında çalışırken pratiklik sağlar ve ekipmanın yere bırakılıp unutulmasını önler. Set içeriği hakkında ayrıntılı bilgi için satış ekibiyle iletişime geçilebilir."
+  ],
+  "feats": [
+   [
+    "Bel Çantası",
+    "Ekipman belde taşınır, eller serbest kalır."
+   ],
+   [
+    "Elektrik Odaklı",
+    "Elektriksel izolasyon uygulamalarına yöneliktir."
+   ],
+   [
+    "Geniş Hacim",
+    "Birden fazla kilitleme ekipmanını bir arada taşır."
+   ],
+   [
+    "Kişisel Kit",
+    "Teknisyenin kendi LOTO seti olarak kullanılabilir."
+   ]
+  ],
+  "usage": [
+   "Elektrik bakımı",
+   "Pano odaları",
+   "Kişisel kilitleme",
+   "Saha teknisyenleri"
+  ]
+ }
+]

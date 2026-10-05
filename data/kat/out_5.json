@@ -1,0 +1,396 @@
+{
+ "set": {
+  "lead": "LOTO setleri; asma kilit, çoklandırıcı, şalter ve vana kilitleme aparatlarını uyarı etiketleriyle tek pakette toplar. Çantalı, kutulu veya istasyonlu seçeneklerle bakım ekiplerinin enerji izolasyonuna sahada hiç vakit kaybetmeden başlamasını sağlar.",
+  "chips": [
+   "Elektrik, vana ve pnömatik",
+   "Bel çantası veya istasyon",
+   "Mini kitten büyük sete",
+   "Kutudan çıktığı gibi kullanım",
+   "Gemiye uygun seçenek"
+  ],
+  "rule_title": "Kritik nokta",
+  "rule": "Seti seçmeden önce tesisinizdeki şalter, fiş ve vana tiplerini listeleyin; içeriği bu listeyi karşılamayan bir set, sahada eksik kalan noktaları kilitsiz bırakır.",
+  "nedir_title": "LOTO Seti Nedir?",
+  "nedir": [
+   "**LOTO seti** (EKED seti), kilitleme ve etiketleme adımlarında ihtiyaç duyulan ekipmanların önceden bir araya getirilip tek bir çanta, kutu ya da duvar istasyonunda sunulduğu hazır pakettir. Tipik bir sette **emniyet asma kilitleri**, **çoklandırıcılar**, şalter, fiş veya vana kilitleme aparatları ve **uyarı etiketleri** yer alır.",
+   "Hazır set kullanmanın en büyük avantajı, parçaları tek tek araştırma ve birbirine uydurma derdini ortadan kaldırmasıdır. Programını yeni kuran işletmeler ve farklı sahalarda çalışan teknisyenler, ihtiyaç duydukları her şeyi düzenli ve eksiksiz biçimde yanlarında bulundurur; bu da birden fazla kişinin aynı anda çalıştığı bakımlarda LOTO adımlarının atlanmasını önler ve ekipmanın kaybolmasının da önüne geçer.",
+   "Sofilx LOTO olarak elektrikçilere yönelik bel çantalı mini kitlerden duvara monte istasyonlu setlere, vana ve pnömatik izolasyon setlerinden gemilere uygun profesyonel paketlere kadar 25’i aşkın EKED setini tedarik ediyoruz."
+  ],
+  "cesitler_title": "LOTO Seti Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Elektriksel setler",
+    "text": "Pano bakımı için MCB, kompakt şalter ve fiş kilitlerini bir araya getiren kapsamlı paketlerdir.",
+    "codes": [
+     "BD-PE-E010S",
+     "BD-EK-S1100VV",
+     "BD-ELK2394S"
+    ]
+   },
+   {
+    "title": "Bel çantalı ve mini kitler",
+    "text": "Teknisyenin belinde taşıyabileceği, en sık kullanılan kilitleme aparatlarını içeren hafif kitlerdir.",
+    "codes": [
+     "BD-MN-U80",
+     "BD-EKM-L040",
+     "BD-M-E07"
+    ]
+   },
+   {
+    "title": "İstasyonlu setler",
+    "text": "Duvara asılan istasyonuyla birlikte dolu gelir; ekipmanın sabit bir noktada düzenli durmasını sağlar.",
+    "codes": [
+     "BD-B1100S",
+     "BD-X07S",
+     "BD-B1100"
+    ]
+   },
+   {
+    "title": "Vana ve pnömatik setler",
+    "text": "Boru hatları, farklı vana tipleri ve basınçlı hava hatlarının izolasyonuna odaklanır.",
+    "codes": [
+     "BD-VN-02",
+     "BD-PS02S",
+     "BD-GKV-S500"
+    ]
+   },
+   {
+    "title": "Karma ve denizcilik setleri",
+    "text": "Elektriksel ve mekanik noktaları birlikte kapsayan büyük setlerdir; gemiye uygun içerikli model de bu gruptadır.",
+    "codes": [
+     "BD-PR-U07",
+     "BD-ZS030C",
+     "BD-VK-U067S"
+    ]
+   },
+   {
+    "title": "Grup ve kişisel setler",
+    "text": "Grup kilitleme kutusu ya da kişisel güvenlik kilitleme ekipmanı ile gelen setlerdir.",
+    "codes": [
+     "BD-8812S",
+     "BD-X02C"
+    ]
+   }
+  ],
+  "secim_intro": "Seti; kullanacak kişi sayısına, taşıma ihtiyacına ve kilitlenecek enerji kaynaklarına göre aşağıdaki tablodan eşleştirebilirsiniz.",
+  "secim_head": [
+   "Seri / Model",
+   "Kapsam",
+   "Taşıma / yapı",
+   "Önerilen kullanım"
+  ],
+  "secim_rows": [
+   [
+    "BD-MN-U80 – Mini taşınabilir elektriksel kit",
+    "MCB, şalter, fiş",
+    "Bel çantası",
+    "Tek başına çalışan elektrikçi"
+   ],
+   [
+    "BD-PE-E010S veya BD-EK-S1100VV – Geniş elektriksel set",
+    "Çok sayıda şalter tipi",
+    "Taşınabilir",
+    "Elektrik bakım ekipleri"
+   ],
+   [
+    "BD-B1100S – Duvar istasyonlu set",
+    "Geniş kapsamlı",
+    "Sabit istasyon",
+    "Tesis geneli ortak kullanım"
+   ],
+   [
+    "BD-VN-02 – Vana kilitleme seti",
+    "Farklı vana tipleri",
+    "Taşınabilir",
+    "Mekanik bakım ve boru hatları"
+   ],
+   [
+    "BD-PR-U07 – Büyük karma set",
+    "Elektrik + mekanik",
+    "Taşıma kutulu",
+    "Karma bakım uygulamaları"
+   ],
+   [
+    "BD-VK-U067S – Gemilere uygun set",
+    "Denizcilik noktaları",
+    "Taşınabilir",
+    "Gemi ve tersaneler"
+   ]
+  ],
+  "nasil_title": "Doğru LOTO seti nasıl seçilir?",
+  "nasil": [
+   [
+    "Kilitlenecek noktalar",
+    "Tesisteki şalter, fiş ve vana tiplerini çıkarın; setin içeriği bu listenin tamamını karşılamalı."
+   ],
+   [
+    "Kullanıcı profili",
+    "Tek bir teknisyen için kişisel kit, ekip için geniş set, ortak alan için istasyonlu model daha uygundur."
+   ],
+   [
+    "Taşıma biçimi",
+    "Sahada dolaşan ekipler çanta veya kutuyu, sabit bakım noktaları ise duvar istasyonunu tercih etmeli."
+   ],
+   [
+    "Asma kilit sayısı",
+    "Setle gelen kişisel kilit adedini aynı anda çalışacak kişi sayısıyla karşılaştırın."
+   ],
+   [
+    "Büyüme payı",
+    "İhtiyaç arttığında eksik kalan aparatları kilit ve şalter kilidi kategorilerinden tek tek ekleyebilirsiniz."
+   ]
+  ],
+  "kullanim_title": "LOTO Setleri Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Fabrikalar ve üretim tesisleri",
+    "LOTO programını eksiksiz bir ekipman altyapısıyla hızla başlatmak için kullanılır."
+   ],
+   [
+    "Elektrik bakım ekipleri",
+    "Pano ve şalter müdahalelerinde gereken aparatları tek elde toplar."
+   ],
+   [
+    "Enerji, petrokimya ve otomotiv sahaları",
+    "Elektrik, mekanik ve pnömatik enerji kaynaklarının birlikte izole edilmesini kolaylaştırır."
+   ],
+   [
+    "Gemi, tersane ve servis firmaları",
+    "Farklı sahalara taşınabilen, ortama uygun içerikli bir kilitleme çözümü sunar."
+   ]
+  ],
+  "faq": [
+   [
+    "Hazır set mi almalıyım, yoksa ürünleri ayrı ayrı mı?",
+    "LOTO uygulamasına yeni geçiyorsanız ya da sahaya hızlı bir çözüm götürmek istiyorsanız set daha pratiktir. Yalnızca belirli bir noktayı kilitlemeniz gerekiyorsa tekil ürün seçimi daha ekonomik olabilir."
+   ],
+   [
+    "LOTO seti fiyatları nedir?",
+    "Fiyat; setin kapsamına, içeriğine ve sipariş adedine göre değişir. Güncel teklif, stok ve teslimat bilgisi için ürün kodunu ve adedi WhatsApp hattımıza yazabilir veya bizi telefonla arayabilirsiniz."
+   ],
+   [
+    "Setin içeriği değiştirilebilir mi?",
+    "Evet. Toplu siparişlerde içeriği tesisinizdeki şalter ve vana tiplerine göre özelleştirebiliyoruz."
+   ],
+   [
+    "Elektriksel setler hangi şalterlerle uyumlu?",
+    "Elektriksel setler yaygın MCB ve kompakt şalter tiplerine yönelik farklı kilitleme aparatları içerir. Farklı bir şalteriniz varsa fotoğrafını göndermeniz uyumluluk kontrolü için yeterlidir."
+   ],
+   [
+    "Setle birlikte eğitim alabilir miyiz?",
+    "Evet. Set tedarikine ek olarak uygulamalı EKED/LOTO eğitimi ve danışmanlık hizmeti de sunuyoruz."
+   ],
+   [
+    "Setteki parça sayılarını nereden görebilirim?",
+    "Her setin ürün sayfasındaki “Set İçeriği” bölümünde parçalar, adetleri ve toplam parça sayısı yer alır."
+   ],
+   [
+    "İstasyonlu set ile çantalı set arasındaki fark nedir?",
+    "İstasyonlu set duvara sabitlenir ve ekipmanı ortak bir noktada düzenli tutar; çantalı veya kutulu setler ise sahada dolaşan ekiplerin ekipmanı yanında taşımasına imkân verir."
+   ]
+  ],
+  "seo_title": "LOTO Seti Fiyatları ve Modelleri",
+  "seo": [
+   "EKED ve LOTO uygulamalarında ihtiyaç duyulan kilitleme ekipmanlarını tek tek toplamak yerine hazır bir **LOTO seti** tercih etmek, hem zaman kazandırır hem de parçalar arasındaki uyumsuzluk riskini ortadan kaldırır. Elektriksel, mekanik, vana ve pnömatik izolasyona yönelik setlerimiz; bel çantalı mini kitlerden duvar istasyonlu ve büyük taşıma kutulu modellere kadar geniş bir yelpazede sunulur.",
+   "Doğru modeli belirlerken kilitlenecek enerji kaynaklarını, aynı anda çalışacak kişi sayısını ve ekipmanın sahada mı yoksa sabit bir noktada mı tutulacağını göz önünde bulundurun. Toplu siparişlerde set içeriğini tesisinize göre düzenleyebiliyoruz.",
+   "EKED seti fiyatları, setin kapsamına ve sipariş adedine bağlı olarak değişir. Güncel fiyat teklifi, stok durumu ve teslim süresi için ürün kodunu WhatsApp hattımıza iletmeniz ya da bizi telefonla aramanız yeterlidir."
+  ]
+ },
+ "etiket": {
+  "lead": "Tehlike uyarı etiketleri, kilitlenen bir enerji noktasının kim tarafından, ne zaman ve hangi sebeple devre dışı bırakıldığını sahadaki herkese bildirir. Türkçe metinli, yazılabilir alanlı askılı modeller LOTO sürecinin etiketleme adımını tamamlar.",
+  "chips": [
+   "Türkçe uyarı metni",
+   "Yazılabilir bilgi alanı",
+   "Askılı kullanım",
+   "Scafftag iskele etiketi",
+   "Kilitle birlikte kullanım"
+  ],
+  "rule_title": "Altın kural",
+  "rule": "Etiket bilgi verir ama fiziksel engel oluşturmaz; kilit takılabilen her noktada etiketi mutlaka bir kilitle birlikte kullanın.",
+  "nedir_title": "Tehlike Uyarı Etiketi Nedir?",
+  "nedir": [
+   "**Tehlike uyarı etiketi**, LOTO sürecindeki “tagout” yani **etiketleme** adımında kullanılan ve kilitlenen noktaya asılan bilgilendirme etiketidir. Kilit enerjinin geri verilmesini fiziksel olarak engellerken, etiket bu engelin nedenini ve sorumlusunu açıkça gösterir. Böylece aynı ekipman üzerinde çalışan farklı ekipler arasında yanlış anlaşılma ve kazara enerji verilmesi riski belirgin şekilde azalır.",
+   "Etiketin yazılabilir alanlarına genellikle **kilitleyen kişinin adı**, departmanı, işlem tarihi ve kilitleme gerekçesi not edilir. Bu sayede ekipmanın yanına gelen herkes, makinenin neden çalıştırılmaması gerektiğini ve bilgi almak için kime başvuracağını hemen anlar. Dayanıklı malzemeden yapılan etiketler iç ve dış ortamda kullanılabilir; suya, yağa ve kimyasallara karşı dirençlidir.",
+   "Sofilx LOTO; “Tamir Var Şalteri Açmayınız”, “Dikkat Bakım Var Çalıştırma” gibi Türkçe metinli askılı etiketler, kilitleme bilgi etiketleri ve iskele güvenliği için **Scafftag** etiketleri sunar."
+  ],
+  "cesitler_title": "Tehlike Uyarı Etiketi Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Bakım ve tamir etiketleri",
+    "text": "Onarım veya bakım süresince makinenin ya da şalterin çalıştırılmamasını bildiren askılı etiketlerdir.",
+    "codes": [
+     "BD-LT12",
+     "BD-LT14"
+    ]
+   },
+   {
+    "title": "Şalter ve yetki uyarıları",
+    "text": "Elektrik panolarında yalnızca yetkili kişinin müdahale edebileceğini vurgulayan uyarı metinleri taşır.",
+    "codes": [
+     "BD-LT07",
+     "BD-LT11"
+    ]
+   },
+   {
+    "title": "Kilitleme bilgi etiketleri",
+    "text": "Kilitleyen kişi, tarih ve işlem bilgisinin yazılabildiği alanlara sahip etiketlerdir.",
+    "codes": [
+     "BD-LT02-TR",
+     "BD-LT05",
+     "BD-LT04"
+    ]
+   },
+   {
+    "title": "Test ve devreye alma etiketleri",
+    "text": "Ayar, test ve devreye alma sırasında ekipmanın geçici durumunu gösterir.",
+    "codes": [
+     "BD-LT06"
+    ]
+   },
+   {
+    "title": "Alan giriş uyarıları",
+    "text": "Görevli olmayan kişilerin tehlikeli bölgeye girmesini engellemeye yönelik etiketlerdir.",
+    "codes": [
+     "BD-LT13",
+     "BD-T01"
+    ]
+   },
+   {
+    "title": "Scafftag iskele etiketleri",
+    "text": "İskelenin kullanıma uygun olup olmadığını tutucusuyla birlikte gösteren durum etiketleridir.",
+    "codes": [
+     "BD-P33",
+     "BD-P35",
+     "BD-P36"
+    ]
+   }
+  ],
+  "secim_intro": "Vermek istediğiniz mesaja ve etiketin asılacağı noktaya göre uygun modeli tablodan seçebilirsiniz.",
+  "secim_head": [
+   "Seri / Model",
+   "Durum",
+   "Verilen mesaj",
+   "Önerilen kullanım"
+  ],
+  "secim_rows": [
+   [
+    "BD-LT12 – Tamir var şalteri açmayınız",
+    "Elektrik bakımı",
+    "Şalter kapalı kalmalı",
+    "Şalter kilidiyle birlikte panoda"
+   ],
+   [
+    "BD-LT14 – Dikkat bakım var çalıştırma",
+    "Makine bakımı",
+    "Makine çalıştırılmamalı",
+    "Ana şalter ve makine üzerinde"
+   ],
+   [
+    "BD-LT11 – Yetkili harici açma-kapamak yasaktır",
+    "Yetki kontrolü",
+    "Yalnızca yetkili müdahale eder",
+    "Panolar ve vanalar"
+   ],
+   [
+    "BD-LT02-TR – Kilitleme bilgi etiketi",
+    "Kilit kaydı",
+    "Kim, ne zaman, neden kilitledi",
+    "Kişisel kilitlerin üzerinde"
+   ],
+   [
+    "BD-LT06 – Test ve devreye alma etiketi",
+    "Devreye alma",
+    "Test işlemi sürüyor",
+    "Geçici çalışma durumları"
+   ],
+   [
+    "BD-P33 – Scafftag iskele etiketi",
+    "İskele kontrolü",
+    "Kullanıma uygun / uygun değil",
+    "İskele giriş noktaları"
+   ]
+  ],
+  "nasil_title": "Doğru tehlike uyarı etiketi nasıl seçilir?",
+  "nasil": [
+   [
+    "Uyarı metni",
+    "Mesaj kısa, net ve Türkçe olmalı; sahadaki her çalışan tarafından tek bakışta anlaşılmalı."
+   ],
+   [
+    "Bilgi alanları",
+    "Kilitleyen kişinin adı, departmanı ve tarih için yeterli yazı alanı bulunmalı."
+   ],
+   [
+    "Malzeme dayanımı",
+    "Nem, yağ ve UV etkisine dayanıklı, kolayca yırtılmayan bir etiket tercih edin."
+   ],
+   [
+    "Asma şekli",
+    "Etiket kilide ya da cihaza sağlam biçimde bağlanabilmeli ve kendiliğinden düşmemeli."
+   ],
+   [
+    "Görünürlük",
+    "Dikkat çeken renkler ve uzaktan okunabilen yazı karakteri seçin."
+   ],
+   [
+    "Kurumsal ihtiyaç",
+    "Kuruma özel metin veya kimlik bilgisi gerekiyorsa özelleştirilmiş etiket seçeneğini değerlendirin."
+   ]
+  ],
+  "kullanim_title": "Tehlike Uyarı Etiketleri Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Elektrik panoları",
+    "Şalter kilitlerinin yanına asılarak bakım süresince enerjinin verilmemesi gerektiğini bildirir."
+   ],
+   [
+    "Vanalar ve basınçlı hatlar",
+    "Vana kilitleriyle birlikte akışın açılmaması gerektiği konusunda uyarır."
+   ],
+   [
+    "Makineler ve üretim hatları",
+    "Bakım, temizlik ve kalıp değişimi sırasında makinenin çalıştırılmasını önler."
+   ],
+   [
+    "İskeleler",
+    "Scafftag etiketleriyle iskelenin kullanım durumunu ve kontrol bilgisini gösterir."
+   ]
+  ],
+  "faq": [
+   [
+    "Uyarı etiketi kilidin yerine geçer mi?",
+    "Hayır. Etiket yalnızca bilgi verir; kilit takılabilen her noktada kilit ve etiket birlikte kullanılmalıdır."
+   ],
+   [
+    "Tehlike uyarı etiketi fiyatları nedir?",
+    "Fiyat; modele, malzemeye ve sipariş adedine göre değişir. Güncel teklif ve stok bilgisi için ürün kodunu ve adedi WhatsApp hattımıza yazabilir veya bizi telefonla arayabilirsiniz."
+   ],
+   [
+    "Etikete hangi bilgiler yazılmalı?",
+    "Kilitleyen kişinin adı, departmanı, tarih ve kilitleme gerekçesi yazılmalıdır; gerektiğinde iletişim bilgisi de eklenebilir."
+   ],
+   [
+    "Türkçe metinli etiket seçeneği var mı?",
+    "Evet, uyarı etiketlerimiz Türkçe metinlidir. Kurumunuza özel metin baskısı için de bizimle iletişime geçebilirsiniz."
+   ],
+   [
+    "Etiketler yeniden kullanılabilir mi?",
+    "Yazı alanları silinebilir kalemle doldurulduğunda bazı etiketler tekrar kullanılabilir. Yıpranan veya okunamayan etiketler ise yenisiyle değiştirilmelidir."
+   ],
+   [
+    "Scafftag ne işe yarar?",
+    "Scafftag, iskelenin kullanıma uygun olup olmadığını gösteren bir durum etiketidir; kontrolü yapan kişi ve tarih bilgisini taşır."
+   ],
+   [
+    "Etiketler dış ortamda kullanılabilir mi?",
+    "Evet. Etiketler iç ve dış ortamda kullanılabilecek dayanıklılıktadır; suya, yağa ve kimyasallara karşı dirençlidir."
+   ]
+  ],
+  "seo_title": "Tehlike Uyarı Etiketi Fiyatları ve Modelleri",
+  "seo": [
+   "EKED ve LOTO prosedürlerinde kilitleme kadar önemli bir diğer adım da etiketlemedir. **Tehlike uyarı etiketleri**, kilitlenen şalter, vana veya makinenin neden devre dışı bırakıldığını ve sorumlu kişiyi açıkça göstererek kazara enerji verilmesinin önüne geçer.",
+   "Ürün yelpazemizde bakım ve tamir uyarıları, şalter ve yetki etiketleri, yazılabilir kilitleme bilgi etiketleri, test ve devreye alma etiketleri ile Scafftag iskele etiketleri bulunur. Tüm modeller askılı yapıdadır ve kilitle birlikte kolayca kullanılır; kuruma özel metin talepleri için de destek veriyoruz.",
+   "Uyarı etiketi fiyatları model ve sipariş adedine göre farklılık gösterir. Güncel fiyat teklifi ve stok bilgisi almak için ürün kodunu WhatsApp hattımıza iletebilir ya da bizi telefonla arayabilirsiniz."
+  ]
+ }
+}

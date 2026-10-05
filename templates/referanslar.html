@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block main %}
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="s-enerji" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></symbol>
+ <symbol id="s-metal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V10l5 3V10l5 3V5h4v16z"/><path d="M3 21h18"/></symbol>
+ <symbol id="s-cimento" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 21V9l8-6 8 6v12"/><path d="M9 21v-6h6v6"/></symbol>
+ <symbol id="s-kimya" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6M10 3v6L4.5 19a1.5 1.5 0 0 0 1.3 2h12.4a1.5 1.5 0 0 0 1.3-2L14 9V3"/><path d="M7 15h10"/></symbol>
+ <symbol id="s-otomotiv" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1"/></symbol>
+ <symbol id="s-gida" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v8a2 2 0 0 0 4 0V3M9 11v10M17 21V3c-2 0-3 3-3 7h3"/></symbol>
+ <symbol id="s-ambalaj" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 5v10l-9 5-9-5V7z"/><path d="m3 7 9 5 9-5M12 12v10"/></symbol>
+ <symbol id="s-hizmet" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12a10 10 0 0 1 14 0M8.5 15.5a5 5 0 0 1 7 0"/><circle cx="12" cy="19" r="1"/><path d="M2 8.5a15 15 0 0 1 20 0"/></symbol>
+</svg>
+
+<section class="ref-hero"><div class="wrap">
+ <div class="rh-text">
+  <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><span>Referanslar</span></nav>
+  <div class="eyebrow">Referanslarımız</div>
+  <h1>Sanayinin güvenli bakımında <em>yanınızdayız</em></h1>
+  <p>Enerjiden gıdaya, çelikten ambalaja kadar farklı sektörlerdeki işletmeler, LOTO / EKED kilitleme ve etiketleme ekipmanlarında Sofilx LOTO ile çalışıyor.</p>
+  <div class="btn-row">
+   {% if firmalar %}<a class="btn btn-white" href="#firmalar">Referansları incele <svg><use href="#i-arrow"/></svg></a>{% else %}<a class="btn btn-white" href="#sektorler">Sektörler <svg><use href="#i-arrow"/></svg></a>{% endif %}
+   <a class="btn btn-light" href="https://wa.me/{{ site.wa }}?text={{ 'Merhaba, LOTO / EKED ürünleri için teklif almak istiyorum.'|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>Teklif al</a>
+  </div>
+ </div>
+ <div class="rh-stats">
+  {% if firmalar %}<div><b>{{ firmalar|length }}+</b><span>Referans işletme</span></div>{% else %}<div><b>2010</b><span>Yılından beri</span></div>{% endif %}
+  <div><b>{{ sektorler|length }}</b><span>Farklı sektör</span></div>
+  <div><b>{{ total }}+</b><span>Ürün çeşidi</span></div>
+  {% if firmalar %}<div><b>2010</b><span>Yılından beri</span></div>{% else %}<div><b>OSHA</b><span>Uyumlu ekipman</span></div>{% endif %}
+ </div>
+</div></section>
+
+{% if firmalar %}
+<div class="ref-marquee" aria-hidden="true"><div class="rm-track">
+ {% for _ in range(2) %}{% for f in firmalar %}<span class="rm-i">{% if f.logo %}<img src="/assets/referanslar/{{ f.logo }}" alt="" loading="lazy">{% else %}<b>{{ f.ad }}</b>{% endif %}</span>{% endfor %}{% endfor %}
+</div></div>
+
+<section class="sec" id="firmalar"><div class="wrap">
+ <div class="ref-head">
+  <div class="eyebrow">Öne çıkan referanslar</div>
+  <h2>Birlikte çalıştığımız firmalar</h2>
+  <span class="bar"></span>
+  <p>Sektör seçerek filtreleyebilirsiniz.</p>
+ </div>
+ <div class="ref-chips" role="group" aria-label="Sektör filtresi">
+  <button type="button" class="chip" aria-pressed="true" data-sec="">Tümü <i>{{ firmalar|length }}</i></button>
+  {% for s in sektorler %}{% set n = firmalar|selectattr('sektor','equalto',s.key)|list|length %}{% if n %}<button type="button" class="chip" aria-pressed="false" data-sec="{{ s.key }}">{{ s.ad }} <i>{{ n }}</i></button>{% endif %}{% endfor %}
+ </div>
+ <ul class="ref-grid">
+  {% for f in firmalar %}<li class="ref-card reveal" data-sec="{{ f.sektor }}">
+   <div class="rc-logo">{% if f.logo %}<img src="/assets/referanslar/{{ f.logo }}" alt="{{ f.ad }} logosu" loading="lazy">{% else %}<span class="rc-word">{{ f.ad }}</span>{% endif %}</div>
+   <div class="rc-foot"><b>{{ f.ad }}</b><span>{{ sekmap[f.sektor].kisa if f.sektor in sekmap else '' }}</span></div>
+  </li>{% endfor %}
+ </ul>
+ <p class="ref-note">Logolar ilgili firmaların tescilli markalarıdır ve yalnızca referans amacıyla gösterilmektedir.</p>
+</div></section>
+{% endif %}
+
+<section class="sec sec-paper" id="sektorler"><div class="wrap">
+ <div class="ref-head">
+  <div class="eyebrow">Sektörler</div>
+  <h2>Hangi sektörlere çözüm sunuyoruz?</h2>
+  <span class="bar"></span>
+  <p>Her tesisin enerji kaynakları ve bakım alışkanlıkları farklıdır. Ürün seçiminden kilitleme noktalarının belirlenmesine kadar ihtiyaca özel destek veriyoruz.</p>
+ </div>
+ <div class="sec-grid">
+  {% for s in sektorler %}<div class="sec-card reveal"><i><svg><use href="#s-{{ s.key }}"/></svg></i><h3>{{ s.ad }}</h3><p>{{ s.metin }}</p></div>{% endfor %}
+ </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="ref-join">
+  <div><h2>Siz de referanslarımız arasında yer alın</h2><p>İşletmenizin LOTO / EKED ihtiyacını birlikte belirleyelim: kilitleme noktalarının tespiti, doğru ekipman seçimi ve hızlı teslimat.</p></div>
+  <div class="btn-row"><a class="btn btn-white" href="/teklif"><svg><use href="#i-cart"/></svg>Teklif sepeti</a><a class="btn btn-light" href="https://wa.me/{{ site.wa }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>WhatsApp</a></div>
+ </div>
+</div></section>
+
+{% if firmalar %}<script>
+(function(){var b=document.querySelectorAll('.ref-chips .chip'),c=document.querySelectorAll('.ref-card');
+b.forEach(function(x){x.addEventListener('click',function(){var s=x.dataset.sec;b.forEach(function(y){y.setAttribute('aria-pressed',y===x)});
+c.forEach(function(k){k.hidden=!!s&&k.dataset.sec!==s;k.classList.add('in')})})})})();
+</script>{% endif %}
+{% endblock %}

@@ -1,0 +1,2284 @@
+{
+ "asma": {
+  "lead": "Emniyet asma kilitler, iş güvenliği ve ekipman koruması için kullanılan önemli bir güvenlik çözümüdür. Farklı malzeme ve kilitleme mekanizmalarına sahip modellerimizle güvenliği en üst düzeye çıkarabilirsiniz.",
+  "chips": [
+   "EKED / LOTO kilit",
+   "8 renk seçeneği",
+   "38 mm ve 76 mm askı",
+   "Anahtar kilit kapanmadan çıkmaz",
+   "Farklı / ortak / master anahtar"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "EMNİYET ASMA KİLİT NEDİR?"
+   ],
+   [
+    "p",
+    "Emniyet asma kilitleri, kilitleme ve etiketleme (LOTO) prosedürlerinde kullanılan, iş güvenliği standartlarına uygun özel tasarlanmış kilitlerdir. Standart asma kilitlerden farklı olarak, yetkisiz erişimi engellemek ve bakım-onarım işlemleri sırasında enerji kaynaklarını izole etmek amacıyla kullanılırlar."
+   ],
+   [
+    "p",
+    "Bu kilitler, belirli bir çalışma alanında veya ekipmanda sadece yetkili personelin erişebilmesini sağlamak için kullanılır ve genellikle elektrik, mekanik ve endüstriyel güvenlik alanlarında tercih edilir."
+   ],
+   [
+    "h2",
+    "EMNİYET ASMA KİLİT NEREDE KULLANILIR?"
+   ],
+   [
+    "li",
+    "Elektrik Panoları ve Devre Kesiciler: Yetkisiz erişimi engellemek ve bakım sırasında enerji kaynaklarını güvenli hale getirmek için."
+   ],
+   [
+    "li",
+    "Endüstriyel Tesisler: Makine bakımı, üretim hatları ve tesisat sistemlerinde güvenliği sağlamak için."
+   ],
+   [
+    "li",
+    "İnşaat ve Şantiye Alanları: Çalışma sırasında tehlikeli bölgelere girişin önlenmesi için."
+   ],
+   [
+    "li",
+    "Makine ve Ekipmanlar: Plansız çalıştırmayı önleyerek iş kazalarını en aza indirmek için."
+   ],
+   [
+    "li",
+    "Kurumsal ve Kamu Alanları: Yetkilendirilmiş personelin kullanabileceği özel alanlarda."
+   ]
+  ],
+  "def": "Altın kuralBir kişi – bir kilit – bir anahtar. LOTO kilidi başkasına verilmez, başkasının kilidi açılmaz.",
+  "nedir_title": "Emniyet Asma Kilidi Nedir?",
+  "nedir": [
+   "Emniyet asma kilidi (sahada EKED kilit, LOTO kilit veya LOTO asma kilit olarak da anılır), LOTO (kilitleme–etiketleme) uygulamalarında enerji kaynağını kilitleyen kişiye özel güvenlik kilididir. Bakım yapacak her çalışan kendi kilidini şalter kilidine, vana kilidine ya da çoklandırıcıya takar; anahtar yalnızca onda kaldığı için işi bitip kilidini çıkarmadan kimse o enerji kaynağını açamaz.",
+   "Emniyet asma kilitleri mülk koruma için kullanılan sıradan asma kilitlerden farklıdır: gövdeleri hafif ve darbeye dayanıklıdır, renk kodlamaya uygundur, üzerlerinde “TEHLİKE – KİLİTLENDİ” uyarısı bulunur ve anahtar, kilit kapanmadan çıkarılamaz. Böylece kilidin açık bırakılması ya da anahtarın kaybolması önlenir.",
+   "Sofilx LOTO emniyet asma kilitleri 38 mm ve 76 mm askı boyu seçenekleriyle; kırmızı, sarı, mavi, yeşil, siyah, beyaz, turuncu ve mor olmak üzere 8 renkte üretilir. Kişiye, ekibe veya departmana özel renk ve anahtar sistemi kurmak mümkündür."
+  ],
+  "cesitler_title": "Emniyet Asma Kilidi Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Çelik askılı 38 mm kilitler",
+    "text": "Standart pano, şalter ve vana kilitleme uygulamaları için en yaygın tip. Kompakt yapısıyla çoklandırıcı deliklerine ve kilitleme cihazlarına kolayca oturur.",
+    "mods": [
+     "BD-G01 kırmızı",
+     "BD-G02 sarı",
+     "BD-G03 mavi"
+    ]
+   },
+   {
+    "title": "Plastik askılı 38 mm kilitler",
+    "text": "Elektriksel risk bulunan noktalarda iletken olmayan askı tercih edilir. Hafif yapısı sayesinde bel çantası ve kişisel setlerde rahat taşınır.",
+    "mods": [
+     "BD-G11 kırmızı",
+     "BD-G12 sarı"
+    ]
+   },
+   {
+    "title": "Uzun askılı 76 mm kilitler",
+    "text": "Kalın vana kolları, geniş hasp delikleri veya birden fazla parçayı aynı anda kilitlemek gereken noktalar için uzun askılı modeller kullanılır.",
+    "mods": [
+     "BD-G21 kırmızı",
+     "BD-G31 kırmızı"
+    ]
+   },
+   {
+    "title": "Renk kodlu kilit sistemleri",
+    "text": "Her renk bir ekibi, vardiyayı veya taşeronu temsil eder. Sahada kimin kilidinin nerede olduğu tek bakışta anlaşılır, yanlış kişiye ait kilitle işlem yapılmaz.",
+    "mods": []
+   },
+   {
+    "title": "Anahtar sistemleri",
+    "text": "Farklı anahtar (her kilidin tek anahtarı), ortak anahtar (bir ekibin kilitleri aynı anahtarla) ve master anahtar (yönetici erişimi) seçenekleriyle LOTO programınıza uygun yapı kurulur.",
+    "mods": []
+   },
+   {
+    "title": "Etiketli ve özel baskılı kilitler",
+    "text": "Kilit gövdesine isim, sicil numarası, departman veya fotoğraf etiketi uygulanarak kilidin sahibi kolayca tanınır. Özel baskı seçenekleri için bizimle iletişime geçin.",
+    "mods": []
+   }
+  ],
+  "secim_intro": "Seriyi askı boyuna ve kullanım yerine göre seçin; renk, ekip ya da departman ayrımı için belirlenir.",
+  "secim_head": [
+   "Seri",
+   "Askı",
+   "Renkler",
+   "Önerilen kullanım"
+  ],
+  "secim_rows": [
+   [
+    "BD-G01 – G08",
+    "38 mm",
+    "8 renk",
+    "Şalter, vana ve çoklandırıcı kilitlemede genel kullanım"
+   ],
+   [
+    "BD-G11 – G18",
+    "38 mm",
+    "8 renk",
+    "Elektrik panoları ve kişisel LOTO setleri"
+   ],
+   [
+    "BD-G21 – G28",
+    "76 mm",
+    "8 renk",
+    "Kalın kollar, geniş hasp delikleri, büyük kilitleme cihazları"
+   ],
+   [
+    "BD-G31 – G38",
+    "76 mm",
+    "8 renk",
+    "Uzun askı gerektiren elektriksel ve zorlu ortam uygulamaları"
+   ]
+  ],
+  "secim_note": "Malzeme, sıcaklık dayanımı ve silindir detayları her modelin ürün sayfasında yer alır.",
+  "nasil_title": "Doğru emniyet asma kilidi nasıl seçilir?",
+  "nasil": [
+   [
+    "Askı boyu",
+    "Kilitleyeceğiniz cihazın delik çapını ve kalınlığını ölçün; 38 mm çoğu uygulamaya yeter, kalın parçalar için 76 mm seçin."
+   ],
+   [
+    "Askı malzemesi",
+    "Elektriksel risk olan noktalarda iletken olmayan askılı modelleri tercih edin."
+   ],
+   [
+    "Renk planı",
+    "Renkleri ekip, vardiya veya taşeron bazında önceden belirleyip yazılı LOTO prosedürünüze ekleyin."
+   ],
+   [
+    "Anahtar yönetimi",
+    "Kişisel kilitlerde farklı anahtar, ekip kilitlerinde ortak anahtar, acil durumlar için kontrollü master anahtar sistemi kurun."
+   ],
+   [
+    "Adet",
+    "Her yetkili çalışana en az bir kişisel kilit; birden fazla noktayı kilitleyen çalışanlar için ek kilit planlayın."
+   ],
+   [
+    "Saklama",
+    "Kilitleri EKED istasyonlarında ya da kişisel çantalarda düzenli tutun."
+   ]
+  ],
+  "kullanim_title": "Emniyet Asma Kilitler Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Elektrik panoları",
+    "Şalter kilitleme cihazlarıyla birlikte devre kesicilerin kilitlenmesi."
+   ],
+   [
+    "Vana ve boru hatları",
+    "Küresel, kelebek ve sürgülü vana kilitlerinin sabitlenmesi."
+   ],
+   [
+    "Grup bakım çalışmaları",
+    "Çoklandırıcı ve grup kilit kutularıyla çok kişili LOTO."
+   ],
+   [
+    "Üretim hatları",
+    "Makine bakımı, kalıp değişimi ve temizlik sırasında enerji izolasyonu."
+   ]
+  ],
+  "faq": [
+   [
+    "EKED kilit fiyatları ne kadar?",
+    "EKED kilit (emniyet asma kilidi) fiyatları askı malzemesine (çelik / plastik), askı boyuna (38 mm / 76 mm), anahtar sistemine, renk ve baskı ihtiyacına ve sipariş adedine göre değişir. Toplu alımlarda adet bazlı indirim uygulanır. Güncel fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli."
+   ],
+   [
+    "EKED / LOTO kilit renkleri ne anlama gelir?",
+    "Renklerin evrensel olarak sabit bir anlamı yoktur; her işletme kendi renk planını belirler. Yaygın kullanımda kırmızı kişisel kilitler, sarı veya turuncu taşeronlar, mavi ve yeşil farklı departmanlar için tercih edilir. Ayrıntılar için EKED / LOTO kilit renkleri yazımıza göz atın."
+   ],
+   [
+    "Emniyet asma kilidi ile normal asma kilit arasındaki fark nedir?",
+    "Emniyet asma kilidi yalnızca LOTO amaçlı kullanılır; hafif, renk kodlu ve uyarı etiketlidir, anahtar kilit kapanmadan çıkmaz. Normal asma kilitler mülk koruma içindir ve LOTO uygulamasında kullanılmamalıdır."
+   ],
+   [
+    "Her çalışana kaç kilit gerekir?",
+    "Temel kural her yetkili çalışana en az bir kişisel kilittir. Aynı anda birden fazla enerji kaynağını kilitleyen çalışanlar için ek kilit ya da grup kilitleme kutusu kullanılır."
+   ],
+   [
+    "Renkler neye göre seçilir?",
+    "Renkler genellikle departman, vardiya, taşeron veya görev tipine göre belirlenir. Önemli olan seçilen renk planının yazılı prosedürde tanımlanması ve tüm çalışanlarca bilinmesidir."
+   ],
+   [
+    "Ortak anahtar ve master anahtar nedir?",
+    "Ortak anahtarda bir gruptaki tüm kilitler aynı anahtarla açılır. Master anahtar ise yetkili bir yöneticinin tüm kilitleri açabilmesini sağlar; kontrollü ve kayıt altında kullanılmalıdır."
+   ],
+   [
+    "Kilitlerin üzerine isim yazdırabilir miyim?",
+    "Evet. Kilit gövdesine isim, sicil numarası veya departman bilgisi içeren etiket ya da baskı uygulanabilir. Toplu siparişlerde özel renk ve baskı seçenekleri için bizimle iletişime geçin."
+   ]
+  ]
+ },
+ "salter": {
+  "lead": "Şalter kilitleme ekipmanları, elektrik panoları ve devre kesicilerde yetkisiz erişimi önlemek ve iş güvenliğini sağlamak için tasarlanmıştır. Dayanıklı malzeme ve LOTO uyumluluğuyla maksimum koruma sunar.",
+  "chips": [
+   "MCB / minyatür şalter",
+   "Kompakt şalter (TMŞ)",
+   "Clamp-on & snap-on modeller",
+   "Aletsiz montaj"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Şalter Kilitleme Ekipmanları"
+   ],
+   [
+    "p",
+    "Şalter kilitleme ekipmanları, devre kesiciler, elektrik panoları ve anahtar sistemlerini kilitleyerek yetkisiz erişimi önleyen güvenlik çözümleridir. LOTO (Kilitleme-Etiketleme) prosedürleri kapsamında kullanılarak bakım ve onarım çalışmaları sırasında elektrik akımının kazara açılmasını engeller."
+   ],
+   [
+    "p",
+    "Farklı tip ve boyutlardaki şalterlere uygun olarak tasarlanan bu ekipmanlar, iş kazalarını önlemek ve çalışan güvenliğini sağlamak amacıyla endüstriyel tesislerden enerji santrallerine kadar geniş bir kullanım alanına sahiptir."
+   ],
+   [
+    "h2",
+    "Şalter Kilitleme Ekipmanları Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Endüstriyel Tesisler: Üretim hatlarında makinelerin bakım ve onarım süreçlerinde güvenliği sağlamak için."
+   ],
+   [
+    "li",
+    "Enerji Santralleri: Yüksek voltajlı elektrik sistemlerinde kazaları önlemek amacıyla."
+   ],
+   [
+    "li",
+    "Elektrik Panoları ve Devre Kesiciler: Yetkisiz erişimi engellemek ve çalışma sırasında enerjiyi izole etmek için."
+   ],
+   [
+    "li",
+    "Şantiyeler ve İnşaat Alanları: Geçici elektrik bağlantılarında güvenlik önlemi olarak."
+   ],
+   [
+    "li",
+    "Hastaneler ve Kamu Binaları: Kritik elektrik sistemlerinde güvenliği artırmak için."
+   ],
+   [
+    "li",
+    "Petrokimya ve Kimya Tesisleri: Yanıcı ve patlayıcı ortamlar için ekstra güvenlik sağlamak amacıyla."
+   ]
+  ],
+  "def": "ÖnemliKilitlemeden önce şalteri kapatın; kilitledikten sonra hattın gerçekten enerjisiz olduğunu ölçüm cihazıyla doğrulayın.",
+  "nedir_title": "Şalter Kilitleme Ekipmanı Nedir?",
+  "nedir": [
+   "Şalter kilitleme ekipmanları (sahada şalter kilidi, sigorta kilidi, EKED şalter kilidi veya pano sigorta kilidi olarak da aranır), elektrik panolarındaki devre kesicilerin bakım sırasında yanlışlıkla açılmasını ya da kapatılmasını önleyen LOTO cihazlarıdır. Şalter kapalı (OFF) konuma alındıktan sonra kilitleme cihazı tetiğe takılır, üzerine emniyet asma kilidi ve uyarı etiketi eklenir.",
+   "Elektrik kaynaklı iş kazalarının önemli bir kısmı, bakım yapılan hattın başka biri tarafından enerjilendirilmesiyle yaşanır. Şalter kilidi bu riski fiziksel olarak ortadan kaldırır; etiket ise panonun neden kilitli olduğunu herkese gösterir.",
+   "Şalterler marka ve tipe göre farklı tetik genişliği ve yapıya sahip olduğundan tek bir model her panoya uymaz. Sofilx LOTO; minyatür devre kesiciler (MCB), kompakt şalterler, büyük tip devre kesiciler ve sigortalar için 20’den fazla şalter kilitleme modeli sunar. Minyatür şalter kilidi, kompakt şalter kilidi ve pako şalter kilidi ihtiyaçlarınız için aşağıdaki seçim tablosunu kullanabilirsiniz."
+  ],
+  "cesitler_title": "Şalter Kilitleme Ekipmanı Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Minyatür devre kesici (MCB) kilitleri",
+    "text": "Pano içindeki otomat sigortalar için POS, PIS, TBLO ve POW tipi modeller. Tetiğin konumuna (yukarı / aşağı) ve deliğe takılma şekline göre seçilir.",
+    "mods": [
+     "POS",
+     "PIS",
+     "TBLO",
+     "POW"
+    ]
+   },
+   {
+    "title": "Evrensel (universal) MCB kilitleri",
+    "text": "Farklı marka ve tetik genişliklerine uyum sağlayan ayarlanabilir modeller; karışık marka panolar için pratik çözüm.",
+    "mods": [
+     "Evrensel",
+     "Geniş ağız",
+     "Universal MCB"
+    ]
+   },
+   {
+    "title": "Clamp-on (kelepçeli) kilitler",
+    "text": "Kompakt şalter ve geniş tetikli devre kesiciler için, vida ile sıkıştırılarak tetiği saran modeller.",
+    "mods": [
+     "BD-D11N",
+     "BD-D12X",
+     "BD-D13X"
+    ]
+   },
+   {
+    "title": "Snap-on kesici kilitleri",
+    "text": "Aletsiz, hızlı takılan geçmeli modeller. Sık bakım yapılan panolarda zaman kazandırır.",
+    "mods": [
+     "BD-D06",
+     "BD-D07",
+     "BD-D08"
+    ]
+   },
+   {
+    "title": "Büyük tip devre kesici kilitleri",
+    "text": "Yüksek akımlı, geniş tetikli devre kesiciler için sıkı kavramalı ve büyük boy modeller.",
+    "mods": [
+     "BD-D14",
+     "BD-D15",
+     "BD-D16"
+    ]
+   },
+   {
+    "title": "Etiketli MCB kilitleri",
+    "text": "Kilitleme ve etiketlemeyi tek gövdede birleştiren modeller; küçük panolarda ek etiket ihtiyacını azaltır.",
+    "mods": [
+     "MCB etiketli"
+    ]
+   }
+  ],
+  "secim_intro": "Şalterin tipini ve tetik yapısını belirleyin, ardından uygun kilit ailesini seçin.",
+  "secim_head": [
+   "Şalter tipi",
+   "Tetik yapısı",
+   "Önerilen model",
+   "Rehber"
+  ],
+  "secim_rows": [
+   [
+    "Minyatür devre kesici (MCB)",
+    "Dar tetik, pano içi",
+    "POS / PIS / TBLO / POW",
+    "Minyatür şalter →"
+   ],
+   [
+    "Karışık marka MCB",
+    "Farklı genişlikler",
+    "Evrensel MCB kilidi",
+    "ABB uyumlu →"
+   ],
+   [
+    "Kompakt şalter / TMŞ",
+    "Geniş tetik",
+    "Clamp-on BD-D12X",
+    "TMŞ şalter →"
+   ],
+   [
+    "Büyük devre kesici",
+    "Çok geniş tetik",
+    "Oversized BD-D13X",
+    "Kompakt şalter →"
+   ],
+   [
+    "Kelepçeli sigorta",
+    "Kısa tetik",
+    "BD-D11N",
+    "Schneider uyumlu →"
+   ],
+   [
+    "Pako şalter",
+    "Döner kol",
+    "Kablo kilidi + hasp",
+    "Pako şalter →"
+   ]
+  ],
+  "secim_note": "Emin değilseniz şalterin önden ve yandan fotoğrafını WhatsApp’tan gönderin; uyumlu modeli birlikte belirleyelim.",
+  "nasil_title": "Doğru şalter kilitleme ekipmanı nasıl seçilir?",
+  "nasil": [
+   [
+    "Şalter tipi",
+    "MCB, kompakt şalter veya büyük devre kesici olduğunu belirleyin; her biri farklı kilit ailesi gerektirir."
+   ],
+   [
+    "Tetik ölçüsü",
+    "Tetiğin genişliğini ve kalınlığını ölçün; universal modeller farklı ölçülere uyum sağlar."
+   ],
+   [
+    "Tetik konumu",
+    "Bazı modeller tetiğin altındaki/üstündeki deliklere takılır (pin in / pin out); şalterin yapısını kontrol edin."
+   ],
+   [
+    "Montaj",
+    "Sık bakım yapılan panolarda aletsiz snap-on modeller, kalıcı ve sıkı tutuş gereken yerlerde clamp-on modeller tercih edilir."
+   ],
+   [
+    "Kilit uyumu",
+    "Cihazın kilit deliği, kullandığınız emniyet asma kilidinin askı çapına uygun olmalı."
+   ],
+   [
+    "Hazır set",
+    "Karışık panolar için birçok şalter kilidini bir arada sunan elektriksel EKED setlerini değerlendirin."
+   ]
+  ],
+  "kullanim_title": "Şalter Kilitleme Ekipmanları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Dağıtım panoları",
+    "Bina ve tesis dağıtım panolarında hat bazında enerji izolasyonu."
+   ],
+   [
+    "Makine kumanda panoları",
+    "Üretim makinelerinin bakımı öncesi ana ve yardımcı şalterlerin kilitlenmesi."
+   ],
+   [
+    "Otomasyon ve MCC panoları",
+    "Motor kontrol merkezlerinde çoklu devre kesici kilitleme."
+   ],
+   [
+    "Enerji ve altyapı",
+    "Trafo, jeneratör ve enerji tesislerinde güvenli bakım."
+   ]
+  ],
+  "faq": [
+   [
+    "Hangi şalter kilidi benim panoma uyar?",
+    "Önce şalter tipini (MCB, kompakt şalter, büyük devre kesici) ve tetik genişliğini belirleyin. Karışık marka panolar için evrensel modeller, kompakt şalterler için clamp-on modeller uygundur. Fotoğraf gönderirseniz uygun modeli birlikte seçebiliriz."
+   ],
+   [
+    "Şalter Kilitleme Ekipmanları fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel şalter kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "POS, PIS, TBLO ve POW ne anlama geliyor?",
+    "Bunlar minyatür devre kesici kilitlerinin şaltere takılma şeklini ifade eden tip adlarıdır; tetiğin konumu ve şalter üzerindeki deliklere göre farklılaşır. Panonuzdaki şalterin yapısına göre uygun tip seçilir."
+   ],
+   [
+    "Şalter kilidi takarken alet gerekir mi?",
+    "Snap-on ve birçok MCB kilidi aletsiz takılır. Clamp-on modeller tetiği sıkıca kavramak için küçük bir vida ile sabitlenir."
+   ],
+   [
+    "Bir şaltere birden fazla kişi kilit takabilir mi?",
+    "Evet. Şalter kilidinin deliğine bir çoklandırıcı (hasp) takılır, her çalışan kendi kilidini haspa ekler. Son kilit çıkarılmadan şalter açılamaz."
+   ],
+   [
+    "ABB, Schneider gibi markalara uyumlu mu?",
+    "Evet. Universal ve ayarlanabilir modellerimiz yaygın marka şalterlerin büyük bölümüne uyum sağlar. Marka bazlı detaylar için ilgili rehber yazılarımıza göz atabilirsiniz."
+   ]
+  ]
+ },
+ "kablo": {
+  "lead": "Sofilx LOTO kablo kilitleme ekipmanları, enerji kaynaklarını izole ederek iş güvenliğini sağlar. Esnek ve dayanıklı yapısıyla vanalar, devre kesiciler ve enerji bağlantı noktalarında kullanılabilir. Farklı uzunluk ve renk seçenekleriyle maksimum güvenlik sunar.",
+  "chips": [
+   "Tek cihazla çoklu nokta",
+   "Çelik ve yalıtkan kablo",
+   "Ayarlanabilir uzunluk",
+   "Geri çekilebilir modeller"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Kablo Kilitleme Ekipmanları"
+   ],
+   [
+    "p",
+    "Kablo kilitleme ekipmanları, iş güvenliği ve kilitleme/etiketleme (LOTO) prosedürleri kapsamında kullanılan güvenlik cihazlarıdır. Esnek kablo mekanizması sayesinde vanalar, devre kesiciler ve enerji bağlantı noktaları gibi farklı ekipmanların yetkisiz açılmasını önler."
+   ],
+   [
+    "p",
+    "Farklı uzunluk ve malzeme seçenekleriyle sunulan bu ekipmanlar, elektrik, endüstriyel bakım ve enerji tesislerinde yaygın olarak kullanılır. Çok yönlü yapısı sayesinde birden fazla noktayı aynı anda kilitleme avantajı sunar, böylece iş kazalarının önüne geçer."
+   ],
+   [
+    "h2",
+    "Kablo Kilitleme Ekipmanları Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Elektrik Panoları: Devre kesicileri ve elektrik bağlantı noktalarını kilitleyerek yetkisiz erişimi önler."
+   ],
+   [
+    "li",
+    "Endüstriyel Tesisler: Makine ve ekipman bakımında enerji kaynaklarını güvenli şekilde izole eder."
+   ],
+   [
+    "li",
+    "Petrol, Gaz ve Kimya Sektörü: Tehlikeli madde taşıyan boru hatları ve vanaları güvence altına alır."
+   ],
+   [
+    "li",
+    "Üretim ve Fabrika Ortamları: Mekanik ve elektrikli sistemlerin kontrolsüz çalışmasını engeller."
+   ],
+   [
+    "li",
+    "Tersaneler ve Enerji Santralleri: Yüksek gerilim hatlarında ve büyük enerji sistemlerinde güvenliği artırır."
+   ]
+  ],
+  "def": "Ne zaman kablo kilidi?Kilitlenecek nokta standart bir cihaza uymuyorsa ya da birden fazla noktanın tek seferde kilitlenmesi gerekiyorsa.",
+  "nedir_title": "Kablo Kilitleme Ekipmanı Nedir?",
+  "nedir": [
+   "Kablo kilitleme ekipmanları, esnek bir çelik veya yalıtkan kablo yardımıyla bir ya da birden fazla enerji izolasyon noktasını aynı anda kilitleyen LOTO cihazlarıdır. Kablo, vana kollarından, şalter deliklerinden veya kapak kulplarından geçirilir, gerdirilir ve kilit gövdesine emniyet asma kilidi takılır.",
+   "Standart vana veya şalter kilitlerinin oturmadığı, düzensiz şekilli ya da birbirine çok yakın kilitleme noktalarında kablo kilidi en pratik çözümdür. Örneğin bir boru hattındaki birkaç vanayı tek kabloyla bağlayarak hepsini birlikte kilitleyebilirsiniz.",
+   "Sofilx LOTO; ekonomik, çok amaçlı, ayarlanabilir, geri çekilebilir ve paslanmaz çelik kablolu modellerle farklı uzunluk ve kullanım ihtiyaçlarına uygun 11 kablo kilitleme modeli sunar."
+  ],
+  "cesitler_title": "Kablo Kilitleme Ekipmanı Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Ayarlanabilir kablo kilitleri",
+    "text": "Kablo boyu ihtiyaca göre gerdirilip sabitlenir; vana grupları ve pano kapakları için en çok tercih edilen tip.",
+    "mods": [
+     "BD-L01",
+     "BD-L02",
+     "BD-L11"
+    ]
+   },
+   {
+    "title": "Çok amaçlı kablo kilitleri",
+    "text": "Birden fazla kişinin kilit takabileceği delikli gövdeye sahip modeller; grup çalışmalarında hasp ihtiyacını azaltır.",
+    "mods": [
+     "BD-L12",
+     "BD-L22",
+     "BD-L31"
+    ]
+   },
+   {
+    "title": "Geri çekilebilir kablo kilidi",
+    "text": "Kablo gövde içine sarılarak saklanır; dolaşmaz, taşıması kolaydır.",
+    "mods": [
+     "BD-L41"
+    ]
+   },
+   {
+    "title": "Paslanmaz çelik kablolu modeller",
+    "text": "Nemli, kimyasal veya dış ortamlarda korozyona dayanıklı kullanım.",
+    "mods": [
+     "BD-L61"
+    ]
+   },
+   {
+    "title": "Mikro ve evrensel kablo kilitleri",
+    "text": "Dar alanlar, küçük kollar ve kompakt kilitleme noktaları için ince kablolu modeller.",
+    "mods": [
+     "Mikro BD-L45",
+     "Evrensel BD-L62"
+    ]
+   },
+   {
+    "title": "Ekonomik kablo kilidi",
+    "text": "Temel ihtiyaçlar ve geniş ölçekli dağıtım için uygun maliyetli çözüm.",
+    "mods": [
+     "BD-L21"
+    ]
+   }
+  ],
+  "secim_intro": "Kilitleme noktası sayısı, ortam koşulları ve kişi sayısına göre doğru kablo kilidini seçin.",
+  "secim_head": [
+   "Uygulama",
+   "İhtiyaç",
+   "Önerilen model",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Birden fazla vana",
+    "Tek kabloyla bağlama",
+    "Ayarlanabilir BD-L01",
+    "Kablo boyunu vana arası mesafeye göre seçin"
+   ],
+   [
+    "Grup bakım çalışması",
+    "Çok kişili kilitleme",
+    "Çok amaçlı BD-L12",
+    "Her çalışan kendi kilidini takar"
+   ],
+   [
+    "Pako şalter / kapak kulpu",
+    "Düzensiz nokta",
+    "Evrensel BD-L62",
+    "Hasp ile birlikte kullanılabilir"
+   ],
+   [
+    "Nemli / dış ortam",
+    "Korozyon dayanımı",
+    "Paslanmaz BD-L61",
+    "Kimyasal ve denizcilik uygulamaları"
+   ],
+   [
+    "Sık taşınan set",
+    "Kompakt ve düzenli",
+    "Geri çekilebilir BD-L41",
+    "Kablo gövdeye sarılır"
+   ],
+   [
+    "Dar alan",
+    "İnce kablo",
+    "Mikro BD-L45",
+    "Küçük kol ve delikler"
+   ]
+  ],
+  "secim_note": "Kablo uzunluğu ve çapı her modelin ürün sayfasında belirtilmiştir.",
+  "nasil_title": "Doğru kablo kilitleme ekipmanı nasıl seçilir?",
+  "nasil": [
+   [
+    "Kablo uzunluğu",
+    "Bağlanacak en uzak iki nokta arasındaki mesafeyi ölçün ve pay bırakın."
+   ],
+   [
+    "Kablo malzemesi",
+    "Elektriksel uygulamalarda yalıtkan kaplı, nemli ortamlarda paslanmaz çelik kablo tercih edin."
+   ],
+   [
+    "Kişi sayısı",
+    "Çok kişili işlerde çok amaçlı (çok delikli) gövdeler veya çoklandırıcılar kullanın."
+   ],
+   [
+    "Gerdirme",
+    "Kablo, kilitlenen kolun hareket etmeyeceği kadar gergin olmalı; boşluk bırakılmamalı."
+   ],
+   [
+    "Etiket",
+    "Kablo kilidinin üzerine mutlaka bir EKED uyarı etiketi ekleyin."
+   ]
+  ],
+  "kullanim_title": "Kablo Kilitleme Ekipmanları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Vana grupları",
+    "Manifoldlar ve paralel hatlardaki çok sayıda vananın birlikte kilitlenmesi."
+   ],
+   [
+    "Pako ve döner şalterler",
+    "Standart kilit uymayan döner kollu şalterlerin sabitlenmesi."
+   ],
+   [
+    "Makine kapakları",
+    "Koruyucu kapak ve muhafazaların açılmasının engellenmesi."
+   ],
+   [
+    "Denizcilik ve dış saha",
+    "Gemi, liman ve açık alan tesislerinde korozyona dayanıklı kilitleme."
+   ]
+  ],
+  "faq": [
+   [
+    "Kablo kilidi hangi durumlarda kullanılır?",
+    "Standart vana veya şalter kilidinin oturmadığı düzensiz noktalarda ve birden fazla kilitleme noktasının tek cihazla bağlanması gereken durumlarda kablo kilidi kullanılır."
+   ],
+   [
+    "Kablo Kilitleme Ekipmanları fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel kablo kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Kablo kilidi tek başına yeterli mi?",
+    "Kablo kilidi bir izolasyon cihazıdır; üzerine mutlaka kişisel emniyet asma kilidi ve uyarı etiketi takılmalıdır."
+   ],
+   [
+    "Kablo uzunluğunu nasıl seçmeliyim?",
+    "Bağlanacak noktalar arasındaki toplam mesafeyi ölçün ve kabloyu geçirip gerdirmek için pay bırakın. Uzunluk bilgisi her modelin sayfasında yer alır."
+   ],
+   [
+    "Birden fazla kişi aynı kablo kilidine kilit takabilir mi?",
+    "Çok amaçlı modellerde gövdede birden fazla kilit deliği bulunur. Standart modellerde ise gövdeye bir çoklandırıcı (hasp) eklenir."
+   ],
+   [
+    "Paslanmaz çelik kablo ne zaman gerekir?",
+    "Nemli, kimyasal maddeye maruz kalan, dış ortamda veya denizcilik sektöründe kullanılacak kilitlerde korozyon dayanımı için paslanmaz çelik kablo önerilir."
+   ]
+  ]
+ },
+ "vana": {
+  "lead": "Vana Kilitleme Ekipmanları – İş güvenliği ve enerji izolasyonu için tasarlanmış vana kilitleme çözümleri. Manuel ve otomatik vanaların yetkisiz kullanımını önleyerek güvenliği artırır. Farklı vana tiplerine uyumlu, dayanıklı ve LOTO prosedürlerine uygun kilitleme sistemleri sunar.",
+  "chips": [
+   "Küresel, kelebek, sürgülü vana",
+   "Kör flanş ve tapa vana",
+   "Ayarlanabilir & universal",
+   "25+ model"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Vana Kilitleme Ekipmanları"
+   ],
+   [
+    "p",
+    "Vana kilitleme ekipmanları, iş güvenliği ve enerji izolasyonu kapsamında kullanılan kilitleme/etiketleme (LOTO) çözümleridir. Bu ekipmanlar, manuel ve otomatik vanaların yetkisiz açılmasını önleyerek iş kazalarını ve beklenmedik enerji akışlarını engellemek için tasarlanmıştır."
+   ],
+   [
+    "p",
+    "Farklı vana tiplerine uyumlu olarak üretilen bu kilitleme cihazları, küresel vanalar, kelebek vanalar, sürgülü vanalar ve silindirik vanalar gibi çeşitli sistemlerde güvenli kullanım sağlar. Kimya, petrol, gaz, enerji ve su tesisleri gibi endüstriyel alanlarda yaygın olarak tercih edilir."
+   ],
+   [
+    "p",
+    "Dayanıklı malzemelerden üretilen vana kilitleme cihazları, korozyona, kimyasallara ve zorlu hava koşullarına dayanıklıdır. İş güvenliği standartlarına uygun olarak tasarlanan bu sistemler, çalışanların güvenliğini sağlamak ve operasyonel riskleri en aza indirmek için kritik öneme sahiptir."
+   ],
+   [
+    "h2",
+    "Vana Kilitleme Ekipmanları Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Petrol ve Gaz Sektörü → Boru hatları ve rafinerilerde akış kontrolünü güvence altına almak için kullanılır."
+   ],
+   [
+    "li",
+    "Kimya ve İlaç Endüstrisi → Kimyasal madde taşıyan boru sistemlerini izole ederek güvenli çalışma ortamı sağlar."
+   ],
+   [
+    "li",
+    "Su Arıtma ve Atık Yönetimi → Su ve atık sistemlerinin kontrolsüz açılmasını önlemek için kullanılır."
+   ],
+   [
+    "li",
+    "Enerji ve Elektrik Santralleri → Buhar, gaz ve sıvı akışlarının güvenli şekilde kapatılmasını sağlar."
+   ],
+   [
+    "li",
+    "Gıda ve İçecek Üretimi → Sıvı ve gaz akışlarını düzenleyerek hijyen ve güvenlik standartlarını korur."
+   ],
+   [
+    "li",
+    "Fabrika ve Üretim Tesisleri → Üretim hatlarında bulunan vanaların yanlışlıkla açılmasını önleyerek operasyonel güvenliği artırır."
+   ]
+  ],
+  "def": "İpucuVana tipini (kollu mu, volanlı mı) ve boru/kol ölçüsünü bilmek, doğru kilidi seçmenin en hızlı yoludur.",
+  "nedir_title": "Vana Kilitleme Ekipmanı Nedir?",
+  "nedir": [
+   "Vana kilitleme ekipmanları (vana kilidi, küresel vana kilidi, kelebek vana kilidi), boru hatlarındaki su, buhar, gaz, hava veya kimyasal akışını kontrol eden vanaların bakım sırasında açılmasını engelleyen LOTO cihazlarıdır. Vana kapalı konuma alınır, kilitleme cihazı kolu ya da volanı saracak şekilde takılır ve üzerine emniyet asma kilidi ile uyarı etiketi eklenir.",
+   "Basınçlı veya sıcak akışkan taşıyan hatlarda yanlışlıkla açılan tek bir vana ciddi yanık, zehirlenme veya patlama riskine yol açabilir. Bu nedenle vana izolasyonu, LOTO programlarının elektrik izolasyonu kadar kritik parçasıdır.",
+   "Vanaların tipi ve ölçüsü çok çeşitli olduğundan Sofilx LOTO; küresel vana, kelebek vana, sürgülü (simit) vana, kör flanş ve tapa vanalar için ayarlanabilir ve universal modellerle 25’ten fazla vana kilitleme çözümü sunar."
+  ],
+  "cesitler_title": "Vana Kilitleme Ekipmanı Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Küresel vana kilitleri",
+    "text": "Çeyrek tur kollu vanalar için kolu kapalı konumda sabitleyen modeller. Ayarlanabilir, büyük boy, flanşlı ve metal seçenekler.",
+    "mods": [
+     "Ayarlanabilir BD-F01",
+     "Büyük boy BD-F07",
+     "Metal BD-F03"
+    ]
+   },
+   {
+    "title": "Kelebek vana kilitleri",
+    "text": "Kollu kelebek vanaların kolunu ve tetiğini kilitleyen modeller; çekme kulplu ve büyük boy seçenekler.",
+    "mods": [
+     "BD-F21",
+     "Ayarlanabilir BD-F22",
+     "Büyük BD-BVL51"
+    ]
+   },
+   {
+    "title": "Sürgülü (simit) vana kilitleri",
+    "text": "Volanlı vanaların volanını tamamen kapatarak döndürülmesini engelleyen modeller.",
+    "mods": [
+     "BD-F16",
+     "Simit vana"
+    ]
+   },
+   {
+    "title": "Universal vana kilitleri",
+    "text": "Kol ve kablo kombinasyonuyla farklı vana tiplerine uyum sağlayan, tek kollu ve çift blokaj kollu modeller.",
+    "mods": [
+     "BD-F32",
+     "BD-F33",
+     "BD-F35"
+    ]
+   },
+   {
+    "title": "Kör flanş kilitleri",
+    "text": "Boru hattının flanş bağlantısından tamamen ayrıldığı izolasyonlarda flanşın sökülmesini engeller.",
+    "mods": [
+     "Kör flanş"
+    ]
+   },
+   {
+    "title": "Tapa vana ve özel uygulamalar",
+    "text": "Tapa vanalar, kalıcı montajlı (perma-mount) kilitler ve vana kilitleme çantaları.",
+    "mods": [
+     "Tapa vana",
+     "Perma-mount",
+     "Çanta"
+    ]
+   }
+  ],
+  "secim_intro": "Vananın tipini ve ölçüsünü belirleyin; aşağıdaki tablo ilk seçim için yol gösterir.",
+  "secim_head": [
+   "Vana tipi",
+   "Kontrol şekli",
+   "Önerilen model",
+   "Rehber"
+  ],
+  "secim_rows": [
+   [
+    "Küresel vana (küçük–orta)",
+    "Çeyrek tur kol",
+    "Ayarlanabilir BD-F01",
+    "Küresel vana →"
+   ],
+   [
+    "Küresel vana (büyük)",
+    "Uzun kol",
+    "Büyük boy BD-F07",
+    "Küresel vana →"
+   ],
+   [
+    "Kelebek vana",
+    "Tetikli kol",
+    "BD-F21 / BD-F22",
+    "Vana grubu →"
+   ],
+   [
+    "Sürgülü (simit) vana",
+    "Volan",
+    "BD-F16",
+    "Sürgülü vana →"
+   ],
+   [
+    "Farklı / karışık vanalar",
+    "Değişken",
+    "Universal BD-F32",
+    "—"
+   ],
+   [
+    "Kör flanş",
+    "Flanş bağlantısı",
+    "Kör flanş kilidi",
+    "—"
+   ]
+  ],
+  "secim_note": "Volan çapı ve kol ölçüleri model sayfalarında yer alır. Ölçüden emin değilseniz fotoğraf gönderin.",
+  "nasil_title": "Doğru vana kilitleme ekipmanı nasıl seçilir?",
+  "nasil": [
+   [
+    "Vana tipi",
+    "Kollu (küresel / kelebek) mu, volanlı (sürgülü) mu olduğunu belirleyin."
+   ],
+   [
+    "Ölçü",
+    "Boru çapını, kol uzunluğunu veya volan çapını ölçün; ayarlanabilir modeller birden fazla ölçüye uyar."
+   ],
+   [
+    "Ortam",
+    "Sıcak, kimyasal veya dış ortamlarda metal ya da dayanıklı malzemeli modeller tercih edin."
+   ],
+   [
+    "Çoklu vana",
+    "Birbirine yakın birçok vanayı tek seferde kilitlemek için kablo kilitleri kullanın."
+   ],
+   [
+    "Grup çalışması",
+    "Aynı vanada birden fazla kişi çalışacaksa çoklandırıcı ekleyin."
+   ],
+   [
+    "Hazır çözüm",
+    "Farklı vana tiplerini kapsayan vana kilitleme setlerini inceleyin."
+   ]
+  ],
+  "kullanim_title": "Vana Kilitleme Ekipmanları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Su ve atık su hatları",
+    "Pompa istasyonları, arıtma tesisleri ve şebeke bakımı."
+   ],
+   [
+    "Buhar ve sıcak su",
+    "Kazan daireleri ve ısı merkezlerinde yanık riskine karşı izolasyon."
+   ],
+   [
+    "Kimya ve petrokimya",
+    "Kimyasal hatlarda kör flanş ve vana izolasyonu."
+   ],
+   [
+    "Gaz ve basınçlı hava",
+    "Doğalgaz ve hava hatlarında güvenli bakım."
+   ]
+  ],
+  "faq": [
+   [
+    "Vana kilidi nasıl seçilir?",
+    "Önce vananın tipini (küresel, kelebek, sürgülü) ve ölçüsünü belirleyin. Kollu vanalar için kol kilitleri, volanlı vanalar için volanı saran kilitler, karışık vanalar için universal modeller seçilir."
+   ],
+   [
+    "Vana Kilitleme Ekipmanları fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel vana kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Küresel vana ile kelebek vana kilidi aynı mı?",
+    "Hayır. Küresel vana kilitleri çeyrek tur kolu, kelebek vana kilitleri ise tetikli kolu kapalı konumda sabitler. Universal modeller her iki tipe de uyum sağlayabilir."
+   ],
+   [
+    "Volanlı vana nasıl kilitlenir?",
+    "Sürgülü (simit) vana kilitleri volanın üzerini tamamen kapatarak döndürülmesini engeller. Volan çapına uygun boyut seçilmelidir."
+   ],
+   [
+    "Birden fazla vanayı tek kilitle kilitleyebilir miyim?",
+    "Evet, kablo kilitleme ekipmanlarıyla birbirine yakın birden fazla vana tek kabloyla bağlanıp kilitlenebilir."
+   ],
+   [
+    "Vana kilitleri dış ortama dayanıklı mı?",
+    "Modellerimiz endüstriyel ortamlar için dayanıklı malzemelerden üretilir. Kimyasal veya aşırı sıcak ortamlar için metal modelleri tercih etmenizi öneririz."
+   ]
+  ]
+ },
+ "coklandirici": {
+  "lead": "Çoklandırıcılar, birden fazla çalışanın aynı anda ekipman üzerinde çalışırken güvenliğini sağlamak için kullanılan kilitleme cihazlarıdır. Tek bir noktada birden fazla asma kilit takılmasını mümkün kılarak enerji izolasyonunu güvence altına alır.",
+  "chips": [
+   "Kilit çoklayıcı (hasp)",
+   "25 mm ve 38 mm çene",
+   "Çelik, alüminyum, plastik",
+   "İletken olmayan modeller",
+   "6–8 kilit kapasitesi"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Kaydırmalı İletken Olmayan Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Kaydırmalı İletken Olmayan Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Vinil Kaplı 38mm Çelik Çene Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "38mm Vinil Kaplamalı Alüminyum Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "8 Delikli Etiketli Alüminyum Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Alüminyum Büyük Sürgülü Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "İletken Olmayan Plastik Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Paslanmaya Dayanıklı Çelik 25mm Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Paslanmaz Çelik Çoklandırıcı Ekipmanı"
+   ],
+   [
+    "h3",
+    "Etiketli Alüminyum Büyük Boy Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Plastik Model Termik Kilitleme"
+   ],
+   [
+    "h3",
+    "Standart 6 Delikli Plastik Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Kırmızı Plastik Saplı Şalter Kilitleme"
+   ],
+   [
+    "h3",
+    "Etiketli Snap-On Alüminyum Çoklandırıcı"
+   ],
+   [
+    "h3",
+    "Vinil Kaplı 25mm 4 Delikli Kısa Gövde Çoklandırıcı"
+   ],
+   [
+    "h2",
+    "Çoklandırıcılar Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Çoklandırıcılar, özellikle bakım, onarım veya temizlik sırasında birden fazla çalışanın aynı anda güvenli şekilde çalışmasını sağlamak amacıyla kullanılır. Fabrikalar, enerji santralleri, petrokimya tesisleri, gıda üretim alanları ve bakım atölyeleri gibi endüstriyel ortamlarda yaygın olarak tercih edilir. Elektrik panoları, vanalar, pnomatik ve hidrolik sistemler gibi enerjiyle çalışan ekipmanların kontrol noktalarında, her çalışanın kendi asma kilidini takmasına imkân tanıyarak kazara çalıştırmaları önler ve LOTO prosedürlerinin etkinliğini artırır."
+   ],
+   [
+    "h2",
+    "Çoklandırıcılar"
+   ],
+   [
+    "p",
+    "Çoklandırıcı, iş güvenliği uygulamalarında kullanılan, birden fazla çalışanın aynı enerji kontrol noktasına kendi kişisel asma kilidini takmasına olanak sağlayan bir kilitleme ekipmanıdır. Özellikle bakım ve onarım süreçlerinde, ekipmanın kazara çalıştırılmasını önlemek amacıyla enerji kaynaklarının izole edilmesinde kritik rol oynar."
+   ],
+   [
+    "p",
+    "Çoklandırıcılar genellikle metal veya dayanıklı plastik malzemeden üretilir ve üzerinde birden fazla kilit deliği bulunur. Bu sayede her çalışan kendi asma kilidini takarak işlemin tamamlanmadan başlatılamamasını garanti altına alır."
+   ]
+  ],
+  "def": "KuralBir noktada birden fazla kişi çalışıyorsa çoklandırıcı zorunludur; kilit paylaşılmaz.",
+  "nedir_title": "Kilit Çoklayıcı (Çoklandırıcı / Hasp) Nedir?",
+  "nedir": [
+   "Kilit çoklayıcı — diğer adlarıyla kilit çoklandırıcı, EKED kilit çoklayıcı, LOTO kilit çoklayıcı veya hasp — tek bir enerji izolasyon noktasına birden fazla kişinin kendi kilidini takabilmesini sağlayan LOTO ekipmanıdır. Çoklandırıcı şalter veya vana kilidine takılır; bakım ekibindeki her çalışan kendi emniyet asma kilidini çoklandırıcının deliklerinden birine ekler.",
+   "Çoklandırıcı, son kilit çıkarılmadan açılamaz. Böylece işini bitiren çalışan kilidini çıkarsa bile, ekipte çalışmaya devam eden biri olduğu sürece enerji geri verilemez. Bu özellik grup bakım çalışmalarında en kritik güvenlik önlemidir.",
+   "Sofilx LOTO çoklandırıcıları; vinil kaplı çelik, alüminyum, paslanmaz çelik ve iletken olmayan plastik gövdelerle, 25 mm ve 38 mm çene seçenekleriyle ve etiketli modellerle 20 farklı çeşitte üretilir."
+  ],
+  "cesitler_title": "Kilit Çoklayıcı (Çoklandırıcı) Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Vinil kaplı çelik çoklandırıcılar",
+    "text": "Dayanıklı çelik çene, kaymayı önleyen ve yüzeyi koruyan vinil kaplama. Genel amaçlı en yaygın tip.",
+    "mods": [
+     "25 mm BD-K01",
+     "38 mm BD-K02"
+    ]
+   },
+   {
+    "title": "Alüminyum çoklandırıcılar",
+    "text": "Hafif, kıvılcım riskinin önemli olduğu alanlara uygun; büyük boy ve sürgülü modeller.",
+    "mods": [
+     "BD-K11",
+     "BD-K61",
+     "BD-K71"
+    ]
+   },
+   {
+    "title": "İletken olmayan plastik çoklandırıcılar",
+    "text": "Elektriksel riskin bulunduğu noktalarda yalıtkan gövdeli çözüm.",
+    "mods": [
+     "BD-K43",
+     "BD-K42",
+     "BD-K45"
+    ]
+   },
+   {
+    "title": "Paslanmaz ve paslanmaya dayanıklı çelik",
+    "text": "Nemli, kimyasal ve gıda tesislerinde korozyona dayanıklı kullanım.",
+    "mods": [
+     "BD-K33",
+     "BD-K03"
+    ]
+   },
+   {
+    "title": "Etiketli çoklandırıcılar",
+    "text": "Gövdesinde yazılabilir uyarı alanı bulunan modeller; kilit ve etiketi tek parçada birleştirir.",
+    "mods": [
+     "BD-K51",
+     "BD-K52",
+     "BD-K54"
+    ]
+   },
+   {
+    "title": "Termik şalter kilitleri",
+    "text": "Termik ve motor koruma şalterleri için özel tasarlanmış kilitleme aparatları.",
+    "mods": [
+     "BD-K46-1",
+     "BD-K34"
+    ]
+   }
+  ],
+  "secim_intro": "Çene çapı, gövde malzemesi ve kişi sayısına göre doğru çoklandırıcıyı seçin.",
+  "secim_head": [
+   "Kullanım",
+   "Gövde / çene",
+   "Önerilen model",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Genel amaçlı",
+    "Vinil kaplı çelik, 25 mm",
+    "BD-K01",
+    "Şalter ve vana kilitleriyle"
+   ],
+   [
+    "Kalın kol / büyük delik",
+    "Vinil kaplı çelik, 38 mm",
+    "BD-K02",
+    "Geniş çene açıklığı"
+   ],
+   [
+    "Elektriksel risk",
+    "İletken olmayan plastik",
+    "BD-K43",
+    "Pano içi uygulamalar"
+   ],
+   [
+    "Nemli / kimyasal",
+    "Paslanmaz çelik",
+    "BD-K33",
+    "Gıda, kimya, dış ortam"
+   ],
+   [
+    "Kalabalık ekip",
+    "Alüminyum, 8 delik",
+    "BD-K52",
+    "Daha fazla kilit kapasitesi"
+   ],
+   [
+    "Etiket gerekli",
+    "Etiketli gövde",
+    "BD-K51",
+    "Kilit + uyarı tek parçada"
+   ]
+  ],
+  "secim_note": "Kişi sayısı çoklandırıcının kapasitesini aşıyorsa çoklandırıcılar zincirleme bağlanabilir veya grup kilitleme kutusu kullanılır.",
+  "nasil_title": "Doğru kilit çoklandırıcı nasıl seçilir?",
+  "nasil": [
+   [
+    "Kişi sayısı",
+    "Aynı noktada çalışacak maksimum kişi sayısını belirleyin; 6 veya 8 delikli model seçin."
+   ],
+   [
+    "Çene çapı",
+    "25 mm standart cihazlar için, 38 mm kalın kollar ve büyük delikler için uygundur."
+   ],
+   [
+    "Malzeme",
+    "Elektriksel riskte iletken olmayan, nemli/kimyasal ortamda paslanmaz modeller tercih edin."
+   ],
+   [
+    "Etiket ihtiyacı",
+    "Etiketli çoklandırıcılar ayrı etiket asma ihtiyacını azaltır."
+   ],
+   [
+    "Büyük ekipler",
+    "Çok kalabalık ekiplerde grup kilitleme kutuları daha pratiktir."
+   ]
+  ],
+  "kullanim_title": "Çoklandırıcılar Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Ekip halinde bakım",
+    "Birden fazla teknisyenin aynı makinede çalıştığı bakım duruşları."
+   ],
+   [
+    "Pano ve şalterler",
+    "Şalter kilitleme cihazına çoklu kilit eklenmesi."
+   ],
+   [
+    "Vana izolasyonu",
+    "Vana kilitleriyle birlikte grup kilitleme."
+   ],
+   [
+    "Vardiya devri",
+    "Vardiya değişiminde kilitlerin kontrollü devri."
+   ]
+  ],
+  "faq": [
+   [
+    "Kilit çoklayıcı ile çoklandırıcı aynı şey mi?",
+    "Evet. Kilit çoklayıcı, kilit çoklandırıcı, EKED kilit çoklayıcı, LOTO hasp ve grup kilitleme haspı aynı ürünü anlatır: tek bir izolasyon noktasına birden fazla kişinin kendi kilidini takmasını sağlayan ekipman."
+   ],
+   [
+    "EKED kilit çoklayıcı fiyatları ne kadar?",
+    "Fiyat; gövde malzemesine (vinil kaplı çelik, alüminyum, paslanmaz çelik, plastik), çene çapına (25 / 38 mm), delik sayısına ve sipariş adedine göre değişir. Güncel fiyat listesi için WhatsApp hattımıza yazabilirsiniz."
+   ],
+   [
+    "Çoklandırıcı ne işe yarar?",
+    "Bir enerji izolasyon noktasına birden fazla kişinin kendi kilidini takmasını sağlar. Son kilit çıkarılmadan çoklandırıcı açılamadığı için ekipteki herkes korunur."
+   ],
+   [
+    "Kaç kişi kilit takabilir?",
+    "Modele göre genellikle 6 veya 8 kilit takılabilir. Daha kalabalık ekiplerde çoklandırıcılar zincirleme bağlanır ya da grup kilitleme kutusu kullanılır."
+   ],
+   [
+    "25 mm ve 38 mm çene farkı nedir?",
+    "Çene çapı, çoklandırıcının takılabileceği delik veya parçanın kalınlığını belirler. 25 mm standart cihazlar için, 38 mm daha kalın kollar ve büyük delikler için uygundur."
+   ],
+   [
+    "Elektrik panolarında hangi çoklandırıcıyı kullanmalıyım?",
+    "Elektriksel riskin bulunduğu noktalarda iletken olmayan plastik gövdeli çoklandırıcılar tercih edilmelidir."
+   ],
+   [
+    "Çoklandırıcı tek başına kilit yerine geçer mi?",
+    "Hayır. Çoklandırıcı kilitleme noktası oluşturur; her çalışanın kendi emniyet asma kilidini takması gerekir."
+   ]
+  ]
+ },
+ "etiket": {
+  "lead": "Eked uyarı etiketleri, enerji izolasyonu sırasında ekipmanın kim tarafından ve neden kilitlendiğini belirtmek için kullanılan, üzerinde yazılabilir alan bulunan güvenlik etiketleridir. LOTO prosedürlerinde bilgi ve uyarı amaçlı kullanılır.",
+  "chips": [
+   "Türkçe uyarı metinleri",
+   "Yazılabilir alanlar",
+   "Askılı modeller",
+   "İskele etiketleri (Scafftag)"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Eked Uyarı Etiketi Nerelerde Kullanılır?"
+   ],
+   [
+    "p",
+    "Eked uyarı etiketleri, aşağıdaki alanlarda enerji izolasyonu ve bakım güvenliği sağlamak amacıyla kullanılır:"
+   ],
+   [
+    "li",
+    "Elektrik panoları"
+   ],
+   [
+    "li",
+    "Makine ve ekipman bakım alanları"
+   ],
+   [
+    "li",
+    "Vanalar ve basınçlı sistemler"
+   ],
+   [
+    "li",
+    "Endüstriyel üretim hatları"
+   ],
+   [
+    "li",
+    "Enerji kesme noktaları"
+   ],
+   [
+    "li",
+    "Fabrikalar, atölyeler, enerji santralleri"
+   ],
+   [
+    "p",
+    "Bu etiketler, kilitleme cihazlarıyla birlikte veya ayrı olarak kullanılarak, iş güvenliği prosedürlerinin şeffaf ve etkili bir şekilde uygulanmasını sağlar."
+   ],
+   [
+    "h2",
+    "Eked Uyarı Etiketi"
+   ],
+   [
+    "p",
+    "Eked uyarı etiketi, iş sağlığı ve güvenliği uygulamalarında kullanılan, özellikle Lockout & Tagout (LOTO) prosedürlerinin önemli bir parçası olan bilgilendirme ve uyarı amaçlı güvenlik etiketidir. Bu etiketler, bir ekipman ya da enerji kaynağının neden kilitlendiğini, kim tarafından işlem yapıldığını ve ne zaman kilitlendiğini belirtmek üzere tasarlanmıştır."
+   ],
+   [
+    "p",
+    "Etiket üzerinde genellikle çalışanın adı, departmanı, tarih, iletişim bilgisi ve özel notlar gibi bilgilerin yazılabileceği alanlar bulunur. Dayanıklı yapısı sayesinde iç ve dış ortamlarda kullanılabilir; yırtılmaya, suya, yağa ve kimyasallara karşı dirençlidir."
+   ]
+  ],
+  "def": "UnutmayınEtiket tek başına kilidin yerini tutmaz; kilitlenebilen her noktada kilit + etiket birlikte kullanılır.",
+  "nedir_title": "EKED Uyarı Etiketi Nedir?",
+  "nedir": [
+   "EKED uyarı etiketi, kilitleme yapılan noktaya asılan ve enerjinin neden, kim tarafından ve ne zaman kesildiğini gösteren güvenlik etiketidir. LOTO’daki “tagout” (etiketleme) adımının karşılığıdır; kilit fiziksel engeli, etiket ise bilgiyi sağlar.",
+   "Etiket üzerinde genellikle kilitleyen kişinin adı, departmanı, tarih ve işlemin nedeni yazılır. Böylece sahadaki herkes, ekipmanın neden çalıştırılmaması gerektiğini ve kime danışması gerektiğini anında öğrenir.",
+   "Sofilx LOTO; “Tamir Var Şalteri Açmayınız”, “Dikkat Bakım Var Çalıştırma”, “Yetkili Harici Açma Kapamak Yasaktır” gibi Türkçe uyarı metinli askılı etiketler, kilitleme bilgi etiketleri ve iskele güvenliği için Scafftag etiketleri sunar."
+  ],
+  "cesitler_title": "EKED Uyarı Etiketi Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Bakım / tamir uyarı etiketleri",
+    "text": "Bakım veya onarım sırasında ekipmanın çalıştırılmamasını bildiren askılı etiketler.",
+    "mods": [
+     "Tamir var",
+     "Bakım var"
+    ]
+   },
+   {
+    "title": "Şalter uyarı etiketleri",
+    "text": "Elektrik panoları ve şalterler için özel uyarı metinleri.",
+    "mods": [
+     "Şalteri açmadan çalıştırmayın",
+     "Yetkili harici açma yasak"
+    ]
+   },
+   {
+    "title": "Kilitleme bilgi etiketleri",
+    "text": "Kilitleyen kişi, tarih ve işlem bilgilerinin yazıldığı yazılabilir etiketler.",
+    "mods": [
+     "Bilgi etiketi",
+     "Kilitli tutma"
+    ]
+   },
+   {
+    "title": "Test ve devreye alma etiketleri",
+    "text": "Test, ayar ve devreye alma süreçlerinde ekipmanın durumunu bildiren etiketler.",
+    "mods": [
+     "Test ve devreye alma"
+    ]
+   },
+   {
+    "title": "Alan giriş uyarı etiketleri",
+    "text": "Yetkisiz kişilerin tehlikeli bölgeye girmesini önleyen uyarılar.",
+    "mods": [
+     "Görevli olmayan giremez"
+    ]
+   },
+   {
+    "title": "Scafftag iskele etiketleri",
+    "text": "İskelenin kullanıma uygun olup olmadığını gösteren durum etiketleri.",
+    "mods": [
+     "Scafftag"
+    ]
+   }
+  ],
+  "secim_intro": "Uyarının amacına göre doğru etiketi seçin.",
+  "secim_head": [
+   "Durum",
+   "Mesaj",
+   "Önerilen etiket",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Elektrik bakımı",
+    "Şalter açılmasın",
+    "Tamir var – şalteri açmayınız",
+    "Şalter kilidiyle birlikte"
+   ],
+   [
+    "Makine bakımı",
+    "Makine çalıştırılmasın",
+    "Dikkat bakım var",
+    "Ana şaltere ve makineye"
+   ],
+   [
+    "Yetki kontrolü",
+    "Sadece yetkili açar",
+    "Yetkili harici açma yasak",
+    "Panolar ve vanalar"
+   ],
+   [
+    "Kilit kaydı",
+    "Kim, ne zaman, neden",
+    "Kilitleme bilgi etiketi",
+    "Yazılabilir alanlar"
+   ],
+   [
+    "Devreye alma",
+    "Test sürüyor",
+    "Test ve devreye alma",
+    "Geçici durumlar"
+   ],
+   [
+    "İskele",
+    "Kullanım durumu",
+    "Scafftag",
+    "Uygun / uygun değil"
+   ]
+  ],
+  "secim_note": "Kurumunuza özel uyarı metni ve logo baskısı için bizimle iletişime geçin.",
+  "nasil_title": "Doğru EKED uyarı etiketi nasıl seçilir?",
+  "nasil": [
+   [
+    "Mesaj",
+    "Uyarı metni kısa, net ve Türkçe olmalı; sahadaki herkes tarafından anlaşılmalı."
+   ],
+   [
+    "Yazılabilir alan",
+    "Kilitleyen kişinin adı, departmanı ve tarih yazılabilmeli."
+   ],
+   [
+    "Dayanıklılık",
+    "Yağ, nem ve UV’ye dayanıklı, kolay yırtılmayan malzeme seçin."
+   ],
+   [
+    "Bağlantı",
+    "Etiket kilide veya cihaza sağlam şekilde asılabilmeli; yanlışlıkla düşmemeli."
+   ],
+   [
+    "Görünürlük",
+    "Kırmızı–beyaz gibi dikkat çekici renkler ve okunaklı yazı tercih edin."
+   ]
+  ],
+  "kullanim_title": "Eked Uyarı Etiketleri Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Elektrik panoları",
+    "Şalter kilitlerinin yanında bakım uyarısı."
+   ],
+   [
+    "Vana ve hatlar",
+    "Vana kilitleriyle birlikte akış uyarısı."
+   ],
+   [
+    "Makineler",
+    "Bakım, temizlik ve kalıp değişimi uyarıları."
+   ],
+   [
+    "İskeleler",
+    "Scafftag ile iskele kullanım durumu."
+   ]
+  ],
+  "faq": [
+   [
+    "Uyarı etiketi kilit yerine kullanılabilir mi?",
+    "Kilitlenebilen her noktada kilit ve etiket birlikte kullanılmalıdır. Etiket bilgi verir, fiziksel engel oluşturmaz."
+   ],
+   [
+    "Eked Uyarı Etiketleri fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel eked uyarı etiketleri fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Etiket üzerine neler yazılmalı?",
+    "Kilitleyen kişinin adı, departmanı, tarih ve işlemin nedeni yazılmalıdır. Gerekirse iletişim bilgisi de eklenir."
+   ],
+   [
+    "Türkçe uyarı metinli etiket var mı?",
+    "Evet, tüm uyarı etiketlerimiz Türkçe metinlerle üretilir. Kurumunuza özel metin baskısı da yapılabilir."
+   ],
+   [
+    "Etiketler tekrar kullanılabilir mi?",
+    "Yazılabilir alanlar silinebilir kalemle doldurulursa bazı etiketler tekrar kullanılabilir. Hasarlı veya okunmaz hale gelen etiketler değiştirilmelidir."
+   ],
+   [
+    "Scafftag nedir?",
+    "Scafftag, iskelenin kullanıma uygun olup olmadığını gösteren bir iskele durum etiketidir; kontrol eden kişi ve tarih bilgisini içerir."
+   ]
+  ]
+ },
+ "istasyon": {
+  "lead": "Etiket İstasyon Modelleri, Lockout & Tagout (LOTO) sistemlerinde kullanılan etiketlerin düzenli, erişilebilir ve güvenli bir şekilde saklanmasını sağlayan duvar tipi veya taşınabilir düzenleme panolarıdır. Genellikle bakım ve enerji izolasyonu sırasında kullanılan uyarı etiketlerini, asma kilitleri ve kilitleme aparatlarını bir arada tutmak için tasarlanmıştır.",
+  "chips": [
+   "EKED / LOTO istasyonu",
+   "Kapaklı ve kapaksız",
+   "Plastik, akrilik, metal",
+   "Duvara monte & taşınabilir",
+   "Anahtar yönetimi"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Eked İstasyon Modelleri Nerelerde Kullanılır?"
+   ],
+   [
+    "p",
+    "Etiket istasyonları, iş güvenliği uygulamalarının yoğun olduğu endüstriyel tesisler, fabrikalar, enerji santralleri, bakım-onarım atölyeleri ve lojistik merkezleri gibi alanlarda yaygın olarak kullanılır."
+   ],
+   [
+    "p",
+    "Özellikle Lockout & Tagout (LOTO) prosedürlerinin uygulandığı yerlerde;"
+   ],
+   [
+    "li",
+    "Elektrik panoları,"
+   ],
+   [
+    "li",
+    "Makine bakım alanları,"
+   ],
+   [
+    "li",
+    "Üretim hatları,"
+   ],
+   [
+    "li",
+    "Tehlikeli enerji kaynaklarının bulunduğu bölgeler,"
+   ],
+   [
+    "li",
+    "Atölye ve bakım odalarında,"
+   ],
+   [
+    "p",
+    "kilitleme ve etiketleme ekipmanlarının düzenli saklanması, hızlı erişim sağlanması ve bilgi karmaşasının önlenmesi amacıyla tercih edilir. Bu istasyonlar, iş kazalarını önlemeye yönelik etkili bir organizasyon aracı olarak görev yapar."
+   ],
+   [
+    "h2",
+    "Eked İstasyon Modelleri"
+   ],
+   [
+    "p",
+    "Etiket İstasyon Modelleri, Lockout & Tagout (LOTO) sistemlerinde kullanılan etiketlerin düzenli, erişilebilir ve güvenli bir şekilde saklanmasını sağlayan duvar tipi veya taşınabilir düzenleme panolarıdır. Genellikle bakım ve enerji izolasyonu sırasında kullanılan uyarı etiketlerini, asma kilitleri ve kilitleme aparatlarını bir arada tutmak için tasarlanmıştır."
+   ],
+   [
+    "p",
+    "Kullanım amacı, ekipmanın kim tarafından, ne zaman kilitlendiğini açıkça göstermek ve iş güvenliği sürecinde net bilgi akışı sağlamaktır. Farklı sayıda etiket ve kilit kapasitesi sunan modelleriyle, iş yerlerinin büyüklüğüne ve ihtiyacına göre özelleştirilebilir."
+   ]
+  ],
+  "def": "Konum önerisiİstasyonu, kilitleme yapılan noktaya en yakın ve herkesin görebileceği bir duvara monte edin.",
+  "nedir_title": "EKED (LOTO) İstasyonu Nedir?",
+  "nedir": [
+   "EKED istasyonu — diğer adlarıyla LOTO istasyonu, EKED kilitleme istasyonu veya LOTO kilit istasyonu — emniyet asma kilitlerinin, çoklandırıcıların, kilitleme cihazlarının ve uyarı etiketlerinin bir arada, düzenli ve görünür şekilde saklandığı duvar panosu veya dolaptır. Genellikle bakım alanlarının, pano odalarının veya üretim hatlarının girişine monte edilir.",
+   "İstasyon, LOTO programının sürekliliğini sağlar: ekipmanlar kaybolmaz, eksikler hemen fark edilir ve çalışan ihtiyaç duyduğu kilide saniyeler içinde ulaşır. Gölge panolu modeller her ekipmanın yerini gösterdiği için düzeni kendiliğinden korur.",
+   "Sofilx LOTO; kapaksız, kapaklı, akrilik, plastik ve metal gövdeli istasyonlar, metal LOTO dolapları, taşınabilir istasyonlar ve anahtar yönetim panolarıyla 20’den fazla istasyon modeli sunar."
+  ],
+  "cesitler_title": "EKED / LOTO İstasyonu Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Kapaksız istasyonlar",
+    "text": "Ekipmana en hızlı erişim; gölge panolu, mini ve plastik seçenekler.",
+    "mods": [
+     "Mini BD-B105",
+     "Plastik BD-B301",
+     "Akrilik"
+    ]
+   },
+   {
+    "title": "Kapaklı istasyonlar",
+    "text": "Toz, nem ve yetkisiz kullanıma karşı şeffaf veya kilitlenebilir kapaklı modeller.",
+    "mods": [
+     "BD-B101",
+     "BD-B103"
+    ]
+   },
+   {
+    "title": "Kombinasyon istasyonları",
+    "text": "Kilit, çoklandırıcı, cihaz ve etiketleri bir arada barındıran büyük kapasiteli modeller.",
+    "mods": [
+     "BD-B201",
+     "BD-B202",
+     "BD-B401"
+    ]
+   },
+   {
+    "title": "Metal LOTO dolapları",
+    "text": "Ağır sanayi ve geniş ekipman setleri için dayanıklı metal dolaplar.",
+    "mods": [
+     "BD-X07",
+     "BD-X09",
+     "BD-X07-6"
+    ]
+   },
+   {
+    "title": "Taşınabilir istasyonlar",
+    "text": "Sahada hareket eden ekipler için taşınabilir istasyon ve kilit askıları.",
+    "mods": [
+     "BD-X23",
+     "12’li askı"
+    ]
+   },
+   {
+    "title": "Anahtar ve izin kontrol",
+    "text": "Anahtar yönetimi ve grup kilit kutusu ile izin kontrolü sağlayan istasyonlar.",
+    "mods": [
+     "Anahtar istasyonu",
+     "İzin kontrol BD-X60"
+    ]
+   }
+  ],
+  "secim_intro": "Ekip büyüklüğü, ortam ve saklanacak ekipman miktarına göre istasyon seçin.",
+  "secim_head": [
+   "İhtiyaç",
+   "Ortam",
+   "Önerilen model",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Küçük ekip (birkaç kilit)",
+    "İç mekân",
+    "Kapaksız mini BD-B105",
+    "Hızlı erişim"
+   ],
+   [
+    "Orta ekip",
+    "Tozlu / nemli",
+    "Kapaklı BD-B101",
+    "Ekipmanı korur"
+   ],
+   [
+    "Kilit + cihaz + etiket",
+    "Bakım atölyesi",
+    "Kombinasyon BD-B201",
+    "Geniş kapasite"
+   ],
+   [
+    "Ağır sanayi",
+    "Zorlu ortam",
+    "Metal dolap BD-X09",
+    "Kilitlenebilir gövde"
+   ],
+   [
+    "Sahada hareketli ekip",
+    "Değişken",
+    "Taşınabilir BD-X23",
+    "Taşıma kolaylığı"
+   ],
+   [
+    "Anahtar kontrolü",
+    "Ofis / bakım şefliği",
+    "Anahtar istasyonu BD-B60",
+    "Anahtar takibi"
+   ]
+  ],
+  "secim_note": "İstasyonları kilit ve ekipmanlarla birlikte dolu olarak sunan EKED setlerimiz de mevcuttur.",
+  "nasil_title": "Doğru EKED istasyonu nasıl seçilir?",
+  "nasil": [
+   [
+    "Kapasite",
+    "Saklanacak kilit, çoklandırıcı ve cihaz sayısını belirleyin; büyüme payı bırakın."
+   ],
+   [
+    "Kapak",
+    "Tozlu, nemli veya yetkisiz erişim riski olan alanlarda kapaklı modeller seçin."
+   ],
+   [
+    "Malzeme",
+    "Genel kullanımda plastik/akrilik, ağır sanayide metal gövde tercih edin."
+   ],
+   [
+    "Konum",
+    "Kilitleme noktalarına yakın, görünür ve kolay erişilebilir bir duvar seçin."
+   ],
+   [
+    "Hazır set",
+    "İstasyonu ekipmanlarıyla birlikte almak için istasyonlu EKED setlerini inceleyin."
+   ]
+  ],
+  "kullanim_title": "Eked İstasyon Modelleri Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Üretim hatları",
+    "Hat başında ekipmanların hazır bulunması."
+   ],
+   [
+    "Pano odaları",
+    "Elektrik bakımı için kilit ve şalter cihazları."
+   ],
+   [
+    "Bakım atölyeleri",
+    "Tüm LOTO ekipmanlarının merkezi saklanması."
+   ],
+   [
+    "Vardiyalı işletmeler",
+    "Vardiya ekiplerinin ortak ekipman yönetimi."
+   ]
+  ],
+  "faq": [
+   [
+    "EKED istasyonu ile LOTO istasyonu arasında fark var mı?",
+    "Hayır. EKED istasyonu, LOTO istasyonu ve EKED kilitleme istasyonu aynı ürünü anlatır: kilitlerin, çoklayıcıların, kilitleme cihazlarının ve uyarı etiketlerinin düzenli saklandığı duvar panosu veya dolap."
+   ],
+   [
+    "EKED istasyonu fiyatları ne kadar?",
+    "Fiyat; istasyonun kapaklı / kapaksız olmasına, gövde malzemesine (plastik, akrilik, metal), kapasitesine ve boş ya da dolu (setli) olmasına göre değişir. Güncel fiyat listesi için WhatsApp hattımıza yazabilirsiniz."
+   ],
+   [
+    "EKED istasyonu zorunlu mu?",
+    "Mevzuat istasyonu doğrudan şart koşmasa da LOTO ekipmanlarının düzenli, erişilebilir ve kontrol altında tutulması etkin bir LOTO programı için büyük önem taşır. İstasyon bu düzeni sağlar."
+   ],
+   [
+    "Kapaklı mı kapaksız mı seçmeliyim?",
+    "Temiz iç mekânlarda hızlı erişim için kapaksız, tozlu veya nemli alanlarda ve yetkisiz kullanım riski olan yerlerde kapaklı model önerilir."
+   ],
+   [
+    "İstasyon boş mu gelir?",
+    "İstasyonlar ayrı olarak boş sunulur. Kilit ve cihazlarla dolu hazır çözüm isterseniz istasyonlu EKED setlerimizi tercih edebilirsiniz."
+   ],
+   [
+    "Montaj nasıl yapılır?",
+    "Duvara monte modeller dübel ve vida ile kolayca sabitlenir. Taşınabilir modeller montaj gerektirmez."
+   ],
+   [
+    "İstasyona logo veya özel yazı eklenebilir mi?",
+    "Toplu siparişlerde firma logosu ve özel bölüm yazıları için bizimle iletişime geçebilirsiniz."
+   ]
+  ]
+ },
+ "kutu": {
+  "lead": "Grup Kilitleme Kutuları ve Eked Çantaları, birden fazla çalışanın aynı ekipman üzerinde güvenli şekilde çalışabilmesi için tasarlanmış, taşınabilir veya sabit yapılı LOTO ekipmanlarıdır. Kilit anahtarları merkezi olarak saklanır, sadece tüm çalışanlar kendi kilidini kaldırdığında erişim sağlanır. Güvenli, organize ve denetimli grup çalışmaları için ideal çözümdür.",
+  "chips": [
+   "12+1 ve 18+1 delikli kutular",
+   "Anahtar yönetim kutuları",
+   "Bel ve taşıma çantaları",
+   "Su geçirmez modeller"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Grup Kilitleme Kutuları ve Eked Çantaları Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Endüstriyel üretim tesislerinde"
+   ],
+   [
+    "li",
+    "Elektrik, mekanik veya hidrolik sistemlerin bakım-onarım işlemlerinde"
+   ],
+   [
+    "li",
+    "Enerji santralleri ve trafo merkezlerinde"
+   ],
+   [
+    "li",
+    "Petrokimya ve rafineri tesislerinde"
+   ],
+   [
+    "li",
+    "Grup halinde yapılan tüm enerji izolasyonu gerektiren çalışmalarda"
+   ],
+   [
+    "p",
+    "Bu ekipmanlar, tüm çalışanların sürece dahil olduğunu göstererek yetkisiz erişimi önler ve kazaların önüne geçer. Aynı zamanda kilitleme sürecinde organizasyonu kolaylaştırır."
+   ],
+   [
+    "h2",
+    "Grup Kilitleme Kutuları ve Eked Çantaları"
+   ],
+   [
+    "p",
+    "Grup kilitleme kutuları ve eked çantaları, Lockout & Tagout (LOTO) prosedürlerinde kullanılan, birden fazla çalışanın aynı ekipman üzerinde eş zamanlı ve güvenli şekilde çalışmasını sağlayan güvenlik ekipmanlarıdır. Bu kutular, genellikle ekipmana ait birincil anahtarın içine yerleştirildiği ve yalnızca tüm çalışanların kişisel asma kilitlerini kaldırmasıyla erişim sağlanan, kilit paylaşımı ve kontrol noktası görevi gören sistemlerdir."
+   ],
+   [
+    "p",
+    "Eked çantaları ise aynı amaçla kullanılan taşınabilir versiyonlardır. Üzerlerinde uyarı etiketleri bulunabilir, anahtarların taşınması ve korunması için idealdir. Her iki ekipman da özellikle ekip çalışmasıyla yapılan bakım, onarım ve enerji izolasyonları sırasında, iş güvenliğini merkezi bir yapı üzerinden yürütmeye yardımcı olur."
+   ]
+  ],
+  "def": "Ne zaman grup kutusu?Kilitlenecek nokta sayısı ve çalışan sayısı birlikte arttığında; özellikle planlı duruş bakımlarında.",
+  "nedir_title": "Grup Kilitleme Kutusu Nedir?",
+  "nedir": [
+   "Grup kilitleme kutusu, çok sayıda kilitleme noktasının ve çalışanın olduğu büyük bakım işlerinde kullanılan LOTO ekipmanıdır. Yetkili kişi tüm enerji noktalarını kilitler ve bu kilitlerin anahtarlarını kutuya koyar; ardından ekipteki her çalışan kutuyu kendi kişisel kilidiyle kilitler.",
+   "Böylece onlarca noktaya ayrı ayrı onlarca kilit takmak gerekmez. Kutudaki anahtarlara, son çalışan kilidini çıkarmadan ulaşılamaz; yani enerji, ekipteki herkes işini bitirene kadar geri verilemez. Duruş bakımları ve büyük revizyonlar için en verimli yöntemdir.",
+   "EKED çantaları ise teknisyenin ihtiyaç duyduğu kilit, cihaz ve etiketleri sahaya düzenli ve güvenli şekilde taşımasını sağlar. Sofilx LOTO bel tipi, kişisel, mini, su geçirmez ve kilitlenebilir çanta seçenekleri sunar."
+  ],
+  "cesitler_title": "Grup Kutusu ve Çanta Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Delikli grup LOTO kutuları",
+    "text": "Çok sayıda çalışanın kişisel kilidini takabildiği grup kilitleme kutuları.",
+    "mods": [
+     "12+1 BD-X04",
+     "18+1 BD-LK077",
+     "BD-X03"
+    ]
+   },
+   {
+    "title": "Anahtar yönetim kutuları",
+    "text": "Kilit anahtarlarının kontrollü saklanması ve takibi için kutular.",
+    "mods": [
+     "BD-X21",
+     "BD-X22"
+    ]
+   },
+   {
+    "title": "Taşınabilir LOTO kutuları",
+    "text": "Ekipmanları sahaya taşımak için sağlam plastik kutular.",
+    "mods": [
+     "BD-Z03S",
+     "BD-Z03L"
+    ]
+   },
+   {
+    "title": "Kilitlenebilir EKED çantası",
+    "text": "İçindeki ekipmanın yetkisiz kullanımını önleyen güvenlik kilitli çanta.",
+    "mods": [
+     "BD-Z02"
+    ]
+   },
+   {
+    "title": "Bel ve kişisel çantalar",
+    "text": "Teknisyenin ellerini serbest bırakan bel tipi ve kişisel çantalar.",
+    "mods": [
+     "3 gözlü bel çantası",
+     "Kişisel BD-8771C",
+     "Mini BD-8771D"
+    ]
+   },
+   {
+    "title": "Su geçirmez çanta",
+    "text": "Nemli ve dış ortamlarda ekipmanı koruyan su geçirmez model.",
+    "mods": [
+     "BD-8770A"
+    ]
+   }
+  ],
+  "secim_intro": "Ekip büyüklüğü ve sahaya taşıma ihtiyacına göre seçim yapın.",
+  "secim_head": [
+   "İhtiyaç",
+   "Ölçek",
+   "Önerilen model",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Planlı duruş bakımı",
+    "Orta ekip",
+    "12+1 grup kutusu",
+    "12 çalışan + 1 yetkili"
+   ],
+   [
+    "Büyük revizyon",
+    "Kalabalık ekip",
+    "18+1 grup kutusu",
+    "Daha fazla kilit kapasitesi"
+   ],
+   [
+    "Anahtar takibi",
+    "Tesis geneli",
+    "Anahtar yönetim kutusu",
+    "Kontrollü erişim"
+   ],
+   [
+    "Elektrikçi / teknisyen",
+    "Kişisel",
+    "Bel çantası",
+    "Eller serbest"
+   ],
+   [
+    "Sahada ekip seti",
+    "Ekip",
+    "Taşınabilir BD-Z03L",
+    "Geniş iç hacim"
+   ],
+   [
+    "Dış ortam",
+    "Değişken",
+    "Su geçirmez çanta",
+    "Nem ve yağmura karşı"
+   ]
+  ],
+  "secim_note": "Çantaları içleri dolu olarak tercih etmek isterseniz bel çantalı EKED setlerimize göz atın.",
+  "nasil_title": "Doğru grup kilitleme kutusu nasıl seçilir?",
+  "nasil": [
+   [
+    "Ekip büyüklüğü",
+    "Aynı anda kutuyu kilitleyecek maksimum kişi sayısını belirleyin."
+   ],
+   [
+    "Anahtar sayısı",
+    "Kutunun, kilitlenen noktaların tüm anahtarlarını alacak hacimde olması gerekir."
+   ],
+   [
+    "Taşınabilirlik",
+    "Sahada hareket eden ekipler için çanta veya taşınabilir kutu tercih edin."
+   ],
+   [
+    "Ortam",
+    "Nemli ve dış alanlarda su geçirmez modeller kullanın."
+   ],
+   [
+    "Prosedür",
+    "Grup kilitleme sırası ve sorumlu kişi yazılı LOTO prosedürünüzde tanımlanmalıdır."
+   ]
+  ],
+  "kullanim_title": "Grup Kilitleme Kutuları ve Eked Çantaları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Duruş bakımları",
+    "Fabrikalarda planlı bakım ve revizyon dönemleri."
+   ],
+   [
+    "Enerji tesisleri",
+    "Çok sayıda izolasyon noktası olan santral ve trafo bakımları."
+   ],
+   [
+    "Kimya ve rafineri",
+    "Geniş boru hattı ve vana gruplarının izolasyonu."
+   ],
+   [
+    "Saha servis ekipleri",
+    "Teknisyenlerin ekipmanı çantayla taşıması."
+   ]
+  ],
+  "faq": [
+   [
+    "Grup kilitleme kutusu nasıl kullanılır?",
+    "Yetkili kişi tüm enerji noktalarını kilitler ve anahtarları kutuya koyar. Ardından ekipteki her çalışan kutuyu kendi kişisel kilidiyle kilitler. Son kilit çıkarılmadan anahtarlara ulaşılamaz."
+   ],
+   [
+    "Grup Kilitleme Kutuları ve Eked Çantaları fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel grup kilitleme kutuları ve eked çantaları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Çoklandırıcı ile grup kutusu arasındaki fark nedir?",
+    "Çoklandırıcı tek bir izolasyon noktası için kullanılır. Grup kutusu ise çok sayıda izolasyon noktasının anahtarlarını tek merkezde toplar; kalabalık ekip ve çok noktalı işler için daha pratiktir."
+   ],
+   [
+    "12+1 ne demek?",
+    "12 delik ekip üyelerinin kişisel kilitleri, +1 delik ise sorumlu kişinin kilidi içindir."
+   ],
+   [
+    "EKED çantası boş mu gelir?",
+    "Çantalar ayrı olarak boş sunulur. İçi dolu çözüm isterseniz bel çantalı veya taşınabilir EKED setlerimizi tercih edebilirsiniz."
+   ],
+   [
+    "Anahtar yönetim kutusu ne işe yarar?",
+    "Kilit anahtarlarının kontrollü saklanmasını, kimin hangi anahtarı aldığının takibini ve yedek anahtarların güvenliğini sağlar."
+   ]
+  ]
+ },
+ "set": {
+  "lead": "Eked Setleri, iş güvenliği için gerekli olan kilitleme ve etiketleme ekipmanlarının bir arada sunulduğu, taşınabilir veya sabit şekilde kullanılabilen pratik LOTO çözümleridir. Sahada hızlı ve organize müdahale imkânı sağlar.",
+  "chips": [
+   "Elektriksel, vana, mekanik setler",
+   "Bel çantalı ve istasyonlu",
+   "Mini kitlerden 80+ parçaya",
+   "Hazır kullanım"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Eked Setleri Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Fabrikalar"
+   ],
+   [
+    "li",
+    "Enerji üretim ve dağıtım tesisleri"
+   ],
+   [
+    "li",
+    "Bakım-onarım birimleri"
+   ],
+   [
+    "li",
+    "Otomotiv, petrokimya, metal işleme ve üretim tesisleri"
+   ],
+   [
+    "li",
+    "Elektrik, mekanik ve pnömatik sistemlerin bulunduğu tüm iş sahalarında"
+   ],
+   [
+    "p",
+    "kullanılarak, sahada hızlı erişim, düzenli kullanım ve güvenli izolasyon imkânı sunar. Özellikle birden fazla çalışanla yürütülen çalışmalarda LOTO sürecinin eksiksiz uygulanmasını sağlar."
+   ],
+   [
+    "h2",
+    "Eked Setleri"
+   ],
+   [
+    "p",
+    "Eked setleri, Lockout & Tagout (LOTO) uygulamaları için gerekli olan kilitleme ekipmanları, uyarı etiketleri, çoklandırıcılar ve asma kilitlerin taşınabilir bir çanta veya sabit bir istasyon içinde bir araya getirildiği hazır güvenlik kitleridir. Bu setler, bakım ve onarım işlemleri sırasında enerji kaynaklarının yetkisiz kullanımını önlemek, çalışan güvenliğini sağlamak ve iş kazalarını engellemek amacıyla kullanılır."
+   ],
+   [
+    "p",
+    "Set içeriği genellikle;"
+   ],
+   [
+    "p",
+    "Emniyet asma kilitleri, çoklandırıcılar, uyarı etiketleri, vanalar, fişler veya panolar için kilitleme aparatları, taşıma çantası veya istasyon paneli gibi organizasyon araçlarından oluşur."
+   ]
+  ],
+  "def": "Kime uygun?LOTO’ya yeni başlayanlar, saha teknisyenleri, bakım ekipleri ve tüm ihtiyacı tek seferde karşılamak isteyen işletmeler.",
+  "nedir_title": "EKED (LOTO) Seti Nedir?",
+  "nedir": [
+   "EKED seti, kilitleme ve etiketleme için gereken temel ekipmanların tek pakette sunulduğu hazır LOTO çözümüdür. Bir set genellikle emniyet asma kilitleri, çoklandırıcılar, şalter veya vana kilitleme cihazları, uyarı etiketleri ve bunları taşıyan bir çanta, kutu ya da istasyondan oluşur.",
+   "Setler, LOTO programına yeni başlayan işletmeler ve sahada hızlı müdahale etmesi gereken teknisyenler için en pratik yoldur: ürünleri tek tek seçmek gerekmez, uyumluluk sorunu yaşanmaz ve ekipman her zaman eksiksiz bir arada durur.",
+   "Sofilx LOTO; elektrikçiler için bel çantalı kitlerden, duvara asılabilen istasyonlu setlere, vana ve pnömatik setlerden gemilere uygun profesyonel setlere kadar 25’ten fazla EKED seti sunar."
+  ],
+  "cesitler_title": "EKED Seti Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Elektriksel LOTO setleri",
+    "text": "Şalter, MCB ve fiş kilitleriyle elektrik panolarına yönelik setler.",
+    "mods": [
+     "BD-PE-E010S",
+     "BD-EK-S1100VV",
+     "BD-EB-S10V"
+    ]
+   },
+   {
+    "title": "Bel çantalı ve mini kitler",
+    "text": "Elektrikçi ve teknisyenlerin üzerinde taşıyabileceği kompakt kitler.",
+    "mods": [
+     "BD-MN-U80",
+     "BD-EKM-L040",
+     "BD-M-E07"
+    ]
+   },
+   {
+    "title": "İstasyonlu setler",
+    "text": "Duvara asılabilen istasyonla birlikte dolu gelen setler.",
+    "mods": [
+     "BD-B1100S",
+     "BD-X07S",
+     "BD-X07UN"
+    ]
+   },
+   {
+    "title": "Vana ve pnömatik setler",
+    "text": "Vana, boru hattı ve basınçlı hava izolasyonu için setler.",
+    "mods": [
+     "BD-VN-02",
+     "BD-PS02S",
+     "BD-GKV-S500"
+    ]
+   },
+   {
+    "title": "Karma (elektrik + mekanik) setler",
+    "text": "Hem elektriksel hem mekanik noktaları kapsayan büyük setler.",
+    "mods": [
+     "BD-PR-U07",
+     "BD-ZS030C",
+     "BD-VK-U067S (gemi)"
+    ]
+   },
+   {
+    "title": "Grup ve kişisel setler",
+    "text": "Grup kilitleme kutusu veya kişisel güvenlik ekipmanlarıyla setler.",
+    "mods": [
+     "BD-8812S",
+     "BD-X02C"
+    ]
+   }
+  ],
+  "secim_intro": "Kimin, nerede ve hangi enerji kaynaklarında kullanacağına göre seti seçin.",
+  "secim_head": [
+   "Kullanıcı / ihtiyaç",
+   "Kapsam",
+   "Önerilen set",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Elektrikçi (tek kişi)",
+    "MCB, şalter, fiş",
+    "BD-MN-U80",
+    "Bel çantalı, kompakt"
+   ],
+   [
+    "Elektrik bakım ekibi",
+    "Geniş elektriksel",
+    "BD-PE-E010S",
+    "Çok çeşitli şalter kilidi"
+   ],
+   [
+    "Tesis geneli (sabit)",
+    "İstasyonlu",
+    "BD-B1100S",
+    "Duvara monte"
+   ],
+   [
+    "Mekanik bakım",
+    "Vana ve hatlar",
+    "BD-VN-02",
+    "Farklı vana tipleri"
+   ],
+   [
+    "Karma uygulamalar",
+    "Elektrik + mekanik",
+    "BD-PR-U07",
+    "Taşıma kutulu"
+   ],
+   [
+    "Gemi ve tersane",
+    "Denizcilik",
+    "BD-VK-U067S",
+    "Gemiye uygun içerik"
+   ]
+  ],
+  "secim_note": "Set içerikleri ve parça adetleri her setin kendi sayfasında listelenir. İçeriği ihtiyacınıza göre özelleştirebiliriz.",
+  "nasil_title": "Doğru EKED seti nasıl seçilir?",
+  "nasil": [
+   [
+    "Enerji kaynakları",
+    "Setin içeriği, tesisinizdeki şalter, vana ve fiş tiplerini kapsamalı."
+   ],
+   [
+    "Kullanıcı sayısı",
+    "Kişisel kit mi, ekip seti mi, tesis geneli istasyon mu gerektiğini belirleyin."
+   ],
+   [
+    "Taşıma şekli",
+    "Sahada hareket eden ekipler için çanta/kutu, sabit noktalar için istasyonlu set seçin."
+   ],
+   [
+    "Kilit adedi",
+    "Setteki kişisel kilit sayısının ekip büyüklüğüne yetip yetmediğini kontrol edin."
+   ],
+   [
+    "Genişletme",
+    "Set yetmezse eksik ürünleri kilit ve şalter kilidi kategorilerinden tamamlayın."
+   ]
+  ],
+  "kullanim_title": "Eked Setleri Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Elektrik bakım ekipleri",
+    "Pano ve şalter bakımlarında hızlı müdahale."
+   ],
+   [
+    "Fabrikalar",
+    "LOTO programına hızlı ve eksiksiz başlangıç."
+   ],
+   [
+    "Gemi ve tersaneler",
+    "Denizcilik ortamına uygun kapsamlı setler."
+   ],
+   [
+    "Servis ve taşeron firmalar",
+    "Farklı sahalarda taşınabilir LOTO çözümü."
+   ]
+  ],
+  "faq": [
+   [
+    "EKED seti mi almalıyım, ürünleri tek tek mi?",
+    "LOTO’ya yeni başlıyorsanız veya sahada hızlı bir çözüm istiyorsanız set daha pratiktir. Belirli bir noktaya özel ihtiyacınız varsa ürünleri tek tek seçmek daha ekonomik olabilir."
+   ],
+   [
+    "Eked Setleri fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel eked setleri fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Set içeriği değiştirilebilir mi?",
+    "Evet. Toplu siparişlerde set içeriğini tesisinizdeki şalter ve vana tiplerine göre özelleştirebiliriz."
+   ],
+   [
+    "Elektriksel set hangi şalterlere uyar?",
+    "Elektriksel setlerimiz yaygın MCB ve kompakt şalter tiplerine uygun farklı kilitleme cihazları içerir. Özel bir şalter tipiniz varsa fotoğraf göndererek uyumluluğu kontrol edebiliriz."
+   ],
+   [
+    "Setler eğitimle birlikte verilebilir mi?",
+    "Evet. Set tedarikinin yanında uygulamalı EKED/LOTO eğitimi ve danışmanlık hizmeti de sunuyoruz."
+   ],
+   [
+    "Parça adetleri nerede yazıyor?",
+    "Her setin kendi sayfasında “Set İçeriği” bölümünde parça adetleri ve toplam parça sayısı listelenir."
+   ]
+  ]
+ },
+ "pnomatik": {
+  "lead": "Pnömatik Bağlantı Kilitleme Ekipmanları – Basınçlı hava sistemlerinin güvenli şekilde izole edilmesini sağlayan LOTO ekipmanlarıdır. Hava bağlantı noktalarını kilitleyerek yetkisiz erişimi ve kazaları önler.",
+  "chips": [
+   "Elektrik fişi kilitleri",
+   "Pnömatik bağlantı kilitleri",
+   "Kanal fişi koruma",
+   "Taşınabilir fiş çantası"
+  ],
+  "seo_prose": [
+   [
+    "h2",
+    "Pnömatik Bağlantı Kilitleme Ekipmanları Nerelerde Kullanılır?"
+   ],
+   [
+    "li",
+    "Fabrikalar ve üretim hatları"
+   ],
+   [
+    "li",
+    "Pnömatik kontrollü makineler"
+   ],
+   [
+    "li",
+    "Otomotiv ve montaj sanayii"
+   ],
+   [
+    "li",
+    "Basınçlı hava ile çalışan ekipmanlar"
+   ],
+   [
+    "li",
+    "Bakım-onarım süreçleri sırasında enerji izolasyonu gereken alanlar"
+   ],
+   [
+    "p",
+    "Pnömatik kilitleme ekipmanları, özellikle hava kaçaklarının tehlike oluşturabileceği ortamlarda, ekipmanın tekrar devreye alınmasını engelleyerek çalışan güvenliğini artırır ve olası kazaları önlemeye yardımcı olur."
+   ],
+   [
+    "h2",
+    "Pnömatik Bağlantı Kilitleme Ekipmanları"
+   ],
+   [
+    "p",
+    "Pnömatik bağlantı kilitleme ekipmanları, basınçlı hava sistemlerinde güvenli enerji izolasyonu sağlamak amacıyla kullanılan Lockout & Tagout (LOTO) ürünleridir. Bu ekipmanlar, hava hortumlarının veya pnömatik bağlantıların kontrolsüz bir şekilde sökülmesini ya da çalıştırılmasını önlemek için bağlantı noktalarına takılarak fiziksel kilitleme yapar. Böylece, sistemdeki hava basıncı kesilmeden yapılacak müdahalelerin önüne geçilmiş olur."
+   ]
+  ],
+  "def": "KuralFişi çekmek izolasyon değildir; fiş kilitlenip etiketlenmeden bakım başlatılmamalıdır.",
+  "nedir_title": "Pnömatik Bağlantı ve Fiş Kilitleme Nedir?",
+  "nedir": [
+   "Pnömatik bağlantı ve fiş kilitleme ekipmanları, fişli elektrikli cihazların ve basınçlı hava ile çalışan aletlerin bakım sırasında yeniden bağlanmasını engelleyen LOTO cihazlarıdır. Fiş veya hızlı bağlantı ucu, kilitlenebilir bir muhafazanın içine alınır; muhafaza kilitlendiğinde fiş prize, hortum ise hava hattına takılamaz.",
+   "Atölyelerde ve üretim hatlarında fişli makineler ve pnömatik aletler en sık bakım yapılan ekipmanlar arasındadır. Fişin çekilmesi tek başına yeterli değildir; biri farkında olmadan tekrar takabilir. Fiş kilidi bu riski fiziksel olarak ortadan kaldırır.",
+   "Sofilx LOTO; küçük ve büyük elektrik fişleri, endüstriyel kanal fişleri ve kombinasyon (elektrik + pnömatik) bağlantılar için kilitleme ekipmanları ve fiş kilitleme çantası sunar."
+  ],
+  "cesitler_title": "Fiş ve Pnömatik Kilitleme Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Elektrik fişi kilitleri",
+    "text": "Monofaze fişleri kilitleyen kompakt muhafazalar.",
+    "mods": [
+     "Küçük fiş BD-D41"
+    ]
+   },
+   {
+    "title": "Kanal (endüstriyel) fiş kilitleri",
+    "text": "Büyük endüstriyel fiş ve kanal bağlantıları için koruma kilitleri.",
+    "mods": [
+     "Kanal fişi BD-D45"
+    ]
+   },
+   {
+    "title": "Kombinasyon elektrik + pnömatik",
+    "text": "Hem elektrik fişlerine hem pnömatik hızlı bağlantılara uyum sağlayan çok amaçlı model.",
+    "mods": [
+     "BD-D31"
+    ]
+   },
+   {
+    "title": "Fiş kilitleme çantası",
+    "text": "Büyük fişleri veya birden fazla fişi birlikte kilitlemek için kilitlenebilir çanta.",
+    "mods": [
+     "BD-D71"
+    ]
+   }
+  ],
+  "secim_intro": "Kilitlenecek bağlantının tipine ve boyutuna göre doğru ekipmanı seçin.",
+  "secim_head": [
+   "Bağlantı",
+   "Örnek kullanım",
+   "Önerilen model",
+   "Not"
+  ],
+  "secim_rows": [
+   [
+    "Küçük elektrik fişi",
+    "El aletleri, küçük makineler",
+    "BD-D41",
+    "Kompakt muhafaza"
+   ],
+   [
+    "Endüstriyel / kanal fişi",
+    "Üretim makineleri",
+    "BD-D45",
+    "Büyük fişler"
+   ],
+   [
+    "Pnömatik hızlı bağlantı",
+    "Havalı aletler",
+    "BD-D31",
+    "Elektrik + hava"
+   ],
+   [
+    "Çok büyük / çoklu fiş",
+    "Kaynak makineleri, kablo makaraları",
+    "BD-D71 çanta",
+    "Esnek kullanım"
+   ],
+   [
+    "Hava hattı vanası",
+    "Kompresör hatları",
+    "Vana kilitleri",
+    "Hat izolasyonu için"
+   ]
+  ],
+  "secim_note": "Pnömatik sistemlerde bağlantıyı kilitlemeden önce hattaki basıncı boşaltmayı unutmayın.",
+  "nasil_title": "Doğru fiş ve pnömatik kilitleme ekipmanı nasıl seçilir?",
+  "nasil": [
+   [
+    "Fiş boyutu",
+    "Fişin en geniş ölçüsünü ölçün; muhafazanın içine rahatça girmeli."
+   ],
+   [
+    "Bağlantı tipi",
+    "Elektrik, pnömatik veya her ikisi için mi kullanılacağını belirleyin."
+   ],
+   [
+    "Basınç boşaltma",
+    "Pnömatik hatlarda kilitlemeden önce kalıntı basıncı boşaltın."
+   ],
+   [
+    "Kilit + etiket",
+    "Muhafazaya emniyet asma kilidi ve uyarı etiketi ekleyin."
+   ],
+   [
+    "Hat izolasyonu",
+    "Basınçlı hava hattının tamamı için vana kilitleri kullanın."
+   ]
+  ],
+  "kullanim_title": "Pnömatik Bağlantı Kilitleme Ekipmanları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Atölyeler",
+    "Fişli tezgâh makineleri ve el aletlerinin bakımı."
+   ],
+   [
+    "Pnömatik hatlar",
+    "Havalı aletler ve hızlı bağlantılar."
+   ],
+   [
+    "Üretim hatları",
+    "Fişli makinelerin bakım ve temizliği."
+   ],
+   [
+    "Şantiye ve saha",
+    "Kaynak makineleri ve kablo makaraları."
+   ]
+  ],
+  "faq": [
+   [
+    "Fişi çekmek yeterli değil mi?",
+    "Hayır. Çekilen fiş başka biri tarafından farkında olmadan tekrar takılabilir. Fiş kilitlenip etiketlendiğinde bu risk ortadan kalkar."
+   ],
+   [
+    "Pnömatik Bağlantı Kilitleme Ekipmanları fiyatları ne kadar?",
+    "Fiyatlar modele, malzemeye, ölçüye ve sipariş adedine göre değişir; toplu alımlarda adet bazlı indirim uygulanır. Güncel pnömatik bağlantı kilitleme ekipmanları fiyat listesi için ürün kodunu ve adedi WhatsApp hattımıza yazmanız yeterli; stok ve teslimat bilgisini de aynı anda iletiriz."
+   ],
+   [
+    "Hangi fişler için uygundur?",
+    "Küçük monofaze fişlerden endüstriyel kanal fişlerine kadar farklı boyutlar için modellerimiz vardır. Çok büyük fişler için fiş kilitleme çantası kullanılabilir."
+   ],
+   [
+    "Pnömatik bağlantı nasıl kilitlenir?",
+    "Hattaki basınç boşaltılır, hızlı bağlantı ucu kombinasyon kilitleme cihazının içine alınır ve cihaz kilitlenir. Hattın tamamı için vana kilidi de kullanılabilir."
+   ],
+   [
+    "Birden fazla kişi aynı fiş kilidine kilit takabilir mi?",
+    "Muhafazaya bir çoklandırıcı eklenerek birden fazla kişi kendi kilidini takabilir."
+   ],
+   [
+    "Fiş kilidi elektrik çarpmasına karşı koruma sağlar mı?",
+    "Fiş kilidi, cihazın yeniden enerjilenmesini engelleyerek bakım yapan kişiyi korur. Ancak bakım öncesinde cihazın enerjisiz olduğunun doğrulanması gerekir."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,95 @@
+{% extends "base.html" %}{% from "_card.html" import card %}
+{% macro md(t) %}{{ t|e|replace('**','\x00')|boldify|safe }}{% endmacro %}
+{% block main %}
+<section class="ph cat-hero"><div class="wrap">
+ <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><a href="/urunler">Ürünler</a>{% if cat %}<span aria-hidden="true">/</span><span>{{ cat.name }}</span>{% endif %}</nav>
+ <h1>{{ h1 }}</h1>
+ <p class="lead">{{ K.lead if K else intro }}</p>
+ <span class="count-badge"><svg><use href="#i-lock"/></svg>{{ total_in }} ürün</span>
+ {% if K %}<div class="hero-chips">{% for c in K.chips %}<span><svg><use href="#i-check"/></svg>{{ c }}</span>{% endfor %}</div>{% endif %}
+ <div class="btn-row">
+  {% if K %}<a class="btn btn-white" href="#rehber">Seçim rehberi <svg><use href="#i-arrow"/></svg></a>{% endif %}
+  <a class="btn btn-light" href="https://wa.me/{{ site.wa }}?text={{ ('Merhaba, ' ~ (cat.name if cat else 'LOTO ürünleri') ~ ' için fiyat teklifi almak istiyorum.')|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>WhatsApp'tan fiyat al</a>
+ </div>
+</div></section>
+
+<nav class="catnav" aria-label="Ürün kategorileri"><div class="wrap">
+ <a href="/urunler" {% if not cat %}class="on"{% endif %}>Tüm ürünler</a>
+ {% for c in cats %}<a href="/{{ c.slug }}" {% if cat and c.key==cat.key %}class="on" aria-current="page"{% endif %}>{{ c.name }}</a>{% endfor %}
+</div></nav>
+
+<section class="sec-sm"><div class="wrap">
+ <div class="filters">
+  <p class="count-line"><b id="count">{{ products|length }}</b> ürün{% if products|selectattr("search")|list %} <small>· renk seçenekli kilitler tek kartta</small>{% endif %}</p>
+  <label class="search"><span class="sr">Ürün ara</span><svg><use href="#i-search"/></svg><input id="q" type="search" placeholder="Kod veya ürün adı (ör. BD-G01, vana)" autocomplete="off"></label>
+ </div>
+ <div class="grid" data-filter-grid>{% for p in products %}{{ card(p, loop.index > 8) }}{% endfor %}</div>
+ <div class="empty">Aramanızla eşleşen ürün bulunamadı. <a href="/iletisim">Bize yazın</a>, ihtiyacınız olan ekipmanı birlikte bulalım.</div>
+
+ <div class="fband reveal">
+  <div class="fb-feats">
+   <div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>
+   <div><i><svg><use href="#i-truck"/></svg></i><b>Hızlı sevkiyat</b><span>Stoktaki ürünler aynı gün kargoda</span></div>
+   <div><i><svg><use href="#i-tag"/></svg></i><b>Kişiye özel</b><span>Renk, etiket ve anahtar seçenekleri</span></div>
+   <div><i><svg><use href="#i-chat"/></svg></i><b>Teknik destek</b><span>Fotoğraftan doğru ürünü birlikte seçelim</span></div>
+  </div>
+  <div class="fb-cta"><div><h3>Aradığınız modeli bulamadınız mı?</h3><p>Ölçüyü ya da kilitlenecek noktanın fotoğrafını gönderin; uygun modeli ve fiyatı hemen iletelim.</p></div>
+   <div class="btn-row"><a class="btn btn-white" href="https://wa.me/{{ site.wa }}?text={{ ('Merhaba, ' ~ (cat.name if cat else 'LOTO ürünleri') ~ ' hakkında teklif almak istiyorum.')|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>WhatsApp'tan teklif al</a><a class="btn btn-light" href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Kataloğu indir</a></div></div>
+ </div>
+</div></section>
+
+{% if K %}
+<section class="sec-sm" id="rehber" style="padding-bottom:0"><div class="wrap"><nav class="toc" aria-label="Rehber içeriği">
+ <a href="#nedir">{{ K.nedir_title|replace(' Nedir?','')|replace(' nedir?','') }}</a><a href="#cesitler">Çeşitler</a><a href="#secim">Seçim tablosu</a><a href="#nasil">Nasıl seçilir?</a><a href="#kullanim">Kullanım alanları</a><a href="#sss">SSS</a>
+</nav></div></section>
+
+<section class="sec" id="nedir"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">{{ cat.name }} rehberi</span><h2>{{ K.nedir_title }}</h2><span class="bar"></span>
+  <div class="rule"><b>{{ K.rule_title }}</b>{{ K.rule }}</div></aside>
+ <div class="gtext">{% for p in K.nedir %}<p>{{ md(p) }}</p>{% endfor %}</div>
+</div></section>
+
+<section class="sec sec-paper" id="cesitler"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Ürün rehberi</span><h2>{{ K.cesitler_title }}</h2><span class="bar"></span></div></div>
+ <div class="gcards">{% for c in K.cesitler %}<div class="gc reveal"><h3><i><svg><use href="#i-{{ ['lock','shield','tool','tag','chat','truck'][loop.index0 % 6] }}"/></svg></i>{{ c.title }}</h3><p>{{ c.text }}</p>
+  {% if c.codes %}<div class="mods">{% for code in c.codes %}{% set u = link(code) %}{% if u %}<a href="{{ u }}">{{ code }}</a>{% else %}<span>{{ code }}</span>{% endif %}{% endfor %}</div>{% endif %}</div>{% endfor %}</div>
+</div></section>
+
+<section class="sec" id="secim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Seçim tablosu</span><h2>Model seçim tablosu</h2><span class="bar"></span></div><p>{{ K.secim_intro }}</p></div>
+ <div class="seltable reveal"><table><thead><tr>{% for h in K.secim_head %}<th>{{ h }}</th>{% endfor %}</tr></thead><tbody>
+  {% for r in K.secim_rows %}<tr>{% for c in r %}{% if loop.first %}{% set u = link(c) %}<td class="src">{% if u %}<a href="{{ u }}">{{ c }}</a>{% else %}{{ c }}{% endif %}</td>{% else %}<td>{{ c }}</td>{% endif %}{% endfor %}</tr>{% endfor %}
+ </tbody></table></div>
+ <div class="pricebox reveal"><div class="pb-ic"><svg><use href="#i-tag"/></svg></div><div class="pb-tx"><b>Güncel {{ cat.name|lower }} fiyat listesi</b><span>Ürün kodunu ve adedi yazın; fiyat, stok ve teslim bilgisini hemen iletelim. Toplu alımlarda adet bazlı fiyat.</span></div>
+  <div class="btn-row"><a class="btn btn-red" href="https://wa.me/{{ site.wa }}?text={{ ('Merhaba, ' ~ cat.name ~ ' fiyat listesini rica ediyorum.')|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>Fiyat listesi iste</a><a class="btn btn-line" href="/teklif">Teklif sepeti</a></div></div>
+</div></section>
+
+<section class="sec sec-paper" id="nasil"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Satın alma rehberi</span><h2>{{ K.nasil_title }}</h2><span class="bar"></span>
+  <p class="m">Sipariş vermeden önce bu kriterleri kontrol edin. Emin değilseniz fotoğraf gönderin, birlikte seçelim.</p>
+  <a class="btn btn-red" href="https://wa.me/{{ site.wa }}?text={{ ('Merhaba, ' ~ cat.name ~ ' seçimi için destek almak istiyorum.')|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>Uzmana sor</a></aside>
+ <ul class="checks">{% for k,v in K.nasil %}<li><b>{{ k }}:</b> {{ v }}</li>{% endfor %}</ul>
+</div></section>
+
+<section class="sec sec-ink" id="kullanim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow" style="color:#ff9ea1">Kullanım alanları</span><h2>{{ K.kullanim_title }}</h2></div></div>
+ <div class="ucards">{% for k,v in K.kullanim %}<div class="reveal"><i><svg><use href="#i-{{ ['shield','tool','lock','truck'][loop.index0 % 4] }}"/></svg></i><h3>{{ k }}</h3><p>{{ v }}</p></div>{% endfor %}</div>
+</div></section>
+
+<section class="sec" id="sss"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Sıkça sorulan sorular</span><h2>{{ cat.name }} hakkında</h2><span class="bar"></span>
+  <p class="m">Aradığınız cevabı bulamadıysanız WhatsApp'tan yazın; doğru modeli birlikte belirleyelim.</p>
+  <a class="btn btn-red" href="https://wa.me/{{ site.wa }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>WhatsApp'tan sor</a></aside>
+ <div class="faq">{% for q,a in K.faq %}<details{% if loop.first %} open{% endif %}><summary>{{ q }}</summary><div>{{ a }}</div></details>{% endfor %}</div>
+</div></section>
+
+<section class="sec-sm sec-paper"><div class="wrap">
+ <div class="prose seo"><h2>{{ K.seo_title }}</h2>{% for p in K.seo %}<p>{{ md(p) }}</p>{% endfor %}</div>
+ <div class="sec-head" style="margin-top:44px"><h2 style="font-size:1.8rem">İlgili kategoriler</h2><a class="btn btn-line btn-sm" href="/urunler">Tüm ürünler <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="relcats">{% for c in cats if c.key != cat.key %}<a href="/{{ c.slug }}"><img src="{{ c.img.thumb }}" alt="" width="52" height="52" loading="lazy">{{ c.name }}</a>{% endfor %}</div>
+ <div class="sec-head" style="margin-top:40px"><h2 style="font-size:1.8rem">Rehber yazıları</h2><a class="btn btn-line btn-sm" href="/blog">Tüm yazılar <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="glinks"><a href="/loto-rehberi"><small>Rehber</small><b>LOTO (EKED) rehberi: 6 adımda kilitleme</b></a>{% for b in posts[:3] %}<a href="/blog/{{ b.slug }}"><small>Blog</small><b>{{ b.title }}</b></a>{% endfor %}</div>
+</div></section>
+{% endif %}
+{% include "_cta.html" %}
+{% endblock %}

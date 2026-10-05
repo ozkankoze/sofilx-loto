@@ -1,0 +1,99 @@
+{% extends "base.html" %}{% from "_card.html" import card %}
+{% block main %}
+<section class="hero"><div class="wrap">
+ <div>
+  <div class="eyebrow">LOTO / EKED Ekipmanları</div>
+  <h1>Enerjiyi kes.<br><em>Riski kilitle.</em></h1>
+  <p class="lead">Bakım, onarım ve temizlik sırasında makinelerin beklenmedik şekilde çalışmasını önleyen kilitleme ve etiketleme ekipmanları. Asma kilitlerden komple setlere {{ total }} ürün, stoktan hızlı teslimat.</p>
+  <div class="ctas"><a class="btn btn-red" href="/urunler">Ürünleri incele <svg><use href="#i-arrow"/></svg></a><a class="btn btn-light" href="https://wa.me/{{ site.wa }}?text={{ 'Merhaba, LOTO ürünleri için teklif almak istiyorum.'|urlencode }}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg>WhatsApp'tan teklif al</a></div>
+ </div>
+ <div class="tagstage" aria-hidden="true">
+  <div class="tagring"></div>
+  <div class="tagswing">
+   <svg class="taglock" viewBox="0 0 120 150">
+    <defs>
+     <linearGradient id="shk" x1="0" x2="1"><stop offset="0" stop-color="#8d9196"/><stop offset=".45" stop-color="#eef0f2"/><stop offset="1" stop-color="#7c8086"/></linearGradient>
+     <linearGradient id="bdy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e2434a"/><stop offset="1" stop-color="#a81c23"/></linearGradient>
+    </defs>
+    <path d="M32 72V40a28 28 0 0 1 56 0v32" fill="none" stroke="url(#shk)" stroke-width="13" stroke-linecap="round"/>
+    <rect x="12" y="62" width="96" height="80" rx="16" fill="url(#bdy)"/>
+    <rect x="12" y="62" width="96" height="10" rx="5" fill="#fff" opacity=".18"/>
+    <circle cx="60" cy="95" r="9" fill="#1a1a1a"/><path d="M55 99h10l-2.5 17h-5z" fill="#1a1a1a"/>
+    <text x="60" y="133" text-anchor="middle" font-family="Barlow Condensed,Arial Narrow,sans-serif" font-weight="700" font-size="10.5" letter-spacing="2.5" fill="#fff" opacity=".92">SOFİLX</text>
+   </svg>
+   <div class="tag">
+    <div class="tag-head"><div><small>LOTO / EKED</small><b>TEHLİKE · KİLİTLİ</b></div><span class="tag-num">{{ total }}<small>ürün</small></span></div>
+    <div class="tag-body">
+     <div class="tag-who"><i><svg><use href="#i-lock"/></svg></i><div><small>Kilitleyen</small><b>Sofilx LOTO</b></div><div class="tag-date"><small>Tarih</small><b>2010'dan beri</b></div></div>
+     <ol>
+      <li><span>1</span>Emniyet asma kilitleri</li>
+      <li><span>2</span>Şalter ve vana kilitleri</li>
+      <li><span>3</span>Çoklandırıcı ve kablo kilitleri</li>
+      <li><span>4</span>LOTO istasyonları ve setler</li>
+      <li><span>5</span>Aynı gün teklif ve sevkiyat</li>
+     </ol>
+     <p class="tag-warn">Bu etiketi yalnızca takan kişi çıkarabilir.</p>
+    </div>
+    <div class="tag-foot"><span>SOFİLX LOTO</span><span>OSHA 29 CFR 1910.147</span></div>
+   </div>
+  </div>
+ </div>
+</div></section>
+<section class="stats"><div class="wrap">
+ <div class="stat"><b>2010</b><span>yılından beri sektörde</span></div>
+ <div class="stat"><b>{{ total }}+</b><span>LOTO / EKED ürünü</span></div>
+ <div class="stat"><b>10</b><span>ürün kategorisi</span></div>
+ <div class="stat"><b>8 renk</b><span>emniyet asma kilit seçeneği</span></div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Kategoriler</div><h2>Her enerji kaynağı için kilit</h2></div><p>Elektrik panosundan vanaya, fişten pnömatik hatta kadar; doğru kilitleme ekipmanını kategoriye göre bulun.</p></div>
+ <div class="cats">
+  {% for c in cats %}<a class="cat reveal" href="/{{ c.slug }}"><div class="im"><img src="{{ c.img.thumb }}" alt="{{ c.name }}" width="520" height="520" loading="lazy"></div><div class="tx"><h3>{{ c.name }}</h3><small>{{ c.count }} ürün</small></div></a>{% endfor %}
+ </div>
+</div></section>
+
+<section class="sec sec-ink"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">LOTO nasıl uygulanır?</div><h2>6 adımda güvenli enerji izolasyonu</h2></div><p>Ekipmanlar ancak doğru prosedürle birlikte işe yarar. Ayrıntıları <a href="/loto-rehberi" style="color:#fff">LOTO rehberimizde</a> bulabilirsiniz.</p></div>
+ <div class="steps reveal">
+  <div class="step"><h3>Hazırlık</h3><p>Makinenin enerji kaynaklarını ve izolasyon noktalarını belirleyin.</p></div>
+  <div class="step"><h3>Bildirim</h3><p>Etkilenecek tüm çalışanları duruş hakkında bilgilendirin.</p></div>
+  <div class="step"><h3>Kapatma</h3><p>Ekipmanı normal durdurma prosedürüyle kapatın.</p></div>
+  <div class="step"><h3>İzolasyon</h3><p>Şalter, vana ve bağlantılarla enerjiyi kaynağından kesin.</p></div>
+  <div class="step"><h3>Kilit + Etiket</h3><p>Her çalışan kendi kilidini ve kişisel etiketini takar.</p></div>
+  <div class="step"><h3>Doğrulama</h3><p>Çalıştırmayı deneyerek sıfır enerji durumunu teyit edin.</p></div>
+ </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Hazır setler</div><h2>Tek pakette eksiksiz LOTO</h2></div><a class="btn btn-line" href="/set-urunler">Tüm setler <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="grid">{% for p in sets %}{{ card(p) }}{% endfor %}</div>
+</div></section>
+
+<section class="sec sec-paper"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">En çok tercih edilenler</div><h2>Öne çıkan ürünler</h2></div><a class="btn btn-line" href="/urunler">Tüm ürünler <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="grid">{% for p in featured %}{{ card(p) }}{% endfor %}</div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Neden Sofilx?</div><h2>Ekipmandan fazlası</h2></div></div>
+ <div class="why">
+  <div class="reveal"><svg><use href="#i-shield"/></svg><h3>Standartlara uygun</h3><p>Ürünlerimiz OSHA 29 CFR 1910.147 ve iş güvenliği mevzuatının gerekliliklerine uygundur.</p></div>
+  <div class="reveal"><svg><use href="#i-truck"/></svg><h3>Hızlı teslimat</h3><p>Stoktaki ürünleri aynı gün kargoya veriyor, İstanbul içi acil siparişlere destek oluyoruz.</p></div>
+  <div class="reveal"><svg><use href="#i-tool"/></svg><h3>Teknik destek</h3><p>Hangi şaltere hangi kilit uyar? Fotoğrafını gönderin, doğru ekipmanı birlikte seçelim.</p></div>
+  <div class="reveal"><svg><use href="#i-lock"/></svg><h3>Kişiye özel</h3><p>Renk kodlu kilitler, aynı/farklı anahtar sistemleri ve isme özel etiket seçenekleri.</p></div>
+ </div>
+</div></section>
+
+{% include "_cta.html" %}
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Blog</div><h2>Güvenli çalışma notları</h2></div><a class="btn btn-line" href="/blog">Tüm yazılar <svg><use href="#i-arrow"/></svg></a></div>
+ <div class="posts">{% for b in posts[:3] %}{% include "_post_card.html" %}{% endfor %}</div>
+</div></section>
+
+<section class="sec sec-paper"><div class="wrap split">
+ <div class="reveal"><div class="eyebrow">Sık sorulanlar</div><h2>LOTO hakkında merak edilenler</h2><p style="color:var(--muted)">Aradığınız cevabı bulamazsanız bize telefon veya WhatsApp üzerinden ulaşabilirsiniz.</p><a class="btn btn-ink" href="/iletisim">Bize ulaşın</a></div>
+ <div class="faq">{% for q,a in faq %}<details{% if loop.first %} open{% endif %}><summary>{{ q }}</summary><div>{{ a }}</div></details>{% endfor %}</div>
+</div></section>
+{% endblock %}
