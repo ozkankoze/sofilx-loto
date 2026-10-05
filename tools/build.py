@@ -7,7 +7,7 @@ DIST = ROOT + 'dist/'
 D = json.load(open(ROOT + 'data/urunler.json'))
 SITE = dict(url='https://www.sofilxloto.com', tel1='(0216) 606 32 06', tel1_raw='+902166063206',
             tel2='(0552) 350 84 46', tel2_raw='+905523508446', wa='905523508446', mail='info@sofilxloto.com',
-            address='Esatpaşa Mah. Bingöl Sk. No:1 A, Ataşehir / İstanbul',
+            address='Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul',
             linkedin='https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/')
 V = hashlib.md5((open(DIST + 'assets/style.css').read() + open(DIST + 'assets/site.js').read()).encode()).hexdigest()[:8]
 env = Environment(loader=FileSystemLoader(ROOT + 'templates'), autoescape=True, trim_blocks=True, lstrip_blocks=True)
@@ -156,7 +156,7 @@ def render(tpl, path, **ctx):
 
 ORG = {'@context': 'https://schema.org', '@type': 'Organization', 'name': 'Sofilx LOTO', 'url': SITE['url'],
        'logo': SITE['url'] + '/assets/icon-512.png', 'email': SITE['mail'], 'telephone': SITE['tel1_raw'], 'foundingDate': '2010',
-       'address': {'@type': 'PostalAddress', 'streetAddress': 'Esatpaşa Mah. Bingöl Sk. No:1 A', 'addressLocality': 'Ataşehir',
+       'address': {'@type': 'PostalAddress', 'streetAddress': 'Altınşehir Mah. Ermiş Sk. No:12A', 'addressLocality': 'Ümraniye',
                    'addressRegion': 'İstanbul', 'addressCountry': 'TR'}, 'sameAs': [SITE['linkedin']]}
 def crumbs_ld(items):
     return {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [

@@ -44,7 +44,7 @@ CONTACT = f'''
   <a href="tel:{SITE['tel1_raw']}"><svg><use href="#i-phone"/></svg><span><b>Telefon</b>{SITE['tel1']}</span></a>
   <a href="https://wa.me/{SITE['wa']}" target="_blank" rel="noopener"><svg><use href="#i-wa"/></svg><span><b>WhatsApp / GSM</b>{SITE['tel2']}</span></a>
   <a href="mailto:{SITE['mail']}"><svg><use href="#i-mail"/></svg><span><b>E-posta</b>{SITE['mail']}</span></a>
-  <a href="https://www.google.com/maps/search/?api=1&query={'Esatpaşa Mah. Bingöl Sk. No:1 Ataşehir İstanbul'.replace(' ', '+')}" target="_blank" rel="noopener"><svg><use href="#i-pin"/></svg><span><b>Adres</b>{SITE['address']}<br><small style="color:var(--muted)">Haritada aç →</small></span></a>
+  <a href="https://www.google.com/maps/search/?api=1&query={'Altınşehir Mahallesi Ermiş Sokak No:12A Ümraniye İstanbul'.replace(' ', '+')}" target="_blank" rel="noopener"><svg><use href="#i-pin"/></svg><span><b>Adres</b>{SITE['address']}<br><small style="color:var(--muted)">Haritada aç →</small></span></a>
  </div>
  <div class="box" style="margin-top:0"><h2>Bize yazın</h2><div class="in">
   <form id="contact-form" class="form">

@@ -57,6 +57,6 @@ Firmalar `data/referanslar.json` içindeki `firmalar` listesinden gelir:
 Firmalar eklendikten sonra `python3 tools/build.py && python3 tools/offline.py` çalıştırın.
 
 ## Yayına almadan önce
-1. **Adres**: Sofilx'in mevcut sitesindeki "Esatpaşa Mah. Bingöl Sk. No:1 A, Ataşehir" kullanıldı – müşteriyle teyit edin.
+1. **Adres**: Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul (müşteri tarafından iletildi).
 2. **Formlar** e-posta uygulamasını veya WhatsApp'ı açar (sunucu gerekmez). Mesajların doğrudan gelmesi istenirse Formspree / Netlify Forms bağlanabilir.
 3. Alan adının DNS kayıtlarını yeni hostinge yönlendirin; ardından Google Search Console'a `sitemap.xml` gönderin.

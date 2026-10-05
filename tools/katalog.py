@@ -4,7 +4,7 @@ ROOT='/home/claude/sofilx/'; DIST=ROOT+'dist/'
 D=json.load(open(ROOT+'data/urunler.json')); P=D['products']
 CATS=[(c[0],c[2],c[4]) for c in D['cats']]
 K=json.load(open(ROOT+'data/kat/kategori_icerik.json'))
-SITE=dict(tel1='(0216) 606 32 06',tel2='(0552) 350 84 46',mail='info@sofilxloto.com',web='www.sofilxloto.com',adr='Esatpaşa Mah. Bingöl Sk. No:1 A, Ataşehir / İstanbul')
+SITE=dict(tel1='(0216) 606 32 06',tel2='(0552) 350 84 46',mail='info@sofilxloto.com',web='www.sofilxloto.com',adr='Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul')
 e=html.escape
 import os
 from PIL import Image
