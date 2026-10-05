@@ -160,6 +160,34 @@ def export_img(src, stem):
     return dict(src='/assets/urunler/' + stem + '.webp', thumb='/assets/urunler/' + stem + '-k.webp', w=w, h=h)
 
 
+# --- Kod değişiklikleri (müşteri talebi) ---
+RENAME = {'BD-D2394': 'BD-D200'}
+# Aynı fotoğrafı paylaşan ürünler: köşe şeridine her ürünün kendi kodu yazılır
+OWN_RIBBON = {'BD-D200', 'BD-D17'}
+
+
+def ribbon_copy(src, code, stem):
+    os.makedirs(ROOT + 'out_fix', exist_ok=True)
+    dst = ROOT + 'out_fix/' + stem + '.png'
+    if not os.path.exists(dst) or os.path.getmtime(src) > os.path.getmtime(dst) or os.path.getmtime(__file__) > os.path.getmtime(dst):
+        cs = open(ROOT + 'tools/convert.py').read()
+        g = {}
+        exec(cs.split('med=np.array')[0], g)
+        exec('def draw_ribbon' + cs.split('def draw_ribbon')[1].split('def process(')[0], g)
+        im = Image.open(src).convert('RGBA'); g['draw_ribbon'](im, code); im.convert('RGB').save(dst)
+    return dst
+
+
+def rename_text(o, old, new):
+    if isinstance(o, str):
+        return o.replace(old, new)
+    if isinstance(o, list):
+        return [rename_text(x, old, new) for x in o]
+    if isinstance(o, dict):
+        return {k: rename_text(v, old, new) for k, v in o.items()}
+    return o
+
+
 def main():
     seen, products, redirects = {}, [], []
     # Kod tekrarları: BD-K04 (3 sayfa), BD-B41 (2 sayfa) -> en dolu sayfayı tut
@@ -180,17 +208,25 @@ def main():
         name, code, var = clean_name(p)
         cat = CAT_BY_LS[p['category']]
         path = p['path'].replace(' ', '')
+        orig = code
+        if code in RENAME:
+            code = RENAME[code]
+            newpath = '/' + slugify(code + '-' + name)
+            redirects.append((path, newpath)); path = newpath
         if path == '/g-17/orj':
             redirects.append(('/g-17/orj', '/bd-g17/orj')); path = '/bd-g17/orj'
         stem0 = slugify(path.strip('/').replace('/', '-'))
         imgs = []
         for n, i in enumerate(p['images'], 1):
-            imgs.append(export_img(img_source(i), f'{stem0}-{n}'))
+            src = img_source(i)
+            if code in OWN_RIBBON:
+                src = ribbon_copy(src, code, f'{stem0}-{n}')
+            imgs.append(export_img(src, f'{stem0}-{n}'))
         d = parse_prose(p['prose_ls'])
         intro = ' '.join(d['intro'])
         summary = re.split(r'(?<=[.!?])\s', intro)[0] if intro else name
         products.append(dict(code=code, name=name, path=path, ls_path=p['ls_path'], cat=cat[0],
-                             images=imgs, variant=var, summary=summary[:200], **d))
+                             images=imgs, variant=var, summary=summary[:200], orig_code=orig, **d))
     # --- yeniden yazılmış metinler ---
     import glob
     RW = {}
@@ -198,11 +234,16 @@ def main():
         for x in json.load(open(f)):
             RW[re.sub(r'\s*Serisi$', '', x['code']).replace(' ', '').replace('Serisi', '')] = x
     for p in products:
-        r = RW.get(p['code'])
+        r = RW.get(p.pop('orig_code', p['code']))
         if not r:
             print('METİN YOK', p['code']); continue
         p['intro'] = r['intro']; p['feats'] = r['feats']; p['summary'] = r['summary']; p['usage'] = r.get('usage', [])
         p['notes'] = []
+        for o, n2 in RENAME.items():
+            if p['code'] == n2:
+                for k in ('intro', 'feats', 'summary', 'usage', 'pack', 'specs', 'name'):
+                    if k in p:
+                        p[k] = rename_text(p[k], o, n2)
     # --- eski Sofilx'te olup Locksan kataloğunda olmayan ürünler ---
     CK = {c[0] for c in CATS}
     for n in json.load(open(ROOT + 'data/eksik_urunler.json')):

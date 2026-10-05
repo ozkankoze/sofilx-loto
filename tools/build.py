@@ -260,6 +260,7 @@ KW = [('istasyon', 'lockout-istasyon-canta'), ('kutu', 'grup-kilit-kutusu'), ('a
       ('kesici', 'salter-kilitleme-ekipmanlari'), ('pnömatik', 'elektrik-pnomatik-kilitleme-ekipmanlari'), ('fiş', 'elektrik-pnomatik-kilitleme-ekipmanlari'),
       ('silindir', 'elektrik-pnomatik-kilitleme-ekipmanlari'), ('emniyet kilidi', 'emniyet-asma-kilitler')]
 base_idx[norm('L1010-ELK-SET')] = by_code['BD-8773D']
+base_idx[norm('BD-D2394')] = by_code['BD-D200']  # kod değişti: D2394 -> D200
 unmatched = []
 for o in old:
     if '/product-page/' not in o['u']:

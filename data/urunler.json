@@ -6739,35 +6739,35 @@
    ]
   },
   {
-   "code": "BD-D2394",
+   "code": "BD-D200",
    "name": "Minyatür Devre Kesici Kilitleme Cihazı",
-   "path": "/bd-g01-red-1",
+   "path": "/bd-d200-minyatur-devre-kesici-kilitleme-cihazi",
    "ls_path": "/ls-g01-red-1",
    "cat": "salter",
    "images": [
     {
-     "src": "/assets/urunler/bd-g01-red-1-1.webp",
-     "thumb": "/assets/urunler/bd-g01-red-1-1-k.webp",
+     "src": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-1.webp",
+     "thumb": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-1-k.webp",
      "w": 1000,
      "h": 1000
     },
     {
-     "src": "/assets/urunler/bd-g01-red-1-2.webp",
-     "thumb": "/assets/urunler/bd-g01-red-1-2-k.webp",
+     "src": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-2.webp",
+     "thumb": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-2-k.webp",
      "w": 1000,
      "h": 1000
     },
     {
-     "src": "/assets/urunler/bd-g01-red-1-3.webp",
-     "thumb": "/assets/urunler/bd-g01-red-1-3-k.webp",
+     "src": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-3.webp",
+     "thumb": "/assets/urunler/bd-d200-minyatur-devre-kesici-kilitleme-cihazi-3-k.webp",
      "w": 1000,
      "h": 1000
     }
    ],
    "variant": null,
-   "summary": "BD-D2394 minyatür devre kesici kilidi: ISO/DIN MCB'lere kadran vidasıyla aletsiz takılır, asma kilit yatay veya dikey uygulanabilir.",
+   "summary": "BD-D200 minyatür devre kesici kilidi: ISO/DIN MCB'lere kadran vidasıyla aletsiz takılır, asma kilit yatay veya dikey uygulanabilir.",
    "intro": [
-    "BD-D2394, ISO/DIN standardındaki minyatür devre kesicilerin kilitlenmesi için kullanılan kompakt bir cihazdır. Dünya genelinde yaygın olan bu tip kesicilerin hemen hepsine uyar ve kesici kolunu kapalı konumda tutarak bakım sırasında enerji kaynağının devreye girmesini engeller.",
+    "BD-D200, ISO/DIN standardındaki minyatür devre kesicilerin kilitlenmesi için kullanılan kompakt bir cihazdır. Dünya genelinde yaygın olan bu tip kesicilerin hemen hepsine uyar ve kesici kolunu kapalı konumda tutarak bakım sırasında enerji kaynağının devreye girmesini engeller.",
     "Başparmakla çevrilen kadran vidası sayesinde montaj alet gerektirmez. Cihaz kilitlendiğinde kadrana erişim engellendiği için yetkisiz kişilerce sökülemez. Asma kilit yatay veya dikey olarak takılabilir; kimyasallara dayanıklı termoplastik gövde, bitişik kesicilere yan yana montaja imkân tanır. Böylece aynı pano içinde birden fazla kesici aynı anda izole edilebilir."
    ],
    "feats": [
@@ -6794,7 +6794,7 @@
    ],
    "specs": [],
    "pack": [
-    "1 x BD-D2394 Minyatür Devre Kesici Kilitleme Cihazı"
+    "1 x BD-D200 Minyatür Devre Kesici Kilitleme Cihazı"
    ],
    "notes": [],
    "usage": [
@@ -10430,10 +10430,35 @@
   {
    "code": "BD-K04",
    "name": "Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı",
-   "path": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1",
-   "ls_path": "/ls-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1",
+   "path": "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici",
+   "ls_path": "/ls-k04-paslanmaya-dayanikli-celik-38mm-coklandirici",
    "cat": "coklandirici",
-   "images": [],
+   "images": [
+    {
+     "src": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1.webp",
+     "thumb": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-2.webp",
+     "thumb": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-3.webp",
+     "thumb": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-3-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-4.webp",
+     "thumb": "/assets/urunler/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-4-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
    "variant": null,
    "summary": "BD-K04 çelik çoklandırıcı: 38 mm geniş çene, 10,5 mm delik ve 6 asma kilit kapasitesi. Büyük kilitleme noktalarında grup kilitleme sağlar.",
    "intro": [
@@ -18987,16 +19012,20 @@
    "/bd-b41/tasinabilir-12li-kilit-askisi"
   ],
   [
-   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1",
-   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1"
+   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1",
+   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici"
   ],
   [
-   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici",
-   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1-1"
+   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici-1",
+   "/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici"
   ],
   [
    "/g-17/orj",
    "/bd-g17/orj"
+  ],
+  [
+   "/bd-g01-red-1",
+   "/bd-d200-minyatur-devre-kesici-kilitleme-cihazi"
   ]
  ]
 }

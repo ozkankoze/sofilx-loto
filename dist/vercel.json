@@ -23,6 +23,11 @@
    "permanent": true
   },
   {
+   "source": "/bd-g01-red-1",
+   "destination": "/bd-d200-minyatur-devre-kesici-kilitleme-cihazi",
+   "permanent": true
+  },
+  {
    "source": "/hakk%C4%B1m%C4%B1zda",
    "destination": "/hakkimizda",
    "permanent": true
@@ -774,7 +779,7 @@
   },
   {
    "source": "/product-page/universal-devre-kesici-ekipman%C4%B1",
-   "destination": "/bd-g01-red-1",
+   "destination": "/bd-d200-minyatur-devre-kesici-kilitleme-cihazi",
    "permanent": true
   },
   {
