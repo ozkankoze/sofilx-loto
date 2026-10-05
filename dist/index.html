@@ -1,6 +1,52 @@
 <!doctype html>
 <html lang="tr">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sofilx LOTO | LOTO / EKED Kilitleme ve Etiketleme Ekipmanları</title>
@@ -21,7 +67,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=549ad776">
+<link rel="stylesheet" href="/assets/style.css?v=c1a50a09">
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;Organization&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;logo&#34;: &#34;https://www.sofilxloto.com/assets/icon-512.png&#34;, &#34;email&#34;: &#34;info@sofilxloto.com&#34;, &#34;telephone&#34;: &#34;+902166063206&#34;, &#34;foundingDate&#34;: &#34;2010&#34;, &#34;address&#34;: {&#34;@type&#34;: &#34;PostalAddress&#34;, &#34;streetAddress&#34;: &#34;Altınşehir Mah. Ermiş Sk. No:12A&#34;, &#34;addressLocality&#34;: &#34;Ümraniye&#34;, &#34;addressRegion&#34;: &#34;İstanbul&#34;, &#34;addressCountry&#34;: &#34;TR&#34;}, &#34;sameAs&#34;: [&#34;https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/&#34;]}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;WebSite&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;potentialAction&#34;: {&#34;@type&#34;: &#34;SearchAction&#34;, &#34;target&#34;: &#34;https://www.sofilxloto.com/urunler?q={q}&#34;, &#34;query-input&#34;: &#34;required name=q&#34;}}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;FAQPage&#34;, &#34;mainEntity&#34;: [{&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;LOTO (EKED) nedir?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Lockout/Tagout ya da Türkçe adıyla Enerji Kontrolü Etiketleme ve Kilitleme; bakım, onarım ve temizlik sırasında makinelerin enerjisinin kesilip kilitlenerek beklenmedik şekilde çalışmasının önlendiği güvenlik prosedürüdür.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Hangi asma kilidi seçmeliyim?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Elektrik işlerinde iletken olmayan plastik kelepçeli kilitler, genel kullanımda çelik kelepçeli kilitler önerilir. 38 mm kelepçe çoğu kilitleme cihazına uyar; çoklandırıcılarda 76 mm kelepçe daha rahat kullanım sağlar.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Kilitler aynı anahtarla açılabilir mi?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Evet. Farklı anahtarlı (her kilit kendi anahtarı), aynı anahtarlı (bir grup kilit tek anahtar) ve master anahtarlı sistemler hazırlayabiliyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Şalterime uygun kilidi nasıl bulurum?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Şalterin marka/modelini ya da net bir fotoğrafını WhatsApp üzerinden göndermeniz yeterli; uygun kilitleme ekipmanını size bildiriyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Teslimat süresi ne kadar?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Stokta bulunan ürünler genellikle aynı gün veya ertesi iş günü kargoya verilir. Toplu siparişlerde termin bilgisini teklifle birlikte iletiyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Fatura ve toplu alım yapıyor musunuz?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Kurumsal faturalı satış yapıyoruz; toplu alımlarda ve setlerde size özel fiyat teklifi hazırlıyoruz.&#34;}}]}</script>
@@ -316,6 +362,6 @@
  <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tüm hakları saklıdır.</span><span>LOTO · EKED · Kilitleme ve Etiketleme Ekipmanları</span></div></div>
 </footer>
 <a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp ile yazın"><svg><use href="#i-wa"/></svg></a>
-<script src="/assets/site.js?v=549ad776" defer></script>
+<script src="/assets/site.js?v=c1a50a09" defer></script>
 </body>
 </html>

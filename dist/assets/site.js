@@ -1,3 +1,5 @@
+/* Google Ads: JS ile açılan e-posta da dönüşüm sayılsın */
+function mailGo(u){try{if(typeof gtag==='function')gtag('event','conversion',{send_to:'AW-615899386/iTEKCMD29ZEdEPrB16UC'})}catch(e){}location.href=u}
 (function(){
 'use strict';
 var WA='905523508446', MAIL='info@sofilxloto.com', KEY='sofilx_teklif';
@@ -51,7 +53,7 @@ function message(){
 if(list){
   renderCart();
   $('#send-wa').addEventListener('click',function(){window.open('https://wa.me/'+WA+'?text='+encodeURIComponent(message()),'_blank','noopener')});
-  $('#send-mail').addEventListener('click',function(){location.href='mailto:'+MAIL+'?subject='+encodeURIComponent('Teklif talebi – '+load().length+' ürün')+'&body='+encodeURIComponent(message())});
+  $('#send-mail').addEventListener('click',function(){mailGo('mailto:'+MAIL+'?subject='+encodeURIComponent('Teklif talebi – '+load().length+' ürün')+'&body='+encodeURIComponent(message()))});
   $('#cart-clear').addEventListener('click',function(){save([]);renderCart()});
 }
 
@@ -60,7 +62,7 @@ var cf=$('#contact-form');
 if(cf){cf.addEventListener('submit',function(e){e.preventDefault();var v=function(k){return (cf.elements[k].value||'').trim()};
   var body='Ad Soyad: '+v('ad')+'\nFirma: '+v('firma')+'\nTelefon: '+v('tel')+'\nE-posta: '+v('eposta')+'\n\n'+v('mesaj');
   if(e.submitter&&e.submitter.value==='wa')window.open('https://wa.me/'+WA+'?text='+encodeURIComponent(body),'_blank','noopener');
-  else location.href='mailto:'+MAIL+'?subject='+encodeURIComponent('Web sitesi mesajı – '+v('ad'))+'&body='+encodeURIComponent(body)})}
+  else mailGo('mailto:'+MAIL+'?subject='+encodeURIComponent('Web sitesi mesajı – '+v('ad'))+'&body='+encodeURIComponent(body))})}
 
 /* liste filtreleme */
 var grid=$('[data-filter-grid]');

@@ -1,6 +1,52 @@
 <!doctype html>
 <html lang="tr">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Şalter ve Devre Kesici Kilitleri | Sofilx LOTO</title>
@@ -21,7 +67,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=549ad776">
+<link rel="stylesheet" href="/assets/style.css?v=c1a50a09">
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Şalter ve Devre Kesici Kilitleri&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/salter-kilitleme-ekipmanlari&#34;}]}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d01/pos-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D01 POS Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d02/pis-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D02 PIS Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d03/tblo-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D03 TBLO Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d04/pow-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D04 POW Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d05-1-red/universal-minyatur-salter-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D05-1-RED Universal Minyatür Şalter Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d05-3/evrensel-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D05-3 Evrensel Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d05-4/mcb-devre-kesici-kilitleme-ve-etiketleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D05-4 MCB Devre Kesici Kilitleme ve Etiketleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d05-5-red/genis-agiz-evrensel-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D05-5-RED Geniş Ağız Evrensel Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d05-6/cift-basli-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D05-6 Çift Başlı Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d06/snap-on-kesici-kilitleme&#34;, &#34;name&#34;: &#34;BD-D06 Snap-On Kesici Kilitleme&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d07/snap-on-kesici-kilitleme&#34;, &#34;name&#34;: &#34;BD-D07 Snap-On Kesici Kilitleme&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d08/snap-on-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D08 Snap-On Kesici Kilitleme&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d09/snap-on-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D09 Snap-On Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D11N Kelepçeli Sigorta Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d12x/clap-on-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D12X Clap-On Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 16, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d13x/oversized-clamp-on-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D13X Oversized Clamp-On Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 17, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d14/devre-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D14 Evrensel Çok Fonksiyonlu Minyatür Devre Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 18, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d15/devre-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D15/D15W Sıkı Kavramalı Devre Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 19, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d16/devre-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D16/D16L Büyük Boy Kavramalı Sıkı Devre Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 20, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d17/devre-kesici-kilitleme-cihazi&#34;, &#34;name&#34;: &#34;BD-D17 Çift Yönlü Orta Devre Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 21, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d301p/tek-kademeli-minyatur-devre-kesici-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D301P Tek Kademeli Minyatür Devre Kesici Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 22, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g01-red-1&#34;, &#34;name&#34;: &#34;BD-D2394 Minyatür Devre Kesici Kilitleme Cihazı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 23, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d11-120-277v-kucuk-boy-kompakt-salter-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D11 120/277V Küçük Boy Kompakt Şalter Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 24, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d12n-480v-600v-orta-boy-kompakt-salter-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D12N 480V/600V Orta Boy Kompakt Şalter Kilitleme Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 25, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d46-endustriyel-su-gecirmez-fis-kilidi&#34;, &#34;name&#34;: &#34;BD-D46 Endüstriyel Su Geçirmez Fiş Kilidi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 26, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-d100-deliksiz-termik-salter-kilitleme-ekipmani&#34;, &#34;name&#34;: &#34;BD-D100 Deliksiz Termik Şalter Kilitleme Ekipmanı&#34;}]}</script>
 </head>
@@ -450,6 +496,6 @@
  <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tüm hakları saklıdır.</span><span>LOTO · EKED · Kilitleme ve Etiketleme Ekipmanları</span></div></div>
 </footer>
 <a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp ile yazın"><svg><use href="#i-wa"/></svg></a>
-<script src="/assets/site.js?v=549ad776" defer></script>
+<script src="/assets/site.js?v=c1a50a09" defer></script>
 </body>
 </html>

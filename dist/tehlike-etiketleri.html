@@ -1,6 +1,52 @@
 <!doctype html>
 <html lang="tr">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Tehlike Uyarı Etiketleri | Sofilx LOTO</title>
@@ -21,7 +67,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=549ad776">
+<link rel="stylesheet" href="/assets/style.css?v=c1a50a09">
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Tehlike Uyarı Etiketleri&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/tehlike-etiketleri&#34;}]}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt02-tr/kilitleme-bilgi-etiketi&#34;, &#34;name&#34;: &#34;BD-LT02-TR Kilitleme Bilgi Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt05/kilitli-tutma-askili-eked-uyari-levhasi&#34;, &#34;name&#34;: &#34;BD-LT05 Kilitli Tutma Askılı Eked Uyarı Levhası&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt06/test-ve-devreye-alma-eked-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-LT06 Test ve Devreye Alma EKED Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt07-salteri-acmadan-calistirmayin-askili-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-LT07 Şalteri Açmadan Çalıştırmayın Askılı Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt11/yetkili-harici-acma-kapamak-yasaktir-askili-uyarı-etiketi&#34;, &#34;name&#34;: &#34;BD-LT11 Yetkili Harici Açma-Kapamak Yasaktır Askılı Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt12/tamir-var-salteri-acmayiniz-askili-eked-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-LT12 Tamir Var Şarteli Açmayınız Askılı Eked Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt13/gorevli-olmayan-giremez-askili-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-LT13 Görevli Olmayan Giremez Askılı Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt14/dikkat-bakim-var-calistirma-askili-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-LT14 Dikkat Bakım Var Çalıştırma Askılı Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-p33/scafftag-iskele-etiketleri&#34;, &#34;name&#34;: &#34;BD-P33 ScaffTag® İskele Etiketleri + Tutucular&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-t01-guvenlik-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-T01 Güvenlik Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-p35-iskele-etiket-tutucusu&#34;, &#34;name&#34;: &#34;BD-P35 İskele Etiket Tutucusu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-t03-tr-kilitleme-uyari-etiketi&#34;, &#34;name&#34;: &#34;BD-T03-TR Kilitleme Uyarı Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt04-ozellestirilmis-kimlik-etiketi&#34;, &#34;name&#34;: &#34;BD-LT04 Özelleştirilmiş Kimlik Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-p36-plastik-iskele-tehlike-etiketi&#34;, &#34;name&#34;: &#34;BD-P36 Plastik İskele Tehlike Etiketi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lt02-kilitleme-etiketi&#34;, &#34;name&#34;: &#34;BD-LT02 Kilitleme Etiketi&#34;}]}</script>
 </head>
@@ -340,6 +386,6 @@
  <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tüm hakları saklıdır.</span><span>LOTO · EKED · Kilitleme ve Etiketleme Ekipmanları</span></div></div>
 </footer>
 <a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp ile yazın"><svg><use href="#i-wa"/></svg></a>
-<script src="/assets/site.js?v=549ad776" defer></script>
+<script src="/assets/site.js?v=c1a50a09" defer></script>
 </body>
 </html>

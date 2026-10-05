@@ -1,6 +1,52 @@
 <!doctype html>
 <html lang="tr">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Kilit Çoklandırıcılar | Sofilx LOTO</title>
@@ -21,7 +67,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=549ad776">
+<link rel="stylesheet" href="/assets/style.css?v=c1a50a09">
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Kilit Çoklandırıcılar&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/kilit-coklandiricilar&#34;}]}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k01-1-k02-1-vinil-kapli-25mm-4-delikli-kisa-govde-coklandirici&#34;, &#34;name&#34;: &#34;BD-K01-1/K02-1 Vinil Kaplı 4 Delikli Kısa Gövde Çelik Çene Çoklandırıcılar&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani&#34;, &#34;name&#34;: &#34;BD-K01 Vinil Kaplı 25mm Çelik Çene Çoklandırıcı Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k02-vinil-kapli-38mm-celik-cene-coklandirici&#34;, &#34;name&#34;: &#34;BD-K02 Vinil Kaplı 38mm Çelik Çene Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k03-paslanmaya-dayanikli-celik-25mm-coklandirici&#34;, &#34;name&#34;: &#34;BD-K03 Paslanmaya Dayanıklı Çelik 25mm Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k04-paslanmaya-dayanikli-celik-38mm-coklandirici&#34;, &#34;name&#34;: &#34;BD-K04 Paslanmaya Dayanıklı Çelik 38mm Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k11-25mm-vinil-kaplamali-aluminyum-coklandirici&#34;, &#34;name&#34;: &#34;BD-K11 25mm Vinil Kaplamalı Alüminyum Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k12-vinil-kaplamali-aluminyum-coklandirici&#34;, &#34;name&#34;: &#34;BD-K12 38mm Vinil Kaplamalı Alüminyum Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k33-paslanmaz-celik-coklandirici&#34;, &#34;name&#34;: &#34;BD-K33/K33X Paslanmaz Çelik Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k34-kirmizi-plastik-sapli-termik-salter-kilitleme&#34;, &#34;name&#34;: &#34;BD-K34 Kırmızı Plastik Saplı Termik Şalter Kilitleme&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k42-standart-6-delikli-plastik-coklandirici&#34;, &#34;name&#34;: &#34;BD-K42 Standart 6 Delikli Plastik Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k43-k44-iletken-olmayan-plastik-coklandirici&#34;, &#34;name&#34;: &#34;BD-K43/K44 İletken Olmayan Plastik Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici&#34;, &#34;name&#34;: &#34;BD-K45/K46 Kaydırmalı İletken Olmayan Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k46-1-plastik-model-termik-kilitleme&#34;, &#34;name&#34;: &#34;BD-K46-1 Plastik Model Termik Kilitleme&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k51-etiketli-celik-coklandirici-ekipmani&#34;, &#34;name&#34;: &#34;BD-K51 Etiketli Çelik Çoklandırıcı Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k52-8-delikli-etiketli-aluminyum-coklandirici&#34;, &#34;name&#34;: &#34;BD-K52 8 Delikli Etiketli Alüminyum Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 16, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k53-aluminyum-buyuk-boy-coklandirici&#34;, &#34;name&#34;: &#34;BD-K53 Etiketli Alüminyum Büyük Boy Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 17, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k54-etiketli-snap-on-aluminyum-coklandirici&#34;, &#34;name&#34;: &#34;BD-K54 Etiketli Snap-on Alüminyum Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 18, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k61-cift-ceneli-aluminyum-coklandirici&#34;, &#34;name&#34;: &#34;BD-K61 Çift Çeneli Alüminyum Çoklandırıcı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 19, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k62-cift-basli-celik-coklandirici&#34;, &#34;name&#34;: &#34;BD-K62 Çift Başlı Çelik Çoklandırıcı Ekipmanı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 20, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k71-aluminyum-buyuk-surgulu-coklandirici&#34;, &#34;name&#34;: &#34;BD-K71 Alüminyum Büyük Sürgülü Çoklandırı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 21, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k24-6-delikli-celik-kancali-plastik-govdeli-coklandirici-38-mm&#34;, &#34;name&#34;: &#34;BD-K24 6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 38 mm&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 22, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k23-6-delikli-celik-kancali-plastik-govdeli-coklandirici-25-mm&#34;, &#34;name&#34;: &#34;BD-K23 6 Delikli Çelik Kancalı Plastik Gövdeli Çoklandırıcı – 25 mm&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 23, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k72-24-delikli-surgulu-aluminyum-coklandirici-25-mm&#34;, &#34;name&#34;: &#34;BD-K72 24 Delikli Sürgülü Alüminyum Çoklandırıcı – 25 mm&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 24, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k41-akrep-tip-6-delikli-plastik-coklandirici-7-mm&#34;, &#34;name&#34;: &#34;BD-K41 Akrep Tip 6 Delikli Plastik Çoklandırıcı – 7 mm&#34;}]}</script>
 </head>
@@ -430,6 +476,6 @@
  <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tüm hakları saklıdır.</span><span>LOTO · EKED · Kilitleme ve Etiketleme Ekipmanları</span></div></div>
 </footer>
 <a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp ile yazın"><svg><use href="#i-wa"/></svg></a>
-<script src="/assets/site.js?v=549ad776" defer></script>
+<script src="/assets/site.js?v=c1a50a09" defer></script>
 </body>
 </html>

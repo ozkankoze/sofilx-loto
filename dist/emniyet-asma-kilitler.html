@@ -1,6 +1,52 @@
 <!doctype html>
 <html lang="tr">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Emniyet Asma Kilitler | Sofilx LOTO</title>
@@ -21,7 +67,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=549ad776">
+<link rel="stylesheet" href="/assets/style.css?v=c1a50a09">
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Emniyet Asma Kilitler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/emniyet-asma-kilitler&#34;}]}</script>
 <script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g17/orj&#34;, &#34;name&#34;: &#34;BD-G17-ORJ Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Turuncu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g01/red&#34;, &#34;name&#34;: &#34;BD-G01-RED Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g02/ylw&#34;, &#34;name&#34;: &#34;BD-G02-YLW Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g03/blue&#34;, &#34;name&#34;: &#34;BD-G03-BLUE Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g04/grn&#34;, &#34;name&#34;: &#34;BD-G04-GRN Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g05/blk&#34;, &#34;name&#34;: &#34;BD-G05-BLK Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g06/white&#34;, &#34;name&#34;: &#34;BD-G06-WHITE Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Beyaz&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g07/orj&#34;, &#34;name&#34;: &#34;BD-G07-ORJ Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Turuncu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g08/prp&#34;, &#34;name&#34;: &#34;BD-G08-PRP Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Mor&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g11/red&#34;, &#34;name&#34;: &#34;BD-G11-RED Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g12/ylw&#34;, &#34;name&#34;: &#34;BD-G12-YLW Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g13/blue&#34;, &#34;name&#34;: &#34;BD-G13-BLUE Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g14/grn&#34;, &#34;name&#34;: &#34;BD-G14-GRN Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g15/blk&#34;, &#34;name&#34;: &#34;BD-G15-BLK Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g16/white&#34;, &#34;name&#34;: &#34;BD-G16-WHITE Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Beyaz&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 16, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g18/prp&#34;, &#34;name&#34;: &#34;BD-G18-PRP Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mor&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 17, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g21/red&#34;, &#34;name&#34;: &#34;BD-G21-RED Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 18, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g22/ylw&#34;, &#34;name&#34;: &#34;BD-G22-YLW Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Sarı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 19, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g23/blue&#34;, &#34;name&#34;: &#34;BD-G23-BLUE Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Mavi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 20, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g24/grn&#34;, &#34;name&#34;: &#34;BD-G24-GRN Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Yeşil&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 21, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g25/blk&#34;, &#34;name&#34;: &#34;BD-G25-BLK Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Siyah&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 22, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g26/white&#34;, &#34;name&#34;: &#34;BD-G26-WHITE Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Beyaz&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 23, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g27/orj&#34;, &#34;name&#34;: &#34;BD-G27-ORJ Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Turuncu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 24, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g28/prp&#34;, &#34;name&#34;: &#34;BD-G28-PRP Çelik Kelepçeli Emniyet Asma Kilit 76 mm – Mor&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 25, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g31/red&#34;, &#34;name&#34;: &#34;BD-G31-RED Naylon Gövdeli Emniyet Asma Kilit 76 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 26, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g32/ylw&#34;, &#34;name&#34;: &#34;BD-G32-YLW Naylon Gövdeli Emniyet Asma Kilit 76 mm – Sarı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 27, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g33/blue&#34;, &#34;name&#34;: &#34;BD-G33-BLUE Naylon Gövdeli Emniyet Asma Kilit 76 mm – Mavi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 28, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g34/grn&#34;, &#34;name&#34;: &#34;BD-G34-GRN Naylon Gövdeli Emniyet Asma Kilit 76 mm – Yeşil&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 29, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g35/blk&#34;, &#34;name&#34;: &#34;BD-G35-BLK Naylon Gövdeli Emniyet Asma Kilit 76 mm – Siyah&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 30, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g36/white&#34;, &#34;name&#34;: &#34;BD-G36-WHITE Naylon Gövdeli Emniyet Asma Kilit 76 mm – Beyaz&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 31, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g37/orj&#34;, &#34;name&#34;: &#34;BD-G37-ORJ Naylon Gövdeli Emniyet Asma Kilit 76 mm – Turuncu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 32, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g38/prp&#34;, &#34;name&#34;: &#34;BD-G38-PRP Naylon Gövdeli Emniyet Asma Kilit 76 mm – Mor&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 33, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g13dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-mavi&#34;, &#34;name&#34;: &#34;BD-G13DP Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Mavi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 34, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g14dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-yesil&#34;, &#34;name&#34;: &#34;BD-G14DP Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Yeşil&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 35, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g11dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-kirmizi&#34;, &#34;name&#34;: &#34;BD-G11DP Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 36, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g15dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-siyah&#34;, &#34;name&#34;: &#34;BD-G15DP Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Siyah&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 37, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g29-plastik-kelepceli-emniyet-asma-kilit-76-mm-kahverengi&#34;, &#34;name&#34;: &#34;BD-G29 Plastik Kelepçeli Emniyet Asma Kilit 76 mm – Kahverengi&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 38, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g12dp-toz-korumali-plastik-kelepceli-emniyet-asma-kilit-38-mm-sari&#34;, &#34;name&#34;: &#34;BD-G12DP Toz Korumalı Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 39, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g01dp-toz-korumali-celik-kelepceli-emniyet-asma-kilit-38-mm-kirmizi&#34;, &#34;name&#34;: &#34;BD-G01DP Toz Korumalı Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 40, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-g02dp-toz-korumali-celik-kelepceli-emniyet-asma-kilit-38-mm-sari&#34;, &#34;name&#34;: &#34;BD-G02DP Toz Korumalı Çelik Kelepçeli Emniyet Asma Kilit 38 mm – Sarı&#34;}]}</script>
 </head>
@@ -310,6 +356,6 @@
  <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tüm hakları saklıdır.</span><span>LOTO · EKED · Kilitleme ve Etiketleme Ekipmanları</span></div></div>
 </footer>
 <a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp ile yazın"><svg><use href="#i-wa"/></svg></a>
-<script src="/assets/site.js?v=549ad776" defer></script>
+<script src="/assets/site.js?v=c1a50a09" defer></script>
 </body>
 </html>
