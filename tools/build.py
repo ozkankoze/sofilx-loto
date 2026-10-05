@@ -299,6 +299,8 @@ vercel = {'cleanUrls': True, 'trailingSlash': False,
           'redirects': [{'source': enc(a), 'destination': b, 'permanent': True} for a, b in R],
           'headers': [{'source': '/assets/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=604800'}]}, {'source': '/assets/fonts/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=31536000, immutable'}]}]}
 json.dump(vercel, open(DIST + 'vercel.json', 'w'), ensure_ascii=False, indent=1)
+# Vercel'de Root Directory boş bırakılırsa da çalışsın: depo kökünde aynı ayarlar + çıktı klasörü dist
+json.dump({'framework': None, 'outputDirectory': 'dist', **vercel}, open(ROOT + 'vercel.json', 'w'), ensure_ascii=False, indent=1)
 open(DIST + '_redirects', 'w').write('\n'.join(f'{enc(a)}  {b}  301' for a, b in R) + '\n')
 ht = ['Options -MultiViews', 'RewriteEngine On', 'RewriteCond %{HTTPS} off [OR]', 'RewriteCond %{HTTP_HOST} !^www\\. [NC]',
       'RewriteRule ^ https://www.sofilxloto.com%{REQUEST_URI} [L,R=301]']
