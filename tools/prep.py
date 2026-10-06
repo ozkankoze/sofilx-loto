@@ -257,6 +257,14 @@ def main():
         products.append(dict(code=n['code'], name=r['name'], path='/' + stem, ls_path=None, cat=n['cat'], images=imgs, variant=None,
                              summary=r['summary'], intro=r['intro'], feats=r['feats'], specs=r.get('specs', []), pack=[], notes=[],
                              usage=r.get('usage', []), old_url=n['old_url']))
+    # --- müşterinin eklediği yeni setler (görseller: tools/yeni_setler_img.py -> out_yeni/) ---
+    for n in json.load(open(ROOT + 'data/yeni_setler.json')):
+        stem = slugify(n['code'] + '-' + n['name'])
+        assert n['cat'] in CK
+        imgs = [export_img(ROOT + f'out_yeni/{n["img"]}.png', f'{stem}-1')]
+        products.append(dict(code=n['code'], name=n['name'], path='/' + stem, ls_path=None, cat=n['cat'], images=imgs, variant=None,
+                             summary=n['summary'], intro=n['intro'], feats=n['feats'], specs=n['specs'], pack=n['pack'], notes=[],
+                             usage=n['usage']))
     json.dump(dict(products=products, cats=CATS, redirects=redirects),
               open(ROOT + 'data/urunler.json', 'w'), ensure_ascii=False, indent=1)
     print(len(products), 'ürün,', sum(len(p['images']) for p in products), 'görsel,', len(redirects), 'yönlendirme')
