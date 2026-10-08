@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sofilx LOTO | LOTO Lockout and Tagout Equipment</title>
+<meta name="description" content="Safety padlocks, circuit breaker, valve and cable lockouts, lockout stations and sets. OSHA-compliant LOTO equipment since 2010, fast delivery.">
+<link rel="canonical" href="https://www.sofilxloto.com/en">
+<link rel="alternate" hreflang="tr" href="https://www.sofilxloto.com/">
+<link rel="alternate" hreflang="en" href="https://www.sofilxloto.com/en">
+<link rel="alternate" hreflang="fr" href="https://www.sofilxloto.com/fr">
+<link rel="alternate" hreflang="de" href="https://www.sofilxloto.com/de">
+<link rel="alternate" hreflang="es" href="https://www.sofilxloto.com/es">
+<link rel="alternate" hreflang="ru" href="https://www.sofilxloto.com/ru">
+<link rel="alternate" hreflang="it" href="https://www.sofilxloto.com/it">
+<link rel="alternate" hreflang="x-default" href="https://www.sofilxloto.com/"><meta name="theme-color" content="#141414">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sofilx LOTO">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Sofilx LOTO | LOTO Lockout and Tagout Equipment">
+<meta property="og:description" content="Safety padlocks, circuit breaker, valve and cable lockouts, lockout stations and sets. OSHA-compliant LOTO equipment since 2010, fast delivery.">
+<meta property="og:url" content="https://www.sofilxloto.com/en">
+<meta property="og:image" content="https://www.sofilxloto.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/sofilx-ikon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/en/site.webmanifest">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=b68fe545">
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;Organization&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;logo&#34;: &#34;https://www.sofilxloto.com/assets/icon-512.png&#34;, &#34;email&#34;: &#34;info@sofilxloto.com&#34;, &#34;telephone&#34;: &#34;+902166063206&#34;, &#34;foundingDate&#34;: &#34;2010&#34;, &#34;address&#34;: {&#34;@type&#34;: &#34;PostalAddress&#34;, &#34;streetAddress&#34;: &#34;Altınşehir Mah. Ermiş Sk. No:12A&#34;, &#34;addressLocality&#34;: &#34;Ümraniye&#34;, &#34;addressRegion&#34;: &#34;İstanbul&#34;, &#34;addressCountry&#34;: &#34;TR&#34;}, &#34;sameAs&#34;: [&#34;https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/&#34;]}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;WebSite&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;potentialAction&#34;: {&#34;@type&#34;: &#34;SearchAction&#34;, &#34;target&#34;: &#34;https://www.sofilxloto.com/urunler?q={q}&#34;, &#34;query-input&#34;: &#34;required name=q&#34;}}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;FAQPage&#34;, &#34;mainEntity&#34;: [{&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;LOTO (EKED) nedir?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Lockout/Tagout ya da Türkçe adıyla Enerji Kontrolü Etiketleme ve Kilitleme; bakım, onarım ve temizlik sırasında makinelerin enerjisinin kesilip kilitlenerek beklenmedik şekilde çalışmasının önlendiği güvenlik prosedürüdür.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Hangi asma kilidi seçmeliyim?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Elektrik işlerinde iletken olmayan plastik kelepçeli kilitler, genel kullanımda çelik kelepçeli kilitler önerilir. 38 mm kelepçe çoğu kilitleme cihazına uyar; çoklandırıcılarda 76 mm kelepçe daha rahat kullanım sağlar.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Kilitler aynı anahtarla açılabilir mi?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Evet. Farklı anahtarlı (her kilit kendi anahtarı), aynı anahtarlı (bir grup kilit tek anahtar) ve master anahtarlı sistemler hazırlayabiliyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Şalterime uygun kilidi nasıl bulurum?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Şalterin marka/modelini ya da net bir fotoğrafını WhatsApp üzerinden göndermeniz yeterli; uygun kilitleme ekipmanını size bildiriyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Teslimat süresi ne kadar?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Stokta bulunan ürünler genellikle aynı gün veya ertesi iş günü kargoya verilir. Toplu siparişlerde termin bilgisini teklifle birlikte iletiyoruz.&#34;}}, {&#34;@type&#34;: &#34;Question&#34;, &#34;name&#34;: &#34;Fatura ve toplu alım yapıyor musunuz?&#34;, &#34;acceptedAnswer&#34;: {&#34;@type&#34;: &#34;Answer&#34;, &#34;text&#34;: &#34;Kurumsal faturalı satış yapıyoruz; toplu alımlarda ve setlerde size özel fiyat teklifi hazırlıyoruz.&#34;}}]}</script>
+<script>window.SFX_I18N={"teklif sepetine eklendi": "added to quote cart", "Sepete git": "Go to cart", "Eklendi": "Added", "Azalt": "Decrease", "Adet": "Quantity", "Arttır": "Increase", "Kaldır": "Remove", "Merhaba, aşağıdaki ürünler için fiyat teklifi rica ediyorum:": "Hello, I would like to request a price quote for the following products:", "Ad Soyad": "Full Name", "Firma": "Company", "Telefon": "Phone", "E-posta": "Email", "Not": "Note", "Teklif talebi": "Quote request", "ürün": "products", "Web sitesi mesajı": "Website message", "Dil": "Language"};</script></head>
+<body>
+<a class="skip" href="#icerik">Skip to content</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-phone" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"></path></symbol>
+ <symbol id="i-mail" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 6-10 7L2 6"></path></symbol>
+ <symbol id="i-pin" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+ <symbol id="i-wa" viewbox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 0 1 12 2.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8zm8.4-18.2A11.8 11.8 0 0 0 1.6 17.9L0 24l6.3-1.6a11.8 11.8 0 0 0 5.7 1.4A11.8 11.8 0 0 0 20.4 3.6z"></path></symbol>
+ <symbol id="i-cart" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11V7a3 3 0 0 1 6 0v4"></path><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M12 15v3"></path></symbol>
+ <symbol id="i-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></symbol>
+ <symbol id="i-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></symbol>
+ <symbol id="i-down" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></symbol>
+ <symbol id="i-arrow" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></symbol>
+ <symbol id="i-shield" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+ <symbol id="i-truck" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7z"></path><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></symbol>
+ <symbol id="i-tool" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"></path></symbol>
+ <symbol id="i-lock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path></symbol>
+ <symbol id="i-chat" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></symbol>
+ <symbol id="i-check" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></symbol>
+ <symbol id="i-tag" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z"></path><circle cx="7" cy="7" r="1.5"></circle></symbol>
+</svg>
+
+<div class="topbar"><div class="wrap">
+ <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg>(0216) 606 32 06</a>
+ <a href="https://wa.me/905523508446" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"></use></svg>(0552) 350 84 46</a>
+ <a href="mailto:info@sofilxloto.com" class="hide-s"><svg><use href="#i-mail"></use></svg>info@sofilxloto.com</a>
+ <span class="since">LOTO since 2010</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Language: English"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15"><b>EN</b><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden><a href="/" hreflang="tr" lang="tr" role="menuitem" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en" hreflang="en" lang="en" role="menuitem" data-l="en" aria-current="true"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr" hreflang="fr" lang="fr" role="menuitem" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de" hreflang="de" lang="de" role="menuitem" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es" hreflang="es" lang="es" role="menuitem" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru" hreflang="ru" lang="ru" role="menuitem" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it" hreflang="it" lang="it" role="menuitem" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div>
+ </div>
+</div></div>
+
+<header class="hdr"><div class="wrap">
+ <a class="logo" href="/en" aria-label="Sofilx LOTO home page"><img src="/assets/sofilx-logo.svg" alt="Sofilx LOTO" width="196" height="42"></a>
+ <nav class="nav" id="nav" aria-label="Main menu">
+  <a href="/en" aria-current="page">Home</a>
+  <div class="dd">
+   <button type="button" aria-expanded="false" aria-controls="mega">Products <svg><use href="#i-down"></use></svg></button>
+   <div class="mega" id="mega">
+<a href="/en/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Safety Padlocks</b><small>40 products</small></span></a><a href="/en/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Circuit Breaker and Switch Lockouts</b><small>26 products</small></span></a><a href="/en/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Valve Lockout Equipment</b><small>36 products</small></span></a><a href="/en/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Cable Lockout Equipment</b><small>12 products</small></span></a><a href="/en/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Lockout Hasps</b><small>24 products</small></span></a><a href="/en/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Electrical and Pneumatic Lockout</b><small>9 products</small></span></a><a href="/en/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Lockout Stations</b><small>25 products</small></span></a><a href="/en/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Group Lock Boxes and Bags</b><small>17 products</small></span></a><a href="/en/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>LOTO Sets</b><small>33 products</small></span></a><a href="/en/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Danger Warning Tags</b><small>15 products</small></span></a>    <a class="all" href="/en/urunler">All products (237)</a>
+   </div>
+  </div>
+  <a href="/en/hakkimizda">Corporate</a>
+  <a href="/en/referanslar">References</a>
+  <a href="/en/loto-rehberi">LOTO Guide</a>
+  <a href="/en/blog">Blog</a>
+  <a href="/en/iletisim">Contact</a>
+ <div class="mlang"><p><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"></path></svg><span>Language</span></p><div data-i18n-skip><a href="/" hreflang="tr" lang="tr" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en" hreflang="en" lang="en" data-l="en" aria-current="true"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr" hreflang="fr" lang="fr" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de" hreflang="de" lang="de" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es" hreflang="es" lang="es" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru" hreflang="ru" lang="ru" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it" hreflang="it" lang="it" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div></div>
+ </nav>
+ <div class="hdr-tools">
+  <a class="icon-btn" href="/en/urunler#q" aria-label="Search products"><svg><use href="#i-search"></use></svg></a>
+  <a class="icon-btn" href="/en/teklif" aria-label="Quote cart"><svg><use href="#i-cart"></use></svg><span class="cart-n" data-n="0">0</span></a>
+  <button class="icon-btn burger" type="button" aria-label="Menu" aria-controls="nav" aria-expanded="false"><svg><use href="#i-menu"></use></svg></button>
+ </div>
+</div></header>
+
+<main id="icerik">
+<section class="hero"><div class="wrap">
+ <div>
+  <div class="eyebrow">LOTO Equipment</div>
+  <h1>Cut the energy.<br><em>Lock out the risk.</em></h1>
+  <p class="lead">Lockout and tagout equipment that prevents machines from starting unexpectedly during maintenance, repair and cleaning. 237 products from padlocks to complete kits, fast delivery from stock.</p>
+  <div class="ctas"><a class="btn btn-red" href="/en/urunler">View products <svg><use href="#i-arrow"></use></svg></a><a class="btn btn-light" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Request a quote on WhatsApp</a></div>
+ </div>
+ <div class="tagstage" aria-hidden="true">
+  <div class="tagring"></div>
+  <div class="tagswing">
+   <svg class="taglock" viewbox="0 0 120 150">
+    <defs>
+     <lineargradient id="shk" x1="0" x2="1"><stop offset="0" stop-color="#8d9196"></stop><stop offset=".45" stop-color="#eef0f2"></stop><stop offset="1" stop-color="#7c8086"></stop></lineargradient>
+     <lineargradient id="bdy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e2434a"></stop><stop offset="1" stop-color="#a81c23"></stop></lineargradient>
+    </defs>
+    <path d="M32 72V40a28 28 0 0 1 56 0v32" fill="none" stroke="url(#shk)" stroke-width="13" stroke-linecap="round"></path>
+    <rect x="12" y="62" width="96" height="80" rx="16" fill="url(#bdy)"></rect>
+    <rect x="12" y="62" width="96" height="10" rx="5" fill="#fff" opacity=".18"></rect>
+    <circle cx="60" cy="95" r="9" fill="#1a1a1a"></circle><path d="M55 99h10l-2.5 17h-5z" fill="#1a1a1a"></path>
+    <text x="60" y="133" text-anchor="middle" font-family="Barlow Condensed,Arial Narrow,sans-serif" font-weight="700" font-size="10.5" letter-spacing="2.5" fill="#fff" opacity=".92">SOFİLX</text>
+   </svg>
+   <div class="tag">
+    <div class="tag-head"><div><small>LOTO / EKED</small><b>Danger · Locked</b></div><span class="tag-num">237<small>products</small></span></div>
+    <div class="tag-body">
+     <div class="tag-who"><i><svg><use href="#i-lock"></use></svg></i><div><small>Locked by</small><b>Sofilx LOTO</b></div><div class="tag-date"><small>Date</small><b>Since 2010</b></div></div>
+     <ol>
+      <li><span>1</span>Safety padlocks</li>
+      <li><span>2</span>Circuit breaker and valve lockouts</li>
+      <li><span>3</span>Lockout hasps and cable lockouts</li>
+      <li><span>4</span>Lockout stations and kits</li>
+      <li><span>5</span>Same-day quote and shipping</li>
+     </ol>
+     <p class="tag-warn">This tag may only be removed by the person who applied it.</p>
+    </div>
+    <div class="tag-foot"><span>SOFİLX LOTO</span><span>OSHA 29 CFR 1910.147</span></div>
+   </div>
+  </div>
+ </div>
+</div></section>
+<section class="stats"><div class="wrap">
+ <div class="stat"><b>2010</b><span>in the industry since</span></div>
+ <div class="stat"><b>237+</b><span>LOTO product</span></div>
+ <div class="stat"><b>10</b><span>product categories</span></div>
+ <div class="stat"><b>8 colors</b><span>safety padlock option</span></div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Categories</div><h2>A lock for every energy source</h2></div><p>From electrical panels to valves, from plugs to pneumatic lines, find the right lockout equipment by category.</p></div>
+ <div class="cats">
+<a class="cat reveal" href="/en/emniyet-asma-kilitler"><div class="im"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="Safety Padlocks" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Safety Padlocks</h3><small>40 products</small></div></a><a class="cat reveal" href="/en/salter-kilitleme-ekipmanlari"><div class="im"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="Circuit Breaker and Switch Lockouts" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Circuit Breaker and Switch Lockouts</h3><small>26 products</small></div></a><a class="cat reveal" href="/en/vana-kilitleme-ekipmanlari"><div class="im"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="Valve Lockout Equipment" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Valve Lockout Equipment</h3><small>36 products</small></div></a><a class="cat reveal" href="/en/kablo-kilitleme-ekipmanlari"><div class="im"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="Cable Lockout Equipment" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Cable Lockout Equipment</h3><small>12 products</small></div></a><a class="cat reveal" href="/en/kilit-coklandiricilar"><div class="im"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="Lockout Hasps" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Lockout Hasps</h3><small>24 products</small></div></a><a class="cat reveal" href="/en/elektrik-pnomatik-kilitleme-ekipmanlari"><div class="im"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="Electrical and Pneumatic Lockout" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Electrical and Pneumatic Lockout</h3><small>9 products</small></div></a><a class="cat reveal" href="/en/lockout-istasyon-canta"><div class="im"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="Lockout Stations" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Lockout Stations</h3><small>25 products</small></div></a><a class="cat reveal" href="/en/grup-kilit-kutusu"><div class="im"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="Group Lock Boxes and Bags" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Group Lock Boxes and Bags</h3><small>17 products</small></div></a><a class="cat reveal" href="/en/set-urunler"><div class="im"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="LOTO Sets" width="520" height="520" loading="lazy"></div><div class="tx"><h3>LOTO Sets</h3><small>33 products</small></div></a><a class="cat reveal" href="/en/tehlike-etiketleri"><div class="im"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="Danger Warning Tags" width="520" height="520" loading="lazy"></div><div class="tx"><h3>Danger Warning Tags</h3><small>15 products</small></div></a> </div>
+</div></section>
+
+<section class="sec sec-ink"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">How is LOTO applied?</div><h2>Safe Energy Isolation in 6 Steps</h2></div><p>Equipment is only useful together with the right procedure. You can find the details in <a href="/en/loto-rehberi" style="color:#fff">our LOTO guide</a>.</p></div>
+ <div class="steps reveal">
+  <div class="step"><h3>Preparation</h3><p>Identify the machine's energy sources and isolation points.</p></div>
+  <div class="step"><h3>Notice</h3><p>Inform all affected employees about the shutdown.</p></div>
+  <div class="step"><h3>Shut-off</h3><p>Shut down the equipment using the normal stopping procedure.</p></div>
+  <div class="step"><h3>Isolation</h3><p>Cut energy off at its source with circuit breakers, valves and connections.</p></div>
+  <div class="step"><h3>Lock + Tag</h3><p>Each worker fits their own lock and personal tag.</p></div>
+  <div class="step"><h3>Verification</h3><p>Verify the zero-energy state by attempting to start the equipment.</p></div>
+ </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Ready-made sets</div><h2>Complete LOTO in a single package</h2></div><a class="btn btn-line" href="/en/set-urunler">All kits <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="grid"><article class="pc" data-cat="set" data-s="BD-X02C Personal Safety Lockout Set View + Quote BD-X02C Kişisel Güvenlik Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/en/bd-x02c-kisisel-guvenlik-kilitleme-seti"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="BD-X02C Personal Safety Lockout Kit" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X02C</span>
+  <h3><a href="/en/bd-x02c-kisisel-guvenlik-kilitleme-seti">Personal Safety Lockout Set</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-x02c-kisisel-guvenlik-kilitleme-seti">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X02C" data-name="Personal Safety Lockout Set" data-img="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" data-url="/en/bd-x02c-kisisel-guvenlik-kilitleme-seti">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-8773D 3-Compartment V Automatic Electrician LOTO Kit View + Quote BD-8773D 3 Gözlü V Otomat Elektrikçi Loto Seti LOTO Setleri ">
+ <a class="im" href="/en/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti"><img src="/assets/urunler/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti-1-k.webp" alt="BD-8773D 3-Compartment V Circuit Breaker Electrician LOTO Kit" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-8773D</span>
+  <h3><a href="/en/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">3-Compartment V Automatic Electrician LOTO Kit</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-8773D" data-name="3-Compartment V Automatic Electrician LOTO Kit" data-img="/assets/urunler/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti-1-k.webp" data-url="/en/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X07UN Universal Lockout Kit View + Quote BD-X07UN Universal Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/en/bd-x07un-universal-kilitleme-seti"><img src="/assets/urunler/bd-x07un-universal-kilitleme-seti-1-k.webp" alt="BD-X07UN Universal Lockout Kit" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X07UN</span>
+  <h3><a href="/en/bd-x07un-universal-kilitleme-seti">Universal Lockout Kit</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-x07un-universal-kilitleme-seti">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X07UN" data-name="Universal Lockout Kit" data-img="/assets/urunler/bd-x07un-universal-kilitleme-seti-1-k.webp" data-url="/en/bd-x07un-universal-kilitleme-seti">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PR-U07 Professional Extended Large LOTO Set View + Quote BD-PR-U07 Profesyonel Geniş Kapsamlı Büyük Loto Seti LOTO Setleri ">
+ <a class="im" href="/en/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti"><img src="/assets/urunler/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti-1-k.webp" alt="BD-PR-U07 Professional Comprehensive Large LOTO Kit" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PR-U07</span>
+  <h3><a href="/en/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">Professional Extended Large LOTO Set</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PR-U07" data-name="Professional Extended Large LOTO Set" data-img="/assets/urunler/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti-1-k.webp" data-url="/en/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">+ Quote</button>
+  </div>
+ </div>
+</article></div>
+</div></section>
+
+<section class="sec sec-paper"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Most popular</div><h2>Featured products</h2></div><a class="btn btn-line" href="/en/urunler">All products <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="grid"><article class="pc" data-cat="asma" data-s="BD-G11-RED Plastic Shackle Safety Padlock 38 mm – Red View + Quote BD-G11-RED Plastik Kelepçeli Emniyet Asma Kilit 38 mm – Kırmızı Emniyet Asma Kilitler ">
+ <a class="im" href="/en/bd-g11/red"><img src="/assets/urunler/bd-g11-red-1-k.webp" alt="BD-G11-RED Plastic Shackle Safety Padlock 38 mm – Red" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-G11-RED</span>
+  <h3><a href="/en/bd-g11/red">Plastic Shackle Safety Padlock 38 mm – Red</a></h3>
+<div class="sw" aria-label="Colour options"><i style="background:#d32f2f" title="Red"></i><i style="background:#f2c200" title="Yellow"></i><i style="background:#1e5bd8" title="Blue"></i><i style="background:#2e9d4b" title="Green"></i><i style="background:#1d1d1d" title="Black"></i><i style="background:#ffffff" title="White"></i><i style="background:#f07a1a" title="Orange"></i><i style="background:#7b3fb5" title="Purple"></i></div>  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-g11/red">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-G11-RED" data-name="Plastic Shackle Safety Padlock 38 mm – Red" data-img="/assets/urunler/bd-g11-red-1-k.webp" data-url="/en/bd-g11/red">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="salter" data-s="BD-D11N Clamp-Type Fuse Lockout Equipment View + Quote BD-D11N Kelepçeli Sigorta Kilitleme Ekipmanı Şalter ve Devre Kesici Kilitleri ">
+ <a class="im" href="/en/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="BD-D11N Clamp-Type Fuse Lockout" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-D11N</span>
+  <h3><a href="/en/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani">Clamp-Type Fuse Lockout Equipment</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-D11N" data-name="Clamp-Type Fuse Lockout Equipment" data-img="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" data-url="/en/bd-d11nx/kelepceli-sigorta-kilitleme-ekipmani">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="vana" data-s="BD-F01 Adjustable Ball Valve Lockout View + Quote BD-F01 Ayarlanabilir Küresel Vana Kilitleme Vana Kilitleme Ekipmanları ">
+ <a class="im" href="/en/bd-f01-ayarlanabilir-kuresel-vana-kilitleme"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="BD-F01 Adjustable Ball Valve Lockout" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-F01</span>
+  <h3><a href="/en/bd-f01-ayarlanabilir-kuresel-vana-kilitleme">Adjustable Ball Valve Lockout</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-f01-ayarlanabilir-kuresel-vana-kilitleme">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-F01" data-name="Adjustable Ball Valve Lockout" data-img="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" data-url="/en/bd-f01-ayarlanabilir-kuresel-vana-kilitleme">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="kablo" data-s="BD-L41 Retractable Cable Lockout Equipment View + Quote BD-L41 Geri Çekilebilir Kablo Kilitleme Ekipmanı Kablo Kilitleme Ekipmanları ">
+ <a class="im" href="/en/bd-l41/geri-cekilebilir-kablo-kilidi"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="BD-L41 Retractable Cable Lockout Device" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-L41</span>
+  <h3><a href="/en/bd-l41/geri-cekilebilir-kablo-kilidi">Retractable Cable Lockout Equipment</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-l41/geri-cekilebilir-kablo-kilidi">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-L41" data-name="Retractable Cable Lockout Equipment" data-img="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" data-url="/en/bd-l41/geri-cekilebilir-kablo-kilidi">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="coklandirici" data-s="BD-K45/K46 Sliding Non-Conductive Lockout Hasp View + Quote BD-K45/K46 Kaydırmalı İletken Olmayan Çoklandırıcı Kilit Çoklandırıcılar ">
+ <a class="im" href="/en/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici"><img src="/assets/urunler/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici-1-k.webp" alt="BD-K45/K46 Sliding Non-Conductive Lockout Hasp" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-K45/K46</span>
+  <h3><a href="/en/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici">Sliding Non-Conductive Lockout Hasp</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-K45/K46" data-name="Sliding Non-Conductive Lockout Hasp" data-img="/assets/urunler/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici-1-k.webp" data-url="/en/bd-k45-k46-kaydirmali-iletken-olmayan-coklandirici">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-8812S Group LOTO Box Set View + Quote BD-8812S Grup Loto Kutusu Seti LOTO Setleri ">
+ <a class="im" href="/en/bd-8812s-grup-loto-kutusu-seti"><img src="/assets/urunler/bd-8812s-grup-loto-kutusu-seti-1-k.webp" alt="BD-8812S Group LOTO Box Kit" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-8812S</span>
+  <h3><a href="/en/bd-8812s-grup-loto-kutusu-seti">Group LOTO Box Set</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-8812s-grup-loto-kutusu-seti">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-8812S" data-name="Group LOTO Box Set" data-img="/assets/urunler/bd-8812s-grup-loto-kutusu-seti-1-k.webp" data-url="/en/bd-8812s-grup-loto-kutusu-seti">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="etiket" data-s='BD-LT05 Hanging LOTO Warning Tag "Keep Locked" View + Quote BD-LT05 Kilitli Tutma Askılı Eked Uyarı Levhası Tehlike Uyarı Etiketleri '>
+ <a class="im" href="/en/bd-lt05/kilitli-tutma-askili-eked-uyari-levhasi"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt='BD-LT05 Hanging LOTO Warning Sign "KİLİTLİ TUTMA" (Keep Locked)' width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-LT05</span>
+  <h3><a href="/en/bd-lt05/kilitli-tutma-askili-eked-uyari-levhasi">Hanging LOTO Warning Tag "Keep Locked"</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-lt05/kilitli-tutma-askili-eked-uyari-levhasi">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-LT05" data-name='Hanging LOTO Warning Tag "Keep Locked"' data-img="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" data-url="/en/bd-lt05/kilitli-tutma-askili-eked-uyari-levhasi">+ Quote</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="pnomatik" data-s="BD-D31 Combination Electrical and Pneumatic Plug Lockout Device View + Quote BD-D31 Kombinasyon Elektrik ve Pnömatik Fiş Kilitleme Ekipmanı Elektrik ve Pnömatik Kilitleme ">
+ <a class="im" href="/en/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="BD-D31 Combination Electrical and Pneumatic Plug Lockout" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-D31</span>
+  <h3><a href="/en/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani">Combination Electrical and Pneumatic Plug Lockout Device</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/en/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani">View</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-D31" data-name="Combination Electrical and Pneumatic Plug Lockout Device" data-img="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" data-url="/en/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani">+ Quote</button>
+  </div>
+ </div>
+</article></div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Why Sofilx?</div><h2>More than equipment</h2></div></div>
+ <div class="why">
+  <div class="reveal"><svg><use href="#i-shield"></use></svg><h3>Standards-compliant</h3><p>Our products comply with the requirements of OSHA 29 CFR 1910.147 and occupational safety legislation.</p></div>
+  <div class="reveal"><svg><use href="#i-truck"></use></svg><h3>Fast delivery</h3><p>We ship in-stock products the same day and support urgent orders within Istanbul.</p></div>
+  <div class="reveal"><svg><use href="#i-tool"></use></svg><h3>Technical support</h3><p>Which lockout fits which breaker? Send us a photo and let's choose the right equipment together.</p></div>
+  <div class="reveal"><svg><use href="#i-lock"></use></svg><h3>Customized</h3><p>Colour-coded locks, keyed-alike/keyed-different key systems and name-personalized tag options.</p></div>
+ </div>
+</div></section>
+
+<section class="cta"><div class="wrap">
+ <div><h2>Bulk purchase or special requirement?</h2><p>Add products to the quote cart or message us directly on WhatsApp; we will get back to you the same day.</p></div>
+ <div class="btns"><a class="btn btn-ink" href="/en/teklif"><svg><use href="#i-cart"></use></svg>Quote cart</a><a class="btn btn-light" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>WhatsApp</a></div>
+</div></section>
+<section class="sec"><div class="wrap">
+ <div class="sec-head reveal"><div><div class="eyebrow">Blog</div><h2>Safe work notes</h2></div><a class="btn btn-line" href="/en/blog">All articles <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="posts"><a class="post-card reveal" href="/en/blog/eked-loto-egitimi-rehberi"><div class="cover cover-img"><img src="/assets/blog/eked-loto-egitimi-rehberi-k.webp" alt="LOTO Training Guide: What You Need to Know for Safe Work" width="600" height="315" loading="lazy"></div><div class="bd"><small>October 30, 2024 · 3 min read</small><h3>LOTO Training Guide: What You Need to Know for Safe Work</h3><span class="more">Read more →</span></div></a><a class="post-card reveal" href="/en/blog/dogru-eked-ekipmaninin-onemi"><div class="cover cover-img"><img src="/assets/blog/dogru-eked-ekipmaninin-onemi-k.webp" alt="The Importance of the Right LOTO Equipment: The Cornerstone of Workplace Safety" width="600" height="315" loading="lazy"></div><div class="bd"><small>June 13, 2024 · 2 min read</small><h3>The Importance of the Right LOTO Equipment: The Cornerstone of Workplace Safety</h3><span class="more">Read more →</span></div></a><a class="post-card reveal" href="/en/blog/emniyet-asma-kilitler"><div class="cover cover-img"><img src="/assets/blog/emniyet-asma-kilitler-k.webp" alt="Safety Padlocks: The Key to Improving Workplace Safety" width="600" height="315" loading="lazy"></div><div class="bd"><small>June 12, 2024 · 2 min read</small><h3>Safety Padlocks: The Key to Improving Workplace Safety</h3><span class="more">Read more →</span></div></a></div>
+</div></section>
+
+<section class="sec sec-paper"><div class="wrap split">
+ <div class="reveal"><div class="eyebrow">FAQ</div><h2>Frequently asked questions about LOTO</h2><p style="color:var(--muted)">If you cannot find the answer you are looking for, you can reach us by phone or WhatsApp.</p><a class="btn btn-ink" href="/en/iletisim">Contact us</a></div>
+ <div class="faq"><details open><summary>What is LOTO?</summary><div>Lockout/Tagout, known in Turkish as Energy Control Tagging and Lockout, is the safety procedure in which a machine's energy is cut off and locked out during maintenance, repair and cleaning to prevent unexpected start-up.</div></details><details><summary>Which padlock should I choose?</summary><div>For electrical work, locks with non-conductive plastic shackles are recommended; for general use, locks with steel shackles. A 38 mm shackle fits most lockout devices; on hasps, a 76 mm shackle is more comfortable to use.</div></details><details><summary>Can the padlocks be opened with the same key?</summary><div>Yes. We can prepare keyed-different (each lock with its own key), keyed-alike (a group of locks with one key) and master-keyed systems.</div></details><details><summary>How do I find the right lock for my circuit breaker?</summary><div>Just send the brand/model of your circuit breaker or a clear photo via WhatsApp, and we will tell you the suitable lockout equipment.</div></details><details><summary>What is the delivery time?</summary><div>In-stock products are usually shipped the same day or the next business day. For bulk orders, we provide lead time information together with the quote.</div></details><details><summary>Do you issue invoices and take bulk orders?</summary><div>We sell with corporate invoicing; for bulk purchases and sets we prepare a custom price quote for you.</div></details></div>
+</div></section>
+</main>
+
+<div class="hazard" aria-hidden="true"></div>
+<footer class="ftr">
+ <div class="wrap">
+  <div>
+   <a class="logo" href="/en"><img src="/assets/sofilx-logo-beyaz.svg" alt="Sofilx LOTO" width="187" height="40" loading="lazy"></a>
+   <p>Since 2010 we have been supplying industrial facilities with LOTO lockout and tagout equipment. Our products comply with the requirements of OSHA 29 CFR 1910.147.</p>
+  </div>
+  <div><h3>Products</h3><ul><li><a href="/en/emniyet-asma-kilitler">Safety Padlocks</a></li><li><a href="/en/salter-kilitleme-ekipmanlari">Circuit Breaker and Switch Lockouts</a></li><li><a href="/en/vana-kilitleme-ekipmanlari">Valve Lockout Equipment</a></li><li><a href="/en/kablo-kilitleme-ekipmanlari">Cable Lockout Equipment</a></li><li><a href="/en/kilit-coklandiricilar">Lockout Hasps</a></li><li><a href="/en/elektrik-pnomatik-kilitleme-ekipmanlari">Electrical and Pneumatic Lockout</a></li><li><a href="/en/urunler">All products →</a></li></ul></div>
+  <div><h3>Sofilx</h3><ul><li><a href="/en/hakkimizda">About Us</a></li><li><a href="/en/referanslar">References</a></li><li><a href="/en/loto-rehberi">LOTO Guide</a></li><li><a href="/en/blog">Blog</a></li><li><a href="/en/teklif">Quote Cart</a></li><li><a href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Product Catalog (PDF)</a></li><li><a href="/en/iletisim">Contact</a></li><li><a href="/en/gizlilik-politikasi">Privacy Policy</a></li></ul></div>
+  <div><h3>Contact</h3><ul>
+   <li><a href="tel:+902166063206">(0216) 606 32 06</a></li>
+   <li><a href="tel:+905523508446">(0552) 350 84 46</a></li>
+   <li><a href="mailto:info@sofilxloto.com">info@sofilxloto.com</a></li>
+   <li>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul</li>
+<li><a href="https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/" rel="noopener" target="_blank">LinkedIn</a></li>  </ul></div>
+ </div>
+ <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. All rights reserved.</span><span>LOTO · Lockout and Tagout Equipment</span></div></div>
+</footer>
+<a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="Message us on WhatsApp"><svg><use href="#i-wa"></use></svg></a>
+<script src="/assets/site.js?v=b68fe545" defer></script>
+</body>
+</html>

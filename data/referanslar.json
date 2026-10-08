@@ -4,49 +4,49 @@
   {
    "key": "enerji",
    "ad": "Enerji ve Petrokimya",
-   "kisa": "ENERJİ",
+   "kisa": "Enerji",
    "metin": "Rafineri, santral ve enerji dağıtım tesislerinde yüksek riskli izolasyon noktaları için kilitleme ve etiketleme."
   },
   {
    "key": "metal",
    "ad": "Metal ve Çelik",
-   "kisa": "METAL",
+   "kisa": "Metal",
    "metin": "Haddehane, döküm ve çelik hatlarındaki uzun bakım duruşlarında grup kilitleme çözümleri."
   },
   {
    "key": "cimento",
    "ad": "Çimento ve Yapı",
-   "kisa": "ÇİMENTO",
+   "kisa": "Çimento",
    "metin": "Çimento fabrikaları, panel ve yapı malzemesi tesislerinde değirmen, fırın ve konveyör bakımı."
   },
   {
    "key": "kimya",
    "ad": "Kimya ve İlaç",
-   "kisa": "KİMYA",
+   "kisa": "Kimya",
    "metin": "Kimya, kozmetik ve ilaç üretiminde vana, hat ve pnömatik kaynakların güvenli izolasyonu."
   },
   {
    "key": "otomotiv",
    "ad": "Otomotiv ve Makine",
-   "kisa": "OTOMOTİV",
+   "kisa": "Otomotiv",
    "metin": "Otomotiv yan sanayi ve makine imalatında pres, robot hücresi ve tezgâh bakımları."
   },
   {
    "key": "gida",
    "ad": "Gıda ve İçecek",
-   "kisa": "GIDA",
+   "kisa": "Gıda",
    "metin": "Hijyen temizliği ve hat değişimleri sırasında dolum, paketleme ve proses makinelerinin kilitlenmesi."
   },
   {
    "key": "ambalaj",
    "ad": "Ambalaj ve Plastik",
-   "kisa": "AMBALAJ",
+   "kisa": "Ambalaj",
    "metin": "Enjeksiyon, ekstrüzyon ve baskı makinelerinde kalıp değişimi ve arıza müdahaleleri."
   },
   {
    "key": "hizmet",
    "ad": "Hizmet ve Altyapı",
-   "kisa": "HİZMET",
+   "kisa": "Hizmet",
    "metin": "Telekomünikasyon, su, atık ve kamu altyapı tesislerinde teknik bakım ekipleri."
   }
  ],

@@ -1,0 +1,582 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kits LOTO | Sofilx LOTO</title>
+<meta name="description" content="Kits prêts à l'emploi pour le verrouillage personnel, électrique, mécanique et de vannes. 33 produits, conformes OSHA, livraison rapide depuis le stock.">
+<link rel="canonical" href="https://www.sofilxloto.com/fr/set-urunler">
+<link rel="alternate" hreflang="tr" href="https://www.sofilxloto.com/set-urunler">
+<link rel="alternate" hreflang="en" href="https://www.sofilxloto.com/en/set-urunler">
+<link rel="alternate" hreflang="fr" href="https://www.sofilxloto.com/fr/set-urunler">
+<link rel="alternate" hreflang="de" href="https://www.sofilxloto.com/de/set-urunler">
+<link rel="alternate" hreflang="es" href="https://www.sofilxloto.com/es/set-urunler">
+<link rel="alternate" hreflang="ru" href="https://www.sofilxloto.com/ru/set-urunler">
+<link rel="alternate" hreflang="it" href="https://www.sofilxloto.com/it/set-urunler">
+<link rel="alternate" hreflang="x-default" href="https://www.sofilxloto.com/set-urunler"><meta name="theme-color" content="#141414">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sofilx LOTO">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Kits LOTO | Sofilx LOTO">
+<meta property="og:description" content="Kits prêts à l'emploi pour le verrouillage personnel, électrique, mécanique et de vannes. 33 produits, conformes OSHA, livraison rapide depuis le stock.">
+<meta property="og:url" content="https://www.sofilxloto.com/fr/set-urunler">
+<meta property="og:image" content="https://www.sofilxloto.com/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/sofilx-ikon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/fr/site.webmanifest">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=b68fe545">
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;LOTO Setleri&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/set-urunler&#34;}]}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti&#34;, &#34;name&#34;: &#34;BD-8773D 3 Gözlü V Otomat Elektrikçi Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-8812s-grup-loto-kutusu-seti&#34;, &#34;name&#34;: &#34;BD-8812S Grup Loto Kutusu Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti&#34;, &#34;name&#34;: &#34;BD-B1100S Geniş Kapsamlı Duvara Asılabilen Loto İstasyon Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti&#34;, &#34;name&#34;: &#34;BD-EB-S10V Geniş Elektriksel Bel Çantası Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti&#34;, &#34;name&#34;: &#34;BD-EK-S1100VV Geniş Kapsamlı Profesyonel Elektriksel Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti&#34;, &#34;name&#34;: &#34;BD-EKM-L040 Ekonomik Model Bel Çantalı Mini Loto Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-es-m10c-mini-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-ES-M10C Mini Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti&#34;, &#34;name&#34;: &#34;BD-GKV-S500 Geniş Kapsamlı Profesyonel Mekaniksel Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-l1010bd-elektriksel-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-L1010BD Elektriksel Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-m-e07-mini-elektriksel-loto-kiti&#34;, &#34;name&#34;: &#34;BD-M-E07 Mini Elektriksel Loto Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti&#34;, &#34;name&#34;: &#34;BD-MN-U80 Mini Taşınabilir Elektriksel LOTO Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-mv-b105-mini-universal-elektriksel-loto-kiti&#34;, &#34;name&#34;: &#34;BD-MV-B105 Mini Universal Elektriksel Loto Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti&#34;, &#34;name&#34;: &#34;BD-PE-E010S Profesyonel Geniş Kapsamlı Elektriksel LOTO Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti&#34;, &#34;name&#34;: &#34;BD-PE-E09S Taşınabilir Ekonomik Model Elektriksel LOTO Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti&#34;, &#34;name&#34;: &#34;BD-PR-U07 Profesyonel Geniş Kapsamlı Büyük Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 16, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-ps02s-pnomatik-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-PS02S Pnömatik Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 17, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti&#34;, &#34;name&#34;: &#34;BD-VK-U067S Profesyonel Gemilere Uygun Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 18, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-vn-02-genis-kapsamli-vana-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-VN-02 Geniş Kapsamlı Vana Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 19, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti&#34;, &#34;name&#34;: &#34;BD-X02-ELK-SET Geniş Kapsamlı Elektrikçi Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 20, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x02c-kisisel-guvenlik-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-X02C Kişisel Güvenlik Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 21, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x07s-metal-loto-istasyon-seti&#34;, &#34;name&#34;: &#34;BD-X07S Metal LOTO İstasyon Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 22, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x07un-universal-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-X07UN Universal Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 23, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti&#34;, &#34;name&#34;: &#34;BD-ZS030C Taşınabilir Mixed Medium Boy Loto Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 24, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b1100-duvara-asilabilen-loto-istasyon-seti&#34;, &#34;name&#34;: &#34;BD-B1100 Duvara Asılabilen LOTO İstasyon Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 25, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti&#34;, &#34;name&#34;: &#34;BD-8773Y Büyük Kapasiteli Çift Katmanlı Plastik Kilitleme Alet Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 26, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti&#34;, &#34;name&#34;: &#34;BD-ELK2394S Geniş Kapsamlı Elektriksel Kilitleme Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 27, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-els-10s-ekonomik-elektrikci-universal-loto-seti&#34;, &#34;name&#34;: &#34;BD-ELS-10S Ekonomik Elektrikçi Üniversal LOTO Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 28, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x02cy-fabrika-model-karisik-big-loto-seti&#34;, &#34;name&#34;: &#34;BD-X02CY Fabrika Model Karışık Big LOTO Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 29, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-lg033-orta-segment-karisik-eked-seti&#34;, &#34;name&#34;: &#34;BD-LG033 Orta Segment Karışık EKED Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 30, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti&#34;, &#34;name&#34;: &#34;BD-B102C Duvara Asılabilir Asma Kilit LOTO Kiti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 31, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-mc-c051-mini-elektriksel-loto-seti&#34;, &#34;name&#34;: &#34;BD-MC-C051 Mini Elektriksel LOTO Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 32, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti&#34;, &#34;name&#34;: &#34;BD-PR-UV07 Profesyonel Geniş Kapsamlı Mix LOTO Seti&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 33, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-vm-k05-ekonomik-mix-model-loto-seti&#34;, &#34;name&#34;: &#34;BD-VM-K05 Ekonomik Mix Model LOTO Seti&#34;}]}</script>
+<script>window.SFX_I18N={"teklif sepetine eklendi": "ajouté au panier de devis", "Sepete git": "Aller au panier", "Eklendi": "Ajouté", "Azalt": "Diminuer", "Adet": "Quantité", "Arttır": "Augmenter", "Kaldır": "Retirer", "Merhaba, aşağıdaki ürünler için fiyat teklifi rica ediyorum:": "Bonjour, je vous prie de bien vouloir m'adresser un devis pour les produits suivants :", "Ad Soyad": "Nom et prénom", "Firma": "Entreprise", "Telefon": "Téléphone", "E-posta": "E-mail", "Not": "Remarque", "Teklif talebi": "Demande de devis", "ürün": "produits", "Web sitesi mesajı": "Message du site web", "Dil": "Langue"};</script></head>
+<body>
+<a class="skip" href="#icerik">Aller au contenu</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-phone" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"></path></symbol>
+ <symbol id="i-mail" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 6-10 7L2 6"></path></symbol>
+ <symbol id="i-pin" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+ <symbol id="i-wa" viewbox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 0 1 12 2.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8zm8.4-18.2A11.8 11.8 0 0 0 1.6 17.9L0 24l6.3-1.6a11.8 11.8 0 0 0 5.7 1.4A11.8 11.8 0 0 0 20.4 3.6z"></path></symbol>
+ <symbol id="i-cart" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11V7a3 3 0 0 1 6 0v4"></path><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M12 15v3"></path></symbol>
+ <symbol id="i-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></symbol>
+ <symbol id="i-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></symbol>
+ <symbol id="i-down" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></symbol>
+ <symbol id="i-arrow" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></symbol>
+ <symbol id="i-shield" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+ <symbol id="i-truck" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7z"></path><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></symbol>
+ <symbol id="i-tool" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"></path></symbol>
+ <symbol id="i-lock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path></symbol>
+ <symbol id="i-chat" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></symbol>
+ <symbol id="i-check" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></symbol>
+ <symbol id="i-tag" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z"></path><circle cx="7" cy="7" r="1.5"></circle></symbol>
+</svg>
+
+<div class="topbar"><div class="wrap">
+ <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg>(0216) 606 32 06</a>
+ <a href="https://wa.me/905523508446" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"></use></svg>(0552) 350 84 46</a>
+ <a href="mailto:info@sofilxloto.com" class="hide-s"><svg><use href="#i-mail"></use></svg>info@sofilxloto.com</a>
+ <span class="since">LOTO depuis 2010</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Langue: Français"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15"><b>FR</b><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden><a href="/set-urunler" hreflang="tr" lang="tr" role="menuitem" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/set-urunler" hreflang="en" lang="en" role="menuitem" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/set-urunler" hreflang="fr" lang="fr" role="menuitem" data-l="fr" aria-current="true"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/set-urunler" hreflang="de" lang="de" role="menuitem" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/set-urunler" hreflang="es" lang="es" role="menuitem" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/set-urunler" hreflang="ru" lang="ru" role="menuitem" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/set-urunler" hreflang="it" lang="it" role="menuitem" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div>
+ </div>
+</div></div>
+
+<header class="hdr"><div class="wrap">
+ <a class="logo" href="/fr" aria-label="Accueil Sofilx LOTO"><img src="/assets/sofilx-logo.svg" alt="Sofilx LOTO" width="196" height="42"></a>
+ <nav class="nav" id="nav" aria-label="Menu principal">
+  <a href="/fr">Accueil</a>
+  <div class="dd">
+   <button type="button" aria-expanded="false" aria-controls="mega">Produits <svg><use href="#i-down"></use></svg></button>
+   <div class="mega" id="mega">
+<a href="/fr/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Cadenas de sécurité</b><small>40 produits</small></span></a><a href="/fr/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Verrous de disjoncteurs et d'interrupteurs</b><small>26 produits</small></span></a><a href="/fr/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Équipements de verrouillage de vannes</b><small>36 produits</small></span></a><a href="/fr/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Dispositifs de verrouillage par câble</b><small>12 produits</small></span></a><a href="/fr/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Pinces multi-cadenas</b><small>24 produits</small></span></a><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Verrouillage électrique et pneumatique</b><small>9 produits</small></span></a><a href="/fr/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Stations LOTO</b><small>25 produits</small></span></a><a href="/fr/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Boîtes de consignation de groupe et sacoches</b><small>17 produits</small></span></a><a href="/fr/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Kits LOTO</b><small>33 produits</small></span></a><a href="/fr/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Étiquettes d'avertissement de danger</b><small>15 produits</small></span></a>    <a class="all" href="/fr/urunler">Tous les produits (237)</a>
+   </div>
+  </div>
+  <a href="/fr/hakkimizda">Entreprises</a>
+  <a href="/fr/referanslar">Références</a>
+  <a href="/fr/loto-rehberi">Guide LOTO</a>
+  <a href="/fr/blog">Blog</a>
+  <a href="/fr/iletisim">Contact</a>
+ <div class="mlang"><p><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"></path></svg><span>Langue</span></p><div data-i18n-skip><a href="/set-urunler" hreflang="tr" lang="tr" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/set-urunler" hreflang="en" lang="en" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/set-urunler" hreflang="fr" lang="fr" data-l="fr" aria-current="true"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/set-urunler" hreflang="de" lang="de" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/set-urunler" hreflang="es" lang="es" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/set-urunler" hreflang="ru" lang="ru" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/set-urunler" hreflang="it" lang="it" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div></div>
+ </nav>
+ <div class="hdr-tools">
+  <a class="icon-btn" href="/fr/urunler#q" aria-label="Rechercher un produit"><svg><use href="#i-search"></use></svg></a>
+  <a class="icon-btn" href="/fr/teklif" aria-label="Panier de devis"><svg><use href="#i-cart"></use></svg><span class="cart-n" data-n="0">0</span></a>
+  <button class="icon-btn burger" type="button" aria-label="Menu" aria-controls="nav" aria-expanded="false"><svg><use href="#i-menu"></use></svg></button>
+ </div>
+</div></header>
+
+<main id="icerik">
+<section class="ph cat-hero"><div class="wrap">
+ <nav class="crumbs" aria-label="Chemin de la page"><a href="/fr">Accueil</a><span aria-hidden="true">/</span><a href="/fr/urunler">Produits</a><span aria-hidden="true">/</span><span>Kits LOTO</span></nav>
+ <h1>Kits LOTO</h1>
+ <p class="lead">Les kits LOTO réunissent en un seul pack cadenas, pinces multiples, dispositifs de verrouillage de disjoncteurs et de vannes, et étiquettes d'avertissement. Avec des options en sacoche, en boîte ou en station, ils permettent aux équipes de maintenance de commencer l'isolation des énergies sur le terrain sans perdre de temps.</p>
+ <span class="count-badge"><svg><use href="#i-lock"></use></svg>33 produits</span>
+<div class="hero-chips"><span><svg><use href="#i-check"></use></svg>Électrique, vannes et pneumatique</span><span><svg><use href="#i-check"></use></svg>Sacoche de ceinture ou station</span><span><svg><use href="#i-check"></use></svg>Du mini kit au grand set</span><span><svg><use href="#i-check"></use></svg>Prêt à l'emploi dès la sortie de la boîte</span><span><svg><use href="#i-check"></use></svg>Option adaptée à la marine</span></div> <div class="btn-row">
+<a class="btn btn-white" href="#rehber">Guide de choix <svg><use href="#i-arrow"></use></svg></a>  <a class="btn btn-light" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20Setleri%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Obtenir un prix sur WhatsApp</a>
+ </div>
+</div></section>
+
+<nav class="catnav" aria-label="Catégories de produits"><div class="wrap">
+ <a href="/fr/urunler">Tous les produits</a>
+<a href="/fr/emniyet-asma-kilitler">Cadenas de sécurité</a><a href="/fr/salter-kilitleme-ekipmanlari">Verrous de disjoncteurs et d'interrupteurs</a><a href="/fr/vana-kilitleme-ekipmanlari">Équipements de verrouillage de vannes</a><a href="/fr/kablo-kilitleme-ekipmanlari">Dispositifs de verrouillage par câble</a><a href="/fr/kilit-coklandiricilar">Pinces multi-cadenas</a><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari">Verrouillage électrique et pneumatique</a><a href="/fr/lockout-istasyon-canta">Stations LOTO</a><a href="/fr/grup-kilit-kutusu">Boîtes de consignation de groupe et sacoches</a><a href="/fr/set-urunler" class="on" aria-current="page">Kits LOTO</a><a href="/fr/tehlike-etiketleri">Étiquettes d'avertissement de danger</a></div></nav>
+
+<section class="sec-sm"><div class="wrap">
+ <div class="filters">
+  <p class="count-line"><b id="count">33</b> produits</p>
+  <label class="search"><span class="sr">Rechercher un produit</span><svg><use href="#i-search"></use></svg><input id="q" type="search" placeholder="Code ou nom du produit (ex. BD-G01, vanne)" autocomplete="off"></label>
+ </div>
+ <div class="grid" data-filter-grid><article class="pc" data-cat="set" data-s="BD-8773D Kit LOTO d'électricien à 3 compartiments pour disjoncteurs automatiques Découvrir + Devis BD-8773D 3 Gözlü V Otomat Elektrikçi Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti"><img src="/assets/urunler/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti-1-k.webp" alt="BD-8773D Set LOTO d'électricien pour disjoncteurs, à 3 compartiments en V" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-8773D</span>
+  <h3><a href="/fr/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">Kit LOTO d'électricien à 3 compartiments pour disjoncteurs automatiques</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-8773D" data-name="Kit LOTO d'électricien à 3 compartiments pour disjoncteurs automatiques" data-img="/assets/urunler/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti-1-k.webp" data-url="/fr/bd-8773d-3-gozlu-v-otomat-elektrikci-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-8812S Kit de boîte LOTO de groupe Découvrir + Devis BD-8812S Grup Loto Kutusu Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-8812s-grup-loto-kutusu-seti"><img src="/assets/urunler/bd-8812s-grup-loto-kutusu-seti-1-k.webp" alt="BD-8812S Set de boîte LOTO de groupe" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-8812S</span>
+  <h3><a href="/fr/bd-8812s-grup-loto-kutusu-seti">Kit de boîte LOTO de groupe</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-8812s-grup-loto-kutusu-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-8812S" data-name="Kit de boîte LOTO de groupe" data-img="/assets/urunler/bd-8812s-grup-loto-kutusu-seti-1-k.webp" data-url="/fr/bd-8812s-grup-loto-kutusu-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-B1100S Kit de station LOTO murale complet Découvrir + Devis BD-B1100S Geniş Kapsamlı Duvara Asılabilen Loto İstasyon Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti"><img src="/assets/urunler/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti-1-k.webp" alt="BD-B1100S Set de station LOTO murale complet" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B1100S</span>
+  <h3><a href="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti">Kit de station LOTO murale complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B1100S" data-name="Kit de station LOTO murale complet" data-img="/assets/urunler/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti-1-k.webp" data-url="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-EB-S10V Grand kit LOTO électrique avec sacoche de ceinture Découvrir + Devis BD-EB-S10V Geniş Elektriksel Bel Çantası Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti"><img src="/assets/urunler/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti-1-k.webp" alt="BD-EB-S10V Grand set LOTO électrique avec sac de ceinture" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-EB-S10V</span>
+  <h3><a href="/fr/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti">Grand kit LOTO électrique avec sacoche de ceinture</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-EB-S10V" data-name="Grand kit LOTO électrique avec sacoche de ceinture" data-img="/assets/urunler/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti-1-k.webp" data-url="/fr/bd-eb-s10v-genis-elektriksel-bel-cantasi-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-EK-S1100VV Kit LOTO électrique professionnel complet Découvrir + Devis BD-EK-S1100VV Geniş Kapsamlı Profesyonel Elektriksel Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti"><img src="/assets/urunler/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti-1-k.webp" alt="BD-EK-S1100VV Set LOTO électrique professionnel complet" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-EK-S1100VV</span>
+  <h3><a href="/fr/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti">Kit LOTO électrique professionnel complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-EK-S1100VV" data-name="Kit LOTO électrique professionnel complet" data-img="/assets/urunler/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti-1-k.webp" data-url="/fr/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-EKM-L040 Mini kit LOTO économique avec sacoche de ceinture Découvrir + Devis BD-EKM-L040 Ekonomik Model Bel Çantalı Mini Loto Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti"><img src="/assets/urunler/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti-1-k.webp" alt="BD-EKM-L040 Mini kit LOTO économique avec sac de ceinture" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-EKM-L040</span>
+  <h3><a href="/fr/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti">Mini kit LOTO économique avec sacoche de ceinture</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-EKM-L040" data-name="Mini kit LOTO économique avec sacoche de ceinture" data-img="/assets/urunler/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti-1-k.webp" data-url="/fr/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-ES-M10C Mini kit de verrouillage Découvrir + Devis BD-ES-M10C Mini Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-es-m10c-mini-kilitleme-seti"><img src="/assets/urunler/bd-es-m10c-mini-kilitleme-seti-1-k.webp" alt="Mini kit de consignation BD-ES-M10C" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-ES-M10C</span>
+  <h3><a href="/fr/bd-es-m10c-mini-kilitleme-seti">Mini kit de verrouillage</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-es-m10c-mini-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-ES-M10C" data-name="Mini kit de verrouillage" data-img="/assets/urunler/bd-es-m10c-mini-kilitleme-seti-1-k.webp" data-url="/fr/bd-es-m10c-mini-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-GKV-S500 Kit LOTO mécanique professionnel complet Découvrir + Devis BD-GKV-S500 Geniş Kapsamlı Profesyonel Mekaniksel Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti"><img src="/assets/urunler/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti-1-k.webp" alt="Kit LOTO mécanique professionnel complet BD-GKV-S500" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-GKV-S500</span>
+  <h3><a href="/fr/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti">Kit LOTO mécanique professionnel complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-GKV-S500" data-name="Kit LOTO mécanique professionnel complet" data-img="/assets/urunler/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti-1-k.webp" data-url="/fr/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-L1010BD Kit de consignation électrique Découvrir + Devis BD-L1010BD Elektriksel Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-l1010bd-elektriksel-kilitleme-seti"><img src="/assets/urunler/bd-l1010bd-elektriksel-kilitleme-seti-1-k.webp" alt="Kit de consignation électrique BD-L1010BD" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-L1010BD</span>
+  <h3><a href="/fr/bd-l1010bd-elektriksel-kilitleme-seti">Kit de consignation électrique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-l1010bd-elektriksel-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-L1010BD" data-name="Kit de consignation électrique" data-img="/assets/urunler/bd-l1010bd-elektriksel-kilitleme-seti-1-k.webp" data-url="/fr/bd-l1010bd-elektriksel-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-M-E07 Mini kit LOTO électrique Découvrir + Devis BD-M-E07 Mini Elektriksel Loto Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-m-e07-mini-elektriksel-loto-kiti"><img src="/assets/urunler/bd-m-e07-mini-elektriksel-loto-kiti-1-k.webp" alt="Mini kit LOTO électrique BD-M-E07" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-M-E07</span>
+  <h3><a href="/fr/bd-m-e07-mini-elektriksel-loto-kiti">Mini kit LOTO électrique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-m-e07-mini-elektriksel-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-M-E07" data-name="Mini kit LOTO électrique" data-img="/assets/urunler/bd-m-e07-mini-elektriksel-loto-kiti-1-k.webp" data-url="/fr/bd-m-e07-mini-elektriksel-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-MN-U80 Mini kit LOTO électrique portable Découvrir + Devis BD-MN-U80 Mini Taşınabilir Elektriksel LOTO Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti"><img src="/assets/urunler/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti-1-k.webp" alt="Mini kit LOTO électrique portable BD-MN-U80" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-MN-U80</span>
+  <h3><a href="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti">Mini kit LOTO électrique portable</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-MN-U80" data-name="Mini kit LOTO électrique portable" data-img="/assets/urunler/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti-1-k.webp" data-url="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-MV-B105 Mini kit LOTO électrique universel Découvrir + Devis BD-MV-B105 Mini Universal Elektriksel Loto Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-mv-b105-mini-universal-elektriksel-loto-kiti"><img src="/assets/urunler/bd-mv-b105-mini-universal-elektriksel-loto-kiti-1-k.webp" alt="Mini kit LOTO électrique universel BD-MV-B105" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-MV-B105</span>
+  <h3><a href="/fr/bd-mv-b105-mini-universal-elektriksel-loto-kiti">Mini kit LOTO électrique universel</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-mv-b105-mini-universal-elektriksel-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-MV-B105" data-name="Mini kit LOTO électrique universel" data-img="/assets/urunler/bd-mv-b105-mini-universal-elektriksel-loto-kiti-1-k.webp" data-url="/fr/bd-mv-b105-mini-universal-elektriksel-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PE-E010S Kit LOTO électrique professionnel complet Découvrir + Devis BD-PE-E010S Profesyonel Geniş Kapsamlı Elektriksel LOTO Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti"><img src="/assets/urunler/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti-1-k.webp" alt="Kit LOTO électrique professionnel complet BD-PE-E010S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PE-E010S</span>
+  <h3><a href="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti">Kit LOTO électrique professionnel complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PE-E010S" data-name="Kit LOTO électrique professionnel complet" data-img="/assets/urunler/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti-1-k.webp" data-url="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PE-E09S Kit LOTO électrique portable, modèle économique Découvrir + Devis BD-PE-E09S Taşınabilir Ekonomik Model Elektriksel LOTO Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti"><img src="/assets/urunler/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti-1-k.webp" alt="Kit LOTO électrique portable modèle économique BD-PE-E09S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PE-E09S</span>
+  <h3><a href="/fr/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti">Kit LOTO électrique portable, modèle économique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PE-E09S" data-name="Kit LOTO électrique portable, modèle économique" data-img="/assets/urunler/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti-1-k.webp" data-url="/fr/bd-pe-e09s-tasinabilir-ekonomik-model-elektriksel-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PR-U07 Grand kit LOTO professionnel complet Découvrir + Devis BD-PR-U07 Profesyonel Geniş Kapsamlı Büyük Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti"><img src="/assets/urunler/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti-1-k.webp" alt="Grand kit LOTO professionnel complet BD-PR-U07" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PR-U07</span>
+  <h3><a href="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">Grand kit LOTO professionnel complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PR-U07" data-name="Grand kit LOTO professionnel complet" data-img="/assets/urunler/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti-1-k.webp" data-url="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PS02S Kit de verrouillage pneumatique Découvrir + Devis BD-PS02S Pnömatik Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-ps02s-pnomatik-kilitleme-seti"><img src="/assets/urunler/bd-ps02s-pnomatik-kilitleme-seti-1-k.webp" alt="Kit de consignation pneumatique BD-PS02S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PS02S</span>
+  <h3><a href="/fr/bd-ps02s-pnomatik-kilitleme-seti">Kit de verrouillage pneumatique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-ps02s-pnomatik-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PS02S" data-name="Kit de verrouillage pneumatique" data-img="/assets/urunler/bd-ps02s-pnomatik-kilitleme-seti-1-k.webp" data-url="/fr/bd-ps02s-pnomatik-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-VK-U067S Kit LOTO professionnel pour navires Découvrir + Devis BD-VK-U067S Profesyonel Gemilere Uygun Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti"><img src="/assets/urunler/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti-1-k.webp" alt="Kit LOTO professionnel pour navires BD-VK-U067S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-VK-U067S</span>
+  <h3><a href="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti">Kit LOTO professionnel pour navires</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-VK-U067S" data-name="Kit LOTO professionnel pour navires" data-img="/assets/urunler/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti-1-k.webp" data-url="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-VN-02 Kit de verrouillage de vannes complet Découvrir + Devis BD-VN-02 Geniş Kapsamlı Vana Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti"><img src="/assets/urunler/bd-vn-02-genis-kapsamli-vana-kilitleme-seti-1-k.webp" alt="Kit complet de consignation de vannes BD-VN-02" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-VN-02</span>
+  <h3><a href="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti">Kit de verrouillage de vannes complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-VN-02" data-name="Kit de verrouillage de vannes complet" data-img="/assets/urunler/bd-vn-02-genis-kapsamli-vana-kilitleme-seti-1-k.webp" data-url="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X02-ELK-SET Kit LOTO d'électricien complet Découvrir + Devis BD-X02-ELK-SET Geniş Kapsamlı Elektrikçi Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti"><img src="/assets/urunler/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti-1-k.webp" alt="Kit LOTO électricien complet BD-X02-ELK-SET" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X02-ELK-SET</span>
+  <h3><a href="/fr/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti">Kit LOTO d'électricien complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X02-ELK-SET" data-name="Kit LOTO d'électricien complet" data-img="/assets/urunler/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti-1-k.webp" data-url="/fr/bd-x02-elk-set-genis-kapsamli-elektrikci-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X02C Kit de verrouillage de sécurité personnel Découvrir + Devis BD-X02C Kişisel Güvenlik Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-x02c-kisisel-guvenlik-kilitleme-seti"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="Kit de consignation de sécurité personnel BD-X02C" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X02C</span>
+  <h3><a href="/fr/bd-x02c-kisisel-guvenlik-kilitleme-seti">Kit de verrouillage de sécurité personnel</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-x02c-kisisel-guvenlik-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X02C" data-name="Kit de verrouillage de sécurité personnel" data-img="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" data-url="/fr/bd-x02c-kisisel-guvenlik-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X07S Kit station LOTO métallique Découvrir + Devis BD-X07S Metal LOTO İstasyon Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-x07s-metal-loto-istasyon-seti"><img src="/assets/urunler/bd-x07s-metal-loto-istasyon-seti-1-k.webp" alt="Kit station LOTO métallique BD-X07S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X07S</span>
+  <h3><a href="/fr/bd-x07s-metal-loto-istasyon-seti">Kit station LOTO métallique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-x07s-metal-loto-istasyon-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X07S" data-name="Kit station LOTO métallique" data-img="/assets/urunler/bd-x07s-metal-loto-istasyon-seti-1-k.webp" data-url="/fr/bd-x07s-metal-loto-istasyon-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X07UN Kit de consignation universel Découvrir + Devis BD-X07UN Universal Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-x07un-universal-kilitleme-seti"><img src="/assets/urunler/bd-x07un-universal-kilitleme-seti-1-k.webp" alt="Kit de consignation universel BD-X07UN" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X07UN</span>
+  <h3><a href="/fr/bd-x07un-universal-kilitleme-seti">Kit de consignation universel</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-x07un-universal-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X07UN" data-name="Kit de consignation universel" data-img="/assets/urunler/bd-x07un-universal-kilitleme-seti-1-k.webp" data-url="/fr/bd-x07un-universal-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-ZS030C Kit LOTO portable Mixed taille moyenne Découvrir + Devis BD-ZS030C Taşınabilir Mixed Medium Boy Loto Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti"><img src="/assets/urunler/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti-1-k.webp" alt="Kit LOTO portable mixte taille moyenne BD-ZS030C" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-ZS030C</span>
+  <h3><a href="/fr/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti">Kit LOTO portable Mixed taille moyenne</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-ZS030C" data-name="Kit LOTO portable Mixed taille moyenne" data-img="/assets/urunler/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti-1-k.webp" data-url="/fr/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-B1100 Kit de station LOTO murale Découvrir + Devis BD-B1100 Duvara Asılabilen LOTO İstasyon Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-b1100-duvara-asilabilen-loto-istasyon-seti"><img src="/assets/urunler/bd-b1100-duvara-asilabilen-loto-istasyon-seti-1-k.webp" alt="BD-B1100 Set de station LOTO murale" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B1100</span>
+  <h3><a href="/fr/bd-b1100-duvara-asilabilen-loto-istasyon-seti">Kit de station LOTO murale</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-b1100-duvara-asilabilen-loto-istasyon-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B1100" data-name="Kit de station LOTO murale" data-img="/assets/urunler/bd-b1100-duvara-asilabilen-loto-istasyon-seti-1-k.webp" data-url="/fr/bd-b1100-duvara-asilabilen-loto-istasyon-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-8773Y Kit d'outils de consignation en plastique à double niveau, grande capacité Découvrir + Devis BD-8773Y Büyük Kapasiteli Çift Katmanlı Plastik Kilitleme Alet Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti"><img src="/assets/urunler/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti-1-k.webp" alt="BD-8773Y Kit d'outils de consignation en plastique à double niveau, grande capacité" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-8773Y</span>
+  <h3><a href="/fr/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti">Kit d'outils de consignation en plastique à double niveau, grande capacité</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-8773Y" data-name="Kit d'outils de consignation en plastique à double niveau, grande capacité" data-img="/assets/urunler/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti-1-k.webp" data-url="/fr/bd-8773y-buyuk-kapasiteli-cift-katmanli-plastik-kilitleme-alet-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-ELK2394S Kit de consignation électrique complet Découvrir + Devis BD-ELK2394S Geniş Kapsamlı Elektriksel Kilitleme Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti"><img src="/assets/urunler/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti-1-k.webp" alt="BD-ELK2394S Set de consignation électrique complet" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-ELK2394S</span>
+  <h3><a href="/fr/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti">Kit de consignation électrique complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-ELK2394S" data-name="Kit de consignation électrique complet" data-img="/assets/urunler/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti-1-k.webp" data-url="/fr/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-ELS-10S Kit LOTO universel économique pour électricien Découvrir + Devis BD-ELS-10S Ekonomik Elektrikçi Üniversal LOTO Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-els-10s-ekonomik-elektrikci-universal-loto-seti"><img src="/assets/urunler/bd-els-10s-ekonomik-elektrikci-universal-loto-seti-1-k.webp" alt="Kit LOTO universel économique pour électricien BD-ELS-10S" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-ELS-10S</span>
+  <h3><a href="/fr/bd-els-10s-ekonomik-elektrikci-universal-loto-seti">Kit LOTO universel économique pour électricien</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-els-10s-ekonomik-elektrikci-universal-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-ELS-10S" data-name="Kit LOTO universel économique pour électricien" data-img="/assets/urunler/bd-els-10s-ekonomik-elektrikci-universal-loto-seti-1-k.webp" data-url="/fr/bd-els-10s-ekonomik-elektrikci-universal-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-X02CY Grand kit LOTO mixte pour usine Découvrir + Devis BD-X02CY Fabrika Model Karışık Big LOTO Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-x02cy-fabrika-model-karisik-big-loto-seti"><img src="/assets/urunler/bd-x02cy-fabrika-model-karisik-big-loto-seti-1-k.webp" alt="Grand kit LOTO mixte modèle usine BD-X02CY" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X02CY</span>
+  <h3><a href="/fr/bd-x02cy-fabrika-model-karisik-big-loto-seti">Grand kit LOTO mixte pour usine</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-x02cy-fabrika-model-karisik-big-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X02CY" data-name="Grand kit LOTO mixte pour usine" data-img="/assets/urunler/bd-x02cy-fabrika-model-karisik-big-loto-seti-1-k.webp" data-url="/fr/bd-x02cy-fabrika-model-karisik-big-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-LG033 Kit LOTO mixte de gamme moyenne Découvrir + Devis BD-LG033 Orta Segment Karışık EKED Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-lg033-orta-segment-karisik-eked-seti"><img src="/assets/urunler/bd-lg033-orta-segment-karisik-eked-seti-1-k.webp" alt="Kit LOTO mixte milieu de gamme BD-LG033" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-LG033</span>
+  <h3><a href="/fr/bd-lg033-orta-segment-karisik-eked-seti">Kit LOTO mixte de gamme moyenne</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-lg033-orta-segment-karisik-eked-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-LG033" data-name="Kit LOTO mixte de gamme moyenne" data-img="/assets/urunler/bd-lg033-orta-segment-karisik-eked-seti-1-k.webp" data-url="/fr/bd-lg033-orta-segment-karisik-eked-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-B102C Kit LOTO mural avec cadenas Découvrir + Devis BD-B102C Duvara Asılabilir Asma Kilit LOTO Kiti LOTO Setleri ">
+ <a class="im" href="/fr/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti"><img src="/assets/urunler/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti-1-k.webp" alt="BD-B102C Kit LOTO murale de cadenas" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B102C</span>
+  <h3><a href="/fr/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti">Kit LOTO mural avec cadenas</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B102C" data-name="Kit LOTO mural avec cadenas" data-img="/assets/urunler/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti-1-k.webp" data-url="/fr/bd-b102c-duvara-asilabilir-asma-kilit-loto-kiti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-MC-C051 Mini kit LOTO électrique Découvrir + Devis BD-MC-C051 Mini Elektriksel LOTO Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-mc-c051-mini-elektriksel-loto-seti"><img src="/assets/urunler/bd-mc-c051-mini-elektriksel-loto-seti-1-k.webp" alt="Mini kit LOTO électrique BD-MC-C051" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-MC-C051</span>
+  <h3><a href="/fr/bd-mc-c051-mini-elektriksel-loto-seti">Mini kit LOTO électrique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-mc-c051-mini-elektriksel-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-MC-C051" data-name="Mini kit LOTO électrique" data-img="/assets/urunler/bd-mc-c051-mini-elektriksel-loto-seti-1-k.webp" data-url="/fr/bd-mc-c051-mini-elektriksel-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-PR-UV07 Kit LOTO mixte professionnel complet Découvrir + Devis BD-PR-UV07 Profesyonel Geniş Kapsamlı Mix LOTO Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti"><img src="/assets/urunler/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti-1-k.webp" alt="Kit LOTO mixte professionnel complet BD-PR-UV07" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-PR-UV07</span>
+  <h3><a href="/fr/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti">Kit LOTO mixte professionnel complet</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-PR-UV07" data-name="Kit LOTO mixte professionnel complet" data-img="/assets/urunler/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti-1-k.webp" data-url="/fr/bd-pr-uv07-profesyonel-genis-kapsamli-mix-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="set" data-s="BD-VM-K05 Kit LOTO mixte économique Découvrir + Devis BD-VM-K05 Ekonomik Mix Model LOTO Seti LOTO Setleri ">
+ <a class="im" href="/fr/bd-vm-k05-ekonomik-mix-model-loto-seti"><img src="/assets/urunler/bd-vm-k05-ekonomik-mix-model-loto-seti-1-k.webp" alt="Kit LOTO économique modèle mixte BD-VM-K05" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-VM-K05</span>
+  <h3><a href="/fr/bd-vm-k05-ekonomik-mix-model-loto-seti">Kit LOTO mixte économique</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/fr/bd-vm-k05-ekonomik-mix-model-loto-seti">Découvrir</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-VM-K05" data-name="Kit LOTO mixte économique" data-img="/assets/urunler/bd-vm-k05-ekonomik-mix-model-loto-seti-1-k.webp" data-url="/fr/bd-vm-k05-ekonomik-mix-model-loto-seti">+ Devis</button>
+  </div>
+ </div>
+</article></div>
+ <div class="empty">Aucun produit ne correspond à votre recherche. <a href="/fr/iletisim">Écrivez-nous</a> et trouvons ensemble l'équipement dont vous avez besoin.</div>
+
+ <div class="fband reveal">
+  <div class="fb-feats">
+   <div><i><svg><use href="#i-shield"></use></svg></i><b>Conforme OSHA</b><span>Équipement LOTO conforme à 29 CFR 1910.147</span></div>
+   <div><i><svg><use href="#i-truck"></use></svg></i><b>Expédition rapide</b><span>Produits en stock expédiés le jour même</span></div>
+   <div><i><svg><use href="#i-tag"></use></svg></i><b>Personnalisé</b><span>Options de couleur, d'étiquette et de clé</span></div>
+   <div><i><svg><use href="#i-chat"></use></svg></i><b>Support technique</b><span>Choisissons ensemble le bon produit à partir d'une photo</span></div>
+  </div>
+  <div class="fb-cta"><div><h3>Vous n'avez pas trouvé le modèle recherché ?</h3><p>Envoyez la dimension ou une photo du point à consigner ; nous vous indiquons aussitôt le modèle adapté et le prix.</p></div>
+   <div class="btn-row"><a class="btn btn-white" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20Setleri%20hakk%C4%B1nda%20teklif%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Demander un devis sur WhatsApp</a><a class="btn btn-light" href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Télécharger le catalogue</a></div></div>
+ </div>
+</div></section>
+
+<section class="sec-sm" id="rehber" style="padding-bottom:0"><div class="wrap"><nav class="toc" aria-label="Contenu du guide">
+ <a href="#nedir">Kit LOTO</a><a href="#cesitler">Variantes</a><a href="#secim">Tableau de choix</a><a href="#nasil">Comment choisir ?</a><a href="#kullanim">Domaines d'application</a><a href="#sss">SSS</a>
+</nav></div></section>
+
+<section class="sec" id="nedir"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Guide des kits LOTO</span><h2>Qu'est-ce qu'un kit LOTO ?</h2><span class="bar"></span>
+  <div class="rule"><b>Point critique</b>Avant de choisir le kit, listez les types de disjoncteurs, de prises et de vannes de votre site ; un kit dont le contenu ne couvre pas cette liste laisse sans consignation les points manquants sur le terrain.</div></aside>
+ <div class="gtext"><p><b>Le kit LOTO</b> est un ensemble prêt à l'emploi qui réunit à l'avance les équipements nécessaires aux étapes de consignation et d'étiquetage, présentés dans une sacoche, une boîte ou une station murale. Un kit type comprend des <b>cadenas de sécurité</b>, des <b>pinces de consignation multiples</b>, des dispositifs de consignation de disjoncteurs, de prises ou de vannes et des <b>étiquettes d'avertissement</b>.</p><p>Le principal avantage d'un kit prêt à l'emploi est qu'il évite de rechercher les pièces une à une et de les faire correspondre entre elles. Les entreprises qui mettent en place leur programme et les techniciens intervenant sur différents sites ont tout ce dont ils ont besoin sur eux, de façon ordonnée et complète ; cela évite que des étapes LOTO soient omises lors de maintenances où plusieurs personnes travaillent en même temps et empêche aussi la perte d'équipement.</p><p>Chez Sofilx LOTO, nous fournissons plus de 25 kits LOTO, des mini-kits avec sacoche de ceinture pour électriciens aux kits avec station murale, des kits d'isolation de vannes et pneumatiques aux packs professionnels adaptés aux navires.</p></div>
+</div></section>
+
+<section class="sec sec-paper" id="cesitler"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Guide produit</span><h2>Types de kits LOTO</h2><span class="bar"></span></div></div>
+ <div class="gcards"><div class="gc reveal"><h3><i><svg><use href="#i-lock"></use></svg></i>Kits électriques</h3><p>Packs complets réunissant verrous de MCB, de disjoncteurs compacts et de fiches pour la maintenance des armoires.</p>
+<div class="mods"><a href="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti">BD-PE-E010S</a><a href="/fr/bd-ek-s1100vv-genis-kapsamli-profesyonel-elektriksel-loto-seti">BD-EK-S1100VV</a><a href="/fr/bd-elk2394s-genis-kapsamli-elektriksel-kilitleme-seti">BD-ELK2394S</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-shield"></use></svg></i>Kits mini et pochettes de ceinture</h3><p>Kits légers contenant les dispositifs de consignation les plus utilisés, que le technicien peut porter à la ceinture.</p>
+<div class="mods"><a href="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti">BD-MN-U80</a><a href="/fr/bd-ekm-l040-ekonomik-model-bel-cantali-mini-loto-kiti">BD-EKM-L040</a><a href="/fr/bd-m-e07-mini-elektriksel-loto-kiti">BD-M-E07</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-tool"></use></svg></i>Kits avec station</h3><p>Livrée complète avec sa station murale ; l'équipement reste rangé à un emplacement fixe.</p>
+<div class="mods"><a href="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti">BD-B1100S</a><a href="/fr/bd-x07s-metal-loto-istasyon-seti">BD-X07S</a><a href="/fr/bd-b1100-duvara-asilabilen-loto-istasyon-seti">BD-B1100</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-tag"></use></svg></i>Kits pour vannes et pneumatique</h3><p>Se concentre sur l'isolation des canalisations, des différents types de vannes et des conduites d'air comprimé.</p>
+<div class="mods"><a href="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti">BD-VN-02</a><a href="/fr/bd-ps02s-pnomatik-kilitleme-seti">BD-PS02S</a><a href="/fr/bd-gkv-s500-genis-kapsamli-profesyonel-mekaniksel-loto-seti">BD-GKV-S500</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-chat"></use></svg></i>Kits mixtes et marins</h3><p>Ce sont de grands kits couvrant à la fois les points électriques et mécaniques ; un modèle au contenu adapté aux navires fait également partie de ce groupe.</p>
+<div class="mods"><a href="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">BD-PR-U07</a><a href="/fr/bd-zs030c-tasinabilir-mixed-medium-boy-loto-seti">BD-ZS030C</a><a href="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti">BD-VK-U067S</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-truck"></use></svg></i>Kits de groupe et kits personnels</h3><p>Ce sont des kits fournis avec une boîte de consignation de groupe ou un équipement de consignation de sécurité personnel.</p>
+<div class="mods"><a href="/fr/bd-8812s-grup-loto-kutusu-seti">BD-8812S</a><a href="/fr/bd-x02c-kisisel-guvenlik-kilitleme-seti">BD-X02C</a></div></div></div>
+</div></section>
+
+<section class="sec" id="secim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Tableau de choix</span><h2>Tableau de choix des modèles</h2><span class="bar"></span></div><p>Vous pouvez choisir le kit dans le tableau ci-dessous selon le nombre d'utilisateurs, les besoins de transport et les sources d'énergie à verrouiller.</p></div>
+ <div class="seltable reveal"><table><thead><tr><th>Série / Modèle</th><th>Étendue</th><th>Transport / structure</th><th>Usage recommandé</th></tr></thead><tbody>
+<tr><td class="src"><a href="/fr/bd-mn-u80-mini-tasinabilir-elektriksel-loto-kiti">BD-MN-U80 – Mini kit électrique portable</a></td><td>MCB, disjoncteur, fiche</td><td>Sacoche de ceinture</td><td>Électricien travaillant seul</td></tr><tr><td class="src"><a href="/fr/bd-pe-e010s-profesyonel-genis-kapsamli-elektriksel-loto-kiti">BD-PE-E010S ou BD-EK-S1100VV – Grand kit électrique</a></td><td>Nombreux types de disjoncteurs</td><td>Portable</td><td>Équipes de maintenance électrique</td></tr><tr><td class="src"><a href="/fr/bd-b1100s-genis-kapsamli-duvara-asilabilen-loto-istasyon-seti">BD-B1100S – Set avec station murale</a></td><td>Complet</td><td>Station fixe</td><td>Usage commun à l'échelle du site</td></tr><tr><td class="src"><a href="/fr/bd-vn-02-genis-kapsamli-vana-kilitleme-seti">BD-VN-02 – Kit de consignation de vannes</a></td><td>Différents types de vannes</td><td>Portable</td><td>Maintenance mécanique et canalisations</td></tr><tr><td class="src"><a href="/fr/bd-pr-u07-profesyonel-genis-kapsamli-buyuk-loto-seti">BD-PR-U07 – Grand kit mixte</a></td><td>Électrique + mécanique</td><td>Avec coffret de transport</td><td>Applications de maintenance variées</td></tr><tr><td class="src"><a href="/fr/bd-vk-u067s-profesyonel-gemilere-uygun-loto-seti">BD-VK-U067S – Kit pour navires</a></td><td>Sites maritimes</td><td>Portable</td><td>Navires et chantiers navals</td></tr> </tbody></table></div>
+ <div class="pricebox reveal"><div class="pb-ic"><svg><use href="#i-tag"></use></svg></div><div class="pb-tx"><b>Liste de prix actuelle des kits LOTO</b><span>Indiquez le code produit et la quantité ; nous vous communiquons aussitôt prix, stock et délai de livraison. Prix par quantité pour les achats en gros.</span></div>
+  <div class="btn-row"><a class="btn btn-red" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20Setleri%20fiyat%20listesini%20rica%20ediyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Demander la liste de prix</a><a class="btn btn-line" href="/fr/teklif">Panier de devis</a></div></div>
+</div></section>
+
+<section class="sec sec-paper" id="nasil"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Guide d'achat</span><h2>Comment choisir le bon kit LOTO ?</h2><span class="bar"></span>
+  <p class="m">Vérifiez ces critères avant de commander. En cas de doute, envoyez-nous une photo, nous choisirons ensemble.</p>
+  <a class="btn btn-red" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20Setleri%20se%C3%A7imi%20i%C3%A7in%20destek%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Demander à un expert</a></aside>
+ <ul class="checks"><li><b>Points à consigner :</b> Dressez la liste des types de disjoncteurs, de prises et de vannes du site ; le contenu du kit doit couvrir l'ensemble de cette liste.</li><li><b>Profil d'utilisateur :</b> Un kit personnel convient à un technicien seul, un grand kit à une équipe, un modèle avec station à un espace commun.</li><li><b>Mode de transport :</b> Les équipes itinérantes préféreront un sac ou une boîte, et les points de maintenance fixes une station murale.</li><li><b>Nombre de cadenas :</b> Comparez le nombre de cadenas personnels fournis avec le kit au nombre de personnes qui travailleront en même temps.</li><li><b>Évolutivité :</b> Lorsque le besoin augmente, vous pouvez ajouter un à un les accessoires manquants depuis les catégories cadenas et dispositifs de consignation de disjoncteurs.</li></ul>
+</div></section>
+
+<section class="sec sec-ink" id="kullanim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow" style="color:#ff9ea1">Domaines d'application</span><h2>Où utilise-t-on les kits LOTO ?</h2></div></div>
+ <div class="ucards"><div class="reveal"><i><svg><use href="#i-shield"></use></svg></i><h3>Usines et sites de production</h3><p>Sert à lancer rapidement un programme LOTO avec une infrastructure d'équipement complète.</p></div><div class="reveal"><i><svg><use href="#i-tool"></use></svg></i><h3>Équipes de maintenance électrique</h3><p>Regroupe en un seul endroit les dispositifs nécessaires aux interventions sur armoires et disjoncteurs.</p></div><div class="reveal"><i><svg><use href="#i-lock"></use></svg></i><h3>Sites de l'énergie, de la pétrochimie et de l'automobile</h3><p>Facilite l'isolation conjointe des sources d'énergie électrique, mécanique et pneumatique.</p></div><div class="reveal"><i><svg><use href="#i-truck"></use></svg></i><h3>Navires, chantiers navals et sociétés de services</h3><p>Offre une solution de consignation au contenu adapté à l'environnement, transportable d'un site à l'autre.</p></div></div>
+</div></section>
+
+<section class="sec" id="sss"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Foire aux questions</span><h2>À propos des kits LOTO</h2><span class="bar"></span>
+  <p class="m">Si vous n'avez pas trouvé la réponse que vous cherchez, écrivez-nous sur WhatsApp ; déterminons ensemble le bon modèle.</p>
+  <a class="btn btn-red" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Poser une question sur WhatsApp</a></aside>
+ <div class="faq"><details open><summary>Dois-je acheter un kit prêt à l'emploi ou les produits séparément ?</summary><div>Si vous débutez avec le LOTO ou souhaitez apporter rapidement une solution sur le terrain, le kit est plus pratique. Si vous n'avez qu'un point précis à verrouiller, choisir des produits à l'unité peut être plus économique.</div></details><details><summary>Quels sont les prix des kits LOTO ?</summary><div>Le prix varie selon l'étendue du kit, son contenu et la quantité commandée. Pour un devis à jour et les informations de stock et de livraison, vous pouvez écrire le code produit et la quantité sur notre ligne WhatsApp ou nous appeler.</div></details><details><summary>Le contenu du kit peut-il être modifié ?</summary><div>Oui. Pour les commandes en volume, nous pouvons personnaliser le contenu selon les types de disjoncteurs et de vannes de votre site.</div></details><details><summary>Avec quels disjoncteurs les kits électriques sont-ils compatibles ?</summary><div>Les kits électriques comprennent différents dispositifs de verrouillage pour les types courants de MCB et de disjoncteurs compacts. Si vous avez un autre disjoncteur, il suffit de nous envoyer une photo pour vérifier la compatibilité.</div></details><details><summary>Peut-on suivre une formation avec le kit ?</summary><div>Oui. En plus de la fourniture de kits, nous proposons aussi une formation LOTO pratique et un service de conseil.</div></details><details><summary>Où puis-je voir le nombre de pièces du kit ?</summary><div>Dans la section « Contenu du kit » de la fiche produit de chaque kit figurent les pièces, leurs quantités et le nombre total de pièces.</div></details><details><summary>Quelle est la différence entre un kit avec station et un kit avec sacoche ?</summary><div>Le kit avec station se fixe au mur et garde l'équipement ordonné en un point commun ; les kits avec sacoche ou boîte permettent aux équipes itinérantes d'emporter l'équipement avec elles.</div></details></div>
+</div></section>
+
+<section class="sec-sm sec-paper"><div class="wrap">
+ <div class="prose seo"><h2>Prix et modèles de kits LOTO</h2><p>Plutôt que de rassembler un à un les équipements de consignation nécessaires aux applications LOTO, choisir un <b>kit LOTO</b> prêt à l'emploi fait gagner du temps et élimine le risque d'incompatibilité entre les pièces. Nos kits pour l'isolation électrique, mécanique, des vannes et pneumatique sont proposés dans une large gamme, des mini-kits à sacoche de ceinture aux modèles à station murale et grande mallette de transport.</p><p>Pour déterminer le bon modèle, tenez compte des sources d'énergie à verrouiller, du nombre de personnes intervenant simultanément et de l'usage de l'équipement, sur le terrain ou à poste fixe. Pour les commandes en volume, nous pouvons adapter le contenu du kit à votre site.</p><p>Les prix des kits LOTO varient selon le contenu du kit et la quantité commandée. Pour un devis à jour, la disponibilité en stock et les délais de livraison, il vous suffit de transmettre le code produit sur notre ligne WhatsApp ou de nous appeler.</p></div>
+ <div class="sec-head" style="margin-top:44px"><h2 style="font-size:1.8rem">Catégories associées</h2><a class="btn btn-line btn-sm" href="/fr/urunler">Tous les produits <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="relcats"><a href="/fr/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="52" height="52" loading="lazy">Cadenas de sécurité</a><a href="/fr/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="52" height="52" loading="lazy">Verrous de disjoncteurs et d'interrupteurs</a><a href="/fr/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="52" height="52" loading="lazy">Équipements de consignation de vannes</a><a href="/fr/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="52" height="52" loading="lazy">Équipements de consignation par câble</a><a href="/fr/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="52" height="52" loading="lazy">Hasps de consignation</a><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="52" height="52" loading="lazy">Consignation électrique et pneumatique</a><a href="/fr/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="52" height="52" loading="lazy">Stations de consignation LOTO</a><a href="/fr/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="52" height="52" loading="lazy">Boîtes de consignation de groupe et sacs</a><a href="/fr/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="52" height="52" loading="lazy">Étiquettes d'avertissement de danger</a></div>
+ <div class="sec-head" style="margin-top:40px"><h2 style="font-size:1.8rem">Articles du guide</h2><a class="btn btn-line btn-sm" href="/fr/blog">Tous les articles <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="glinks"><a href="/fr/loto-rehberi"><small>Guide</small><b>Guide LOTO : le verrouillage en 6 étapes</b></a><a href="/fr/blog/eked-loto-egitimi-rehberi"><small>Blog</small><b>Guide de formation LOTO : ce qu'il faut savoir pour travailler en sécurité</b></a><a href="/fr/blog/dogru-eked-ekipmaninin-onemi"><small>Blog</small><b>L'importance du bon équipement LOTO : la pierre angulaire de la sécurité sur le lieu de travail</b></a><a href="/fr/blog/emniyet-asma-kilitler"><small>Blog</small><b>Cadenas de sécurité : la clé pour renforcer la sécurité sur le lieu de travail</b></a></div>
+</div></section>
+<section class="cta"><div class="wrap">
+ <div><h2>Achat en gros ou besoin spécifique ?</h2><p>Ajoutez les produits au panier de devis ou écrivez-nous directement sur WhatsApp ; nous répondons le jour même.</p></div>
+ <div class="btns"><a class="btn btn-ink" href="/fr/teklif"><svg><use href="#i-cart"></use></svg>Panier de devis</a><a class="btn btn-light" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>WhatsApp</a></div>
+</div></section></main>
+
+<div class="hazard" aria-hidden="true"></div>
+<footer class="ftr">
+ <div class="wrap">
+  <div>
+   <a class="logo" href="/fr"><img src="/assets/sofilx-logo-beyaz.svg" alt="Sofilx LOTO" width="187" height="40" loading="lazy"></a>
+   <p>Depuis 2010, nous fournissons aux sites industriels des équipements de consignation et d'étiquetage LOTO. Nos produits sont conformes aux exigences de l'OSHA 29 CFR 1910.147.</p>
+  </div>
+  <div><h3>Produits</h3><ul><li><a href="/fr/emniyet-asma-kilitler">Cadenas de sécurité</a></li><li><a href="/fr/salter-kilitleme-ekipmanlari">Verrous de disjoncteurs et d'interrupteurs</a></li><li><a href="/fr/vana-kilitleme-ekipmanlari">Équipements de verrouillage de vannes</a></li><li><a href="/fr/kablo-kilitleme-ekipmanlari">Dispositifs de verrouillage par câble</a></li><li><a href="/fr/kilit-coklandiricilar">Pinces multi-cadenas</a></li><li><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari">Verrouillage électrique et pneumatique</a></li><li><a href="/fr/urunler">Tous les produits →</a></li></ul></div>
+  <div><h3>Sofilx</h3><ul><li><a href="/fr/hakkimizda">À propos</a></li><li><a href="/fr/referanslar">Références</a></li><li><a href="/fr/loto-rehberi">Guide LOTO</a></li><li><a href="/fr/blog">Blog</a></li><li><a href="/fr/teklif">Panier de devis</a></li><li><a href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Catalogue produits (PDF)</a></li><li><a href="/fr/iletisim">Contact</a></li><li><a href="/fr/gizlilik-politikasi">Politique de confidentialité</a></li></ul></div>
+  <div><h3>Contact</h3><ul>
+   <li><a href="tel:+902166063206">(0216) 606 32 06</a></li>
+   <li><a href="tel:+905523508446">(0552) 350 84 46</a></li>
+   <li><a href="mailto:info@sofilxloto.com">info@sofilxloto.com</a></li>
+   <li>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul</li>
+<li><a href="https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/" rel="noopener" target="_blank">LinkedIn</a></li>  </ul></div>
+ </div>
+ <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tous droits réservés.</span><span>LOTO · Équipements de verrouillage et d'étiquetage</span></div></div>
+</footer>
+<a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="Écrivez-nous sur WhatsApp"><svg><use href="#i-wa"></use></svg></a>
+<script src="/assets/site.js?v=b68fe545" defer></script>
+</body>
+</html>

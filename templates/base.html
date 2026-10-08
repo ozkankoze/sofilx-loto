@@ -52,6 +52,8 @@
 <title>{{ title }}</title>
 <meta name="description" content="{{ desc }}">
 <link rel="canonical" href="{{ site.url }}{{ path }}">
+{% if path not in ('/404', '/teklif') %}{% for c, fl, n in langs %}<link rel="alternate" hreflang="{{ c }}" href="{{ site.url }}{{ path if c=='tr' else '/' ~ c ~ ('' if path=='/' else path) }}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ path }}">{% endif %}
 <meta name="theme-color" content="#141414">
 <meta property="og:type" content="{{ og_type|default('website') }}">
 <meta property="og:site_name" content="Sofilx LOTO">
@@ -97,6 +99,9 @@
  <a href="https://wa.me/{{ site.wa }}" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"/></svg>{{ site.tel2 }}</a>
  <a href="mailto:{{ site.mail }}" class="hide-s"><svg><use href="#i-mail"/></svg>{{ site.mail }}</a>
  <span class="since">2010'dan beri LOTO / EKED</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Dil: Türkçe"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15"><b>TR</b><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden>{% for c, fl, n in langs %}<a href="{{ path if c=='tr' else '/' ~ c ~ ('' if path=='/' else path) }}" hreflang="{{ c }}" lang="{{ c }}" role="menuitem" data-l="{{ c }}"{% if c=='tr' %} aria-current="true"{% endif %}><img class="flag" src="/assets/flags/{{ fl }}.svg" alt="" width="20" height="15" loading="lazy"><b>{{ c|upper }}</b><i>{{ n }}</i></a>{% endfor %}</div>
+ </div>
 </div></div>
 
 <header class="hdr"><div class="wrap">
@@ -115,6 +120,7 @@
   <a href="/loto-rehberi" {% if active=='guide' %}aria-current="page"{% endif %}>LOTO Rehberi</a>
   <a href="/blog" {% if active=='blog' %}aria-current="page"{% endif %}>Blog</a>
   <a href="/iletisim" {% if active=='contact' %}aria-current="page"{% endif %}>İletişim</a>
+ <div class="mlang"><p><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg><span>Dil</span></p><div data-i18n-skip>{% for c, fl, n in langs %}<a href="{{ path if c=='tr' else '/' ~ c ~ ('' if path=='/' else path) }}" hreflang="{{ c }}" lang="{{ c }}" data-l="{{ c }}"{% if c=='tr' %} aria-current="true"{% endif %}><img class="flag" src="/assets/flags/{{ fl }}.svg" alt="" width="20" height="15" loading="lazy"><b>{{ c|upper }}</b><i>{{ n }}</i></a>{% endfor %}</div></div>
  </nav>
  <div class="hdr-tools">
   <a class="icon-btn" href="/urunler#q" aria-label="Ürün ara"><svg><use href="#i-search"/></svg></a>

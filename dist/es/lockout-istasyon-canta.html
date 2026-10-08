@@ -1,0 +1,502 @@
+<!doctype html>
+<html lang="es" dir="ltr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Estaciones de bloqueo LOTO | Sofilx LOTO</title>
+<meta name="description" content="Estaciones murales y portátiles que reúnen candados, etiquetas y equipos. 25 productos, conformes con OSHA, envío rápido desde stock.">
+<link rel="canonical" href="https://www.sofilxloto.com/es/lockout-istasyon-canta">
+<link rel="alternate" hreflang="tr" href="https://www.sofilxloto.com/lockout-istasyon-canta">
+<link rel="alternate" hreflang="en" href="https://www.sofilxloto.com/en/lockout-istasyon-canta">
+<link rel="alternate" hreflang="fr" href="https://www.sofilxloto.com/fr/lockout-istasyon-canta">
+<link rel="alternate" hreflang="de" href="https://www.sofilxloto.com/de/lockout-istasyon-canta">
+<link rel="alternate" hreflang="es" href="https://www.sofilxloto.com/es/lockout-istasyon-canta">
+<link rel="alternate" hreflang="ru" href="https://www.sofilxloto.com/ru/lockout-istasyon-canta">
+<link rel="alternate" hreflang="it" href="https://www.sofilxloto.com/it/lockout-istasyon-canta">
+<link rel="alternate" hreflang="x-default" href="https://www.sofilxloto.com/lockout-istasyon-canta"><meta name="theme-color" content="#141414">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sofilx LOTO">
+<meta property="og:locale" content="es_ES">
+<meta property="og:title" content="Estaciones de bloqueo LOTO | Sofilx LOTO">
+<meta property="og:description" content="Estaciones murales y portátiles que reúnen candados, etiquetas y equipos. 25 productos, conformes con OSHA, envío rápido desde stock.">
+<meta property="og:url" content="https://www.sofilxloto.com/es/lockout-istasyon-canta">
+<meta property="og:image" content="https://www.sofilxloto.com/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/sofilx-ikon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/es/site.webmanifest">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=b68fe545">
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Ürünler&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/urunler&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;LOTO İstasyonları&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/lockout-istasyon-canta&#34;}]}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;ItemList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;url&#34;: &#34;https://www.sofilxloto.com/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari&#34;, &#34;name&#34;: &#34;BD-B31/B34 Metal Askı Ekipmanları&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B101 Duvara Monte Edilebilen Kapaklı Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B102 Duvara Monte Edilebilen Kapaklı Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 4, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B103 Duvara Asılabilen Şeffaf Kapaklı Geniş Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 5, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b104/duvara-asilabilen-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B104 Duvara Asılabilen Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 6, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b105/kapaksiz-mini-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B105 Kapaksız Mini Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 7, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B201 Kombinasyon Gelişmiş Büyük Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 8, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu&#34;, &#34;name&#34;: &#34;BD-B202 Kombinasyon Gelişmiş Büyük Kilit İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 9, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b301/kapaksiz-plastik-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B301 Kapaksız Plastik Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 10, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b302/kapaksiz-plastik-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B302 Kapaksız Plastik Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 11, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b306a-b307a-b308a/akrilik-kapaksiz-loto-istasyonlari&#34;, &#34;name&#34;: &#34;BD-B306A/B307A/B308A Akrilik Kapakasız Loto İstasyonları&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 12, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b401/kombine-kilitleme-istasyonu&#34;, &#34;name&#34;: &#34;BD-B401 Serisi Kombine Kilitleme İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 13, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b41/tasinabilir-12li-kilit-askisi&#34;, &#34;name&#34;: &#34;BD-B41 Taşınabilir 12&#39;li Kilit Askısı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 14, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b60/kancali-anahtar-yonetim-istasyonu&#34;, &#34;name&#34;: &#34;BD-B60 Kancalı Anahtar Yönetim İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 15, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1&#34;, &#34;name&#34;: &#34;BD-B7 Serisi Kapaksız Gölge Kilit İstasyonları&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 16, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x07-6/metal-kilit-dolabi&#34;, &#34;name&#34;: &#34;BD-X07-6 Metal Kilit Dolabı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 17, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x07/duvara-asilabilir-metal-loto-dolabi&#34;, &#34;name&#34;: &#34;BD-X07 Duvara Asılabilir Metal Loto Dolabı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 18, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x08-1/metal-asma-kilit-istasyonu&#34;, &#34;name&#34;: &#34;BD-X08-1 Metal Asma Kilit İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 19, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x09/metal-loto-dolabi&#34;, &#34;name&#34;: &#34;BD-X09 Serisi Metal Loto Dolabı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 20, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x23/tasinabilir-kombinasyon-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-X23 Serisi Taşınabilir Kombinasyon Loto İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 21, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu&#34;, &#34;name&#34;: &#34;BD-X60 Grup Kilit Kutusu ile İzin Kontrol İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 22, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu&#34;, &#34;name&#34;: &#34;BD-B71-1 Alüminyum Kapaksız Duvara Asılabilen LOTO İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 23, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-b61-metal-anahtar-saklama-dolabi&#34;, &#34;name&#34;: &#34;BD-B61 Metal Anahtar Saklama Dolabı&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 24, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu&#34;, &#34;name&#34;: &#34;BD-S62 Plastik Kapaksız Asma Kilit İstasyonu&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 25, &#34;url&#34;: &#34;https://www.sofilxloto.com/bd-x08-metal-asma-kilit-istasyonu&#34;, &#34;name&#34;: &#34;BD-X08 Metal Asma Kilit İstasyonu&#34;}]}</script>
+<script>window.SFX_I18N={"teklif sepetine eklendi": "añadido al carrito de cotización", "Sepete git": "Ir al carrito", "Eklendi": "Añadido", "Azalt": "Reducir", "Adet": "Cantidad", "Arttır": "Aumentar", "Kaldır": "Quitar", "Merhaba, aşağıdaki ürünler için fiyat teklifi rica ediyorum:": "Hola, les solicito una cotización para los siguientes productos:", "Ad Soyad": "Nombre y apellidos", "Firma": "Empresa", "Telefon": "Teléfono", "E-posta": "Correo electrónico", "Not": "Nota", "Teklif talebi": "Solicitud de cotización", "ürün": "producto", "Web sitesi mesajı": "Mensaje del sitio web", "Dil": "Idioma"};</script></head>
+<body>
+<a class="skip" href="#icerik">Saltar al contenido</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-phone" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"></path></symbol>
+ <symbol id="i-mail" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 6-10 7L2 6"></path></symbol>
+ <symbol id="i-pin" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+ <symbol id="i-wa" viewbox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 0 1 12 2.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8zm8.4-18.2A11.8 11.8 0 0 0 1.6 17.9L0 24l6.3-1.6a11.8 11.8 0 0 0 5.7 1.4A11.8 11.8 0 0 0 20.4 3.6z"></path></symbol>
+ <symbol id="i-cart" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11V7a3 3 0 0 1 6 0v4"></path><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M12 15v3"></path></symbol>
+ <symbol id="i-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></symbol>
+ <symbol id="i-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></symbol>
+ <symbol id="i-down" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></symbol>
+ <symbol id="i-arrow" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></symbol>
+ <symbol id="i-shield" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+ <symbol id="i-truck" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7z"></path><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></symbol>
+ <symbol id="i-tool" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"></path></symbol>
+ <symbol id="i-lock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path></symbol>
+ <symbol id="i-chat" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></symbol>
+ <symbol id="i-check" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></symbol>
+ <symbol id="i-tag" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z"></path><circle cx="7" cy="7" r="1.5"></circle></symbol>
+</svg>
+
+<div class="topbar"><div class="wrap">
+ <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg>(0216) 606 32 06</a>
+ <a href="https://wa.me/905523508446" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"></use></svg>(0552) 350 84 46</a>
+ <a href="mailto:info@sofilxloto.com" class="hide-s"><svg><use href="#i-mail"></use></svg>info@sofilxloto.com</a>
+ <span class="since">LOTO desde 2010</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Idioma: Español"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15"><b>ES</b><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden><a href="/lockout-istasyon-canta" hreflang="tr" lang="tr" role="menuitem" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/lockout-istasyon-canta" hreflang="en" lang="en" role="menuitem" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/lockout-istasyon-canta" hreflang="fr" lang="fr" role="menuitem" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/lockout-istasyon-canta" hreflang="de" lang="de" role="menuitem" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/lockout-istasyon-canta" hreflang="es" lang="es" role="menuitem" data-l="es" aria-current="true"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/lockout-istasyon-canta" hreflang="ru" lang="ru" role="menuitem" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/lockout-istasyon-canta" hreflang="it" lang="it" role="menuitem" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div>
+ </div>
+</div></div>
+
+<header class="hdr"><div class="wrap">
+ <a class="logo" href="/es" aria-label="Página de inicio de Sofilx LOTO"><img src="/assets/sofilx-logo.svg" alt="Sofilx LOTO" width="196" height="42"></a>
+ <nav class="nav" id="nav" aria-label="Menú principal">
+  <a href="/es">Inicio</a>
+  <div class="dd">
+   <button type="button" aria-expanded="false" aria-controls="mega">Productos <svg><use href="#i-down"></use></svg></button>
+   <div class="mega" id="mega">
+<a href="/es/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Candados de seguridad</b><small>40 productos</small></span></a><a href="/es/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Bloqueos para interruptores e interruptores automáticos</b><small>26 productos</small></span></a><a href="/es/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Equipos de bloqueo de válvulas</b><small>36 productos</small></span></a><a href="/es/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Equipos de bloqueo con cable</b><small>12 productos</small></span></a><a href="/es/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Lockout hasps</b><small>24 productos</small></span></a><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Bloqueo eléctrico y neumático</b><small>9 productos</small></span></a><a href="/es/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Estaciones de bloqueo LOTO</b><small>25 productos</small></span></a><a href="/es/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Cajas de bloqueo en grupo y bolsas</b><small>17 productos</small></span></a><a href="/es/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Kits LOTO</b><small>33 productos</small></span></a><a href="/es/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Etiquetas de advertencia de peligro</b><small>15 productos</small></span></a>    <a class="all" href="/es/urunler">Todos los productos (237)</a>
+   </div>
+  </div>
+  <a href="/es/hakkimizda">Corporativo</a>
+  <a href="/es/referanslar">Referencias</a>
+  <a href="/es/loto-rehberi">Guía LOTO</a>
+  <a href="/es/blog">Blog</a>
+  <a href="/es/iletisim">Contacto</a>
+ <div class="mlang"><p><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"></path></svg><span>Idioma</span></p><div data-i18n-skip><a href="/lockout-istasyon-canta" hreflang="tr" lang="tr" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/lockout-istasyon-canta" hreflang="en" lang="en" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/lockout-istasyon-canta" hreflang="fr" lang="fr" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/lockout-istasyon-canta" hreflang="de" lang="de" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/lockout-istasyon-canta" hreflang="es" lang="es" data-l="es" aria-current="true"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/lockout-istasyon-canta" hreflang="ru" lang="ru" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/lockout-istasyon-canta" hreflang="it" lang="it" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div></div>
+ </nav>
+ <div class="hdr-tools">
+  <a class="icon-btn" href="/es/urunler#q" aria-label="Buscar producto"><svg><use href="#i-search"></use></svg></a>
+  <a class="icon-btn" href="/es/teklif" aria-label="Carrito de cotización"><svg><use href="#i-cart"></use></svg><span class="cart-n" data-n="0">0</span></a>
+  <button class="icon-btn burger" type="button" aria-label="Menú" aria-controls="nav" aria-expanded="false"><svg><use href="#i-menu"></use></svg></button>
+ </div>
+</div></header>
+
+<main id="icerik">
+<section class="ph cat-hero"><div class="wrap">
+ <nav class="crumbs" aria-label="Ruta de la página"><a href="/es">Inicio</a><span aria-hidden="true">/</span><a href="/es/urunler">Productos</a><span aria-hidden="true">/</span><span>Estaciones de bloqueo LOTO</span></nav>
+ <h1>Estaciones de bloqueo LOTO</h1>
+ <p class="lead">Las estaciones de bloqueo LOTO son soluciones de organización, de pared o portátiles, que reúnen en un solo punto candados de seguridad, pestañas de bloqueo múltiple, dispositivos de bloqueo y etiquetas de advertencia, para que los equipos de mantenimiento accedan al instante al equipo que necesitan.</p>
+ <span class="count-badge"><svg><use href="#i-lock"></use></svg>25 productos</span>
+<div class="hero-chips"><span><svg><use href="#i-check"></use></svg>De pared y portátiles</span><span><svg><use href="#i-check"></use></svg>Cuerpo con o sin tapa</span><span><svg><use href="#i-check"></use></svg>Plástico, acrílico, metal</span><span><svg><use href="#i-check"></use></svg>Disposición con panel de sombra</span><span><svg><use href="#i-check"></use></svg>Paneles de gestión de llaves</span></div> <div class="btn-row">
+<a class="btn btn-white" href="#rehber">Guía de selección <svg><use href="#i-arrow"></use></svg></a>  <a class="btn btn-light" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C4%B0stasyonlar%C4%B1%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Consultar precio por WhatsApp</a>
+ </div>
+</div></section>
+
+<nav class="catnav" aria-label="Categorías de productos"><div class="wrap">
+ <a href="/es/urunler">Todos los productos</a>
+<a href="/es/emniyet-asma-kilitler">Candados de seguridad</a><a href="/es/salter-kilitleme-ekipmanlari">Bloqueos para interruptores e interruptores automáticos</a><a href="/es/vana-kilitleme-ekipmanlari">Equipos de bloqueo de válvulas</a><a href="/es/kablo-kilitleme-ekipmanlari">Equipos de bloqueo con cable</a><a href="/es/kilit-coklandiricilar">Lockout hasps</a><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari">Bloqueo eléctrico y neumático</a><a href="/es/lockout-istasyon-canta" class="on" aria-current="page">Estaciones de bloqueo LOTO</a><a href="/es/grup-kilit-kutusu">Cajas de bloqueo en grupo y bolsas</a><a href="/es/set-urunler">Kits LOTO</a><a href="/es/tehlike-etiketleri">Etiquetas de advertencia de peligro</a></div></nav>
+
+<section class="sec-sm"><div class="wrap">
+ <div class="filters">
+  <p class="count-line"><b id="count">25</b> productos</p>
+  <label class="search"><span class="sr">Buscar producto</span><svg><use href="#i-search"></use></svg><input id="q" type="search" placeholder="Código o nombre del producto (p. ej., BD-G01, válvula)" autocomplete="off"></label>
+ </div>
+ <div class="grid" data-filter-grid><article class="pc" data-cat="istasyon" data-s="BD-B31/B34 Equipos de colgado metálicos Ver + Cotización BD-B31/B34 Metal Askı Ekipmanları LOTO İstasyonları ">
+ <a class="im" href="/es/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari"><img src="/assets/urunler/eked-istasyon-bd-b31-34-metal-aski-ekipmanlari-1-k.webp" alt="BD-B31/B34 Soportes metálicos de suspensión" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B31/B34</span>
+  <h3><a href="/es/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari">Equipos de colgado metálicos</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B31/B34" data-name="Equipos de colgado metálicos" data-img="/assets/urunler/eked-istasyon-bd-b31-34-metal-aski-ekipmanlari-1-k.webp" data-url="/es/eked-istasyon/bd-b31-34-metal-aski-ekipmanlari">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B101 Estación LOTO con tapa para montaje mural Ver + Cotización BD-B101 Duvara Monte Edilebilen Kapaklı Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu"><img src="/assets/urunler/bd-b101-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="BD-B101 Estación LOTO con tapa para montaje en pared" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B101</span>
+  <h3><a href="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu">Estación LOTO con tapa para montaje mural</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B101" data-name="Estación LOTO con tapa para montaje mural" data-img="/assets/urunler/bd-b101-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" data-url="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B102 Estación LOTO con tapa para montaje mural Ver + Cotización BD-B102 Duvara Monte Edilebilen Kapaklı Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="BD-B102 Estación LOTO con tapa para montaje en pared" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B102</span>
+  <h3><a href="/es/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu">Estación LOTO con tapa para montaje mural</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B102" data-name="Estación LOTO con tapa para montaje mural" data-img="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" data-url="/es/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B103 Estación LOTO amplia colgable en pared con tapa transparente Ver + Cotización BD-B103 Duvara Asılabilen Şeffaf Kapaklı Geniş Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu"><img src="/assets/urunler/bd-b103-duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu-1-k.webp" alt="BD-B103 Estación LOTO amplia con tapa transparente para colgar en la pared" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B103</span>
+  <h3><a href="/es/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu">Estación LOTO amplia colgable en pared con tapa transparente</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B103" data-name="Estación LOTO amplia colgable en pared con tapa transparente" data-img="/assets/urunler/bd-b103-duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu-1-k.webp" data-url="/es/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B104 Estación LOTO colgable en pared Ver + Cotización BD-B104 Duvara Asılabilen Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b104/duvara-asilabilen-loto-istasyonu"><img src="/assets/urunler/bd-b104-duvara-asilabilen-loto-istasyonu-1-k.webp" alt="BD-B104 Estación LOTO para colgar en la pared" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B104</span>
+  <h3><a href="/es/bd-b104/duvara-asilabilen-loto-istasyonu">Estación LOTO colgable en pared</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b104/duvara-asilabilen-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B104" data-name="Estación LOTO colgable en pared" data-img="/assets/urunler/bd-b104-duvara-asilabilen-loto-istasyonu-1-k.webp" data-url="/es/bd-b104/duvara-asilabilen-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B105 Mini estación LOTO sin tapa Ver + Cotización BD-B105 Kapaksız Mini Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b105/kapaksiz-mini-loto-istasyonu"><img src="/assets/urunler/bd-b105-kapaksiz-mini-loto-istasyonu-1-k.webp" alt="BD-B105 Mini estación LOTO sin tapa" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B105</span>
+  <h3><a href="/es/bd-b105/kapaksiz-mini-loto-istasyonu">Mini estación LOTO sin tapa</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b105/kapaksiz-mini-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B105" data-name="Mini estación LOTO sin tapa" data-img="/assets/urunler/bd-b105-kapaksiz-mini-loto-istasyonu-1-k.webp" data-url="/es/bd-b105/kapaksiz-mini-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B201 Estación LOTO grande avanzada combinada Ver + Cotización BD-B201 Kombinasyon Gelişmiş Büyük Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu"><img src="/assets/urunler/bd-b201-kombinasyon-gelismis-buyuk-loto-istasyonu-1-k.webp" alt="BD-B201 Estación LOTO grande combinada avanzada" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B201</span>
+  <h3><a href="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu">Estación LOTO grande avanzada combinada</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B201" data-name="Estación LOTO grande avanzada combinada" data-img="/assets/urunler/bd-b201-kombinasyon-gelismis-buyuk-loto-istasyonu-1-k.webp" data-url="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B202 Estación de bloqueo grande avanzada combinada Ver + Cotización BD-B202 Kombinasyon Gelişmiş Büyük Kilit İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu"><img src="/assets/urunler/bd-b202-kombinasyon-gelismis-buyuk-kilit-istasyonu-1-k.webp" alt="BD-B202 Estación de bloqueo grande combinada avanzada" width="520" height="520" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B202</span>
+  <h3><a href="/es/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu">Estación de bloqueo grande avanzada combinada</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B202" data-name="Estación de bloqueo grande avanzada combinada" data-img="/assets/urunler/bd-b202-kombinasyon-gelismis-buyuk-kilit-istasyonu-1-k.webp" data-url="/es/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B301 Estación LOTO de plástico sin tapa Ver + Cotización BD-B301 Kapaksız Plastik Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b301/kapaksiz-plastik-loto-istasyonu"><img src="/assets/urunler/bd-b301-kapaksiz-plastik-loto-istasyonu-1-k.webp" alt="BD-B301 Estación LOTO de plástico sin tapa" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B301</span>
+  <h3><a href="/es/bd-b301/kapaksiz-plastik-loto-istasyonu">Estación LOTO de plástico sin tapa</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b301/kapaksiz-plastik-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B301" data-name="Estación LOTO de plástico sin tapa" data-img="/assets/urunler/bd-b301-kapaksiz-plastik-loto-istasyonu-1-k.webp" data-url="/es/bd-b301/kapaksiz-plastik-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B302 Estación LOTO de plástico sin tapa Ver + Cotización BD-B302 Kapaksız Plastik Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b302/kapaksiz-plastik-loto-istasyonu"><img src="/assets/urunler/bd-b302-kapaksiz-plastik-loto-istasyonu-1-k.webp" alt="BD-B302 Estación LOTO de plástico sin tapa" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B302</span>
+  <h3><a href="/es/bd-b302/kapaksiz-plastik-loto-istasyonu">Estación LOTO de plástico sin tapa</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b302/kapaksiz-plastik-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B302" data-name="Estación LOTO de plástico sin tapa" data-img="/assets/urunler/bd-b302-kapaksiz-plastik-loto-istasyonu-1-k.webp" data-url="/es/bd-b302/kapaksiz-plastik-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B306A/B307A/B308A Estaciones LOTO acrílicas sin tapa Ver + Cotización BD-B306A/B307A/B308A Akrilik Kapakasız Loto İstasyonları LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b306a-b307a-b308a/akrilik-kapaksiz-loto-istasyonlari"><img src="/assets/urunler/bd-b306a-b307a-b308a-akrilik-kapaksiz-loto-istasyonlari-1-k.webp" alt="BD-B306A/B307A/B308A Estaciones LOTO acrílicas sin tapa" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B306A/B307A/B308A</span>
+  <h3><a href="/es/bd-b306a-b307a-b308a/akrilik-kapaksiz-loto-istasyonlari">Estaciones LOTO acrílicas sin tapa</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b306a-b307a-b308a/akrilik-kapaksiz-loto-istasyonlari">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B306A/B307A/B308A" data-name="Estaciones LOTO acrílicas sin tapa" data-img="/assets/urunler/bd-b306a-b307a-b308a-akrilik-kapaksiz-loto-istasyonlari-1-k.webp" data-url="/es/bd-b306a-b307a-b308a/akrilik-kapaksiz-loto-istasyonlari">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B401 Estación de bloqueo combinada de la serie Ver + Cotización BD-B401 Serisi Kombine Kilitleme İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b401/kombine-kilitleme-istasyonu"><img src="/assets/urunler/bd-b401-kombine-kilitleme-istasyonu-1-k.webp" alt="Estación de bloqueo combinada de la serie BD-B401" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B401</span>
+  <h3><a href="/es/bd-b401/kombine-kilitleme-istasyonu">Estación de bloqueo combinada de la serie</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b401/kombine-kilitleme-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B401" data-name="Estación de bloqueo combinada de la serie" data-img="/assets/urunler/bd-b401-kombine-kilitleme-istasyonu-1-k.webp" data-url="/es/bd-b401/kombine-kilitleme-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B41 Soporte portátil para 12 candados Ver + Cotización BD-B41 Taşınabilir 12'li Kilit Askısı LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b41/tasinabilir-12li-kilit-askisi"><img src="/assets/urunler/bd-b41-tasinabilir-12li-kilit-askisi-1-k.webp" alt="BD-B41 Soporte portátil para 12 candados" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B41</span>
+  <h3><a href="/es/bd-b41/tasinabilir-12li-kilit-askisi">Soporte portátil para 12 candados</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b41/tasinabilir-12li-kilit-askisi">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B41" data-name="Soporte portátil para 12 candados" data-img="/assets/urunler/bd-b41-tasinabilir-12li-kilit-askisi-1-k.webp" data-url="/es/bd-b41/tasinabilir-12li-kilit-askisi">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B60 Estación de gestión de llaves con ganchos Ver + Cotización BD-B60 Kancalı Anahtar Yönetim İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b60/kancali-anahtar-yonetim-istasyonu"><img src="/assets/urunler/bd-b60-kancali-anahtar-yonetim-istasyonu-1-k.webp" alt="BD-B60 Estación de gestión de llaves con ganchos" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B60</span>
+  <h3><a href="/es/bd-b60/kancali-anahtar-yonetim-istasyonu">Estación de gestión de llaves con ganchos</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b60/kancali-anahtar-yonetim-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B60" data-name="Estación de gestión de llaves con ganchos" data-img="/assets/urunler/bd-b60-kancali-anahtar-yonetim-istasyonu-1-k.webp" data-url="/es/bd-b60/kancali-anahtar-yonetim-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B7 Estaciones de candados de sombra (shadow board) sin tapa de la serie Ver + Cotización BD-B7 Serisi Kapaksız Gölge Kilit İstasyonları LOTO İstasyonları ">
+ <a class="im" href="/es/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1"><img src="/assets/urunler/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1-1-k.webp" alt="Estaciones de bloqueo con tablero de sombras sin tapa, serie BD-B7" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B7</span>
+  <h3><a href="/es/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1">Estaciones de candados de sombra (shadow board) sin tapa de la serie</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B7" data-name="Estaciones de candados de sombra (shadow board) sin tapa de la serie" data-img="/assets/urunler/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1-1-k.webp" data-url="/es/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X07-6 Armario metálico para candados Ver + Cotización BD-X07-6 Metal Kilit Dolabı LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x07-6/metal-kilit-dolabi"><img src="/assets/urunler/bd-x07-6-metal-kilit-dolabi-1-k.webp" alt="Armario metálico de candados BD-X07-6" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X07-6</span>
+  <h3><a href="/es/bd-x07-6/metal-kilit-dolabi">Armario metálico para candados</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x07-6/metal-kilit-dolabi">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X07-6" data-name="Armario metálico para candados" data-img="/assets/urunler/bd-x07-6-metal-kilit-dolabi-1-k.webp" data-url="/es/bd-x07-6/metal-kilit-dolabi">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X07 Armario LOTO metálico colgable en pared Ver + Cotización BD-X07 Duvara Asılabilir Metal Loto Dolabı LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x07/duvara-asilabilir-metal-loto-dolabi"><img src="/assets/urunler/bd-x07-duvara-asilabilir-metal-loto-dolabi-1-k.webp" alt="Armario LOTO metálico mural BD-X07" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X07</span>
+  <h3><a href="/es/bd-x07/duvara-asilabilir-metal-loto-dolabi">Armario LOTO metálico colgable en pared</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x07/duvara-asilabilir-metal-loto-dolabi">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X07" data-name="Armario LOTO metálico colgable en pared" data-img="/assets/urunler/bd-x07-duvara-asilabilir-metal-loto-dolabi-1-k.webp" data-url="/es/bd-x07/duvara-asilabilir-metal-loto-dolabi">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X08-1 Estación metálica de candados Ver + Cotización BD-X08-1 Metal Asma Kilit İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x08-1/metal-asma-kilit-istasyonu"><img src="/assets/urunler/bd-x08-1-metal-asma-kilit-istasyonu-1-k.webp" alt="Estación metálica de candados BD-X08-1" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X08-1</span>
+  <h3><a href="/es/bd-x08-1/metal-asma-kilit-istasyonu">Estación metálica de candados</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x08-1/metal-asma-kilit-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X08-1" data-name="Estación metálica de candados" data-img="/assets/urunler/bd-x08-1-metal-asma-kilit-istasyonu-1-k.webp" data-url="/es/bd-x08-1/metal-asma-kilit-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X09 Armario LOTO metálico de la serie Ver + Cotización BD-X09 Serisi Metal Loto Dolabı LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x09/metal-loto-dolabi"><img src="/assets/urunler/bd-x09-metal-loto-dolabi-1-k.webp" alt="Armario LOTO metálico serie BD-X09" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X09</span>
+  <h3><a href="/es/bd-x09/metal-loto-dolabi">Armario LOTO metálico de la serie</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x09/metal-loto-dolabi">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X09" data-name="Armario LOTO metálico de la serie" data-img="/assets/urunler/bd-x09-metal-loto-dolabi-1-k.webp" data-url="/es/bd-x09/metal-loto-dolabi">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X23 Estación LOTO combinada portátil de la serie Ver + Cotización BD-X23 Serisi Taşınabilir Kombinasyon Loto İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu"><img src="/assets/urunler/bd-x23-tasinabilir-kombinasyon-loto-istasyonu-1-k.webp" alt="Estación LOTO combinada portátil serie BD-X23" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X23</span>
+  <h3><a href="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu">Estación LOTO combinada portátil de la serie</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X23" data-name="Estación LOTO combinada portátil de la serie" data-img="/assets/urunler/bd-x23-tasinabilir-kombinasyon-loto-istasyonu-1-k.webp" data-url="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X60 Caja de bloqueo en grupo y estación de control de permisos Ver + Cotización BD-X60 Grup Kilit Kutusu ile İzin Kontrol İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu"><img src="/assets/urunler/bd-x60-grup-kilit-kutusu-ile-izin-kontrol-istasyonu-1-k.webp" alt="Estación de control de permisos BD-X60 con caja de bloqueo en grupo" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X60</span>
+  <h3><a href="/es/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu">Caja de bloqueo en grupo y estación de control de permisos</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X60" data-name="Caja de bloqueo en grupo y estación de control de permisos" data-img="/assets/urunler/bd-x60-grup-kilit-kutusu-ile-izin-kontrol-istasyonu-1-k.webp" data-url="/es/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B71-1 Estación LOTO de aluminio sin tapa para colgar en la pared Ver + Cotización BD-B71-1 Alüminyum Kapaksız Duvara Asılabilen LOTO İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu"><img src="/assets/urunler/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu-1-k.webp" alt="BD-B71-1 Estación LOTO de aluminio sin tapa para colgar en la pared" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B71-1</span>
+  <h3><a href="/es/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu">Estación LOTO de aluminio sin tapa para colgar en la pared</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B71-1" data-name="Estación LOTO de aluminio sin tapa para colgar en la pared" data-img="/assets/urunler/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu-1-k.webp" data-url="/es/bd-b71-1-aluminyum-kapaksiz-duvara-asilabilen-loto-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-B61 Armario metálico para guardar llaves Ver + Cotización BD-B61 Metal Anahtar Saklama Dolabı LOTO İstasyonları ">
+ <a class="im" href="/es/bd-b61-metal-anahtar-saklama-dolabi"><img src="/assets/urunler/bd-b61-metal-anahtar-saklama-dolabi-1-k.webp" alt="BD-B61 Armario metálico para guardar llaves" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-B61</span>
+  <h3><a href="/es/bd-b61-metal-anahtar-saklama-dolabi">Armario metálico para guardar llaves</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-b61-metal-anahtar-saklama-dolabi">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-B61" data-name="Armario metálico para guardar llaves" data-img="/assets/urunler/bd-b61-metal-anahtar-saklama-dolabi-1-k.webp" data-url="/es/bd-b61-metal-anahtar-saklama-dolabi">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-S62 Estación de candados de plástico sin tapa Ver + Cotización BD-S62 Plastik Kapaksız Asma Kilit İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu"><img src="/assets/urunler/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu-1-k.webp" alt="Estación de candados de plástico sin tapa BD-S62" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-S62</span>
+  <h3><a href="/es/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu">Estación de candados de plástico sin tapa</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-S62" data-name="Estación de candados de plástico sin tapa" data-img="/assets/urunler/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu-1-k.webp" data-url="/es/bd-s62-plastik-kapaksiz-asma-kilit-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article><article class="pc" data-cat="istasyon" data-s="BD-X08 Estación metálica de candados Ver + Cotización BD-X08 Metal Asma Kilit İstasyonu LOTO İstasyonları ">
+ <a class="im" href="/es/bd-x08-metal-asma-kilit-istasyonu"><img src="/assets/urunler/bd-x08-metal-asma-kilit-istasyonu-1-k.webp" alt="Estación metálica de candados BD-X08" width="520" height="520" loading="lazy" decoding="async"></a>
+ <div class="bd">
+  <span class="code">BD-X08</span>
+  <h3><a href="/es/bd-x08-metal-asma-kilit-istasyonu">Estación metálica de candados</a></h3>
+  <div class="act">
+   <a class="btn btn-line btn-sm" href="/es/bd-x08-metal-asma-kilit-istasyonu">Ver</a>
+   <button class="btn btn-red btn-sm add" type="button" data-add data-code="BD-X08" data-name="Estación metálica de candados" data-img="/assets/urunler/bd-x08-metal-asma-kilit-istasyonu-1-k.webp" data-url="/es/bd-x08-metal-asma-kilit-istasyonu">+ Cotización</button>
+  </div>
+ </div>
+</article></div>
+ <div class="empty">No se ha encontrado ningún producto que coincida con su búsqueda. <a href="/es/iletisim">Escríbanos</a> y busquemos juntos el equipo que necesita.</div>
+
+ <div class="fband reveal">
+  <div class="fb-feats">
+   <div><i><svg><use href="#i-shield"></use></svg></i><b>Conforme con OSHA</b><span>Equipos LOTO conformes con 29 CFR 1910.147</span></div>
+   <div><i><svg><use href="#i-truck"></use></svg></i><b>Envío rápido</b><span>Productos en stock con envío el mismo día</span></div>
+   <div><i><svg><use href="#i-tag"></use></svg></i><b>Personalizado</b><span>Opciones de color, etiqueta y llave</span></div>
+   <div><i><svg><use href="#i-chat"></use></svg></i><b>Soporte técnico</b><span>Elijamos juntos el producto adecuado a partir de una foto</span></div>
+  </div>
+  <div class="fb-cta"><div><h3>¿No ha encontrado el modelo que busca?</h3><p>Envíenos la medida o una foto del punto que se va a bloquear y le indicaremos de inmediato el modelo adecuado y el precio.</p></div>
+   <div class="btn-row"><a class="btn btn-white" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C4%B0stasyonlar%C4%B1%20hakk%C4%B1nda%20teklif%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Solicitar presupuesto por WhatsApp</a><a class="btn btn-light" href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Descargar catálogo</a></div></div>
+ </div>
+</div></section>
+
+<section class="sec-sm" id="rehber" style="padding-bottom:0"><div class="wrap"><nav class="toc" aria-label="Contenido de la guía">
+ <a href="#nedir">Estación de bloqueo LOTO</a><a href="#cesitler">Variantes</a><a href="#secim">Tabla de selección</a><a href="#nasil">¿Cómo elegir?</a><a href="#kullanim">Áreas de uso</a><a href="#sss">SSS</a>
+</nav></div></section>
+
+<section class="sec" id="nedir"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Guía de estaciones de bloqueo LOTO</span><h2>¿Qué es una estación de bloqueo LOTO?</h2><span class="bar"></span>
+  <div class="rule"><b>Consejo de ubicación</b>Coloque la estación en una pared cercana a los puntos de bloqueo y que todo el equipo pueda ver con comodidad.</div></aside>
+ <div class="gtext"><p><b>Una estación LOTO</b> se conoce en campo también como <b>estación de bloqueo</b> o <b>estación de candados</b>. En este panel o armario se guardan de forma ordenada y visible los candados de seguridad, los portacandados múltiples, los dispositivos de bloqueo de válvulas e interruptores y las etiquetas de advertencia. Suele situarse a la entrada de las salas de cuadros, los talleres de mantenimiento o las líneas de producción.</p><p>La verdadera aportación de la estación es hacer sostenible el programa LOTO. Como cada equipo tiene un lugar definido, una pieza perdida o ausente se nota enseguida; el trabajador accede al candado necesario antes del aislamiento de energía sin buscarlo. En los modelos con <b>panel con siluetas</b>, como la silueta de cada pieza está marcada, el orden se mantiene por sí solo y es fácil saber quién usa cada equipo.</p><p>En Sofilx LOTO suministramos estaciones de pared sin tapa y con tapa, modelos con cuerpo de acrílico, plástico y aluminio, <b>armarios LOTO metálicos</b>, estaciones combinadas portátiles y paneles de gestión de llaves. Así puede montar una organización adecuada al tamaño de su equipo y a su entorno de trabajo.</p></div>
+</div></section>
+
+<section class="sec sec-paper" id="cesitler"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Guía de productos</span><h2>Tipos de estaciones de bloqueo LOTO</h2><span class="bar"></span></div></div>
+ <div class="gcards"><div class="gc reveal"><h3><i><svg><use href="#i-lock"></use></svg></i>Estaciones sin tapa</h3><p>Modelos abiertos, mini, de plástico y con panel de sombra, que ofrecen el acceso más rápido al equipo.</p>
+<div class="mods"><a href="/es/bd-b105/kapaksiz-mini-loto-istasyonu">BD-B105</a><a href="/es/bd-b301/kapaksiz-plastik-loto-istasyonu">BD-B301</a><a href="/es/bd-k01-vinil-kapli-celik-cene-coklandirici-ekipmani-1">BD-B7</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-shield"></use></svg></i>Estaciones con tapa</h3><p>Modelos de pared que protegen el equipo contra el polvo, la humedad y el uso no autorizado, también con opciones de tapa transparente.</p>
+<div class="mods"><a href="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu">BD-B101</a><a href="/es/bd-b102/duvara-monte-edilebilen-kapakli-loto-istasyonu">BD-B102</a><a href="/es/bd-b103/duvara-asilabilen-seffaf-kapakli-genis-loto-istasyonu">BD-B103</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-tool"></use></svg></i>Estaciones combinadas</h3><p>Soluciones de gran capacidad que reúnen en un mismo cuerpo candados, pestañas de bloqueo múltiple, dispositivos y etiquetas.</p>
+<div class="mods"><a href="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu">BD-B201</a><a href="/es/bd-b202/kombinasyon-gelismis-buyuk-kilit-istasyonu">BD-B202</a><a href="/es/bd-b401/kombine-kilitleme-istasyonu">BD-B401</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-tag"></use></svg></i>Armarios LOTO metálicos</h3><p>Armarios con cuerpo metálico resistente para condiciones de industria pesada y grandes sets de equipos.</p>
+<div class="mods"><a href="/es/bd-x07/duvara-asilabilir-metal-loto-dolabi">BD-X07</a><a href="/es/bd-x09/metal-loto-dolabi">BD-X09</a><a href="/es/bd-x07-6/metal-kilit-dolabi">BD-X07-6</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-chat"></use></svg></i>Estaciones portátiles</h3><p>Estaciones y soportes de candados que se pueden llevar consigo para los equipos que trabajan en diferentes puntos.</p>
+<div class="mods"><a href="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu">BD-X23</a><a href="/es/bd-b41/tasinabilir-12li-kilit-askisi">BD-B41</a></div></div><div class="gc reveal"><h3><i><svg><use href="#i-truck"></use></svg></i>Control de llaves y permisos</h3><p>Paneles que garantizan el almacenamiento ordenado de las llaves y el control de permisos mediante la caja de bloqueo de grupo.</p>
+<div class="mods"><a href="/es/bd-b60/kancali-anahtar-yonetim-istasyonu">BD-B60</a><a href="/es/bd-b61-metal-anahtar-saklama-dolabi">BD-B61</a><a href="/es/bd-x60/grup-kilit-kutusu-ile-izin-kontrol-istasyonu">BD-X60</a></div></div></div>
+</div></section>
+
+<section class="sec" id="secim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow">Tabla de selección</span><h2>Tabla de selección de modelos</h2><span class="bar"></span></div><p>La siguiente tabla le ayuda a encontrar la estación adecuada según el tamaño del equipo, el entorno de trabajo y la cantidad de equipo que se va a guardar.</p></div>
+ <div class="seltable reveal"><table><thead><tr><th>Serie / Modelo</th><th>Cuerpo / estructura</th><th>Entorno adecuado</th><th>Uso recomendado</th></tr></thead><tbody>
+<tr><td class="src"><a href="/es/bd-b105/kapaksiz-mini-loto-istasyonu">BD-B105 – Mini estación sin tapa</a></td><td>Sin tapa, compacta</td><td>Interiores limpios</td><td>Equipos pequeños que trabajan con pocos candados</td></tr><tr><td class="src"><a href="/es/bd-b101/duvara-monte-edilebilen-kapakli-loto-istasyonu">BD-B101 / BD-B103 – Estaciones con tapa</a></td><td>Con tapa (BD-B103 amplia, con tapa transparente)</td><td>Zonas con polvo o humedad</td><td>Equipos medianos que desean proteger su equipamiento</td></tr><tr><td class="src"><a href="/es/bd-b201/kombinasyon-gelismis-buyuk-loto-istasyonu">BD-B201 – Estación combinada</a></td><td>Cuerpo combinado de gran capacidad</td><td>Taller de mantenimiento</td><td>Almacenamiento conjunto de candados, dispositivos y etiquetas</td></tr><tr><td class="src"><a href="/es/bd-x09/metal-loto-dolabi">BD-X09 – Armario LOTO metálico</a></td><td>Cuerpo metálico</td><td>Industria pesada, condiciones exigentes</td><td>Protección de grandes conjuntos de equipos</td></tr><tr><td class="src"><a href="/es/bd-x23/tasinabilir-kombinasyon-loto-istasyonu">BD-X23 – Estación combinada portátil</a></td><td>Cuerpo portátil</td><td>Condiciones variables en campo</td><td>Equipos que trabajan en diferentes puntos</td></tr><tr><td class="src"><a href="/es/bd-b60/kancali-anahtar-yonetim-istasyonu">BD-B60 – Estación de gestión de llaves</a></td><td>Panel con ganchos</td><td>Jefatura de mantenimiento / oficina</td><td>Seguimiento y control de las llaves</td></tr> </tbody></table></div>
+ <div class="pricebox reveal"><div class="pb-ic"><svg><use href="#i-tag"></use></svg></div><div class="pb-tx"><b>Lista de precios actual de estaciones LOTO</b><span>Escriba el código del producto y la cantidad; le indicaremos de inmediato el precio, el stock y la entrega. Precio por cantidad en compras por volumen.</span></div>
+  <div class="btn-row"><a class="btn btn-red" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C4%B0stasyonlar%C4%B1%20fiyat%20listesini%20rica%20ediyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Solicitar lista de precios</a><a class="btn btn-line" href="/es/teklif">Carrito de cotización</a></div></div>
+</div></section>
+
+<section class="sec sec-paper" id="nasil"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Guía de compra</span><h2>¿Cómo elegir la estación LOTO adecuada?</h2><span class="bar"></span>
+  <p class="m">Compruebe estos criterios antes de hacer el pedido. Si no está seguro, envíenos una foto y elegimos juntos.</p>
+  <a class="btn btn-red" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C4%B0stasyonlar%C4%B1%20se%C3%A7imi%20i%C3%A7in%20destek%20almak%20istiyorum." target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Consultar a un especialista</a></aside>
+ <ul class="checks"><li><b>Capacidad:</b> Calcule la cantidad de candados, portacandados múltiples y dispositivos que va a guardar y deje espacio para los equipos que se añadirán más adelante.</li><li><b>Necesidad de tapa:</b> En zonas con riesgo de polvo, humedad o acceso no autorizado, prefiera un modelo con tapa.</li><li><b>Material del cuerpo:</b> Para uso general basta un cuerpo de plástico o acrílico, mientras que en la industria pesada los armarios metálicos duran más.</li><li><b>Ubicación:</b> Monte la estación en una pared cercana a los puntos de bloqueo, visible y con el frente despejado.</li><li><b>Control de llaves:</b> Si necesita saber quién tiene cada llave, añada un panel de gestión de llaves o una estación de control de autorizaciones.</li><li><b>Kit listo para usar:</b> Si desea adquirir la estación junto con los candados y dispositivos, considere los kits LOTO con estación.</li></ul>
+</div></section>
+
+<section class="sec sec-ink" id="kullanim"><div class="wrap">
+ <div class="sec-head reveal"><div><span class="eyebrow" style="color:#ff9ea1">Áreas de uso</span><h2>¿Dónde se utilizan las estaciones de bloqueo LOTO?</h2></div></div>
+ <div class="ucards"><div class="reveal"><i><svg><use href="#i-shield"></use></svg></i><h3>Salas de cuadros eléctricos</h3><p>Antes del mantenimiento eléctrico se tienen a mano los dispositivos de bloqueo de interruptores y los candados.</p></div><div class="reveal"><i><svg><use href="#i-tool"></use></svg></i><h3>Líneas de producción</h3><p>La estación colocada al inicio de la línea acerca al operador el equipo necesario para el mantenimiento de la máquina.</p></div><div class="reveal"><i><svg><use href="#i-lock"></use></svg></i><h3>Talleres de mantenimiento</h3><p>Todo el equipo LOTO de la planta se reúne en un único punto y las faltas se detectan fácilmente.</p></div><div class="reveal"><i><svg><use href="#i-truck"></use></svg></i><h3>Plantas con turnos</h3><p>Los equipos de distintos turnos comparten el equipo común de forma ordenada y controlada.</p></div></div>
+</div></section>
+
+<section class="sec" id="sss"><div class="wrap split2">
+ <aside class="reveal"><span class="eyebrow">Preguntas frecuentes</span><h2>Sobre las estaciones de bloqueo LOTO</h2><span class="bar"></span>
+  <p class="m">Si no ha encontrado la respuesta que busca, escríbanos por WhatsApp y determinaremos juntos el modelo adecuado.</p>
+  <a class="btn btn-red" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>Consultar por WhatsApp</a></aside>
+ <div class="faq"><details open><summary>¿La estación LOTO y la estación de bloqueo son el mismo producto?</summary><div>Sí. Ambos nombres se refieren al panel mural o armario donde se guardan los candados, los lockout hasps, los dispositivos de bloqueo y las etiquetas de advertencia.</div></details><details><summary>¿De qué depende el precio de las estaciones de bloqueo LOTO?</summary><div>El precio varía según si tiene tapa o no, el material del cuerpo, la capacidad y si la estación se entrega vacía o completa. Para un presupuesto actualizado, puede escribir el código del producto a nuestro WhatsApp o llamarnos por teléfono.</div></details><details><summary>¿Es obligatorio usar una estación de bloqueo LOTO?</summary><div>Aunque la normativa no exige directamente una estación, un programa LOTO eficaz requiere mantener el equipo ordenado y accesible. La estación es la forma más práctica de lograr ese orden.</div></details><details><summary>¿Debo comprar un modelo con tapa o sin tapa?</summary><div>Para un acceso rápido en interiores limpios son adecuados los modelos sin tapa. En zonas con polvo, humedad o riesgo de uso no autorizado debe preferirse el modelo con tapa.</div></details><details><summary>¿Las estaciones se entregan vacías?</summary><div>Las estaciones se ofrecen vacías por separado. Si prefiere una solución completa con candados y dispositivos, puede consultar los kits LOTO con estación.</div></details><details><summary>¿Es difícil montar la estación mural?</summary><div>Los modelos de montaje mural se fijan en poco tiempo con tacos y tornillos. Los modelos portátiles no requieren montaje.</div></details><details><summary>¿Es posible guardar las llaves en un panel aparte?</summary><div>Sí. Para este fin se utilizan la estación de gestión de llaves con ganchos BD-B60 y el armario metálico de almacenamiento de llaves BD-B61.</div></details></div>
+</div></section>
+
+<section class="sec-sm sec-paper"><div class="wrap">
+ <div class="prose seo"><h2>Precios y modelos de estaciones de bloqueo LOTO</h2><p>La primera condición de una aplicación LOTO eficaz es que el equipo de bloqueo esté en el lugar correcto y completo. Los modelos de estación LOTO reúnen en un solo panel los candados de seguridad, los lockout hasps y las etiquetas de advertencia, acortando el tiempo de preparación previo al mantenimiento y haciendo visible quién tiene el equipo.</p><p>En la categoría Sofilx LOTO hay opciones para distintas necesidades, desde minestaciones sin tapa hasta modelos de pared con tapa, estaciones combinadas, armarios LOTO metálicos y soluciones portátiles. Los paneles de gestión de llaves y las estaciones de control de permisos hacen más controlados los procesos de bloqueo en grupo.</p><p>El precio de la estación de bloqueo varía según el material del cuerpo, la estructura de la tapa, la capacidad y si incluye set o no. Para determinar el modelo que se ajusta a su necesidad y recibir un presupuesto actualizado, puede contactarnos por WhatsApp o por teléfono.</p></div>
+ <div class="sec-head" style="margin-top:44px"><h2 style="font-size:1.8rem">Categorías relacionadas</h2><a class="btn btn-line btn-sm" href="/es/urunler">Todos los productos <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="relcats"><a href="/es/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="52" height="52" loading="lazy">Candados de seguridad</a><a href="/es/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="52" height="52" loading="lazy">Bloqueos de interruptores y disyuntores</a><a href="/es/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="52" height="52" loading="lazy">Equipos de bloqueo de válvulas</a><a href="/es/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="52" height="52" loading="lazy">Equipos de bloqueo de cable</a><a href="/es/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="52" height="52" loading="lazy">Lockout hasps</a><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="52" height="52" loading="lazy">Bloqueo eléctrico y neumático</a><a href="/es/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="52" height="52" loading="lazy">Cajas de bloqueo de grupo y bolsas</a><a href="/es/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="52" height="52" loading="lazy">Sets LOTO</a><a href="/es/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="52" height="52" loading="lazy">Etiquetas de advertencia de peligro</a></div>
+ <div class="sec-head" style="margin-top:40px"><h2 style="font-size:1.8rem">Artículos de la guía</h2><a class="btn btn-line btn-sm" href="/es/blog">Todos los artículos <svg><use href="#i-arrow"></use></svg></a></div>
+ <div class="glinks"><a href="/es/loto-rehberi"><small>Guía</small><b>Guía LOTO: bloqueo en 6 pasos</b></a><a href="/es/blog/eked-loto-egitimi-rehberi"><small>Blog</small><b>Guía de formación en LOTO: lo que debe saber para trabajar con seguridad</b></a><a href="/es/blog/dogru-eked-ekipmaninin-onemi"><small>Blog</small><b>La importancia del equipo LOTO adecuado: la piedra angular de la seguridad en el lugar de trabajo</b></a><a href="/es/blog/emniyet-asma-kilitler"><small>Blog</small><b>Candados de seguridad: la clave para aumentar la seguridad en el lugar de trabajo</b></a></div>
+</div></section>
+<section class="cta"><div class="wrap">
+ <div><h2>¿Compra por volumen o necesidad especial?</h2><p>Añada los productos al carrito de cotización o escríbanos directamente por WhatsApp; le respondemos el mismo día.</p></div>
+ <div class="btns"><a class="btn btn-ink" href="/es/teklif"><svg><use href="#i-cart"></use></svg>Carrito de presupuesto</a><a class="btn btn-light" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>WhatsApp</a></div>
+</div></section></main>
+
+<div class="hazard" aria-hidden="true"></div>
+<footer class="ftr">
+ <div class="wrap">
+  <div>
+   <a class="logo" href="/es"><img src="/assets/sofilx-logo-beyaz.svg" alt="Sofilx LOTO" width="187" height="40" loading="lazy"></a>
+   <p>Desde 2010 suministramos a plantas industriales equipos de bloqueo y etiquetado LOTO. Nuestros productos cumplen los requisitos de OSHA 29 CFR 1910.147.</p>
+  </div>
+  <div><h3>Productos</h3><ul><li><a href="/es/emniyet-asma-kilitler">Candados de seguridad</a></li><li><a href="/es/salter-kilitleme-ekipmanlari">Bloqueos para interruptores e interruptores automáticos</a></li><li><a href="/es/vana-kilitleme-ekipmanlari">Equipos de bloqueo de válvulas</a></li><li><a href="/es/kablo-kilitleme-ekipmanlari">Equipos de bloqueo con cable</a></li><li><a href="/es/kilit-coklandiricilar">Lockout hasps</a></li><li><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari">Bloqueo eléctrico y neumático</a></li><li><a href="/es/urunler">Todos los productos →</a></li></ul></div>
+  <div><h3>Sofilx</h3><ul><li><a href="/es/hakkimizda">Quiénes somos</a></li><li><a href="/es/referanslar">Referencias</a></li><li><a href="/es/loto-rehberi">Guía LOTO</a></li><li><a href="/es/blog">Blog</a></li><li><a href="/es/teklif">Carrito de cotización</a></li><li><a href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Catálogo de productos (PDF)</a></li><li><a href="/es/iletisim">Contacto</a></li><li><a href="/es/gizlilik-politikasi">Política de privacidad</a></li></ul></div>
+  <div><h3>Contacto</h3><ul>
+   <li><a href="tel:+902166063206">(0216) 606 32 06</a></li>
+   <li><a href="tel:+905523508446">(0552) 350 84 46</a></li>
+   <li><a href="mailto:info@sofilxloto.com">info@sofilxloto.com</a></li>
+   <li>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul</li>
+<li><a href="https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/" rel="noopener" target="_blank">LinkedIn</a></li>  </ul></div>
+ </div>
+ <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Todos los derechos reservados.</span><span>LOTO · Equipos de bloqueo y etiquetado</span></div></div>
+</footer>
+<a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="Escríbanos por WhatsApp"><svg><use href="#i-wa"></use></svg></a>
+<script src="/assets/site.js?v=b68fe545" defer></script>
+</body>
+</html>

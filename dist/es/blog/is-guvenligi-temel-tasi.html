@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="es" dir="ltr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Seguridad laboral: la base para proteger a sus trabajadores y a su empresa | Sofilx LOTO</title>
+<meta name="description" content="La seguridad laboral es un asunto crítico tanto para la salud de los trabajadores como para la productividad de las empresas. Los accidentes de trabajo y las enfermedades profesionales ponen en peligro la vida de los trabajadores">
+<link rel="canonical" href="https://www.sofilxloto.com/es/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="tr" href="https://www.sofilxloto.com/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="en" href="https://www.sofilxloto.com/en/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="fr" href="https://www.sofilxloto.com/fr/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="de" href="https://www.sofilxloto.com/de/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="es" href="https://www.sofilxloto.com/es/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="ru" href="https://www.sofilxloto.com/ru/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="it" href="https://www.sofilxloto.com/it/blog/is-guvenligi-temel-tasi">
+<link rel="alternate" hreflang="x-default" href="https://www.sofilxloto.com/blog/is-guvenligi-temel-tasi"><meta name="theme-color" content="#141414">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Sofilx LOTO">
+<meta property="og:locale" content="es_ES">
+<meta property="og:title" content="Seguridad laboral: la base para proteger a sus trabajadores y a su empresa | Sofilx LOTO">
+<meta property="og:description" content="La seguridad laboral es un asunto crítico tanto para la salud de los trabajadores como para la productividad de las empresas. Los accidentes de trabajo y las enfermedades profesionales ponen en peligro la vida de los trabajadores">
+<meta property="og:url" content="https://www.sofilxloto.com/es/blog/is-guvenligi-temel-tasi">
+<meta property="og:image" content="https://www.sofilxloto.com/assets/blog/is-guvenligi-temel-tasi.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/sofilx-ikon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/es/site.webmanifest">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=b68fe545">
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BlogPosting&#34;, &#34;headline&#34;: &#34;İş Güvenliği: Çalışanlarınızı ve İşletmenizi Korumanın Temel Taşı&#34;, &#34;datePublished&#34;: &#34;2024-06-11&#34;, &#34;author&#34;: {&#34;@type&#34;: &#34;Organization&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;}, &#34;publisher&#34;: {&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;Organization&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;logo&#34;: &#34;https://www.sofilxloto.com/assets/icon-512.png&#34;, &#34;email&#34;: &#34;info@sofilxloto.com&#34;, &#34;telephone&#34;: &#34;+902166063206&#34;, &#34;foundingDate&#34;: &#34;2010&#34;, &#34;address&#34;: {&#34;@type&#34;: &#34;PostalAddress&#34;, &#34;streetAddress&#34;: &#34;Altınşehir Mah. Ermiş Sk. No:12A&#34;, &#34;addressLocality&#34;: &#34;Ümraniye&#34;, &#34;addressRegion&#34;: &#34;İstanbul&#34;, &#34;addressCountry&#34;: &#34;TR&#34;}, &#34;sameAs&#34;: [&#34;https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/&#34;]}, &#34;mainEntityOfPage&#34;: &#34;https://www.sofilxloto.com/blog/is-guvenligi-temel-tasi&#34;}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Blog&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/blog&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;İş Güvenliği: Çalışanlarınızı ve İşletmenizi Korumanın Temel Taşı&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/blog/is-guvenligi-temel-tasi&#34;}]}</script>
+<script>window.SFX_I18N={"teklif sepetine eklendi": "añadido al carrito de cotización", "Sepete git": "Ir al carrito", "Eklendi": "Añadido", "Azalt": "Reducir", "Adet": "Cantidad", "Arttır": "Aumentar", "Kaldır": "Quitar", "Merhaba, aşağıdaki ürünler için fiyat teklifi rica ediyorum:": "Hola, les solicito una cotización para los siguientes productos:", "Ad Soyad": "Nombre y apellidos", "Firma": "Empresa", "Telefon": "Teléfono", "E-posta": "Correo electrónico", "Not": "Nota", "Teklif talebi": "Solicitud de cotización", "ürün": "producto", "Web sitesi mesajı": "Mensaje del sitio web", "Dil": "Idioma"};</script></head>
+<body>
+<a class="skip" href="#icerik">Saltar al contenido</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-phone" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"></path></symbol>
+ <symbol id="i-mail" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 6-10 7L2 6"></path></symbol>
+ <symbol id="i-pin" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+ <symbol id="i-wa" viewbox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 0 1 12 2.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8zm8.4-18.2A11.8 11.8 0 0 0 1.6 17.9L0 24l6.3-1.6a11.8 11.8 0 0 0 5.7 1.4A11.8 11.8 0 0 0 20.4 3.6z"></path></symbol>
+ <symbol id="i-cart" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11V7a3 3 0 0 1 6 0v4"></path><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M12 15v3"></path></symbol>
+ <symbol id="i-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></symbol>
+ <symbol id="i-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></symbol>
+ <symbol id="i-down" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></symbol>
+ <symbol id="i-arrow" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></symbol>
+ <symbol id="i-shield" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+ <symbol id="i-truck" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7z"></path><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></symbol>
+ <symbol id="i-tool" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"></path></symbol>
+ <symbol id="i-lock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path></symbol>
+ <symbol id="i-chat" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></symbol>
+ <symbol id="i-check" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></symbol>
+ <symbol id="i-tag" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z"></path><circle cx="7" cy="7" r="1.5"></circle></symbol>
+</svg>
+
+<div class="topbar"><div class="wrap">
+ <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg>(0216) 606 32 06</a>
+ <a href="https://wa.me/905523508446" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"></use></svg>(0552) 350 84 46</a>
+ <a href="mailto:info@sofilxloto.com" class="hide-s"><svg><use href="#i-mail"></use></svg>info@sofilxloto.com</a>
+ <span class="since">LOTO desde 2010</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Idioma: Español"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15"><b>ES</b><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden><a href="/blog/is-guvenligi-temel-tasi" hreflang="tr" lang="tr" role="menuitem" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/blog/is-guvenligi-temel-tasi" hreflang="en" lang="en" role="menuitem" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/blog/is-guvenligi-temel-tasi" hreflang="fr" lang="fr" role="menuitem" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/blog/is-guvenligi-temel-tasi" hreflang="de" lang="de" role="menuitem" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/blog/is-guvenligi-temel-tasi" hreflang="es" lang="es" role="menuitem" data-l="es" aria-current="true"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/blog/is-guvenligi-temel-tasi" hreflang="ru" lang="ru" role="menuitem" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/blog/is-guvenligi-temel-tasi" hreflang="it" lang="it" role="menuitem" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div>
+ </div>
+</div></div>
+
+<header class="hdr"><div class="wrap">
+ <a class="logo" href="/es" aria-label="Página de inicio de Sofilx LOTO"><img src="/assets/sofilx-logo.svg" alt="Sofilx LOTO" width="196" height="42"></a>
+ <nav class="nav" id="nav" aria-label="Menú principal">
+  <a href="/es">Inicio</a>
+  <div class="dd">
+   <button type="button" aria-expanded="false" aria-controls="mega">Productos <svg><use href="#i-down"></use></svg></button>
+   <div class="mega" id="mega">
+<a href="/es/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Candados de seguridad</b><small>40 productos</small></span></a><a href="/es/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Bloqueos para interruptores e interruptores automáticos</b><small>26 productos</small></span></a><a href="/es/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Equipos de bloqueo de válvulas</b><small>36 productos</small></span></a><a href="/es/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Equipos de bloqueo con cable</b><small>12 productos</small></span></a><a href="/es/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Lockout hasps</b><small>24 productos</small></span></a><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Bloqueo eléctrico y neumático</b><small>9 productos</small></span></a><a href="/es/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Estaciones de bloqueo LOTO</b><small>25 productos</small></span></a><a href="/es/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Cajas de bloqueo en grupo y bolsas</b><small>17 productos</small></span></a><a href="/es/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Kits LOTO</b><small>33 productos</small></span></a><a href="/es/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Etiquetas de advertencia de peligro</b><small>15 productos</small></span></a>    <a class="all" href="/es/urunler">Todos los productos (237)</a>
+   </div>
+  </div>
+  <a href="/es/hakkimizda">Corporativo</a>
+  <a href="/es/referanslar">Referencias</a>
+  <a href="/es/loto-rehberi">Guía LOTO</a>
+  <a href="/es/blog" aria-current="page">Blog</a>
+  <a href="/es/iletisim">Contacto</a>
+ <div class="mlang"><p><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"></path></svg><span>Idioma</span></p><div data-i18n-skip><a href="/blog/is-guvenligi-temel-tasi" hreflang="tr" lang="tr" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/blog/is-guvenligi-temel-tasi" hreflang="en" lang="en" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/blog/is-guvenligi-temel-tasi" hreflang="fr" lang="fr" data-l="fr"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/blog/is-guvenligi-temel-tasi" hreflang="de" lang="de" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/blog/is-guvenligi-temel-tasi" hreflang="es" lang="es" data-l="es" aria-current="true"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/blog/is-guvenligi-temel-tasi" hreflang="ru" lang="ru" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/blog/is-guvenligi-temel-tasi" hreflang="it" lang="it" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div></div>
+ </nav>
+ <div class="hdr-tools">
+  <a class="icon-btn" href="/es/urunler#q" aria-label="Buscar producto"><svg><use href="#i-search"></use></svg></a>
+  <a class="icon-btn" href="/es/teklif" aria-label="Carrito de cotización"><svg><use href="#i-cart"></use></svg><span class="cart-n" data-n="0">0</span></a>
+  <button class="icon-btn burger" type="button" aria-label="Menú" aria-controls="nav" aria-expanded="false"><svg><use href="#i-menu"></use></svg></button>
+ </div>
+</div></header>
+
+<main id="icerik">
+<section class="ph"><div class="wrap"><nav class="crumbs" aria-label="Ruta de la página"><a href="/es">Inicio</a><span aria-hidden="true">/</span><a href="/es/blog">Blog</a><span aria-hidden="true">/</span><span>Texto</span></nav><h1 style="text-transform:none">Seguridad laboral: la base para proteger a sus trabajadores y a su empresa</h1><p>11 de junio de 2024 · 2 min de lectura</p></div></section>
+<section class="sec-sm"><div class="wrap" style="display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:48px" id="postgrid">
+ <article class="prose"><img src="/assets/blog/is-guvenligi-temel-tasi.webp" alt="Seguridad laboral: la base para proteger a sus trabajadores y a su empresa" width="1200" height="630" style="border-radius:6px;margin-bottom:28px"><p>La seguridad laboral es un asunto crítico tanto para la salud de los trabajadores como para la productividad de las empresas. Los accidentes de trabajo y las enfermedades profesionales no solo ponen en peligro la vida de los trabajadores, sino que también tienen consecuencias costosas para las empresas.</p>
+<h2>La importancia de la seguridad laboral</h2>
+<p><b>Salud y seguridad del personal:</b> Un entorno de trabajo seguro permite a los empleados trabajar con confianza y mantiene alta la moral.</p>
+<p><b>Cumplimiento legal:</b> Cumplir la normativa de seguridad laboral evita sanciones penales y problemas jurídicos.</p>
+<p><b>Eficiencia y calidad:</b> Los accidentes laborales provocan paradas de producción y problemas de calidad; las medidas de seguridad contribuyen a que los procesos avancen sin contratiempos.</p>
+<p><b>Reducción de costes:</b> En un entorno seguro disminuyen costes como indemnizaciones, pérdida de mano de obra y paradas de producción.</p>
+<h2>Principios básicos de la seguridad laboral</h2>
+<p><b>Evaluación de riesgos:</b> Identificar los peligros potenciales en el lugar de trabajo es el primer paso.</p>
+<p><b>Formación y concienciación:</b> Los trabajadores deben saber reconocer los peligros y cómo actuar en emergencias.</p>
+<p><b>Equipos de protección individual (EPI):</b> Ofrecen protección frente a peligros específicos.</p>
+<p><b>Inspección y mantenimiento regulares:</b> Los equipos defectuosos pueden provocar accidentes laborales.</p>
+<p><b>Planificación de emergencias:</b> Deben establecerse procedimientos para situaciones como incendios, desastres naturales o derrames químicos.</p>
+<h2>Consejos para mejorar la seguridad laboral</h2>
+<p><b>Cree una cultura de seguridad:</b> Fomente que los trabajadores consideren la seguridad como prioridad.</p>
+<p><b>Retroalimentación y mejora:</b> Recoja comentarios con regularidad y mejore continuamente las medidas.</p>
+<p><b>Utilice tecnologías de seguridad:</b> Los sensores y el software le ayudan a supervisar los peligros.</p>
+<p><b>Liderazgo y ejemplo:</b> Los responsables deben dar ejemplo a los trabajadores cumpliendo las normas de seguridad.</p></article>
+ <aside><div class="box" style="margin-top:0;position:sticky;top:100px"><h2>Categorías relacionadas</h2><div class="in" style="display:grid;gap:8px"><a href="/es/emniyet-asma-kilitler" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Candados de seguridad</a><a href="/es/salter-kilitleme-ekipmanlari" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Bloqueos de interruptores y disyuntores</a><a href="/es/vana-kilitleme-ekipmanlari" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Equipos de bloqueo de válvulas</a><a href="/es/kablo-kilitleme-ekipmanlari" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Equipos de bloqueo de cable</a><a href="/es/kilit-coklandiricilar" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Lockout hasps</a><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari" style="display:flex;gap:10px;align-items:center"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="44" height="44" style="border:1px solid var(--line);border-radius:3px" loading="lazy">Bloqueo eléctrico y neumático</a></div></div></aside>
+</div></section>
+<style>@media(max-width:900px){#postgrid{grid-template-columns:1fr!important}}</style><section class="sec-sm sec-paper"><div class="wrap"><div class="sec-head"><h2>Otras entradas</h2></div><div class="posts"><a class="post-card reveal" href="/es/blog/eked-loto-egitimi-rehberi"><div class="cover cover-img"><img src="/assets/blog/eked-loto-egitimi-rehberi-k.webp" alt="Guía de formación en LOTO: lo que debe saber para trabajar con seguridad" width="600" height="315" loading="lazy"></div><div class="bd"><small>30 de octubre de 2024 · 3 min de lectura</small><h3>Guía de formación en LOTO: lo que debe saber para trabajar con seguridad</h3><span class="more">Leer más →</span></div></a><a class="post-card reveal" href="/es/blog/dogru-eked-ekipmaninin-onemi"><div class="cover cover-img"><img src="/assets/blog/dogru-eked-ekipmaninin-onemi-k.webp" alt="La importancia del equipo LOTO adecuado: la piedra angular de la seguridad en el lugar de trabajo" width="600" height="315" loading="lazy"></div><div class="bd"><small>13 de junio de 2024 · 2 min de lectura</small><h3>La importancia del equipo LOTO adecuado: la piedra angular de la seguridad en el lugar de trabajo</h3><span class="more">Leer más →</span></div></a><a class="post-card reveal" href="/es/blog/emniyet-asma-kilitler"><div class="cover cover-img"><img src="/assets/blog/emniyet-asma-kilitler-k.webp" alt="Candados de seguridad: la clave para aumentar la seguridad en el lugar de trabajo" width="600" height="315" loading="lazy"></div><div class="bd"><small>12 de junio de 2024 · 2 min de lectura</small><h3>Candados de seguridad: la clave para aumentar la seguridad en el lugar de trabajo</h3><span class="more">Leer más →</span></div></a></div></div></section><section class="cta"><div class="wrap">
+ <div><h2>¿Compra por volumen o necesidad especial?</h2><p>Añada los productos al carrito de cotización o escríbanos directamente por WhatsApp; le respondemos el mismo día.</p></div>
+ <div class="btns"><a class="btn btn-ink" href="/es/teklif"><svg><use href="#i-cart"></use></svg>Carrito de presupuesto</a><a class="btn btn-light" href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg>WhatsApp</a></div>
+</div></section></main>
+
+<div class="hazard" aria-hidden="true"></div>
+<footer class="ftr">
+ <div class="wrap">
+  <div>
+   <a class="logo" href="/es"><img src="/assets/sofilx-logo-beyaz.svg" alt="Sofilx LOTO" width="187" height="40" loading="lazy"></a>
+   <p>Desde 2010 suministramos a plantas industriales equipos de bloqueo y etiquetado LOTO. Nuestros productos cumplen los requisitos de OSHA 29 CFR 1910.147.</p>
+  </div>
+  <div><h3>Productos</h3><ul><li><a href="/es/emniyet-asma-kilitler">Candados de seguridad</a></li><li><a href="/es/salter-kilitleme-ekipmanlari">Bloqueos para interruptores e interruptores automáticos</a></li><li><a href="/es/vana-kilitleme-ekipmanlari">Equipos de bloqueo de válvulas</a></li><li><a href="/es/kablo-kilitleme-ekipmanlari">Equipos de bloqueo con cable</a></li><li><a href="/es/kilit-coklandiricilar">Lockout hasps</a></li><li><a href="/es/elektrik-pnomatik-kilitleme-ekipmanlari">Bloqueo eléctrico y neumático</a></li><li><a href="/es/urunler">Todos los productos →</a></li></ul></div>
+  <div><h3>Sofilx</h3><ul><li><a href="/es/hakkimizda">Quiénes somos</a></li><li><a href="/es/referanslar">Referencias</a></li><li><a href="/es/loto-rehberi">Guía LOTO</a></li><li><a href="/es/blog">Blog</a></li><li><a href="/es/teklif">Carrito de cotización</a></li><li><a href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Catálogo de productos (PDF)</a></li><li><a href="/es/iletisim">Contacto</a></li><li><a href="/es/gizlilik-politikasi">Política de privacidad</a></li></ul></div>
+  <div><h3>Contacto</h3><ul>
+   <li><a href="tel:+902166063206">(0216) 606 32 06</a></li>
+   <li><a href="tel:+905523508446">(0552) 350 84 46</a></li>
+   <li><a href="mailto:info@sofilxloto.com">info@sofilxloto.com</a></li>
+   <li>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul</li>
+<li><a href="https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/" rel="noopener" target="_blank">LinkedIn</a></li>  </ul></div>
+ </div>
+ <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Todos los derechos reservados.</span><span>LOTO · Equipos de bloqueo y etiquetado</span></div></div>
+</footer>
+<a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="Escríbanos por WhatsApp"><svg><use href="#i-wa"></use></svg></a>
+<script src="/assets/site.js?v=b68fe545" defer></script>
+</body>
+</html>

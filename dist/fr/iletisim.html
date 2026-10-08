@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-615899386');
+</script>
+
+<!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
+<script>
+(function () {
+  var LABELS = {
+    whatsapp: 'AW-615899386/lDptCLr29ZEdEPrB16UC', // LOTO - WhatsApp Tiklama
+    telefon:  'AW-615899386/W6EYCL329ZEdEPrB16UC', // LOTO - Telefon Tiklama
+    eposta:   'AW-615899386/iTEKCMD29ZEdEPrB16UC'  // LOTO - E-posta Tiklama
+  };
+
+  function tur(url) {
+    if (!url) return null;
+    url = String(url).toLowerCase();
+    if (url.indexOf('wa.me') > -1 || url.indexOf('whatsapp') > -1) return 'whatsapp';
+    if (url.indexOf('tel:') === 0) return 'telefon';
+    if (url.indexOf('mailto:') === 0) return 'eposta';
+    return null;
+  }
+
+  function gonder(t) {
+    if (!t || typeof gtag !== 'function') return;
+    gtag('event', 'conversion', { send_to: LABELS[t] });
+  }
+
+  // 1) Sayfadaki tüm WhatsApp / tel: / mailto: linklerine tıklamalar
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (a) gonder(tur(a.getAttribute('href')));
+  }, true);
+
+  // 2) Teklif sepeti gibi JS ile açılan WhatsApp / e-posta pencereleri
+  var _open = window.open;
+  window.open = function (url) {
+    gonder(tur(url));
+    return _open.apply(window, arguments);
+  };
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contact | Sofilx LOTO</title>
+<meta name="description" content="Contact Sofilx LOTO : téléphone, WhatsApp, e-mail et adresse. Demandez un devis pour les produits LOTO.">
+<link rel="canonical" href="https://www.sofilxloto.com/fr/iletisim">
+<link rel="alternate" hreflang="tr" href="https://www.sofilxloto.com/iletisim">
+<link rel="alternate" hreflang="en" href="https://www.sofilxloto.com/en/iletisim">
+<link rel="alternate" hreflang="fr" href="https://www.sofilxloto.com/fr/iletisim">
+<link rel="alternate" hreflang="de" href="https://www.sofilxloto.com/de/iletisim">
+<link rel="alternate" hreflang="es" href="https://www.sofilxloto.com/es/iletisim">
+<link rel="alternate" hreflang="ru" href="https://www.sofilxloto.com/ru/iletisim">
+<link rel="alternate" hreflang="it" href="https://www.sofilxloto.com/it/iletisim">
+<link rel="alternate" hreflang="x-default" href="https://www.sofilxloto.com/iletisim"><meta name="theme-color" content="#141414">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sofilx LOTO">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Contact | Sofilx LOTO">
+<meta property="og:description" content="Contact Sofilx LOTO : téléphone, WhatsApp, e-mail et adresse. Demandez un devis pour les produits LOTO.">
+<meta property="og:url" content="https://www.sofilxloto.com/fr/iletisim">
+<meta property="og:image" content="https://www.sofilxloto.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/sofilx-ikon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-48.png" sizes="48x48">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/fr/site.webmanifest">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=b68fe545">
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;Organization&#34;, &#34;name&#34;: &#34;Sofilx LOTO&#34;, &#34;url&#34;: &#34;https://www.sofilxloto.com&#34;, &#34;logo&#34;: &#34;https://www.sofilxloto.com/assets/icon-512.png&#34;, &#34;email&#34;: &#34;info@sofilxloto.com&#34;, &#34;telephone&#34;: &#34;+902166063206&#34;, &#34;foundingDate&#34;: &#34;2010&#34;, &#34;address&#34;: {&#34;@type&#34;: &#34;PostalAddress&#34;, &#34;streetAddress&#34;: &#34;Altınşehir Mah. Ermiş Sk. No:12A&#34;, &#34;addressLocality&#34;: &#34;Ümraniye&#34;, &#34;addressRegion&#34;: &#34;İstanbul&#34;, &#34;addressCountry&#34;: &#34;TR&#34;}, &#34;sameAs&#34;: [&#34;https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/&#34;]}</script>
+<script type="application/ld+json">{&#34;@context&#34;: &#34;https://schema.org&#34;, &#34;@type&#34;: &#34;BreadcrumbList&#34;, &#34;itemListElement&#34;: [{&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Anasayfa&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/&#34;}, {&#34;@type&#34;: &#34;ListItem&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;İletişim&#34;, &#34;item&#34;: &#34;https://www.sofilxloto.com/iletisim&#34;}]}</script>
+<script>window.SFX_I18N={"teklif sepetine eklendi": "ajouté au panier de devis", "Sepete git": "Aller au panier", "Eklendi": "Ajouté", "Azalt": "Diminuer", "Adet": "Quantité", "Arttır": "Augmenter", "Kaldır": "Retirer", "Merhaba, aşağıdaki ürünler için fiyat teklifi rica ediyorum:": "Bonjour, je vous prie de bien vouloir m'adresser un devis pour les produits suivants :", "Ad Soyad": "Nom et prénom", "Firma": "Entreprise", "Telefon": "Téléphone", "E-posta": "E-mail", "Not": "Remarque", "Teklif talebi": "Demande de devis", "ürün": "produits", "Web sitesi mesajı": "Message du site web", "Dil": "Langue"};</script></head>
+<body>
+<a class="skip" href="#icerik">Aller au contenu</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-phone" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"></path></symbol>
+ <symbol id="i-mail" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 6-10 7L2 6"></path></symbol>
+ <symbol id="i-pin" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"></path><circle cx="12" cy="10" r="3"></circle></symbol>
+ <symbol id="i-wa" viewbox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.4-1.5-.9-.8-1.5-1.8-1.6-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3zM12 21.8c-1.8 0-3.5-.5-5-1.4l-.4-.2-3.7 1 1-3.6-.2-.4A9.8 9.8 0 0 1 12 2.2a9.8 9.8 0 0 1 9.8 9.8 9.8 9.8 0 0 1-9.8 9.8zm8.4-18.2A11.8 11.8 0 0 0 1.6 17.9L0 24l6.3-1.6a11.8 11.8 0 0 0 5.7 1.4A11.8 11.8 0 0 0 20.4 3.6z"></path></symbol>
+ <symbol id="i-cart" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11V7a3 3 0 0 1 6 0v4"></path><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M12 15v3"></path></symbol>
+ <symbol id="i-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></symbol>
+ <symbol id="i-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></symbol>
+ <symbol id="i-down" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></symbol>
+ <symbol id="i-arrow" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></symbol>
+ <symbol id="i-shield" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="m9 12 2 2 4-4"></path></symbol>
+ <symbol id="i-truck" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1zM16 8h4l3 3v5h-7z"></path><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></symbol>
+ <symbol id="i-tool" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"></path></symbol>
+ <symbol id="i-lock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="11" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path></symbol>
+ <symbol id="i-chat" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></symbol>
+ <symbol id="i-check" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></symbol>
+ <symbol id="i-tag" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z"></path><circle cx="7" cy="7" r="1.5"></circle></symbol>
+</svg>
+
+<div class="topbar"><div class="wrap">
+ <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg>(0216) 606 32 06</a>
+ <a href="https://wa.me/905523508446" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"></use></svg>(0552) 350 84 46</a>
+ <a href="mailto:info@sofilxloto.com" class="hide-s"><svg><use href="#i-mail"></use></svg>info@sofilxloto.com</a>
+ <span class="since">LOTO depuis 2010</span>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Langue: Français"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15"><b>FR</b><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></button>
+  <div class="langmenu" id="lang-menu" role="menu" hidden><a href="/iletisim" hreflang="tr" lang="tr" role="menuitem" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/iletisim" hreflang="en" lang="en" role="menuitem" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/iletisim" hreflang="fr" lang="fr" role="menuitem" data-l="fr" aria-current="true"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/iletisim" hreflang="de" lang="de" role="menuitem" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/iletisim" hreflang="es" lang="es" role="menuitem" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/iletisim" hreflang="ru" lang="ru" role="menuitem" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/iletisim" hreflang="it" lang="it" role="menuitem" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div>
+ </div>
+</div></div>
+
+<header class="hdr"><div class="wrap">
+ <a class="logo" href="/fr" aria-label="Accueil Sofilx LOTO"><img src="/assets/sofilx-logo.svg" alt="Sofilx LOTO" width="196" height="42"></a>
+ <nav class="nav" id="nav" aria-label="Menu principal">
+  <a href="/fr">Accueil</a>
+  <div class="dd">
+   <button type="button" aria-expanded="false" aria-controls="mega">Produits <svg><use href="#i-down"></use></svg></button>
+   <div class="mega" id="mega">
+<a href="/fr/emniyet-asma-kilitler"><img src="/assets/urunler/bd-g01-red-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Cadenas de sécurité</b><small>40 produits</small></span></a><a href="/fr/salter-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d11nx-kelepceli-sigorta-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Verrous de disjoncteurs et d'interrupteurs</b><small>26 produits</small></span></a><a href="/fr/vana-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-f01-ayarlanabilir-kuresel-vana-kilitleme-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Équipements de verrouillage de vannes</b><small>36 produits</small></span></a><a href="/fr/kablo-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-l41-geri-cekilebilir-kablo-kilidi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Dispositifs de verrouillage par câble</b><small>12 produits</small></span></a><a href="/fr/kilit-coklandiricilar"><img src="/assets/urunler/bd-k61-cift-ceneli-aluminyum-coklandirici-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Pinces multi-cadenas</b><small>24 produits</small></span></a><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari"><img src="/assets/urunler/bd-d31-kombinasyon-elektrik-ve-pnomatik-fis-kilitleme-ekipmani-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Verrouillage électrique et pneumatique</b><small>9 produits</small></span></a><a href="/fr/lockout-istasyon-canta"><img src="/assets/urunler/bd-b102-duvara-monte-edilebilen-kapakli-loto-istasyonu-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Stations LOTO</b><small>25 produits</small></span></a><a href="/fr/grup-kilit-kutusu"><img src="/assets/urunler/bd-8771b-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Boîtes de consignation de groupe et sacoches</b><small>17 produits</small></span></a><a href="/fr/set-urunler"><img src="/assets/urunler/bd-x02c-kisisel-guvenlik-kilitleme-seti-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Kits LOTO</b><small>33 produits</small></span></a><a href="/fr/tehlike-etiketleri"><img src="/assets/urunler/bd-lt05-kilitli-tutma-askili-eked-uyari-levhasi-1-k.webp" alt="" width="48" height="48" loading="lazy"><span><b>Étiquettes d'avertissement de danger</b><small>15 produits</small></span></a>    <a class="all" href="/fr/urunler">Tous les produits (237)</a>
+   </div>
+  </div>
+  <a href="/fr/hakkimizda">Entreprises</a>
+  <a href="/fr/referanslar">Références</a>
+  <a href="/fr/loto-rehberi">Guide LOTO</a>
+  <a href="/fr/blog">Blog</a>
+  <a href="/fr/iletisim" aria-current="page">Contact</a>
+ <div class="mlang"><p><svg viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"></path></svg><span>Langue</span></p><div data-i18n-skip><a href="/iletisim" hreflang="tr" lang="tr" data-l="tr"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15" loading="lazy"><b>TR</b><i>Türkçe</i></a><a href="/en/iletisim" hreflang="en" lang="en" data-l="en"><img class="flag" src="/assets/flags/gb.svg" alt="" width="20" height="15" loading="lazy"><b>EN</b><i>English</i></a><a href="/fr/iletisim" hreflang="fr" lang="fr" data-l="fr" aria-current="true"><img class="flag" src="/assets/flags/fr.svg" alt="" width="20" height="15" loading="lazy"><b>FR</b><i>Français</i></a><a href="/de/iletisim" hreflang="de" lang="de" data-l="de"><img class="flag" src="/assets/flags/de.svg" alt="" width="20" height="15" loading="lazy"><b>DE</b><i>Deutsch</i></a><a href="/es/iletisim" hreflang="es" lang="es" data-l="es"><img class="flag" src="/assets/flags/es.svg" alt="" width="20" height="15" loading="lazy"><b>ES</b><i>Español</i></a><a href="/ru/iletisim" hreflang="ru" lang="ru" data-l="ru"><img class="flag" src="/assets/flags/ru.svg" alt="" width="20" height="15" loading="lazy"><b>RU</b><i>Русский</i></a><a href="/it/iletisim" hreflang="it" lang="it" data-l="it"><img class="flag" src="/assets/flags/it.svg" alt="" width="20" height="15" loading="lazy"><b>IT</b><i>Italiano</i></a></div></div>
+ </nav>
+ <div class="hdr-tools">
+  <a class="icon-btn" href="/fr/urunler#q" aria-label="Rechercher un produit"><svg><use href="#i-search"></use></svg></a>
+  <a class="icon-btn" href="/fr/teklif" aria-label="Panier de devis"><svg><use href="#i-cart"></use></svg><span class="cart-n" data-n="0">0</span></a>
+  <button class="icon-btn burger" type="button" aria-label="Menu" aria-controls="nav" aria-expanded="false"><svg><use href="#i-menu"></use></svg></button>
+ </div>
+</div></header>
+
+<main id="icerik">
+<section class="ph"><div class="wrap">
+ <nav class="crumbs" aria-label="Chemin de la page"><a href="/fr">Accueil</a><span aria-hidden="true">/</span><span>Contact</span></nav>
+ <h1>Contact</h1><p>Nous sommes là pour vous proposer la solution la mieux adaptée et répondre à vos questions.</p></div></section>
+
+<section class="sec"><div class="wrap contact">
+ <div class="cinfo">
+  <a href="tel:+902166063206"><svg><use href="#i-phone"></use></svg><span><b>Téléphone</b>(0216) 606 32 06</span></a>
+  <a href="https://wa.me/905523508446" target="_blank" rel="noopener"><svg><use href="#i-wa"></use></svg><span><b>WhatsApp / GSM</b>(0552) 350 84 46</span></a>
+  <a href="mailto:info@sofilxloto.com"><svg><use href="#i-mail"></use></svg><span><b>E-mail</b>info@sofilxloto.com</span></a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Alt%C4%B1n%C5%9Fehir+Mahallesi+Ermi%C5%9F+Sokak+No:12A+%C3%9Cmraniye+%C4%B0stanbul" target="_blank" rel="noopener"><svg><use href="#i-pin"></use></svg><span><b>Adresse</b>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul<br><small style="color:var(--muted)">Ouvrir sur la carte →</small></span></a>
+ </div>
+ <div class="box" style="margin-top:0"><h2>Écrivez-nous</h2><div class="in">
+  <form id="contact-form" class="form">
+   <label>Nom et prénom<input name="ad" required autocomplete="name"></label>
+   <label>Entreprise<input name="firma" autocomplete="organization"></label>
+   <label>Téléphone<input name="tel" type="tel" autocomplete="tel"></label>
+   <label>E-mail<input name="eposta" type="email" autocomplete="email"></label>
+   <label class="full">Votre message<textarea name="mesaj" rows="5" required placeholder="Les produits dont vous avez besoin, les quantités ou votre question…"></textarea></label>
+   <div class="full" style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn btn-red" type="submit" value="mail"><svg><use href="#i-mail"></use></svg>Envoyer par e-mail</button><button class="btn btn-wa" type="submit" value="wa"><svg><use href="#i-wa"></use></svg>Envoyer par WhatsApp</button></div>
+   <p class="full" style="color:var(--muted);font-size:.9rem;margin:0">Le formulaire ouvre votre application de messagerie ou WhatsApp avec votre message déjà prêt.</p>
+  </form>
+ </div></div>
+</div></section>
+</main>
+
+<div class="hazard" aria-hidden="true"></div>
+<footer class="ftr">
+ <div class="wrap">
+  <div>
+   <a class="logo" href="/fr"><img src="/assets/sofilx-logo-beyaz.svg" alt="Sofilx LOTO" width="187" height="40" loading="lazy"></a>
+   <p>Depuis 2010, nous fournissons aux sites industriels des équipements de consignation et d'étiquetage LOTO. Nos produits sont conformes aux exigences de l'OSHA 29 CFR 1910.147.</p>
+  </div>
+  <div><h3>Produits</h3><ul><li><a href="/fr/emniyet-asma-kilitler">Cadenas de sécurité</a></li><li><a href="/fr/salter-kilitleme-ekipmanlari">Verrous de disjoncteurs et d'interrupteurs</a></li><li><a href="/fr/vana-kilitleme-ekipmanlari">Équipements de verrouillage de vannes</a></li><li><a href="/fr/kablo-kilitleme-ekipmanlari">Dispositifs de verrouillage par câble</a></li><li><a href="/fr/kilit-coklandiricilar">Pinces multi-cadenas</a></li><li><a href="/fr/elektrik-pnomatik-kilitleme-ekipmanlari">Verrouillage électrique et pneumatique</a></li><li><a href="/fr/urunler">Tous les produits →</a></li></ul></div>
+  <div><h3>Sofilx</h3><ul><li><a href="/fr/hakkimizda">À propos</a></li><li><a href="/fr/referanslar">Références</a></li><li><a href="/fr/loto-rehberi">Guide LOTO</a></li><li><a href="/fr/blog">Blog</a></li><li><a href="/fr/teklif">Panier de devis</a></li><li><a href="/assets/sofilx-katalog.pdf" target="_blank" rel="noopener">Catalogue produits (PDF)</a></li><li><a href="/fr/iletisim">Contact</a></li><li><a href="/fr/gizlilik-politikasi">Politique de confidentialité</a></li></ul></div>
+  <div><h3>Contact</h3><ul>
+   <li><a href="tel:+902166063206">(0216) 606 32 06</a></li>
+   <li><a href="tel:+905523508446">(0552) 350 84 46</a></li>
+   <li><a href="mailto:info@sofilxloto.com">info@sofilxloto.com</a></li>
+   <li>Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul</li>
+<li><a href="https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/" rel="noopener" target="_blank">LinkedIn</a></li>  </ul></div>
+ </div>
+ <div class="bottom"><div class="wrap"><span>© 2026 Sofilx LOTO. Tous droits réservés.</span><span>LOTO · Équipements de verrouillage et d'étiquetage</span></div></div>
+</footer>
+<a class="wa-float" href="https://wa.me/905523508446?text=Merhaba%2C%20LOTO%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="Écrivez-nous sur WhatsApp"><svg><use href="#i-wa"></use></svg></a>
+<script src="/assets/site.js?v=b68fe545" defer></script>
+</body>
+</html>

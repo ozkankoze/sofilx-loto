@@ -143,9 +143,14 @@ def collapse(ps):
     return out
 
 # ---------- render yardımcıları ----------
+LANGS = [('tr', 'tr', 'Türkçe'), ('en', 'gb', 'English'), ('fa', 'ir', 'فارسی'), ('he', 'il', 'עברית'), ('ar', 'sa', 'العربية'),
+         ('fr', 'fr', 'Français'), ('de', 'de', 'Deutsch'), ('es', 'es', 'Español'), ('ru', 'ru', 'Русский'), ('it', 'it', 'Italiano'),
+         ('nl', 'nl', 'Nederlands'), ('ka', 'ge', 'ქართული'), ('mk', 'mk', 'Македонски'), ('az', 'az', 'Azərbaycanca')]
+READY = {'tr', 'en', 'fr', 'de', 'es', 'ru', 'it'}  # çevirisi tamamlanan diller
+LANGS = [l for l in LANGS if l[0] in READY]
 pages = []
 def render(tpl, path, **ctx):
-    base = dict(site=SITE, cats=cats, total=len(products), v=V, year=datetime.date.today().year, path=path, jsonld=[], active=None)
+    base = dict(site=SITE, langs=LANGS, cats=cats, total=len(products), v=V, year=datetime.date.today().year, path=path, jsonld=[], active=None)
     base.update(ctx)
     base['jsonld'] = [json.dumps(x, ensure_ascii=False) for x in base['jsonld']]
     out = env.get_template(tpl).render(**base)
