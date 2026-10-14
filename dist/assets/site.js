@@ -33,7 +33,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')$$('.dd.open
 /* galeri */
 var main=$('.gal .main img');
 $$('.thumbs button').forEach(function(t){t.addEventListener('click',function(){
-  main.src=t.dataset.full;main.alt=t.dataset.alt||main.alt;$$('.thumbs button').forEach(function(x){x.setAttribute('aria-current','false')});t.setAttribute('aria-current','true')})});
+  main.removeAttribute('srcset');main.src=t.dataset.full;main.alt=t.dataset.alt||main.alt;$$('.thumbs button').forEach(function(x){x.setAttribute('aria-current','false')});t.setAttribute('aria-current','true')})});
 
 /* teklif sepeti */
 function load(){try{return JSON.parse(localStorage.getItem(KEY))||[]}catch(e){return []}}

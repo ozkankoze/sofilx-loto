@@ -149,7 +149,9 @@ def img_source(i):
 
 
 def export_img(src, stem):
-    big, small = OUT_ASSETS + stem + '.webp', OUT_ASSETS + stem + '-k.webp'
+    big, small, tiny = OUT_ASSETS + stem + '.webp', OUT_ASSETS + stem + '-k.webp', OUT_ASSETS + stem + '-s.webp'
+    if not os.path.exists(tiny) or (os.path.exists(big) and os.path.getmtime(src) > os.path.getmtime(tiny)):
+        t = Image.open(src).convert('RGB'); t.thumbnail((280, 280)); t.save(tiny, quality=80, method=5)
     if not (os.path.exists(big) and os.path.exists(small)) or os.path.getmtime(src) > os.path.getmtime(big):
         im = Image.open(src).convert('RGB')
         b = im.copy(); b.thumbnail((1200, 1200)); b.save(big, quality=86, method=5)

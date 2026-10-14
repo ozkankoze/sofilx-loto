@@ -1,13 +1,18 @@
 <!doctype html>
 <html lang="tr">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-615899386"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Google tag (gtag.js) – hız için ilk etkileşimde yüklenir; olaylar o ana kadar dataLayer'da bekler -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'AW-615899386');
+  (function(){var done=false,ev=['pointerdown','touchstart','keydown','scroll','mousemove'];
+   function load(){if(done)return;done=true;ev.forEach(function(e){removeEventListener(e,load,{passive:true})});
+    var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=AW-615899386';document.head.appendChild(s)}
+   ev.forEach(function(e){addEventListener(e,load,{passive:true})});})();
 </script>
 
 <!-- Sofilx LOTO - tıklama dönüşümleri (WhatsApp / Telefon / E-posta) -->
@@ -47,8 +52,6 @@
   };
 })();
 </script>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{{ title }}</title>
 <meta name="description" content="{{ desc }}">
 <link rel="canonical" href="{{ site.url }}{{ path }}">
@@ -69,7 +72,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v={{ v }}">
+<style>{{ inline_css|safe }}</style>
 {% for ld in jsonld %}<script type="application/ld+json">{{ ld }}</script>
 {% endfor %}
 </head>
@@ -99,7 +102,7 @@
  <a href="https://wa.me/{{ site.wa }}" class="hide-s" rel="noopener" target="_blank"><svg><use href="#i-wa"/></svg>{{ site.tel2 }}</a>
  <a href="mailto:{{ site.mail }}" class="hide-s"><svg><use href="#i-mail"/></svg>{{ site.mail }}</a>
  <span class="since">2010'dan beri LOTO / EKED</span>
- <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Dil: Türkçe"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15"><b>TR</b><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+ <div class="langsw" data-i18n-skip><button type="button" class="langbtn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="TR – Dil: Türkçe"><img class="flag" src="/assets/flags/tr.svg" alt="" width="20" height="15"><b>TR</b><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
   <div class="langmenu" id="lang-menu" role="menu" hidden>{% for c, fl, n in langs %}<a href="{{ path if c=='tr' else '/' ~ c ~ ('' if path=='/' else path) }}" hreflang="{{ c }}" lang="{{ c }}" role="menuitem" data-l="{{ c }}"{% if c=='tr' %} aria-current="true"{% endif %}><img class="flag" src="/assets/flags/{{ fl }}.svg" alt="" width="20" height="15" loading="lazy"><b>{{ c|upper }}</b><i>{{ n }}</i></a>{% endfor %}</div>
  </div>
 </div></div>
@@ -111,7 +114,7 @@
   <div class="dd">
    <button type="button" aria-expanded="false" aria-controls="mega">Ürünler <svg><use href="#i-down"/></svg></button>
    <div class="mega" id="mega">
-    {% for c in cats %}<a href="/{{ c.slug }}"><img src="{{ c.img.thumb }}" alt="" width="48" height="48" loading="lazy"><span><b>{{ c.name }}</b><small>{{ c.count }} ürün</small></span></a>{% endfor %}
+    {% for c in cats %}<a href="/{{ c.slug }}"><img src="{{ c.img.thumb|replace('-k.webp','-s.webp') }}" alt="" width="48" height="48" loading="lazy"><span><b>{{ c.name }}</b><small>{{ c.count }} ürün</small></span></a>{% endfor %}
     <a class="all" href="/urunler">Tüm ürünler ({{ total }})</a>
    </div>
   </div>

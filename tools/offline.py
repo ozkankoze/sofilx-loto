@@ -25,6 +25,8 @@ for f in glob.glob(SRC + '**/*.html', recursive=True):
     h = open(f).read()
     h = re.sub(r'<link rel="preload"[^>]*>\n?', '', h)
     h = re.sub(r'\b(href|src|data-full|action)="([^"]*)"', fix, h)
+    h = h.replace('url(/assets/', 'url(' + assets)
+    h = re.sub(r'srcset="[^"]*"', lambda m: re.sub(r'/assets/', assets, m.group(0)), h)
     h = h.replace('<head>', f'<head>\n<script>window.__ROOT__="{up}";window.__ASSETS__="{assets}"</script>', 1)
     # form action için .html
     os.makedirs(os.path.dirname(OUT + rel), exist_ok=True)

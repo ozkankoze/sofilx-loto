@@ -10,6 +10,12 @@ SITE = dict(url='https://www.sofilxloto.com', tel1='(0216) 606 32 06', tel1_raw=
             address='Altınşehir Mah. Ermiş Sk. No:12A, Ümraniye / İstanbul',
             linkedin='https://www.linkedin.com/in/sofilx-loto-ekipmanlari-081818226/')
 V = hashlib.md5((open(DIST + 'assets/style.css').read() + open(DIST + 'assets/site.js').read()).encode()).hexdigest()[:8]
+def _mincss(c):
+    c = re.sub(r'/\*.*?\*/', '', c, flags=re.S)
+    c = re.sub(r'\s+', ' ', c)
+    c = re.sub(r'\s*([{};:,>])\s*', r'\1', c)
+    return c.replace(';}', '}').replace('url(fonts/', 'url(/assets/fonts/').strip()
+INLINE_CSS = _mincss(open(DIST + 'assets/style.css').read())
 env = Environment(loader=FileSystemLoader(ROOT + 'templates'), autoescape=True, trim_blocks=True, lstrip_blocks=True)
 env.filters['urlencode'] = lambda s: urllib.parse.quote(str(s))
 from markupsafe import Markup
@@ -146,11 +152,36 @@ def collapse(ps):
 LANGS = [('tr', 'tr', 'Türkçe'), ('en', 'gb', 'English'), ('fa', 'ir', 'فارسی'), ('he', 'il', 'עברית'), ('ar', 'sa', 'العربية'),
          ('fr', 'fr', 'Français'), ('de', 'de', 'Deutsch'), ('es', 'es', 'Español'), ('ru', 'ru', 'Русский'), ('it', 'it', 'Italiano'),
          ('nl', 'nl', 'Nederlands'), ('ka', 'ge', 'ქართული'), ('mk', 'mk', 'Македонски'), ('az', 'az', 'Azərbaycanca')]
-READY = {'tr', 'en', 'fr', 'de', 'es', 'ru', 'it'}  # çevirisi tamamlanan diller
+READY = {'tr', 'en', 'fr', 'de', 'es', 'ru', 'it', 'nl', 'az'}  # çevirisi tamamlanan diller
 LANGS = [l for l in LANGS if l[0] in READY]
+
+def _cut(t, n):
+    if len(t) <= n:
+        return t
+    c = t[:n + 1].rsplit(' ', 1)[0].rstrip(' ,;:–-|/')
+    return c
+
+
+def fit_title(t):
+    t = (t or '').strip()
+    if len(t) <= 60:
+        return t
+    suf = ' | Sofilx LOTO'
+    core = t[:-len(suf)] if t.endswith(suf) else t
+    if len(core + ' | Sofilx') <= 60:
+        return core + ' | Sofilx'
+    return _cut(core, 60)
+
+
+def fit_desc(d):
+    d = (d or '').strip()
+    if len(d) <= 160:
+        return d
+    return _cut(d, 157) + '…'
+
 pages = []
 def render(tpl, path, **ctx):
-    base = dict(site=SITE, langs=LANGS, cats=cats, total=len(products), v=V, year=datetime.date.today().year, path=path, jsonld=[], active=None)
+    base = dict(site=SITE, inline_css=INLINE_CSS, langs=LANGS, cats=cats, total=len(products), v=V, year=datetime.date.today().year, path=path, jsonld=[], active=None)
     base.update(ctx)
     base['jsonld'] = [json.dumps(x, ensure_ascii=False) for x in base['jsonld']]
     out = env.get_template(tpl).render(**base)
@@ -226,7 +257,7 @@ for p in products:
            jsonld=[ld, crumbs_ld([('Anasayfa', '/'), ('Ürünler', '/urunler'), (c['name'], '/' + c['slug']), (p['code'], p['path'])])])
 
 # ---------- blog ----------
-render('blog.html', '/blog', title='Blog | Sofilx LOTO', desc='LOTO / EKED, emniyet asma kilitleri ve iş güvenliği üzerine yazılar.', active='blog', posts=posts)
+render('blog.html', '/blog', title='LOTO ve İş Güvenliği Blogu | Sofilx LOTO', desc='LOTO / EKED prosedürleri, emniyet asma kilitleri, şalter ve vana kilitleme ile iş güvenliği üzerine rehber yazılar ve uygulama ipuçları.', active='blog', posts=posts)
 for b in posts:
     render('post.html', '/blog/' + b['slug'], title=f'{b["title"]} | Sofilx LOTO', desc=b['desc'], active='blog', b=b, og_type='article', og_image='/assets/blog/' + b['slug'] + '.webp',
            others=[x for x in posts if x is not b][:3],
@@ -303,7 +334,7 @@ for a, b in redir:
     seen.add(a); R.append((a, b))
 vercel = {'cleanUrls': True, 'trailingSlash': False,
           'redirects': [{'source': enc(a), 'destination': b, 'permanent': True} for a, b in R],
-          'headers': [{'source': '/assets/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=604800'}]}, {'source': '/assets/fonts/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=31536000, immutable'}]}]}
+          'headers': [{'source': '/assets/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=31536000'}]}, {'source': '/assets/fonts/(.*)', 'headers': [{'key': 'Cache-Control', 'value': 'public, max-age=31536000, immutable'}]}]}
 json.dump(vercel, open(DIST + 'vercel.json', 'w'), ensure_ascii=False, indent=1)
 # Vercel'de Root Directory boş bırakılırsa da çalışsın: depo kökünde aynı ayarlar + çıktı klasörü dist
 json.dump({'framework': None, 'outputDirectory': 'dist', **vercel}, open(ROOT + 'vercel.json', 'w'), ensure_ascii=False, indent=1)

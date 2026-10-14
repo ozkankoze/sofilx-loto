@@ -23,6 +23,7 @@
   <p class="count-line"><b id="count">{{ products|length }}</b> ürün{% if products|selectattr("search")|list %} <small>· renk seçenekli kilitler tek kartta</small>{% endif %}</p>
   <label class="search"><span class="sr">Ürün ara</span><svg><use href="#i-search"/></svg><input id="q" type="search" placeholder="Kod veya ürün adı (ör. BD-G01, vana)" autocomplete="off"></label>
  </div>
+ <h2 class="sr">Ürün listesi</h2>
  <div class="grid" data-filter-grid>{% for p in products %}{{ card(p, loop.index > 8) }}{% endfor %}</div>
  <div class="empty">Aramanızla eşleşen ürün bulunamadı. <a href="/iletisim">Bize yazın</a>, ihtiyacınız olan ekipmanı birlikte bulalım.</div>
 
@@ -86,7 +87,7 @@
 <section class="sec-sm sec-paper"><div class="wrap">
  <div class="prose seo"><h2>{{ K.seo_title }}</h2>{% for p in K.seo %}<p>{{ md(p) }}</p>{% endfor %}</div>
  <div class="sec-head" style="margin-top:44px"><h2 style="font-size:1.8rem">İlgili kategoriler</h2><a class="btn btn-line btn-sm" href="/urunler">Tüm ürünler <svg><use href="#i-arrow"/></svg></a></div>
- <div class="relcats">{% for c in cats if c.key != cat.key %}<a href="/{{ c.slug }}"><img src="{{ c.img.thumb }}" alt="" width="52" height="52" loading="lazy">{{ c.name }}</a>{% endfor %}</div>
+ <div class="relcats">{% for c in cats if c.key != cat.key %}<a href="/{{ c.slug }}"><img src="{{ c.img.thumb|replace('-k.webp','-s.webp') }}" alt="" width="52" height="52" loading="lazy">{{ c.name }}</a>{% endfor %}</div>
  <div class="sec-head" style="margin-top:40px"><h2 style="font-size:1.8rem">Rehber yazıları</h2><a class="btn btn-line btn-sm" href="/blog">Tüm yazılar <svg><use href="#i-arrow"/></svg></a></div>
  <div class="glinks"><a href="/loto-rehberi"><small>Rehber</small><b>LOTO (EKED) rehberi: 6 adımda kilitleme</b></a>{% for b in posts[:3] %}<a href="/blog/{{ b.slug }}"><small>Blog</small><b>{{ b.title }}</b></a>{% endfor %}</div>
 </div></section>

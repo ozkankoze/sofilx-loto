@@ -665,3 +665,4 @@ html[lang=ru] h1,html[lang=mk] h1,html[lang=ka] h1,html[lang=de] h1,html[lang=nl
 .tag-head b{text-transform:uppercase}
 .rc-foot span{text-transform:uppercase}
 .stat{min-width:0;overflow-wrap:anywhere;hyphens:auto}.stats .wrap{grid-template-columns:repeat(4,minmax(0,1fr))}@media(max-width:760px){.stats .wrap{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+.btn-wa{background:#13803f}.btn-wa:hover{background:#0f6b34}

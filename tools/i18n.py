@@ -10,7 +10,8 @@ I18N = ROOT + 'data/i18n/'
 LANGS = [('tr', 'tr', 'Türkçe'), ('en', 'gb', 'English'), ('fa', 'ir', 'فارسی'), ('he', 'il', 'עברית'), ('ar', 'sa', 'العربية'),
          ('fr', 'fr', 'Français'), ('de', 'de', 'Deutsch'), ('es', 'es', 'Español'), ('ru', 'ru', 'Русский'), ('it', 'it', 'Italiano'),
          ('nl', 'nl', 'Nederlands'), ('ka', 'ge', 'ქართული'), ('mk', 'mk', 'Македонски'), ('az', 'az', 'Azərbaycanca')]
-READY = {'tr', 'en', 'fr', 'de', 'es', 'ru', 'it'}
+ALL_LANGS = list(LANGS)
+READY = {'tr', 'en', 'fr', 'de', 'es', 'ru', 'it', 'nl', 'az'}
 LANGS = [l for l in LANGS if l[0] in READY]
 CODES = [c for c, _, _ in LANGS if c != 'tr']
 RTL = {'ar', 'fa', 'he'}
@@ -49,7 +50,7 @@ def pages():
     out = []
     for f in sorted(glob.glob(DIST + '**/*.html', recursive=True)):
         rel = f[len(DIST):]
-        if rel.split('/')[0] in CODES:
+        if rel.split('/')[0] in CODES or rel[:-5] in [c for c, _, _ in ALL_LANGS]:
             continue
         out.append(rel)
     return out
@@ -301,8 +302,43 @@ def lpath(lang, p):
     return '/' + lang + ('' if p == '/' else p)
 
 
+
+def _cut(t, n):
+    if len(t) <= n:
+        return t
+    c = t[:n + 1].rsplit(' ', 1)[0].rstrip(' ,;:–-|/')
+    return c
+
+
+def fit_title(t):
+    t = (t or '').strip()
+    if len(t) <= 60:
+        return t
+    suf = ' | Sofilx LOTO'
+    core = t[:-len(suf)] if t.endswith(suf) else t
+    if len(core + ' | Sofilx') <= 60:
+        return core + ' | Sofilx'
+    return _cut(core, 60)
+
+
+def fit_desc(d):
+    d = (d or '').strip()
+    if len(d) <= 160:
+        return d
+    return _cut(d, 157) + '…'
+
+
 def fix_doc(doc, lang, rel, T):
     root = doc
+    te = doc.find('.//title')
+    if te is not None and te.text:
+        te.text = fit_title(te.text)
+    for el in doc.iter('meta'):
+        k = el.get('name') or el.get('property')
+        if k in ('og:title', 'twitter:title') and el.get('content'):
+            el.set('content', fit_title(el.get('content')))
+        if k in ('description', 'og:description', 'twitter:description') and el.get('content'):
+            el.set('content', fit_desc(el.get('content')))
     root.set('lang', lang)
     root.set('dir', 'rtl' if lang in RTL else 'ltr')
     # iç linkler
@@ -313,7 +349,7 @@ def fix_doc(doc, lang, rel, T):
             continue
         for a in ('href', 'data-url', 'action'):
             v = el.get(a)
-            if v and v.startswith('/') and not v.startswith(('/assets/', '//')):
+            if v and v.startswith('/') and not v.startswith(('/assets/', '//')) and not v.split('?')[0].endswith(('.webmanifest', '.xml', '.txt', '.png', '.svg', '.ico', '.pdf', '.webp', '.jpg')):
                 el.set(a, lpath(lang, v.split('#')[0]) + (('#' + v.split('#', 1)[1]) if '#' in v else ''))
     # canonical / og:url
     for el in doc.iter('link'):
@@ -337,7 +373,7 @@ def fix_doc(doc, lang, rel, T):
             elif 'aria-current' in el.attrib:
                 del el.attrib['aria-current']
     for b in doc.find_class('langbtn'):
-        b.set('aria-label', (T('Dil') or 'Language') + ': ' + name[lang])
+        b.set('aria-label', lang.upper() + ' – ' + (T('Dil') or 'Language') + ': ' + name[lang])
         img = b.find('img'); img.set('src', f'/assets/flags/{flag[lang]}.svg')
         b.find('b').text = lang.upper()
     # arama metinleri (kartlar)
@@ -367,7 +403,46 @@ def apply():
         if miss:
             json.dump(sorted(miss), open(I18N + f'eksik_{lang}.json', 'w'), ensure_ascii=False, indent=0)
     print('eksik çeviri sayısı:', tot)
+    # dil kökleri: /en -> dist/en.html (temiz adres)
+    for lang in CODES:
+        if os.path.exists(DIST + lang + '/index.html'):
+            open(DIST + lang + '.html', 'w', encoding='utf-8').write(open(DIST + lang + '/index.html', encoding='utf-8').read())
+    # site haritasına dil sayfalarını ekle
+    sm = DIST + 'sitemap.xml'
+    x = open(sm, encoding='utf-8').read()
+    locs = re.findall(r'<loc>([^<]+)</loc>', x)
+    extra = []
+    for lang in CODES:
+        for u in locs:
+            if '/' + lang + '/' in u or u.rstrip('/').endswith('/' + lang):
+                continue
+            p = u[len(SITE_URL):] or '/'
+            if p.split('/')[1:2] and p.split('/')[1] in CODES:
+                continue
+            extra.append(f'  <url><loc>{SITE_URL}{lpath(lang, p)}</loc></url>')
+    x = x.replace('</urlset>', '\n'.join(extra) + '\n</urlset>')
+    open(sm, 'w', encoding='utf-8').write(x)
+    print('site haritası:', len(locs) + len(extra), 'adres')
+
+
+def fit_tr():
+    """Türkçe sayfalarda başlık/açıklama uzunluklarını SEO sınırlarına çeker (apply'dan SONRA çalıştırılır)."""
+    n = 0
+    for rel in pages():
+        f = DIST + rel
+        s = open(f, encoding='utf-8').read()
+        def t(m):
+            return m.group(1) + H.escape(fit_title(H.unescape(m.group(2))), quote=False) + m.group(3)
+        def mt(m):
+            k, v = m.group(2), H.unescape(m.group(3))
+            v2 = fit_title(v) if k in ('og:title', 'twitter:title') else fit_desc(v)
+            return m.group(1) + H.escape(v2, quote=True) + m.group(4)
+        s2 = re.sub(r'(<title>)(.*?)(</title>)', t, s, count=1)
+        s2 = re.sub(r'(<meta (?:name|property)="(description|og:title|og:description|twitter:title|twitter:description)" content=")([^"]*)(")', mt, s2)
+        if s2 != s:
+            open(f, 'w', encoding='utf-8').write(s2); n += 1
+    print('TR başlık/açıklama düzeltildi:', n)
 
 
 if __name__ == '__main__':
-    {'extract': extract, 'apply': apply}[sys.argv[1]]()
+    {'extract': extract, 'apply': apply, 'fit_tr': fit_tr}[sys.argv[1]]()

@@ -49,7 +49,7 @@
 <section class="sec"><div class="wrap">
  <div class="sec-head reveal"><div><div class="eyebrow">Kategoriler</div><h2>Her enerji kaynağı için kilit</h2></div><p>Elektrik panosundan vanaya, fişten pnömatik hatta kadar; doğru kilitleme ekipmanını kategoriye göre bulun.</p></div>
  <div class="cats">
-  {% for c in cats %}<a class="cat reveal" href="/{{ c.slug }}"><div class="im"><img src="{{ c.img.thumb }}" alt="{{ c.name }}" width="520" height="520" loading="lazy"></div><div class="tx"><h3>{{ c.name }}</h3><small>{{ c.count }} ürün</small></div></a>{% endfor %}
+  {% for c in cats %}<a class="cat reveal" href="/{{ c.slug }}"><div class="im"><img src="{{ c.img.thumb }}" srcset="{{ c.img.thumb|replace('-k.webp','-s.webp') }} 280w, {{ c.img.thumb }} 520w" sizes="(max-width:600px) 46vw, (max-width:1000px) 30vw, 270px" alt="{{ c.name }}" width="520" height="520" loading="lazy"></div><div class="tx"><h3>{{ c.name }}</h3><small>{{ c.count }} ürün</small></div></a>{% endfor %}
  </div>
 </div></section>
 

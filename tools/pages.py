@@ -34,7 +34,7 @@ ABOUT = f'''
   <div><svg><use href="#i-truck"/></svg><h3>4. Hızlı teslim</h3><p>Stoktaki ürünleri aynı gün veya ertesi iş günü kargoya veririz.</p></div>
  </div>
 </div></section>'''
-render('page.html', '/hakkimizda', title='Hakkımızda | Sofilx LOTO', desc="2010'dan bu yana endüstriyel tesislere OSHA uyumlu LOTO / EKED kilitleme ve etiketleme ekipmanları sağlıyoruz.",
+render('page.html', '/hakkimizda', title='Hakkımızda – 2010’dan Beri LOTO / EKED | Sofilx LOTO', desc="2010'dan bu yana endüstriyel tesislere OSHA uyumlu LOTO / EKED kilitleme ve etiketleme ekipmanları sağlıyoruz.",
        active='about', h1='Hakkımızda', crumb='Hakkımızda', intro='Sofilx LOTO, kilitleme ve etiketleme (LOTO / EKED) ekipmanlarında uzmanlaşmış bir iş güvenliği tedarikçisidir.',
        body=ABOUT, jsonld=[ORG, crumbs_ld([('Anasayfa', '/'), ('Hakkımızda', '/hakkimizda')])])
 
@@ -58,7 +58,7 @@ CONTACT = f'''
   </form>
  </div></div>
 </div></section>'''
-render('page.html', '/iletisim', title='İletişim | Sofilx LOTO', desc='Sofilx LOTO iletişim: telefon, WhatsApp, e-posta ve adres bilgileri. LOTO / EKED ürünleri için teklif alın.',
+render('page.html', '/iletisim', title='İletişim ve Teklif – LOTO / EKED | Sofilx LOTO', desc='Sofilx LOTO iletişim: telefon, WhatsApp, e-posta ve adres bilgileri. LOTO / EKED ürünleri için teklif alın.',
        active='contact', h1='İletişim', intro='İhtiyacınıza en uygun çözümü sunmak ve sorularınızı yanıtlamak için buradayız.', body=CONTACT, no_cta=True,
        jsonld=[ORG, crumbs_ld([('Anasayfa', '/'), ('İletişim', '/iletisim')])])
 
@@ -130,7 +130,7 @@ CART = '''
   </form>
  </div></div>
 </div></section>'''
-render('page.html', '/teklif', title='Teklif Sepeti | Sofilx LOTO', desc='Seçtiğiniz LOTO ürünleri için tek seferde fiyat teklifi isteyin.',
+render('page.html', '/teklif', title='Teklif Sepeti | Sofilx LOTO', desc='Seçtiğiniz LOTO / EKED ürünlerini adetleriyle sepete ekleyin, tek seferde WhatsApp veya e-posta ile fiyat teklifi isteyin.',
        h1='Teklif sepeti', intro='Ürünleri ve adetleri kontrol edin, bilgilerinizi ekleyip talebinizi WhatsApp veya e-posta ile gönderin.', body=CART, no_cta=True)
 
 PRIV = '''<section class="sec-sm"><div class="wrap prose">

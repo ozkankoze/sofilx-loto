@@ -4,8 +4,8 @@
  <nav class="crumbs" aria-label="Sayfa yolu"><a href="/">Anasayfa</a><span aria-hidden="true">/</span><a href="/{{ catobj.slug }}">{{ catobj.name }}</a><span aria-hidden="true">/</span><span>{{ p.code }}</span></nav>
  <div class="pd">
   <div class="gal">
-   <div class="main"><img src="{{ p.images[0].src if p.images else '/assets/sofilx-ikon.svg' }}" alt="{{ p.code }} {{ p.name }}" width="{{ p.images[0].w if p.images else 600 }}" height="{{ p.images[0].h if p.images else 600 }}" fetchpriority="high"></div>
-   {% if p.images|length > 1 %}<div class="thumbs">{% for im in p.images %}<button type="button" data-full="{{ im.src }}" data-alt="{{ p.code }} {{ p.name }} – görsel {{ loop.index }}" aria-current="{{ 'true' if loop.first else 'false' }}" aria-label="Görsel {{ loop.index }}"><img src="{{ im.thumb }}" alt="" width="76" height="76" loading="lazy"></button>{% endfor %}</div>{% endif %}
+   <div class="main"><img src="{{ p.images[0].src if p.images else '/assets/sofilx-ikon.svg' }}"{% if p.images %} srcset="{{ p.images[0].thumb }} 520w, {{ p.images[0].src }} {{ p.images[0].w }}w" sizes="(max-width:900px) 92vw, 580px"{% endif %} alt="{{ p.code }} {{ p.name }}" width="{{ p.images[0].w if p.images else 600 }}" height="{{ p.images[0].h if p.images else 600 }}" fetchpriority="high"></div>
+   {% if p.images|length > 1 %}<div class="thumbs">{% for im in p.images %}<button type="button" data-full="{{ im.src }}" data-alt="{{ p.code }} {{ p.name }} – görsel {{ loop.index }}" aria-current="{{ 'true' if loop.first else 'false' }}" aria-label="Görsel {{ loop.index }}"><img src="{{ im.thumb|replace('-k.webp','-s.webp') }}" alt="" width="76" height="76" loading="lazy"></button>{% endfor %}</div>{% endif %}
   </div>
   <div class="pi">
    <span class="code-pill">{{ p.code }}</span>
