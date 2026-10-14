@@ -14,9 +14,9 @@ ABOUT = f'''
   <p>Siz değerli müşterilerimizin memnuniyeti ve güvenliği bizim için her zaman önceliklidir.</p>
  </div>
  <div class="hero-art" style="max-width:480px" aria-hidden="true">
-  <div class="card c1"><img src="{_img('BD-X07S')}" alt="" loading="lazy"></div>
-  <div class="card c2"><img src="{_img('BD-G21-RED')}" alt="" loading="lazy"></div>
-  <div class="card c3"><img src="{_img('BD-D11N')}" alt="" loading="lazy"></div>
+  <div class="card c1"><img src="{_img('BD-X07S')}" alt="Sofilx LOTO ürünü" loading="lazy"></div>
+  <div class="card c2"><img src="{_img('BD-G21-RED')}" alt="Sofilx LOTO ürünü" loading="lazy"></div>
+  <div class="card c3"><img src="{_img('BD-D11N')}" alt="Sofilx LOTO ürünü" loading="lazy"></div>
  </div>
 </div></section>
 <section class="stats"><div class="wrap">
@@ -95,9 +95,9 @@ GUIDE = f'''
 <p>Tesisiniz için doğru ekipmanı seçmekte zorlanıyorsanız <a href="/iletisim">bize ulaşın</a>; şalter veya vana fotoğrafı üzerinden de yardımcı oluyoruz.</p>
 </article>
 <aside><div class="box" style="margin-top:0;position:sticky;top:100px"><h2>Hızlı başlangıç</h2><div class="in" style="display:grid;gap:10px">
-<a href="{by_code['BD-X02C']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-X02C']['images'][0]['thumb']}" alt="" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-X02C</b><br><small>Kişisel güvenlik seti</small></span></a>
-<a href="{by_code['BD-G01-RED']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-G01-RED']['images'][0]['thumb']}" alt="" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-G01</b><br><small>Emniyet asma kilidi</small></span></a>
-<a href="{by_code['BD-K61']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-K61']['images'][0]['thumb']}" alt="" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-K61</b><br><small>Çoklandırıcı</small></span></a>
+<a href="{by_code['BD-X02C']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-X02C']['images'][0]['thumb'].replace('-k.webp','-s.webp')}" alt="BD-X02C" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-X02C</b><br><small>Kişisel güvenlik seti</small></span></a>
+<a href="{by_code['BD-G01-RED']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-G01-RED']['images'][0]['thumb'].replace('-k.webp','-s.webp')}" alt="BD-G01-RED" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-G01</b><br><small>Emniyet asma kilidi</small></span></a>
+<a href="{by_code['BD-K61']['path']}" style="display:flex;gap:10px;align-items:center"><img src="{by_code['BD-K61']['images'][0]['thumb'].replace('-k.webp','-s.webp')}" alt="BD-K61" width="56" height="56" style="border:1px solid var(--line);border-radius:3px" loading="lazy"><span><b>BD-K61</b><br><small>Çoklandırıcı</small></span></a>
 <a class="btn btn-red btn-sm" href="/urunler">Tüm ürünler</a>
 </div></div></aside>
 </div></section>

@@ -183,7 +183,7 @@ pages = []
 def render(tpl, path, **ctx):
     base = dict(site=SITE, inline_css=INLINE_CSS, langs=LANGS, cats=cats, total=len(products), v=V, year=datetime.date.today().year, path=path, jsonld=[], active=None)
     base.update(ctx)
-    base['jsonld'] = [json.dumps(x, ensure_ascii=False) for x in base['jsonld']]
+    base['jsonld'] = [json.dumps(x, ensure_ascii=False).replace('</', '<\\/') for x in base['jsonld']]
     out = env.get_template(tpl).render(**base)
     fn = DIST + ('index.html' if path == '/' else path.strip('/') + '.html')
     os.makedirs(os.path.dirname(fn), exist_ok=True)
@@ -250,7 +250,7 @@ for p in products:
     if len(title) > 62: title = f'{p["code"]} {p["name"]}'
     desc = re.sub(r'\s+', ' ', p['summary'])[:150].rsplit(' ', 1)[0] + '…' if len(p['summary']) > 155 else p['summary']
     ld = {'@context': 'https://schema.org', '@type': 'Product', 'name': f'{p["code"]} {p["name"]}', 'sku': p['code'], 'mpn': p['code'],
-          'category': c['name'], 'description': ' '.join(p['intro'])[:500], 'image': [SITE['url'] + im['src'] for im in p['images']],
+          'category': c['name'], 'description': p['summary'], 'image': [SITE['url'] + im['src'] for im in p['images']],
           'brand': {'@type': 'Brand', 'name': 'Sofilx LOTO'}}
     render('product.html', p['path'], title=title, desc=desc, p=p, catobj=c, related=collapse(same)[:8], posts=posts, og_type='product',
            og_image=p['images'][0]['src'] if p['images'] else None,
