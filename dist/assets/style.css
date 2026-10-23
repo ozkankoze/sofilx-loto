@@ -664,3 +664,5 @@ html[lang=ru] h1,html[lang=mk] h1,html[lang=ka] h1,html[lang=de] h1,html[lang=nl
 .hero h1.eyebrow{font-size:.95rem;line-height:1.35;margin:0 0 14px;text-transform:uppercase;font-weight:700}
 .hero .h1{font-family:var(--head);font-weight:800;line-height:1.05;font-size:clamp(2.3rem,5.2vw,4rem);text-transform:uppercase;margin:0 0 .35em;color:#fff;letter-spacing:.005em}
 .hero .h1 em{font-style:normal;color:#fff;background:linear-gradient(transparent 60%,rgba(43,6,8,.45) 60%)}
+
+.ftr .bottom .credit a{color:inherit;text-decoration:underline;text-underline-offset:3px}.ftr .bottom .credit a:hover{color:#fff}
