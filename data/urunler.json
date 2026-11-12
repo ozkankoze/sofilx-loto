@@ -19340,6 +19340,377 @@
     "Vana kilitleme",
     "Genel bakım"
    ]
+  },
+  {
+   "code": "BD-E01",
+   "name": "Hayat Kurtarma Istankası",
+   "path": "/bd-e01-hayat-kurtarma-istankasi",
+   "ls_path": null,
+   "cat": "elektrik",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-e01-hayat-kurtarma-istankasi-1.webp",
+     "thumb": "/assets/urunler/bd-e01-hayat-kurtarma-istankasi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-e01-hayat-kurtarma-istankasi-2.webp",
+     "thumb": "/assets/urunler/bd-e01-hayat-kurtarma-istankasi-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-E01 Hayat Kurtarma Istankası: elektrik çarpmasına maruz kalan kişiyi enerjili kısımdan güvenle uzaklaştırmak için 70 kV yalıtımlı, 1,75 m kurtarma çubuğu.",
+   "intro": [
+    "BD-E01 Hayat Kurtarma Istankası, elektrik çarpması anında kazazedeye dokunmadan onu akım kaynağından ayırmak için kullanılan yalıtımlı bir kurtarma çubuğudur. Ucundaki geniş kanca; kola, bacağa veya bele takılarak kişinin güvenli mesafeden çekilmesini sağlar.",
+    "Cam elyaf takviyeli, sarı renkli gövdesi 70 kV kullanım gerilimine kadar yalıtım sağlar ve EN 60243-1 standardına göre test edilmiştir. Trafo merkezleri, OG hücreleri ve dağıtım panolarının yakınında görünür bir noktada hazır bulundurulması önerilir."
+   ],
+   "feats": [
+    [
+     "70 kV yalıtım",
+     "Orta gerilim tesislerinde güvenli kurtarma mesafesi sağlar."
+    ],
+    [
+     "Geniş kanca ucu",
+     "Kazazedeyi kol, bacak veya gövdeden kavrayarak hızlıca çekmeye uygundur."
+    ],
+    [
+     "Hafif gövde",
+     "1,60 kg ağırlığıyla acil durumda tek kişi tarafından rahatça kullanılır."
+    ],
+    [
+     "Yüksek görünürlük",
+     "Sarı gövde, istasyonda veya duvarda kolayca fark edilir."
+    ]
+   ],
+   "specs": [
+    [
+     "Kullanım gerilimi",
+     "70 kV"
+    ],
+    [
+     "Toplam boy",
+     "1,75 m"
+    ],
+    [
+     "Gövde çapı",
+     "34 mm"
+    ],
+    [
+     "Ağırlık",
+     "1,60 kg"
+    ],
+    [
+     "Ürün standardı",
+     "EN 60243-1"
+    ],
+    [
+     "Kalite standardı",
+     "ISO 9001:2015"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Trafo merkezleri",
+    "OG / AG hücreleri",
+    "Dağıtım panoları",
+    "Enerji santralleri",
+    "Elektrik bakım ekipleri"
+   ]
+  },
+  {
+   "code": "BD-E02",
+   "name": "AG/OG İkaz Bandı",
+   "path": "/bd-e02-ag-og-ikaz-bandi",
+   "ls_path": null,
+   "cat": "elektrik",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-e02-ag-og-ikaz-bandi-1.webp",
+     "thumb": "/assets/urunler/bd-e02-ag-og-ikaz-bandi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-E02 AG/OG İkaz Bandı: yer altı enerji kablolarının üzerine serilen, 15 cm genişliğinde, yaklaşık 500 m uzunluğunda kırmızı uyarı bandı.",
+   "intro": [
+    "BD-E02 AG/OG İkaz Bandı, alçak ve orta gerilim kablo güzergâhlarını işaretlemek için kablo kanalına, kablonun üzerine serilen kırmızı uyarı bandıdır. Sonraki bir kazı çalışmasında bant kablodan önce ortaya çıkar ve operatörü enerji hattına karşı uyarır.",
+    "Üzerinde yıldırım sembolü ve “DİKKAT ELEKTRİK KABLOSU HATTI” baskısı bulunur. Yüksek dayanımlı plastikten üretilmiştir; toprak altında ve dış ortamda uzun süre bozulmadan kalır, rulodan kolayca serilir."
+   ],
+   "feats": [
+    [
+     "Kazı güvenliği",
+     "Yer altındaki enerji hattını kazı sırasında önceden fark ettirir."
+    ],
+    [
+     "Uzun rulo",
+     "Yaklaşık 500 m uzunluk, uzun kablo güzergâhlarında ek yapmadan serilir."
+    ],
+    [
+     "Dayanıklı malzeme",
+     "Toprak altında nem ve ısı değişimlerine karşı dirençlidir."
+    ],
+    [
+     "Net uyarı",
+     "Kırmızı zemin ve elektrik sembolü uzaktan okunur."
+    ]
+   ],
+   "specs": [
+    [
+     "Genişlik",
+     "15 cm"
+    ],
+    [
+     "Uzunluk",
+     "yaklaşık 500 m"
+    ],
+    [
+     "Renk",
+     "Kırmızı, siyah baskılı"
+    ],
+    [
+     "Baskı",
+     "DİKKAT ELEKTRİK KABLOSU HATTI"
+    ],
+    [
+     "Malzeme",
+     "Yüksek dayanımlı plastik"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Yer altı kablo güzergâhları",
+    "Elektrik dağıtım projeleri",
+    "Altyapı çalışmaları",
+    "Kazı alanları ve şantiyeler"
+   ]
+  },
+  {
+   "code": "BD-E03",
+   "name": "10–36 kV Kontrol Kalemi",
+   "path": "/bd-e03-10-36-kv-kontrol-kalemi",
+   "ls_path": null,
+   "cat": "elektrik",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-e03-10-36-kv-kontrol-kalemi-1.webp",
+     "thumb": "/assets/urunler/bd-e03-10-36-kv-kontrol-kalemi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-e03-10-36-kv-kontrol-kalemi-2.webp",
+     "thumb": "/assets/urunler/bd-e03-10-36-kv-kontrol-kalemi-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-E03 10–36 kV Kontrol Kalemi: orta gerilim hatlarında enerji varlığını güvenli mesafeden kontrol eden, teleskopik gövdeli gerilim dedektörü.",
+   "intro": [
+    "BD-E03 10–36 kV Kontrol Kalemi, orta gerilim hücrelerinde ve hatlarında çalışmaya başlamadan önce iletkende gerilim olup olmadığını doğrulamak için kullanılan teleskopik bir gerilim dedektörüdür. LOTO sürecinin “enerjisizliği doğrula” adımında kilitlemeden sonra mutlaka kullanılmalıdır.",
+    "Teleskopik gövdesi kapalıyken 1,24 m, açıkken 1,68 m boya ulaşır; böylece kullanıcı iletkenle arasında güvenli mesafeyi korur. Kullanmadan önce kalemin çalıştığını bilinen enerjili bir noktada veya test cihazında kontrol edin."
+   ],
+   "feats": [
+    [
+     "10–36 kV aralığı",
+     "Dağıtım şebekelerindeki orta gerilim seviyelerine uygundur."
+    ],
+    [
+     "Teleskopik gövde",
+     "Taşırken kısa, kullanırken uzun; 1,24 m’den 1,68 m’ye açılır."
+    ],
+    [
+     "Güvenli mesafe",
+     "Uzun izole sap ile iletkene yaklaşmadan kontrol yapılır."
+    ],
+    [
+     "LOTO doğrulaması",
+     "Kilitleme sonrası “sıfır enerji” kontrolü için kullanılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Kullanım gerilimi",
+     "10–36 kV"
+    ],
+    [
+     "Kapalı boy",
+     "1,24 m"
+    ],
+    [
+     "Açık boy",
+     "1,68 m"
+    ],
+    [
+     "Ağırlık",
+     "1,50 kg"
+    ],
+    [
+     "Kalite standardı",
+     "ISO 9001:2015"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "OG hücreleri",
+    "Trafo merkezleri",
+    "Havai hatlar",
+    "Dağıtım şirketleri",
+    "Elektrik bakım ekipleri"
+   ]
+  },
+  {
+   "code": "BD-E04",
+   "name": "Acil Durum Kablo Kesme Makası",
+   "path": "/bd-e04-acil-durum-kablo-kesme-makasi",
+   "ls_path": null,
+   "cat": "elektrik",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-e04-acil-durum-kablo-kesme-makasi-1.webp",
+     "thumb": "/assets/urunler/bd-e04-acil-durum-kablo-kesme-makasi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-E04 Acil Durum Kablo Kesme Makası: 15 kV kullanım gerilimi, 250 mm² kesme kapasitesi ve izole kollara sahip acil durum kablo makası.",
+   "intro": [
+    "BD-E04 Acil Durum Kablo Kesme Makası, yangın, sel veya kaza gibi acil durumlarda enerjiyi hızla kesmek gerektiğinde kabloyu güvenli şekilde kesmek için tasarlanmış izole kollu bir makastır. Kollarının yalıtımı 20 kV’ta test edilmiştir, 15 kV kullanım gerilimine uygundur.",
+    "Ağzı 250 mm² kesite kadar bakır ve alüminyum kabloları keser. 55 cm boyundaki uzun kollar az kuvvetle yüksek kesme gücü sağlar; EN 60243-1 standardına göre test edilmiştir."
+   ],
+   "feats": [
+    [
+     "İzole kollar",
+     "20 kV’ta test edilmiş yalıtım, 15 kV kullanım gerilimi."
+    ],
+    [
+     "250 mm² kapasite",
+     "Kalın enerji kablolarını tek hamlede keser."
+    ],
+    [
+     "Uzun kol",
+     "55 cm kol boyu ile az kuvvetle güçlü kesim."
+    ],
+    [
+     "Acil müdahale",
+     "İtfaiye, kurtarma ve enerji ekipleri için uygundur."
+    ]
+   ],
+   "specs": [
+    [
+     "Kullanım gerilimi",
+     "15 kV"
+    ],
+    [
+     "Test gerilimi",
+     "20 kV"
+    ],
+    [
+     "Kesme kapasitesi",
+     "250 mm²"
+    ],
+    [
+     "Boy",
+     "55 cm"
+    ],
+    [
+     "Ağırlık",
+     "3,40 kg"
+    ],
+    [
+     "Ürün standardı",
+     "EN 60243-1"
+    ],
+    [
+     "Kalite standardı",
+     "ISO 9001:2015"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Acil durum ve kurtarma ekipleri",
+    "İtfaiye",
+    "Enerji dağıtım ekipleri",
+    "Sanayi tesisleri"
+   ]
+  },
+  {
+   "code": "BD-E05",
+   "name": "İzole Sigorta Çıkartma Pensesi 36 kV",
+   "path": "/bd-e05-izole-sigorta-cikartma-pensesi-36-kv",
+   "ls_path": null,
+   "cat": "elektrik",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-e05-izole-sigorta-cikartma-pensesi-36-kv-1.webp",
+     "thumb": "/assets/urunler/bd-e05-izole-sigorta-cikartma-pensesi-36-kv-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-E05 İzole Sigorta Çıkartma Pensesi 36 kV: orta gerilim hücrelerinde YG/OG sigortalarını güvenle takıp çıkarmak için 85 cm izole pense.",
+   "intro": [
+    "BD-E05 İzole Sigorta Çıkartma Pensesi, orta gerilim hücrelerinde ve trafo merkezlerinde YG/OG sigortalarını yuvasından güvenle çıkarmak ve yerine takmak için kullanılan izole bir pensedir. 36 kV kullanım gerilimine uygundur.",
+    "Sarı yalıtımlı kolları ve 85 cm toplam boyu sayesinde kullanıcı sigortaya güvenli mesafeden müdahale eder; 40 mm çaplı gövdesi sigortayı sıkıca kavrar. Bakım öncesi enerji izolasyonunda ve sigorta değişimlerinde kullanılır."
+   ],
+   "feats": [
+    [
+     "36 kV",
+     "Orta gerilim hücreleri ve trafo merkezleri için uygundur."
+    ],
+    [
+     "İzole kollar",
+     "Sarı yalıtımlı kollar ve kaymaz uç tutamaklar."
+    ],
+    [
+     "Güvenli mesafe",
+     "85 cm toplam boy ile sigortaya uzaktan müdahale."
+    ],
+    [
+     "Sağlam kavrama",
+     "40 mm gövde çapı sigortayı kaydırmadan tutar."
+    ]
+   ],
+   "specs": [
+    [
+     "Kullanım gerilimi",
+     "36 kV"
+    ],
+    [
+     "Toplam boy",
+     "0,85 m"
+    ],
+    [
+     "Gövde çapı",
+     "40 mm"
+    ],
+    [
+     "Ağırlık",
+     "1,50 kg"
+    ],
+    [
+     "Kalite standardı",
+     "ISO 9001:2015"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "OG hücreleri",
+    "Trafo merkezleri",
+    "Sigorta değişimi",
+    "Elektrik bakım ekipleri"
+   ]
   }
  ],
  "cats": [
@@ -19412,6 +19783,13 @@
    "Tehlike Uyarı Etiketleri",
    "tehlike-etiketleri",
    "Kilitleme noktalarını işaretleyen dayanıklı uyarı etiketleri."
+  ],
+  [
+   "elektrik",
+   "AG/OG Elektrik Güvenlik Ekipmanları",
+   "AG/OG Elektrik Güvenlik Ekipmanları",
+   "ag-og-elektrik-guvenlik-ekipmanlari",
+   "Hayat kurtarma ıstankası, OG kontrol kalemi, izole pense ve kablo makası gibi alçak ve orta gerilim güvenlik ekipmanları."
   ]
  ],
  "redirects": [

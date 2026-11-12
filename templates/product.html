@@ -12,8 +12,9 @@
    <h1>{{ p.name }}</h1>
    <p class="pcat">Kategori: <a href="/{{ catobj.slug }}">{{ catobj.name }}</a></p>
    <ul class="pchecks">
-    <li><svg><use href="#i-shield"/></svg>Stoktan hızlı sevkiyat, aynı gün kargo</li>
-    <li><svg><use href="#i-shield"/></svg>OSHA 29 CFR 1910.147 uyumlu LOTO çözümü</li>
+    {% if p.cat == 'elektrik' %}<li><svg><use href="#i-shield"/></svg>Hızlı tedarik ve sevkiyat</li>
+    <li><svg><use href="#i-shield"/></svg>Standartlara göre test edilmiş yalıtımlı ekipman</li>{% else %}<li><svg><use href="#i-shield"/></svg>Stoktan hızlı sevkiyat, aynı gün kargo</li>
+    <li><svg><use href="#i-shield"/></svg>OSHA 29 CFR 1910.147 uyumlu LOTO çözümü</li>{% endif %}
     <li><svg><use href="#i-shield"/></svg>{% if p.group %}8 renk ve farklı / ortak / master anahtar seçeneği{% else %}Toplu alımlarda adet bazlı özel fiyat{% endif %}</li>
    </ul>
    {% if p.group %}<div class="varbox"><b>Renk: {{ p.variant.color_name }}</b>
@@ -43,7 +44,7 @@
   <a class="btn btn-red pill" href="/{{ catobj.slug }}">{{ catobj.name }} <svg><use href="#i-arrow"/></svg></a></div>
  <div class="fband reveal" style="margin-top:18px">
   <div class="fb-feats">
-   <div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>
+   {% if p.cat == 'elektrik' %}<div><i><svg><use href="#i-shield"/></svg></i><b>Test edilmiş yalıtım</b><span>EN 60243-1 ve ISO 9001 standartlarında üretim</span></div>{% else %}<div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>{% endif %}
    <div><i><svg><use href="#i-truck"/></svg></i><b>Hızlı sevkiyat</b><span>Stoktaki ürünler aynı gün kargoda</span></div>
    <div><i><svg><use href="#i-tag"/></svg></i><b>Kişiye özel</b><span>Renk, etiket ve anahtar seçenekleri</span></div>
    <div><i><svg><use href="#i-chat"/></svg></i><b>Teknik destek</b><span>Fotoğraftan doğru ürünü birlikte seçelim</span></div>

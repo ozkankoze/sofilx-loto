@@ -1995,5 +1995,173 @@
    "Ürün yelpazemizde bakım ve tamir uyarıları, şalter ve yetki etiketleri, yazılabilir kilitleme bilgi etiketleri, test ve devreye alma etiketleri ile Scafftag iskele etiketleri bulunur. Tüm modeller askılı yapıdadır ve kilitle birlikte kolayca kullanılır; kuruma özel metin talepleri için de destek veriyoruz.",
    "Uyarı etiketi fiyatları model ve sipariş adedine göre farklılık gösterir. Güncel fiyat teklifi ve stok bilgisi almak için ürün kodunu WhatsApp hattımıza iletebilir ya da bizi telefonla arayabilirsiniz."
   ]
+ },
+ "elektrik": {
+  "lead": "Sofilx LOTO; hayat kurtarma ıstankası, 10–36 kV kontrol kalemi, izole sigorta pensesi, acil durum kablo makası ve AG/OG ikaz bandı ile alçak ve orta gerilim tesislerinde LOTO sürecini tamamlayan elektrik güvenlik ekipmanlarını sunar.",
+  "chips": [
+   "36 kV’a kadar OG ekipmanı",
+   "Yalıtımlı ve test edilmiş",
+   "Gerilim kontrolü",
+   "Acil durum kurtarma",
+   "Kablo güzergâhı işaretleme"
+  ],
+  "rule_title": "Altın kural",
+  "rule": "Kilitledikten sonra mutlaka kontrol kalemiyle enerjinin kesildiğini doğrulayın; doğrulanmamış bir hat enerjili kabul edilir.",
+  "nedir_title": "AG/OG Elektrik Güvenlik Ekipmanları Nedir?",
+  "nedir": [
+   "**AG/OG elektrik güvenlik ekipmanları**, alçak gerilim (AG) ve orta gerilim (OG) tesislerinde çalışan personeli elektrik çarpmasına karşı koruyan, güvenli mesafeden müdahale imkânı veren yalıtımlı ekipmanlardır. Trafo merkezleri, OG hücreleri, dağıtım panoları ve yer altı kablo hatları bu ekipmanların başlıca kullanım alanlarıdır.",
+   "**LOTO (EKED)** sürecinde enerji kesilip kilitlendikten sonra hattın gerçekten enerjisiz olduğu bir **kontrol kalemi** ile doğrulanır; sigortalar **izole sigorta pensesi** ile güvenle çıkarılır. Bir kaza anında ise **hayat kurtarma ıstankası** kazazedeyi akımdan uzaklaştırmak, **acil durum kablo makası** enerjiyi hızla kesmek için kullanılır.",
+   "Sofilx LOTO, kilitleme ve etiketleme ürünlerinin yanında bu tamamlayıcı ekipmanları da tedarik ederek elektrik bakım ekiplerinin ihtiyaçlarını tek noktadan karşılar."
+  ],
+  "cesitler_title": "AG/OG Elektrik Güvenlik Ekipmanı Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Hayat kurtarma ıstankası",
+    "text": "Elektrik çarpmasına maruz kalan kişiyi enerjili kısımdan güvenli mesafeden ayırmak için kullanılan yalıtımlı kancalı çubuk.",
+    "codes": [
+     "BD-E01"
+    ]
+   },
+   {
+    "title": "Gerilim kontrol kalemi",
+    "text": "Orta gerilim iletkenlerinde enerji varlığını teleskopik izole sapla güvenli mesafeden kontrol eder.",
+    "codes": [
+     "BD-E03"
+    ]
+   },
+   {
+    "title": "İzole sigorta pensesi",
+    "text": "OG hücrelerinde YG/OG sigortalarını güvenle takıp çıkarmak için kullanılır.",
+    "codes": [
+     "BD-E05"
+    ]
+   },
+   {
+    "title": "Acil durum kablo makası",
+    "text": "Acil durumlarda enerji kablolarını izole kollarla güvenle kesmeye yarar.",
+    "codes": [
+     "BD-E04"
+    ]
+   },
+   {
+    "title": "Kablo güzergâhı ikaz bandı",
+    "text": "Yer altı enerji kablolarının üzerine serilerek kazı sırasında hattı önceden fark ettirir.",
+    "codes": [
+     "BD-E02"
+    ]
+   }
+  ],
+  "secim_intro": "Yapacağınız işe ve çalıştığınız gerilim seviyesine göre uygun ekipmanı tablodan seçebilirsiniz.",
+  "secim_head": [
+   "Ürün",
+   "Gerilim",
+   "Ölçü",
+   "Ne için kullanılır?"
+  ],
+  "secim_rows": [
+   [
+    "BD-E01 – Hayat kurtarma ıstankası",
+    "70 kV",
+    "1,75 m",
+    "Kazazedeyi akımdan ayırma"
+   ],
+   [
+    "BD-E03 – 10–36 kV kontrol kalemi",
+    "10–36 kV",
+    "1,24 / 1,68 m",
+    "Enerjisizliği doğrulama"
+   ],
+   [
+    "BD-E05 – İzole sigorta çıkartma pensesi",
+    "36 kV",
+    "0,85 m",
+    "OG sigortası takma / çıkarma"
+   ],
+   [
+    "BD-E04 – Acil durum kablo kesme makası",
+    "15 kV",
+    "55 cm, 250 mm²",
+    "Acil durumda kablo kesme"
+   ],
+   [
+    "BD-E02 – AG/OG ikaz bandı",
+    "–",
+    "15 cm × 500 m",
+    "Yer altı kablo hattı işaretleme"
+   ]
+  ],
+  "nasil_title": "Doğru elektrik güvenlik ekipmanı nasıl seçilir?",
+  "nasil": [
+   [
+    "Gerilim seviyesi",
+    "Ekipmanın kullanım gerilimi, çalıştığınız tesisin en yüksek geriliminden düşük olmamalıdır."
+   ],
+   [
+    "Standart ve test",
+    "EN 60243-1 gibi standartlara göre test edilmiş, test gerilimi belirtilmiş ürünleri tercih edin."
+   ],
+   [
+    "Güvenli mesafe",
+    "Sap boyu, iletkenle aranızda yeterli emniyet mesafesi bırakmalıdır."
+   ],
+   [
+    "Periyodik kontrol",
+    "Yalıtımlı ekipmanları her kullanımdan önce çatlak, kir ve nem açısından gözle kontrol edin."
+   ],
+   [
+    "Saklama",
+    "Ekipmanları kuru, temiz ve kolay ulaşılabilir bir noktada, tercihen duvar askısında saklayın."
+   ],
+   [
+    "LOTO ile birlikte",
+    "Bu ekipmanlar kilitleme ve etiketlemenin yerine geçmez; LOTO prosedürünü tamamlar."
+   ]
+  ],
+  "kullanim_title": "AG/OG Elektrik Güvenlik Ekipmanları Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Trafo merkezleri ve OG hücreleri",
+    "Sigorta değişimi, gerilim kontrolü ve bakım öncesi enerji izolasyonu."
+   ],
+   [
+    "Elektrik dağıtım şebekeleri",
+    "Havai hat ve kablo bakımlarında gerilim kontrolü ve güvenli müdahale."
+   ],
+   [
+    "Sanayi tesisleri",
+    "Fabrika içi OG/AG dağıtım merkezlerinde bakım ve acil durum hazırlığı."
+   ],
+   [
+    "Altyapı ve kazı çalışmaları",
+    "Yer altı kablo güzergâhlarının ikaz bandıyla işaretlenmesi."
+   ]
+  ],
+  "faq": [
+   [
+    "Kontrol kalemi LOTO sürecinde ne zaman kullanılır?",
+    "Enerji kesilip kilitlendikten sonra, çalışmaya başlamadan önce hattın enerjisiz olduğunu doğrulamak için kullanılır. Kalemin çalıştığı kullanımdan önce bilinen enerjili bir noktada kontrol edilmelidir."
+   ],
+   [
+    "Hayat kurtarma ıstankası nereye konmalı?",
+    "Trafo merkezi, OG hücresi ve yüksek gerilim panolarının girişinde, herkesin görebileceği ve hemen ulaşabileceği bir noktada asılı tutulmalıdır."
+   ],
+   [
+    "AG/OG ekipmanlarının fiyatları nedir?",
+    "Fiyat; ürüne ve sipariş adedine göre değişir. Güncel teklif ve stok bilgisi için ürün kodunu ve adedi WhatsApp hattımıza yazabilir veya teklif sepetini kullanabilirsiniz."
+   ],
+   [
+    "Yalıtımlı ekipmanlar ne sıklıkla kontrol edilmeli?",
+    "Her kullanımdan önce gözle kontrol edilmeli; yalıtım testleri ise üretici önerisi ve işletmenin bakım planına göre periyodik olarak yaptırılmalıdır."
+   ],
+   [
+    "Bu ekipmanlar kilitleme yerine kullanılabilir mi?",
+    "Hayır. Bu ekipmanlar LOTO sürecini tamamlar; enerji kaynağı yine kilit ve uyarı etiketiyle güvenceye alınmalıdır."
+   ]
+  ],
+  "seo_title": "AG/OG Elektrik Güvenlik Ekipmanları Fiyatları ve Modelleri",
+  "seo": [
+   "Orta gerilim tesislerinde güvenli çalışma; doğru kilitleme kadar doğru ölçüm ve müdahale ekipmanına da bağlıdır. **Hayat kurtarma ıstankası**, **OG kontrol kalemi**, **izole sigorta çıkartma pensesi** ve **acil durum kablo kesme makası**, elektrik bakım ekiplerinin temel güvenlik donanımları arasındadır.",
+   "Sofilx LOTO; 36 kV’a kadar orta gerilim için yalıtımlı ekipmanları, yer altı kablo güzergâhları için **AG/OG ikaz bandını** ve tüm LOTO kilitleme ürünlerini tek noktadan tedarik eder. Toplu alımlarda kurumsal faturalı teklif hazırlıyoruz."
+  ]
  }
 }

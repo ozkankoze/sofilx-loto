@@ -33,7 +33,7 @@ for _d in sorted(_g.glob(DIST + '**/', recursive=True), key=len, reverse=True):
 
 # ---------- kategoriler ----------
 CAT_IMG = {'asma': 'BD-G01-RED', 'salter': 'BD-D11N', 'vana': 'BD-F01', 'kablo': 'BD-L41', 'coklandirici': 'BD-K61',
-           'pnomatik': 'BD-D31', 'istasyon': 'BD-B102', 'kutu': 'BD-8771B', 'set': 'BD-X02C', 'etiket': 'BD-LT05'}
+           'pnomatik': 'BD-D31', 'istasyon': 'BD-B102', 'kutu': 'BD-8771B', 'set': 'BD-X02C', 'etiket': 'BD-LT05', 'elektrik': 'BD-E01'}
 CAT_LONG = {
  'asma': '<h2>Emniyet asma kilidi nasıl seçilir?</h2><p>LOTO asma kilitleri, kişisel kilitleme için tasarlanmış ve her çalışanın yalnızca kendi anahtarıyla açabildiği kilitlerdir. Elektrik işlerinde iletken olmayan <b>plastik kelepçeli</b> modeller, mekanik ve genel kullanımda <b>çelik kelepçeli</b> modeller tercih edilir. 38 mm kelepçe çoğu şalter ve vana kilidine uyarken, 76 mm kelepçe çoklandırıcı ve geniş kilitleme noktaları için uygundur.</p><p>Kilitler 8 renkte sunulur; renkleri departmana, vardiyaya veya yetki seviyesine göre kodlayabilirsiniz. Farklı anahtar (KD), aynı anahtar (KA) ve master anahtar seçenekleri için bizimle iletişime geçin.</p>',
  'salter': '<h2>Hangi şalter kilidi uygun?</h2><p>Minyatür devre kesicilerde (MCB) kolun hareketini engelleyen pim tipi veya klips tipi kilitler, kompakt şalterlerde (MCCB) kelepçeli kilitler kullanılır. Doğru modeli seçmek için şalterin marka/modelini veya kolun ölçüsünü bize iletmeniz yeterli; fotoğraf üzerinden de yardımcı oluyoruz.</p>',
@@ -44,6 +44,7 @@ CAT_LONG = {
  'istasyon': '<h2>LOTO istasyonu neden gerekli?</h2><p>İstasyonlar kilit, etiket ve ekipmanları kullanım noktasının yakınında, görünür ve düzenli tutar. Kapaklı modeller tozlu ortamlar için, metal kabinler ağır sanayi için uygundur.</p>',
  'kutu': '<h2>Grup kilit kutusu ve çantalar</h2><p>Çok sayıda izolasyon noktası olan bakımlarda anahtarlar grup kilit kutusuna konur ve her çalışan kutuyu kendi kilidiyle kilitler. Bel çantaları ve taşınabilir çantalar ise sahada kişisel ekipmanı bir arada tutar.</p>',
  'set': '<h2>Hazır set mi, tek tek ürün mü?</h2><p>Yeni bir LOTO programı başlatıyorsanız setler, ihtiyaç duyulan kilit, etiket ve kilitleme cihazlarını tek seferde ve uyumlu şekilde sağlar. Setlerin içeriğini ihtiyacınıza göre değiştirebiliriz.</p>',
+ 'elektrik': '<h2>LOTO ile birlikte kullanın</h2><p>Kilitleme enerjinin geri verilmesini engeller; kontrol kalemi ise hattın gerçekten enerjisiz olduğunu doğrular. Orta gerilim çalışmalarında ikisini birlikte kullanın.</p>',
  'etiket': '<h2>Etiketleme neden önemli?</h2><p>Etiket, kilidin kime ait olduğunu, neden ve ne zaman takıldığını gösterir. Kilit fiziksel engeli, etiket ise bilgilendirmeyi sağlar; ikisi birlikte kullanılmalıdır.</p>',
 }
 products = D['products']
@@ -231,7 +232,7 @@ render('category.html', '/urunler', K=None, total_in=len(products), posts=posts,
 for c in cats:
     ps = [p for p in products if p['cat'] == c['key']]
     render('category.html', '/' + c['slug'], K=KAT[c['key']], total_in=len(ps), posts=posts, link=link, title=f'{c["name"]} | Sofilx LOTO',
-           desc=f'{c["short"]} {len(ps)} ürün, OSHA uyumlu, stoktan hızlı teslimat.',
+           desc=f'{c["short"]} {len(ps)} ürün, ' + ('test edilmiş yalıtım, hızlı tedarik.' if c['key'] == 'elektrik' else 'OSHA uyumlu, stoktan hızlı teslimat.'),
            h1=c['name'], intro=c['short'] + ' Ürünleri teklif sepetine ekleyerek tek seferde fiyat isteyebilirsiniz.',
            products=collapse(ps), cat=c, og_image=c['img']['src'],
            jsonld=[crumbs_ld([('Anasayfa', '/'), ('Ürünler', '/urunler'), (c['name'], '/' + c['slug'])]),
@@ -281,7 +282,11 @@ for a, b in [('/hakkımızda', '/hakkimizda'), ('/i-letişim', '/iletisim'), ('/
 for b in posts:
     redir.append((b['old'], '/blog/' + b['slug']))
 # eski Sofilx ürün sayfaları -> yeni ürün (SKU eşleştirme)
-old = json.load(open(ROOT + 'data/sofilx-icerik.json'))
+_oi = ROOT + 'data/sofilx-icerik.json'
+old = json.load(open(_oi)) if os.path.exists(_oi) else []
+if not old:  # ham eski-site verisi yoksa: önceki yayındaki yönlendirmeleri aynen koru
+    for _r in json.load(open(ROOT + 'data/vercel_onceki.json'))['redirects']:
+        redir.append((urllib.parse.unquote(_r['source']), _r['destination']))
 norm = lambda s: re.sub(r'[^A-Z0-9]', '', s.upper().replace('LS-', 'BD-').replace('BD-', ''))
 code_idx = {norm(p['code']): p for p in products}
 base_idx = {}
