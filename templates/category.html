@@ -29,7 +29,7 @@
 
  <div class="fband reveal">
   <div class="fb-feats">
-   {% if cat and cat.key == 'elektrik' %}<div><i><svg><use href="#i-shield"/></svg></i><b>Test edilmiş yalıtım</b><span>EN 60243-1 ve ISO 9001 standartlarında üretim</span></div>{% else %}<div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>{% endif %}
+   {% if cat and cat.key == 'emici' %}<div><i><svg><use href="#i-shield"/></svg></i><b>Doğru emici seçimi</b><span>Yağ, kimyasal ve genel amaçlı seçenekler</span></div>{% elif cat and cat.key == 'elektrik' %}<div><i><svg><use href="#i-shield"/></svg></i><b>Test edilmiş yalıtım</b><span>EN 60243-1 ve ISO 9001 standartlarında üretim</span></div>{% else %}<div><i><svg><use href="#i-shield"/></svg></i><b>OSHA uyumlu</b><span>29 CFR 1910.147'ye uygun LOTO ekipmanı</span></div>{% endif %}
    <div><i><svg><use href="#i-truck"/></svg></i><b>Hızlı sevkiyat</b><span>Stoktaki ürünler aynı gün kargoda</span></div>
    <div><i><svg><use href="#i-tag"/></svg></i><b>Kişiye özel</b><span>Renk, etiket ve anahtar seçenekleri</span></div>
    <div><i><svg><use href="#i-chat"/></svg></i><b>Teknik destek</b><span>Fotoğraftan doğru ürünü birlikte seçelim</span></div>

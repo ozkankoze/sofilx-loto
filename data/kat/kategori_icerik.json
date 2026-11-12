@@ -2163,5 +2163,198 @@
    "Orta gerilim tesislerinde güvenli çalışma; doğru kilitleme kadar doğru ölçüm ve müdahale ekipmanına da bağlıdır. **Hayat kurtarma ıstankası**, **OG kontrol kalemi**, **izole sigorta çıkartma pensesi** ve **acil durum kablo kesme makası**, elektrik bakım ekiplerinin temel güvenlik donanımları arasındadır.",
    "Sofilx LOTO; 36 kV’a kadar orta gerilim için yalıtımlı ekipmanları, yer altı kablo güzergâhları için **AG/OG ikaz bandını** ve tüm LOTO kilitleme ürünlerini tek noktadan tedarik eder. Toplu alımlarda kurumsal faturalı teklif hazırlıyoruz."
   ]
+ },
+ "emici": {
+  "lead": "Yağ, su bazlı sıvı ve kimyasal döküntülerine hızlı müdahale için emici ped, rulo, sosis, granül ve çantalı ya da tekerlekli döküntü kitlerini tek kategoride bulabilirsiniz. Doğru emiciyle döküntü yayılmadan kontrol altına alınır, kayma ve kirlilik riski azalır.",
+  "chips": [
+   "Yağ emici",
+   "Genel amaçlı emici",
+   "Kimyasal emici",
+   "Çantalı döküntü kitleri",
+   "Tekerlekli müdahale setleri"
+  ],
+  "rule_title": "Altın kural",
+  "rule": "Emiciyi sıvıya göre seçin: yağ için beyaz yağ emici, karışık sıvılar için gri genel amaçlı, asit ve bazlar için sarı kimyasal emici kullanın.",
+  "nedir_title": "Yağ ve Kimyasal Emici Nedir?",
+  "nedir": [
+   "**Emici ürünler**, dökülen veya sızan sıvıyı lif yapısı içinde tutarak zemine yayılmasını, kanalizasyona karışmasını ve kayma kazalarına yol açmasını önleyen malzemelerdir. Genellikle polipropilen elyaftan üretilen ped, rulo, sosis ve yastık formlarında ya da doğal granül ve toz olarak sunulur.",
+   "**Yağ emiciler** hidrofobiktir; suyu iter, yalnızca yağ ve hidrokarbonları emer, bu yüzden su üzerinde yüzerek çalışır. **Genel amaçlı emiciler** yağ, su, soğutma sıvısı ve agresif olmayan kimyasalları birlikte emer. **Kimyasal emiciler** ise asit ve bazlarla reaksiyona girmeyen özel yapısıyla tehlikeli sıvılara karşı kullanılır.",
+   "**Döküntü kitleri**, bu emicileri KKD ve atık torbasıyla birlikte çanta, konteyner, dolap veya araba içinde hazır tutan setlerdir. Risk noktasının yakınında bekletilen bir kit, döküntü anında malzeme arama süresini ortadan kaldırır."
+  ],
+  "cesitler_title": "Emici Ürün ve Döküntü Kiti Çeşitleri",
+  "cesitler": [
+   {
+    "title": "Yağ emici ped ve rulolar",
+    "text": "Suyu emmeyen beyaz pedler ve rulolar; makine altları, bakım alanları ve su yüzeyindeki yağ için.",
+    "codes": [
+     "BD-EM11",
+     "BD-EM16",
+     "BD-EM59"
+    ]
+   },
+   {
+    "title": "Yağ emici sosis ve boomlar",
+    "text": "Geniş döküntüleri ve su yüzeyindeki yağ tabakasını çevreleyerek yayılmayı durduran bariyer ürünleri.",
+    "codes": [
+     "BD-EM21",
+     "BD-EM22",
+     "BD-EM60"
+    ]
+   },
+   {
+    "title": "Genel amaçlı emiciler",
+    "text": "Yağ, su, soğutma sıvısı ve agresif olmayan kimyasalları birlikte emen gri ped ve kitler.",
+    "codes": [
+     "BD-EM02",
+     "BD-EM36",
+     "BD-EM44"
+    ]
+   },
+   {
+    "title": "Kimyasal emiciler",
+    "text": "Asit, baz ve agresif kimyasallarla reaksiyona girmeyen ped, yastık ve sosisler.",
+    "codes": [
+     "BD-EM23",
+     "BD-EM40",
+     "BD-EM49"
+    ]
+   },
+   {
+    "title": "Tekerlekli kit, dolap ve arabalar",
+    "text": "Büyük hacimli döküntüler için 95–178 litre kapasiteli mobil müdahale istasyonları.",
+    "codes": [
+     "BD-EM43",
+     "BD-EM52",
+     "BD-EM53"
+    ]
+   },
+   {
+    "title": "Granül ve toz emiciler",
+    "text": "Zemine serpilerek kullanılan, köşe ve pürüzlü yüzeylerdeki sıvıyı toplayan doğal emiciler.",
+    "codes": [
+     "BD-EM54",
+     "BD-EM55",
+     "BD-EM61"
+    ]
+   }
+  ],
+  "secim_intro": "Aşağıdaki tablo, döküntü türüne göre hangi emici ürün tipinin uygun olduğunu hızlıca görmenizi sağlar.",
+  "secim_head": [
+   "Ürün tipi",
+   "Emdiği sıvılar",
+   "Renk",
+   "Önerilen kullanım"
+  ],
+  "secim_rows": [
+   [
+    "BD-EM11 – Yağ emici ped",
+    "Yağ, yakıt, hidrokarbonlar (suyu emmez)",
+    "Beyaz",
+    "Makine altları, akaryakıt istasyonları, su yüzeyi"
+   ],
+   [
+    "BD-EM02 – Genel amaçlı ped",
+    "Yağ, su, soğutma sıvısı, agresif olmayan kimyasallar",
+    "Gri",
+    "Üretim hatları, atölyeler, bakım alanları"
+   ],
+   [
+    "BD-EM23 – Kimyasal emici",
+    "Asitler, bazlar, agresif kimyasallar",
+    "Sarı / yeşil",
+    "Laboratuvar, kimyasal depo, dolum noktaları"
+   ],
+   [
+    "BD-EM21 – Yağ emici boom",
+    "Su üzerindeki yağ ve yakıt",
+    "Beyaz",
+    "Liman, tersane, göl ve kanal yüzeyleri"
+   ],
+   [
+    "BD-EM43 – Tekerlekli yağ emici kit",
+    "Yağ ve yakıt (120 Lt)",
+    "Beyaz emiciler",
+    "Büyük hacimli yağ döküntüleri"
+   ],
+   [
+    "BD-EM54 – Emici granül",
+    "Yağ, kimyasal, boya, gıda sıvıları",
+    "Doğal",
+    "Beton ve asfalt zeminler, köşe temizliği"
+   ]
+  ],
+  "nasil_title": "Doğru emici ürün nasıl seçilir?",
+  "nasil": [
+   [
+    "Sıvı türünü belirleyin",
+    "Yağ, su bazlı sıvı veya asit-baz ayrımı emici tipini doğrudan belirler."
+   ],
+   [
+    "Olası hacmi hesaplayın",
+    "Tesisteki en büyük kap veya tankın hacmine göre kit kapasitesini seçin."
+   ],
+   [
+    "Ortamı dikkate alın",
+    "Açık alan ve su yüzeyinde suyu emmeyen yağ emiciler daha verimlidir."
+   ],
+   [
+    "Form seçin",
+    "Damlamaya ped ve rulo, yayılmaya sosis ve boom, pürüzlü zemine granül uygundur."
+   ],
+   [
+    "Taşıma şeklini düşünün",
+    "Küçük alanlarda çanta, geniş sahalarda tekerlekli konteyner veya araba tercih edin."
+   ],
+   [
+    "KKD ihtiyacını kontrol edin",
+    "Kimyasal döküntülerde eldiven, gözlük ve gerekirse tulum içeren kitleri seçin."
+   ]
+  ],
+  "kullanim_title": "Emici Kitler Nerelerde Kullanılır?",
+  "kullanim": [
+   [
+    "Üretim tesisleri",
+    "Makine, hidrolik sistem ve hat kenarlarındaki yağ ve soğutma sıvısı döküntüleri."
+   ],
+   [
+    "Akaryakıt istasyonu ve otoparklar",
+    "Yakıt ve motor yağı damlamalarının hızla toplanması."
+   ],
+   [
+    "Laboratuvar ve kimyasal depolar",
+    "Asit, baz ve solvent döküntülerine güvenli müdahale."
+   ],
+   [
+    "Liman, lojistik ve araçlar",
+    "Su yüzeyindeki yağ ile taşıma ve yükleme sırasında oluşan sızıntılar."
+   ]
+  ],
+  "faq": [
+   [
+    "Yağ emici ile genel amaçlı emici arasındaki fark nedir?",
+    "Yağ emici suyu emmez ve yalnızca hidrokarbonları tutar; genel amaçlı emici ise yağ, su ve agresif olmayan kimyasalları birlikte emer."
+   ],
+   [
+    "Kimyasal döküntüde yağ emici kullanılabilir mi?",
+    "Asit ve bazlar için kimyasala dayanıklı sarı emiciler kullanılmalıdır; yağ emiciler bu sıvılar için uygun değildir."
+   ],
+   [
+    "Kit kapasitesini nasıl belirlemeliyim?",
+    "Alandaki en büyük kap veya tank hacmini esas alın; birden fazla risk noktası varsa her noktaya ayrı kit yerleştirin."
+   ],
+   [
+    "Kullanılmış emiciler nasıl bertaraf edilir?",
+    "Emilen sıvının özelliğine göre atık torbasında toplanır ve ilgili atık mevzuatına uygun şekilde lisanslı firmaya teslim edilir."
+   ],
+   [
+    "Emici kit fiyatları ne kadar?",
+    "Fiyat; ürün tipine, kit kapasitesine ve sipariş miktarına göre değişir. Güncel fiyat için WhatsApp üzerinden bize yazabilir veya ürünleri teklif sepetine ekleyerek talep oluşturabilirsiniz."
+   ]
+  ],
+  "seo_title": "Yağ ve Kimyasal Emici Kit Fiyatları ve Modelleri",
+  "seo": [
+   "Sofilx LOTO, **yağ emici ped**, **genel amaçlı emici**, **kimyasal emici** ve **döküntü kiti** seçeneklerini endüstriyel işletmelerin ihtiyacına göre sunar. 15 litrelik çantalı kitlerden 178 litrelik **arabalı döküntü kitlerine**, emici sosis ve boomlardan doğal **emici granül** ürünlerine kadar geniş bir yelpazede doğru çözümü bulabilirsiniz.",
+   "**Emici kit fiyatları** ürün tipi, kapasite ve miktara göre belirlenir. Tesisinizdeki sıvı türünü ve olası döküntü hacmini bize iletin; **yağ ve kimyasal döküntü kitleri** için ihtiyacınıza uygun model ve adet önerisini içeren teklifi hızlıca hazırlayalım."
+  ]
  }
 }

@@ -19711,6 +19711,5237 @@
     "Sigorta değişimi",
     "Elektrik bakım ekipleri"
    ]
+  },
+  {
+   "code": "BD-EM01",
+   "name": "Yağ Emici Araç Döküntü Kiti 30 Litre",
+   "path": "/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-1.webp",
+     "thumb": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-2.webp",
+     "thumb": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-3.webp",
+     "thumb": "/assets/urunler/bd-em01-yag-emici-arac-dokuntu-kiti-30-litre-3-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM01 Yağ Emici Araç Döküntü Kiti 30 Litre: araç ve sahada yağ döküntülerine hızlı müdahale için ped, sosis, yastık ve KKD'yi tek çantada sunan 30 litrelik kit.",
+   "intro": [
+    "BD-EM01 Yağ Emici Araç Döküntü Kiti 30 Litre, araç içinde ya da sahada meydana gelen motor yağı, yakıt ve hidrolik yağ gibi petrol türevi sızıntılara anında müdahale edebilmek için hazırlanmış kompakt bir döküntü setidir. Kitteki yağ emici malzemeler hidrofobik yapıdadır; suyu itip yalnızca yağ ve petrol bazlı sıvıları bünyesine alır, bu sayede yağmurlu havada ya da ıslak zeminde de verimli çalışır.",
+    "Servis araçlarında, saha ekiplerinin taşıtlarında veya forkliftlerin yakınında bulundurulması önerilir. Müdahalede önce sosislerle döküntünün etrafı çevrilir, ardından pedler ve yastık sıvının üzerine yerleştirilir; kullanılan malzemeler atık torbasında toplanıp yürürlükteki atık mevzuatına göre bertaraf edilir. Dökülen maddenin güvenlik bilgi formunu mutlaka kontrol edin; kitteki toz maskesi gaz ve buhara karşı koruma sağlamaz."
+   ],
+   "feats": [
+    [
+     "Tek çantada eksiksiz set",
+     "Emici malzemeler ve kişisel koruyucu donanım aynı taşıma çantasında, müdahaleye hazır şekilde bulunur."
+    ],
+    [
+     "Yalnızca yağı emer",
+     "Hidrofobik emiciler suyu çekmez; yakıt ve yağları ıslak zeminde bile seçici olarak toplar."
+    ],
+    [
+     "Çevreleme ve emme bir arada",
+     "Sosisler döküntünün yayılmasını sınırlar, ped ve yastık ise sıvıyı hızla bünyesine alır."
+    ],
+    [
+     "Araçta kolay taşınır",
+     "Kompakt çanta, servis ve saha araçlarında az yer kaplayarak her an erişilebilir kalır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici araç döküntü kiti"
+    ],
+    [
+     "Toplam emme kapasitesi",
+     "30 litre"
+    ],
+    [
+     "Emici tipi",
+     "Oil Only – yağ ve petrol bazlı sıvılar (hidrofobik)"
+    ],
+    [
+     "Ambalaj",
+     "Taşıma çantası"
+    ],
+    [
+     "Kit içeriği",
+     "20 ped, 2 sosis, 1 yastık + KKD ve atık torbası"
+    ]
+   ],
+   "pack": [
+    "1 Adet – Taşıma Çantası",
+    "20 Adet – Yağ Emici Ped",
+    "2 Adet – Yağ Emici Sosis",
+    "1 Adet – Yağ Emici Yastık",
+    "Koruyucu Eldiven",
+    "Toz Maskesi",
+    "Koruyucu Gözlük",
+    "İkaz Yeleği",
+    "Atık Torbası"
+   ],
+   "notes": [],
+   "usage": [
+    "Servis ve saha araçları",
+    "Filo ve lojistik araçları",
+    "Akaryakıt istasyonları",
+    "Atölyeler ve bakım alanları",
+    "Şantiyeler"
+   ]
+  },
+  {
+   "code": "BD-EM02",
+   "name": "Genel Amaçlı Emici Ped 10'lu",
+   "path": "/bd-em02-genel-amacli-emici-ped-10-lu",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em02-genel-amacli-emici-ped-10-lu-1.webp",
+     "thumb": "/assets/urunler/bd-em02-genel-amacli-emici-ped-10-lu-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM02 Genel Amaçlı Emici Ped 10'lu: 40x50 cm, 250 gr/m² perforeli pedler; yağ, su, soğutma sıvısı ve agresif olmayan kimyasalları emer, paket başı 11 litre kapasite.",
+   "intro": [
+    "BD-EM02 Genel Amaçlı Emici Ped 10'lu, yağ, petrol türevleri, su, su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emebilen üniversal (gri) tipte emici pedlerdir. Emdiği sıvılarla kimyasal reaksiyona girmeyen yapısı sayesinde, döküntünün türü tam bilinmediğinde bile güvenle tercih edilebilir; paket toplamında 11 litre sıvı tutar.",
+    "10'lu paket, kitlere takviye yapmak, servis araçlarında yedek bulundurmak ve küçük atölyelerin günlük ihtiyacı için idealdir. Gözenekli ve esnek dokusu zemine tam oturur, perforasyon çizgileri sayesinde ped ikiye veya dörde bölünerek küçük damlamalarda israf önlenir. Pratik ipucu: sürekli sızıntı olan makinelerin altına önceden ped serip doygunlaştıkça değiştirmek, zemin temizliğini ve kayma riskini büyük ölçüde azaltır."
+   ],
+   "feats": [
+    [
+     "Çok yönlü emiş",
+     "Yağ, su, soğutma sıvısı, solvent ve agresif olmayan kimyasalları aynı pedle toplar."
+    ],
+    [
+     "Perforeli tasarım",
+     "Ped kolayca bölünür; küçük döküntülerde yalnızca gereken kadarı kullanılır."
+    ],
+    [
+     "Reaksiyona girmez",
+     "Emilen sıvılarla kimyasal tepkime oluşturmadan güvenli kullanım sağlar."
+    ],
+    [
+     "Kayma riskini azaltır",
+     "Zemindeki sıvıyı hızla bünyesine alarak kaygan yüzey kaynaklı kazaları önlemeye yardımcı olur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı (üniversal) emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "10 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "11 litre / paket"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Atölyeler ve bakım sahaları",
+    "Araç servisleri",
+    "Akaryakıt istasyonları",
+    "Depo ve lojistik alanları",
+    "Acil döküntü kitleri"
+   ]
+  },
+  {
+   "code": "BD-EM03",
+   "name": "Genel Amaçlı Emici Ped 30'lu",
+   "path": "/bd-em03-genel-amacli-emici-ped-30-lu",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em03-genel-amacli-emici-ped-30-lu-1.webp",
+     "thumb": "/assets/urunler/bd-em03-genel-amacli-emici-ped-30-lu-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM03 Genel Amaçlı Emici Ped 30'lu: 40x50 cm, 250 gr/m² perforeli pedler; yağ, su, soğutma sıvısı ve agresif olmayan kimyasalları emer, paket başı 33 litre kapasite.",
+   "intro": [
+    "BD-EM03 Genel Amaçlı Emici Ped 30'lu, yağ, petrol türevleri, su, su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emebilen üniversal (gri) tipte emici pedlerdir. Emdiği sıvılarla kimyasal reaksiyona girmeyen yapısı sayesinde, döküntünün türü tam bilinmediğinde bile güvenle tercih edilebilir; paket toplamında 33 litre sıvı tutar.",
+    "30'lu paket, küçük ve orta ölçekli döküntülerin sık yaşandığı atölye ve servislerde dengeli bir stok sağlar. Gözenekli ve esnek dokusu zemine tam oturur, perforasyon çizgileri sayesinde ped ikiye veya dörde bölünerek küçük damlamalarda israf önlenir. Pratik ipucu: sürekli sızıntı olan makinelerin altına önceden ped serip doygunlaştıkça değiştirmek, zemin temizliğini ve kayma riskini büyük ölçüde azaltır."
+   ],
+   "feats": [
+    [
+     "Çok yönlü emiş",
+     "Yağ, su, soğutma sıvısı, solvent ve agresif olmayan kimyasalları aynı pedle toplar."
+    ],
+    [
+     "Perforeli tasarım",
+     "Ped kolayca bölünür; küçük döküntülerde yalnızca gereken kadarı kullanılır."
+    ],
+    [
+     "Reaksiyona girmez",
+     "Emilen sıvılarla kimyasal tepkime oluşturmadan güvenli kullanım sağlar."
+    ],
+    [
+     "Kayma riskini azaltır",
+     "Zemindeki sıvıyı hızla bünyesine alarak kaygan yüzey kaynaklı kazaları önlemeye yardımcı olur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı (üniversal) emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "30 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "33 litre / paket"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Atölyeler ve küçük üretim alanları",
+    "Bakım ve onarım noktaları",
+    "Depolar",
+    "Servis alanları"
+   ]
+  },
+  {
+   "code": "BD-EM04",
+   "name": "Genel Amaçlı Emici Ped 50'li",
+   "path": "/bd-em04-genel-amacli-emici-ped-50-li",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em04-genel-amacli-emici-ped-50-li-1.webp",
+     "thumb": "/assets/urunler/bd-em04-genel-amacli-emici-ped-50-li-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM04 Genel Amaçlı Emici Ped 50'li: 40x50 cm, 250 gr/m² perforeli pedler; yağ, su, soğutma sıvısı ve agresif olmayan kimyasalları emer, paket başı 54 litre kapasite.",
+   "intro": [
+    "BD-EM04 Genel Amaçlı Emici Ped 50'li, yağ, petrol türevleri, su, su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emebilen üniversal (gri) tipte emici pedlerdir. Emdiği sıvılarla kimyasal reaksiyona girmeyen yapısı sayesinde, döküntünün türü tam bilinmediğinde bile güvenle tercih edilebilir; paket toplamında 54 litre sıvı tutar.",
+    "50'li paket, birden fazla istasyonda emici bulundurması gereken üretim tesisleri ve depolar için ekonomik bir tedarik seçeneğidir. Gözenekli ve esnek dokusu zemine tam oturur, perforasyon çizgileri sayesinde ped ikiye veya dörde bölünerek küçük damlamalarda israf önlenir. Pratik ipucu: sürekli sızıntı olan makinelerin altına önceden ped serip doygunlaştıkça değiştirmek, zemin temizliğini ve kayma riskini büyük ölçüde azaltır."
+   ],
+   "feats": [
+    [
+     "Çok yönlü emiş",
+     "Yağ, su, soğutma sıvısı, solvent ve agresif olmayan kimyasalları aynı pedle toplar."
+    ],
+    [
+     "Perforeli tasarım",
+     "Ped kolayca bölünür; küçük döküntülerde yalnızca gereken kadarı kullanılır."
+    ],
+    [
+     "Reaksiyona girmez",
+     "Emilen sıvılarla kimyasal tepkime oluşturmadan güvenli kullanım sağlar."
+    ],
+    [
+     "Kayma riskini azaltır",
+     "Zemindeki sıvıyı hızla bünyesine alarak kaygan yüzey kaynaklı kazaları önlemeye yardımcı olur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı (üniversal) emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "50 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "54 litre / paket"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Bakım ve onarım alanları",
+    "Depo ve lojistik merkezleri",
+    "Atölyeler"
+   ]
+  },
+  {
+   "code": "BD-EM05",
+   "name": "Yağ, Petrol ve Kimyasal Emici Ped 350 Gr 100'lü",
+   "path": "/bd-em05-yag-petrol-ve-kimyasal-emici-ped-350-gr-100-lu",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em05-yag-petrol-ve-kimyasal-emici-ped-350-gr-100-lu-1.webp",
+     "thumb": "/assets/urunler/bd-em05-yag-petrol-ve-kimyasal-emici-ped-350-gr-100-lu-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM05 Yağ, Petrol ve Kimyasal Emici Ped 350 Gr 100'lü: 40x50 cm, 350 gr/m² yüksek gramajlı 100 pedlik paket; yağ, petrol ve kimyasal sıvılarda toplam 109 litre emme kapasitesi.",
+   "intro": [
+    "BD-EM05 Yağ, Petrol ve Kimyasal Emici Ped 350 Gr 100'lü, yağ, petrol türevleri ve kimyasal sıvı döküntülerini kontrol altına almak için geliştirilmiş, 350 gr/m² yüksek gramajlı profesyonel emici pedlerdir. Özel emici liflerden oluşan dokusu sıvıyı kısa sürede bünyesine çeker ve yüzeyde yayılmasını sınırlar; 100 adetlik paketin toplam emme kapasitesi 109 litredir.",
+    "40 x 50 cm ölçüsü sayesinde makine altlarına, tezgâhlara ve sızıntı noktalarına rahatça yerleşir; yüksek gramajı ıslandığında bile pedin dağılmadan tek parça halinde kaldırılmasına yardımcı olur. Talaş ve bez gibi geleneksel yöntemlere göre çok daha temiz ve kontrollü bir uygulama sunar. Kimyasal döküntülerde kullanmadan önce maddenin güvenlik bilgi formunu kontrol etmeniz ve uygun KKD seçmeniz önerilir."
+   ],
+   "feats": [
+    [
+     "Yüksek gramaj",
+     "350 gr/m² yoğun doku daha fazla sıvı tutar ve kullanım sırasında kolay yırtılmaz."
+    ],
+    [
+     "Geniş sıvı uyumu",
+     "Yağ, petrol türevleri ve kimyasal sıvıların emilmesinde tek ürünle çözüm sunar."
+    ],
+    [
+     "100'lü ekonomik paket",
+     "Toplam 109 litre kapasite, yoğun tüketimi olan tesisler için stok avantajı sağlar."
+    ],
+    [
+     "Kitlere uygun",
+     "Kompakt yapısıyla döküntü kitlerinde, dolaplarda ve araçlarda kolayca saklanır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ, petrol ve kimyasal emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "109 litre / paket"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ, petrol türevleri, kimyasal sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrikalar ve üretim tesisleri",
+    "Laboratuvarlar",
+    "Bakım atölyeleri",
+    "Akaryakıt istasyonları",
+    "Limanlar ve lojistik merkezleri"
+   ]
+  },
+  {
+   "code": "BD-EM06",
+   "name": "Genel Amaçlı Emici Rulo 40x50 Hafif Seri",
+   "path": "/bd-em06-genel-amacli-emici-rulo-40x50-hafif-seri",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em06-genel-amacli-emici-rulo-40x50-hafif-seri-1.webp",
+     "thumb": "/assets/urunler/bd-em06-genel-amacli-emici-rulo-40x50-hafif-seri-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM06 Genel Amaçlı Emici Rulo 40x50 Hafif Seri: 40x50 cm perforeli hafif seri rulo; yağ, su bazlı sıvı ve solventleri emer, koli başı 75 litre kapasite ile ekonomik kullanım.",
+   "intro": [
+    "BD-EM06 Genel Amaçlı Emici Rulo 40x50 Hafif Seri, günlük ve orta yoğunluklu döküntüler için tasarlanmış, hafif gramajlı üniversal emici rulodur. Petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emer; emdiği sıvılarla reaksiyona girmez. Koli başına emme kapasitesi 75 litredir.",
+    "Rulo, 40 x 50 cm aralıklarla perforelidir; istenen uzunlukta koparılarak tezgâh üstü damlamalardan geniş zemin döküntülerine kadar esnek biçimde kullanılır. Hafif seri yapısı, sık ama küçük hacimli döküntülerin yaşandığı alanlarda tüketim maliyetini düşük tutar. Rulo askı aparatına takılarak iş istasyonunun yanında hazır bekletilmesi önerilir."
+   ],
+   "feats": [
+    [
+     "Hafif seri, düşük maliyet",
+     "Günlük temizlikte gereksiz gramaj kullanmadan ekonomik tüketim sağlar."
+    ],
+    [
+     "Perforeli kopma çizgileri",
+     "40 x 50 cm aralıklarla bölünerek ihtiyaç kadar parça kullanılır."
+    ],
+    [
+     "Üniversal emiş",
+     "Yağ, su bazlı sıvı, solvent ve agresif olmayan kimyasalları tek ürünle toplar."
+    ],
+    [
+     "Esnek doku",
+     "Yüzeye kolayca uyum sağlar, köşe ve kenarlarda da etkili temas kurar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı emici rulo (hafif seri)"
+    ],
+    [
+     "Model",
+     "GEN-5040R-200"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm (perforeli)"
+    ],
+    [
+     "Emme kapasitesi",
+     "75 litre / koli"
+    ],
+    [
+     "Ambalaj",
+     "1 adet rulo"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrikalar",
+    "Bakım ve onarım alanları",
+    "Liman ve hangarlar",
+    "Depolar ve üretim sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM07",
+   "name": "Genel Amaçlı Emici Rulo 38 cm x 46 m",
+   "path": "/bd-em07-genel-amacli-emici-rulo-38-cm-x-46-m",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em07-genel-amacli-emici-rulo-38-cm-x-46-m-1.webp",
+     "thumb": "/assets/urunler/bd-em07-genel-amacli-emici-rulo-38-cm-x-46-m-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM07 Genel Amaçlı Emici Rulo 38 cm x 46 m: 38 cm x 46 m, 350 gr/m² perforeli üniversal rulo; yağ, su, solvent ve agresif olmayan kimyasallarda rulo başı 96 litre emiş.",
+   "intro": [
+    "BD-EM07 Genel Amaçlı Emici Rulo 38 cm x 46 m, farklı sıvı türlerinin bir arada bulunduğu ortamlar için geliştirilmiş, 46 metre uzunluğunda ve 350 gr/m² gramajlı üniversal emici rulodur. Petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emer; reaksiyona girmeyen yapısıyla güvenli kullanım sunar ve rulo başına 96 litre sıvı tutar.",
+    "Uzun rulo formu; koridor boyunca, makine hatlarının önünde veya yürüyüş yollarında kesintisiz emici şerit oluşturmak için idealdir. Perforasyonlar sayesinde küçük döküntülerde yalnızca gereken bölüm koparılır. Yoğun trafiği olan alanlarda ruloyu zemine serip doygunlaşan bölümleri değiştirmek, kaygan zemin kaynaklı kaza riskini azaltır."
+   ],
+   "feats": [
+    [
+     "46 metre uzunluk",
+     "Geniş alanlarda ve hat boyunca kesintisiz emici yüzey oluşturur."
+    ],
+    [
+     "350 gr/m² gramaj",
+     "Yoğun dokusu yüksek emiş ve dayanıklılık sağlar."
+    ],
+    [
+     "Çoklu sıvı uyumu",
+     "Yağ, su, soğutma sıvısı ve agresif olmayan kimyasallarda tek ürünle çözüm sunar."
+    ],
+    [
+     "Perforeli yapı",
+     "İhtiyaca göre bölünerek israfı en aza indirir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı (üniversal) emici rulo"
+    ],
+    [
+     "Ölçü",
+     "38 cm x 46 m"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Emme kapasitesi",
+     "96 litre / rulo"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet rulo"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Kimyasal depolama alanları",
+    "Atölye ve bakım servisleri",
+    "Lojistik ve depolama sahaları",
+    "Acil döküntü müdahale alanları"
+   ]
+  },
+  {
+   "code": "BD-EM08",
+   "name": "Genel Amaçlı Emici Rulo 40x50 100 Litre",
+   "path": "/bd-em08-genel-amacli-emici-rulo-40x50-100-litre",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em08-genel-amacli-emici-rulo-40x50-100-litre-1.webp",
+     "thumb": "/assets/urunler/bd-em08-genel-amacli-emici-rulo-40x50-100-litre-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM08 Genel Amaçlı Emici Rulo 40x50 100 Litre: 40x50 cm perforeli üniversal rulo; yağ, su bazlı sıvı ve solventleri emer, koli başı 100 litre emme kapasitesi sunar.",
+   "intro": [
+    "BD-EM08 Genel Amaçlı Emici Rulo 40x50 100 Litre, endüstriyel döküntüler için standart seride üretilmiş, koli başına 100 litre emme kapasitesine sahip üniversal emici rulodur. Petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve agresif olmayan kimyasalları emer; emdiği sıvılarla kimyasal reaksiyona girmez.",
+    "40 x 50 cm aralıklı perforasyonlar sayesinde rulo istenen boyda koparılarak hem büyük hem küçük döküntülerde verimli şekilde kullanılır. Hafif seriye göre daha yüksek kapasitesiyle üretim alanları, hangarlar ve depolar gibi orta-yüksek yoğunluklu kullanım noktaları için uygundur. Ruloyu döküntü riski olan istasyonların yakınında sabit bir askıda tutmak müdahale süresini kısaltır."
+   ],
+   "feats": [
+    [
+     "100 litre kapasite",
+     "Koli başına yüksek emme kapasitesiyle yoğun kullanıma uygundur."
+    ],
+    [
+     "Üniversal emiş",
+     "Yağ, su, soğutma sıvısı, solvent ve agresif olmayan kimyasalları emer."
+    ],
+    [
+     "Perforeli kullanım",
+     "İstenen ölçüde koparılarak ekonomik tüketim sağlar."
+    ],
+    [
+     "Dayanıklı malzeme",
+     "Esnek ve sağlam yapısı ile zemine uyum sağlar, kolay yırtılmaz."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı emici rulo"
+    ],
+    [
+     "Model",
+     "GEN-5040R-300"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm (perforeli)"
+    ],
+    [
+     "Emme kapasitesi",
+     "100 litre / koli"
+    ],
+    [
+     "Ambalaj",
+     "1 adet rulo"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrikalar",
+    "Bakım ve onarım tesisleri",
+    "Limanlar ve hangarlar",
+    "Üretim alanları",
+    "Depo ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM09",
+   "name": "Genel Amaçlı Emici Sosis 8x120 cm 20'li",
+   "path": "/bd-em09-genel-amacli-emici-sosis-8x120-cm-20-li",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em09-genel-amacli-emici-sosis-8x120-cm-20-li-1.webp",
+     "thumb": "/assets/urunler/bd-em09-genel-amacli-emici-sosis-8x120-cm-20-li-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM09 Genel Amaçlı Emici Sosis 8x120 cm 20'li: 8x120 cm, selüloz-polipropilen dolgulu sosis; döküntüyü çevreleyip yayılmasını önler, 20 adetlik pakette 53 litre emme kapasitesi.",
+   "intro": [
+    "BD-EM09 Genel Amaçlı Emici Sosis 8x120 cm 20'li, sıvı döküntülerinin etrafında bariyer oluşturarak yayılmasını durdurmak için kullanılan, selüloz ve polipropilen içerikli süper emici dolgulu sosislerdir. Petrol türevleri, solventler, su bazlı sıvılar ve boyaları emer; üniversal yapısıyla yağ ve suyu birlikte toplar. Asit ve agresif kimyasallar için önerilmez, bu tür maddelerde kimyasal emici ürünler tercih edilmelidir.",
+    "Müdahalede ilk adım olarak sosisler döküntünün çevresine yerleştirilir ve sıvının gider, kanal veya çalışma alanına ilerlemesi engellenir; ardından iç kısım ped veya yastıkla temizlenir. Esnek gövdesi makine ayaklarının, varillerin ve kolonların etrafına kolayca sarılabilir. 120 cm boyundaki sosisler uç uca eklenerek daha uzun bariyerler kurulabilir."
+   ],
+   "feats": [
+    [
+     "Bariyer oluşturur",
+     "Döküntüyü çevreleyerek giderlere ve geniş alanlara yayılmasını önler."
+    ],
+    [
+     "Süper emici dolgu",
+     "Selüloz ve polipropilen karışımı hızlı ve yüksek emiş sağlar."
+    ],
+    [
+     "Esnek gövde",
+     "Makine ayakları, variller ve köşeler etrafında kolayca şekil alır."
+    ],
+    [
+     "Çok amaçlı kullanım",
+     "Petrol, solvent, su bazlı sıvılar ve boyalarda etkilidir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı emici sosis"
+    ],
+    [
+     "Ölçü",
+     "8 x 120 cm"
+    ],
+    [
+     "Ağırlık",
+     "350 gr / adet"
+    ],
+    [
+     "Paket içeriği",
+     "20 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "53 litre / paket"
+    ],
+    [
+     "Malzeme",
+     "Selüloz ve polipropilen içerikli süper emici dolgu"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, solventler, su bazlı sıvılar, boyalar"
+    ],
+    [
+     "Kısıt",
+     "Asitler için önerilmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim sahaları",
+    "Akaryakıt istasyonları",
+    "Atölye ve bakım alanları",
+    "Depolama ve lojistik sahaları",
+    "Acil döküntü müdahale alanları"
+   ]
+  },
+  {
+   "code": "BD-EM10",
+   "name": "Genel Amaçlı Emici Yastık 25x23 cm 20'li",
+   "path": "/bd-em10-genel-amacli-emici-yastik-25x23-cm-20-li",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em10-genel-amacli-emici-yastik-25x23-cm-20-li-1.webp",
+     "thumb": "/assets/urunler/bd-em10-genel-amacli-emici-yastik-25x23-cm-20-li-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM10 Genel Amaçlı Emici Yastık 25x23 cm 20'li: 25x23 cm, 160 gr süper emici dolgulu yastık; sızıntı noktalarında yağ, solvent ve su bazlı sıvıları toplar, pakette 24 litre kapasite.",
+   "intro": [
+    "BD-EM10 Genel Amaçlı Emici Yastık 25x23 cm 20'li, sürekli damlama ve kaçak noktalarında yüksek hacimli sıvıyı küçük bir alanda toplamak için tasarlanmış, selüloz ve polipropilen içerikli süper emici dolgulu yastıklardır. Petrol türevleri, solventler, su bazlı sıvılar ve boyaları emer; üniversal yapısıyla yağ ve suyu birlikte tutar.",
+    "Vana, pompa, hortum bağlantısı veya makine altı gibi sızıntı kaynaklarının hemen altına yerleştirilerek sıvının zemine yayılmadan toplanmasını sağlar. Kompakt boyutu dar alanlara ve raf altlarına sığar. Yastık doygunluğa ulaştığında yenisiyle değiştirilmeli, kullanılmış yastıklar emilen sıvının özelliğine uygun şekilde atık olarak bertaraf edilmelidir."
+   ],
+   "feats": [
+    [
+     "Sızıntı noktasına odaklı",
+     "Damlama kaynağının altına konarak sıvıyı yerinde hapseder."
+    ],
+    [
+     "Yüksek emiş",
+     "Süper emici dolgu, küçük hacimde fazla miktarda sıvı tutar."
+    ],
+    [
+     "Dar alanlara uygun",
+     "25 x 23 cm kompakt ölçüsü makine altlarına ve raf aralarına rahatça sığar."
+    ],
+    [
+     "Çok amaçlı",
+     "Petrol, solvent, su bazlı sıvılar ve boyalarda etkili sonuç verir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı emici yastık"
+    ],
+    [
+     "Ölçü",
+     "25 x 23 cm"
+    ],
+    [
+     "Ağırlık",
+     "160 gr / adet"
+    ],
+    [
+     "Paket içeriği",
+     "20 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "24 litre / paket"
+    ],
+    [
+     "Malzeme",
+     "Selüloz ve polipropilen içerikli süper emici dolgu"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, solventler, su bazlı sıvılar, boyalar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Makine altı sızıntı alanları",
+    "Atölye ve bakım servisleri",
+    "Kimyasal ve sıvı depolama alanları",
+    "Fabrika ve üretim sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM11",
+   "name": "Yağ Emici Ped 10'lu 350 Gr",
+   "path": "/bd-em11-yag-emici-ped-10-lu-350-gr",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em11-yag-emici-ped-10-lu-350-gr-1.webp",
+     "thumb": "/assets/urunler/bd-em11-yag-emici-ped-10-lu-350-gr-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM11 Yağ Emici Ped 10'lu 350 Gr: 40x50 cm, 350 gr/m² yüksek gramajlı perforeli yağ emici ped; 10 adetlik kompakt pakette 11 litre emme kapasitesi.",
+   "intro": [
+    "BD-EM11 Yağ Emici Ped 10'lu 350 Gr, yağ ve petrol bazlı sıvıları hızla emmek üzere üretilmiş, 350 gr/m² yüksek gramajlı yağ emici pedlerdir. Yoğun dokusu standart gramajlı pedlere göre daha fazla sıvı tutar ve dayanıklılık sağlar; emilen sıvılarla reaksiyona girmez. 10 adetlik paketin toplam emme kapasitesi 11 litredir.",
+    "Kompakt paket yapısı sayesinde servis araçlarında, taşınabilir döküntü setlerinde ve küçük atölyelerde kolayca saklanır. Perforeli tasarımı pedin bölünmesine izin verir; küçük yağ damlamalarında yalnızca gereken parça kullanılarak tasarruf edilir. Döküntü kitlerinizi yenilemek ve eksilen pedleri tamamlamak için de pratik bir seçenektir."
+   ],
+   "feats": [
+    [
+     "Yüksek gramaj",
+     "350 gr/m² yoğun doku güçlü emiş ve dayanıklılık sunar."
+    ],
+    [
+     "Yağ ve petrol odaklı",
+     "Motor yağı, yakıt ve hidrolik yağ gibi petrol bazlı sıvılarda etkilidir."
+    ],
+    [
+     "Perforeli tasarım",
+     "İhtiyaca göre bölünerek küçük döküntülerde ekonomik kullanım sağlar."
+    ],
+    [
+     "Kompakt paket",
+     "10'lu ambalaj araçlarda ve acil müdahale kitlerinde kolayca taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "10 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "11 litre / paket"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ],
+    [
+     "Yapı",
+     "Perforeli, esnek, dayanıklı"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Araç servisleri",
+    "Makine bakım alanları",
+    "Küçük atölyeler",
+    "Acil müdahale ve taşınabilir döküntü kitleri"
+   ]
+  },
+  {
+   "code": "BD-EM12",
+   "name": "Yağ Emici Ped 30'lu 250 Gr",
+   "path": "/bd-em12-yag-emici-ped-30-lu-250-gr",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em12-yag-emici-ped-30-lu-250-gr-1.webp",
+     "thumb": "/assets/urunler/bd-em12-yag-emici-ped-30-lu-250-gr-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM12 Yağ Emici Ped 30'lu 250 Gr: 40x50 cm, 250 gr/m² gözenekli ve perforeli ped; yağ ve petrol türevi döküntüleri hızla emer, paket başı 33 litre kapasite.",
+   "intro": [
+    "BD-EM12 Yağ Emici Ped 30'lu 250 Gr, petrol ve türevleri başta olmak üzere endüstriyel sıvı döküntülerini hızla emmek için geliştirilmiş, 250 gr/m² gramajlı emici pedlerdir. Gözenekli ve esnek yapısı yüzeye tam temas ederek sıvıyı kısa sürede bünyesine alır; emilen sıvılarla kimyasal reaksiyon oluşturmaz. Paket toplamında 33 litre emme kapasitesi sunar.",
+    "30'lu paket, araç servisleri ve bakım alanları gibi düzenli döküntü yaşanan noktalarda dengeli bir stok oluşturur. Perforeli tasarımı sayesinde ped ihtiyaç kadar bölünerek küçük damlamalarda da kullanılabilir. Makine altlarına ve dolum noktalarına önleyici olarak serilmesi, zemini temiz tutarken kaygan yüzey kaynaklı kaza riskini de azaltır."
+   ],
+   "feats": [
+    [
+     "Hızlı emiş",
+     "Yağ, yakıt ve solvent döküntülerini kısa sürede bünyesine alır."
+    ],
+    [
+     "Tam yüzey teması",
+     "Gözenekli ve esnek doku zemine oturarak verimli emiş sağlar."
+    ],
+    [
+     "Perforeli tasarım",
+     "İhtiyaç kadar bölünerek israfı önler."
+    ],
+    [
+     "Ekonomik 30'lu paket",
+     "Yoğun kullanımda uzun süre yeten stok ile maliyet avantajı sağlar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "30 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "33 litre / paket"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Araç servisleri ve bakım alanları",
+    "Akaryakıt istasyonları",
+    "Depo ve lojistik merkezleri",
+    "Acil döküntü müdahale alanları"
+   ]
+  },
+  {
+   "code": "BD-EM13",
+   "name": "Yağ Emici Ped 50'li 250 Gr",
+   "path": "/bd-em13-yag-emici-ped-50-li-250-gr",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em13-yag-emici-ped-50-li-250-gr-1.webp",
+     "thumb": "/assets/urunler/bd-em13-yag-emici-ped-50-li-250-gr-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM13 Yağ Emici Ped 50'li 250 Gr: 40x50 cm, 250 gr/m² gözenekli ve perforeli ped; yağ ve petrol türevi döküntüleri hızla emer, paket başı 54 litre kapasite.",
+   "intro": [
+    "BD-EM13 Yağ Emici Ped 50'li 250 Gr, petrol ve türevleri başta olmak üzere endüstriyel sıvı döküntülerini hızla emmek için geliştirilmiş, 250 gr/m² gramajlı emici pedlerdir. Gözenekli ve esnek yapısı yüzeye tam temas ederek sıvıyı kısa sürede bünyesine alır; emilen sıvılarla kimyasal reaksiyon oluşturmaz. Paket toplamında 54 litre emme kapasitesi sunar.",
+    "50'li paket, büyük hacimli ve sık tekrarlanan döküntülerin yaşandığı tesislerde ve müdahale ekiplerinde uzun süreli kullanım sağlar. Perforeli tasarımı sayesinde ped ihtiyaç kadar bölünerek küçük damlamalarda da kullanılabilir. Makine altlarına ve dolum noktalarına önleyici olarak serilmesi, zemini temiz tutarken kaygan yüzey kaynaklı kaza riskini de azaltır."
+   ],
+   "feats": [
+    [
+     "Hızlı emiş",
+     "Yağ, yakıt ve solvent döküntülerini kısa sürede bünyesine alır."
+    ],
+    [
+     "Tam yüzey teması",
+     "Gözenekli ve esnek doku zemine oturarak verimli emiş sağlar."
+    ],
+    [
+     "Perforeli tasarım",
+     "İhtiyaç kadar bölünerek israfı önler."
+    ],
+    [
+     "Ekonomik 50'li paket",
+     "Yoğun kullanımda uzun süre yeten stok ile maliyet avantajı sağlar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "50 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "54 litre / paket"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek, perforeli"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Araç servisleri ve bakım alanları",
+    "Akaryakıt istasyonları",
+    "Depo ve lojistik merkezleri",
+    "Acil döküntü müdahale ekipleri"
+   ]
+  },
+  {
+   "code": "BD-EM14",
+   "name": "Yağ Emici Ped 300 Gr 100'lü",
+   "path": "/bd-em14-yag-emici-ped-300-gr-100-lu",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em14-yag-emici-ped-300-gr-100-lu-1.webp",
+     "thumb": "/assets/urunler/bd-em14-yag-emici-ped-300-gr-100-lu-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM14 Yağ Emici Ped 300 Gr 100'lü: 40x50 cm, 300 gr/m² hidrofobik (Oil Only) ped; suyu itip yalnızca yağı emer, 100 adetlik pakette 100 litre kapasite.",
+   "intro": [
+    "BD-EM14 Yağ Emici Ped 300 Gr 100'lü, yalnızca yağ ve petrol bazlı sıvıları emmek üzere üretilmiş, 300 gr/m² yüksek gramajlı Oil Only tipte emici pedlerdir. Hidrofobik yapısı suyu iter, bu sayede ıslak zeminde ya da su yüzeyinde bile yalnızca yağı toplar; 100 adetlik paketin toplam emme kapasitesi 100 litredir.",
+    "Yoğun yağ ve petrol döküntülerinde güvenilir performans gösterir; akaryakıt istasyonlarında, otomotiv servislerinde ve makine bakım alanlarında sıklıkla tercih edilir. Dayanıklı dokusu emme sırasında dağılmaz, ped doygunlaştığında tek parça halinde kaldırılabilir. Su yüzeyindeki yağ tabakalarında ped yüzeye serilir, yağı aldıktan sonra su üzerinde yüzmeye devam ettiği için kolayca toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağı emer",
+     "Hidrofobik yapı suyu iter, kapasite yalnızca yağ ve petrol türevlerine harcanır."
+    ],
+    [
+     "Su yüzeyinde etkili",
+     "Su üzerinde yüzerek yağ tabakasını toplar; liman ve tersanelerde idealdir."
+    ],
+    [
+     "300 gr/m² yoğunluk",
+     "Yüksek gramaj daha fazla sıvı tutar ve kullanımda kolay dağılmaz."
+    ],
+    [
+     "100'lü ekonomik paket",
+     "Toplam 100 litre kapasite ile yoğun endüstriyel kullanıma uygundur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped – Oil Only"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "300 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "100 litre / paket"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Makine ve ekipman bakım alanları",
+    "Limanlar ve denizcilik işletmeleri",
+    "Otomotiv servisleri",
+    "Endüstriyel temizlik uygulamaları"
+   ]
+  },
+  {
+   "code": "BD-EM15",
+   "name": "Yağ Emici Ped 350 Gr 100'lü",
+   "path": "/bd-em15-yag-emici-ped-350-gr-100-lu",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em15-yag-emici-ped-350-gr-100-lu-1.webp",
+     "thumb": "/assets/urunler/bd-em15-yag-emici-ped-350-gr-100-lu-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM15 Yağ Emici Ped 350 Gr 100'lü: 40x50 cm, 350 gr/m² hidrofobik (Oil Only) ped; suyu itip yalnızca yağı emer, 100 adetlik pakette 109 litre kapasite.",
+   "intro": [
+    "BD-EM15 Yağ Emici Ped 350 Gr 100'lü, yalnızca yağ ve petrol bazlı sıvıları emmek üzere üretilmiş, 350 gr/m² yüksek gramajlı Oil Only tipte emici pedlerdir. Hidrofobik yapısı suyu iter, bu sayede ıslak zeminde ya da su yüzeyinde bile yalnızca yağı toplar; 100 adetlik paketin toplam emme kapasitesi 109 litredir.",
+    "Ek ekipman gerektirmeden doğrudan döküntünün üzerine serilir; özellikle yağmur suyu veya proses suyu ile karışmış yağ döküntülerinde yalnızca yağın alınması gereken işlerde verimlilik sağlar. Dayanıklı dokusu emme sırasında dağılmaz, ped doygunlaştığında tek parça halinde kaldırılabilir. Su yüzeyindeki yağ tabakalarında ped yüzeye serilir, yağı aldıktan sonra su üzerinde yüzmeye devam ettiği için kolayca toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağı emer",
+     "Hidrofobik yapı suyu iter, kapasite yalnızca yağ ve petrol türevlerine harcanır."
+    ],
+    [
+     "Su yüzeyinde etkili",
+     "Su üzerinde yüzerek yağ tabakasını toplar; liman ve tersanelerde idealdir."
+    ],
+    [
+     "350 gr/m² yoğunluk",
+     "Yüksek gramaj daha fazla sıvı tutar ve kullanımda kolay dağılmaz."
+    ],
+    [
+     "100'lü ekonomik paket",
+     "Toplam 109 litre kapasite ile yoğun endüstriyel kullanıma uygundur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped – Oil Only"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "109 litre / paket"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Makine ve ekipman altları",
+    "Üretim ve bakım sahaları",
+    "Akaryakıt istasyonları",
+    "Tersaneler ve limanlar"
+   ]
+  },
+  {
+   "code": "BD-EM16",
+   "name": "Yağ Emici Rulo 40x50 Hafif Seri",
+   "path": "/bd-em16-yag-emici-rulo-40x50-hafif-seri",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em16-yag-emici-rulo-40x50-hafif-seri-1.webp",
+     "thumb": "/assets/urunler/bd-em16-yag-emici-rulo-40x50-hafif-seri-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM16 Yağ Emici Rulo 40x50 Hafif Seri: 40x50 cm perforeli Oil Only hafif seri rulo; hidrofobik yapısıyla su yüzeyindeki yağı toplar, koli başı 75 litre kapasite.",
+   "intro": [
+    "BD-EM16 Yağ Emici Rulo 40x50 Hafif Seri, suyu emmeden yalnızca yağ ve petrol bazlı sıvıları tutan, hidrofobik yapıda hafif seri bir emici rulodur. Deniz, göl, dere ve kanal yüzeylerinde oluşan yağ tabakalarının toplanmasında yüksek verim sağlar; koli başına emme kapasitesi 75 litredir.",
+    "40 x 50 cm aralıklı perforasyonları sayesinde rulo, geniş alanlarda uzun şerit halinde ya da küçük döküntülerde parça parça kullanılabilir. Boya, kimyasallar, gıda ürünleri ve asitlerde kullanıma uygun değildir; bu tür sıvılar için genel amaçlı veya kimyasal emici ürünler tercih edilmelidir. Islak zeminlerde ve açık alanlarda yağmurdan etkilenmeden çalışması önemli bir avantajdır."
+   ],
+   "feats": [
+    [
+     "Suyu emmez",
+     "Hidrofobik yapı sayesinde kapasitesini yalnızca yağ ve petrol türevlerine ayırır."
+    ],
+    [
+     "Su yüzeyinde verimli",
+     "Deniz, göl ve kanal yüzeyindeki yağ tabakalarını etkin biçimde toplar."
+    ],
+    [
+     "Hafif seri ekonomisi",
+     "Düşük gramajla maliyet etkin, sık kullanıma uygun çözüm sunar."
+    ],
+    [
+     "Perforeli yapı",
+     "İhtiyaç kadar koparılarak tasarruf sağlar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici rulo (Oil Only – hafif seri)"
+    ],
+    [
+     "Model",
+     "ETK-5040R-200"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm (perforeli)"
+    ],
+    [
+     "Emme kapasitesi",
+     "75 litre / koli"
+    ],
+    [
+     "Ambalaj",
+     "1 adet rulo"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ],
+    [
+     "Kullanım kısıtı",
+     "Boya, kimyasal, gıda ve asitlerde kullanılmaz"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Deniz, göl ve su yüzeyleri",
+    "Liman ve tersaneler",
+    "Tankerler ve taşıma alanları",
+    "Akaryakıt ve bakım sahaları",
+    "Depolama tesisleri"
+   ]
+  },
+  {
+   "code": "BD-EM17",
+   "name": "Yağ ve Petrol Emici Rulo 40x50 cm 350 Gr",
+   "path": "/bd-em17-yag-ve-petrol-emici-rulo-40x50-cm-350-gr",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em17-yag-ve-petrol-emici-rulo-40x50-cm-350-gr-1.webp",
+     "thumb": "/assets/urunler/bd-em17-yag-ve-petrol-emici-rulo-40x50-cm-350-gr-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM17 Yağ ve Petrol Emici Rulo 40x50 cm 350 Gr: 40x50 cm, 350 gr/m² yüksek gramajlı Oil Only rulo; suyu itip yalnızca yağı emer, rulo başı 105 litre emme kapasitesi.",
+   "intro": [
+    "BD-EM17 Yağ ve Petrol Emici Rulo 40x50 cm 350 Gr, yoğun yağ döküntüleri için tasarlanmış, 350 gr/m² yüksek gramajlı ve hidrofobik yapıda bir emici rulodur. Suyu emmeden yalnızca yağ ve petrol bazlı sıvıları absorbe eder; rulo başına 105 litre emme kapasitesi sunar.",
+    "Hem zemin uygulamalarında hem de su yüzeyindeki yağ tabakalarında etkili sonuç verir. Yoğun dokusu uzun süreli kullanımda formunu korur, esnek yapısı geniş yüzeylere hızlıca serilmesini sağlar. Akaryakıt dolum noktalarında ve makine hatlarında zemine önceden serilerek sızıntılar oluşmadan önlem alınabilir."
+   ],
+   "feats": [
+    [
+     "105 litre kapasite",
+     "Rulo başına yüksek emme kapasitesiyle büyük döküntülerde etkilidir."
+    ],
+    [
+     "Hidrofobik yapı",
+     "Suyu emmez, yalnızca yağ ve petrol türevlerini hedefler."
+    ],
+    [
+     "Yüksek gramaj",
+     "350 gr/m² yoğunluk ekstra dayanıklılık ve uzun kullanım ömrü sağlar."
+    ],
+    [
+     "Geniş alan uygulaması",
+     "Esnek rulo formu büyük yüzeylere hızla serilir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici rulo (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet rulo"
+    ],
+    [
+     "Emme kapasitesi",
+     "105 litre / rulo"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Fabrika ve üretim tesisleri",
+    "Makine bakım alanları",
+    "Limanlar ve denizcilik sektörü",
+    "Depolama ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM18",
+   "name": "Yağ ve Petrol Emici Rulo 38 cm x 46 m",
+   "path": "/bd-em18-yag-ve-petrol-emici-rulo-38-cm-x-46-m",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em18-yag-ve-petrol-emici-rulo-38-cm-x-46-m-1.webp",
+     "thumb": "/assets/urunler/bd-em18-yag-ve-petrol-emici-rulo-38-cm-x-46-m-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM18 Yağ ve Petrol Emici Rulo 38 cm x 46 m: 38 cm x 46 m, 350 gr/m² hidrofobik rulo; suyu emmeden yağ ve petrol türevlerini toplar, rulo başı 96 litre kapasite.",
+   "intro": [
+    "BD-EM18 Yağ ve Petrol Emici Rulo 38 cm x 46 m, yağ ve petrol bazlı döküntülere hızlı müdahale için üretilmiş, 46 metre uzunluğunda ve 350 gr/m² gramajlı Oil Only tipte emici rulodur. Hidrofobik yapısı suyu iter ve yalnızca yağı emer; rulo başına 96 litre emme kapasitesine sahiptir.",
+    "Yırtılmaya karşı dirençli dokusu, yürüme yolları ve makine hatları boyunca uzun şerit halinde serilmeye uygundur. Açık alanlarda ve yağmura maruz kalan zeminlerde suyla doymadan çalıştığı için akaryakıt istasyonları ve liman uygulamalarında öne çıkar. Doygunlaşan bölümler kesilip değiştirilerek rulonun kalanı kullanılmaya devam edilir."
+   ],
+   "feats": [
+    [
+     "46 metre uzunluk",
+     "Geniş alanlarda kesintisiz emici şerit oluşturur."
+    ],
+    [
+     "Sadece yağı hedefler",
+     "Hidrofobik yapı sayesinde suyu emmez, kapasite yağa ayrılır."
+    ],
+    [
+     "Yırtılmaya dirençli",
+     "Dayanıklı doku yoğun trafikte ve uzun süreli kullanımda formunu korur."
+    ],
+    [
+     "Kaygan zemini önler",
+     "Yağı hızla bünyesine alarak kayma kaynaklı kaza riskini azaltır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici rulo (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "38 cm x 46 m"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Emme kapasitesi",
+     "96 litre / rulo"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet rulo"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim sahaları",
+    "Akaryakıt istasyonları",
+    "Makine bakım alanları",
+    "Atölyeler ve servisler",
+    "Denizcilik ve liman uygulamaları"
+   ]
+  },
+  {
+   "code": "BD-EM19",
+   "name": "Yağ ve Petrol Emici Rulo 72x46 Geniş",
+   "path": "/bd-em19-yag-ve-petrol-emici-rulo-72x46-genis",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em19-yag-ve-petrol-emici-rulo-72x46-genis-1.webp",
+     "thumb": "/assets/urunler/bd-em19-yag-ve-petrol-emici-rulo-72x46-genis-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM19 Yağ ve Petrol Emici Rulo 72x46 Geniş: 72x46 ölçülü, 350 gr/m² geniş Oil Only rulo; suyu itip yalnızca yağı emer, rulo başı 190 litre ile büyük döküntülere uygun.",
+   "intro": [
+    "BD-EM19 Yağ ve Petrol Emici Rulo 72x46 Geniş, büyük hacimli yağ döküntüleri ve geniş yüzeyler için tasarlanmış, ekstra geniş ölçülü ve 350 gr/m² gramajlı hidrofobik emici rulodur. Suyu emmeden yalnızca yağ ve petrol bazlı sıvıları tutar; rulo başına 190 litre emme kapasitesiyle standart rulolara göre çok daha fazla sıvıyı toplar.",
+    "Geniş eni sayesinde tek geçişte daha büyük bir alanı kaplar; hangar zeminleri, tank sahaları, dolum alanları ve rıhtımlar gibi geniş uygulama noktalarında temizlik süresini kısaltır. Dayanıklı yapısı yoğun ve uzun süreli kullanımda performansını korur. Büyük döküntülerde sosis veya bariyerle çevreleme yaptıktan sonra ruloyu döküntünün üzerine sermeniz önerilir."
+   ],
+   "feats": [
+    [
+     "190 litre kapasite",
+     "Rulo başına çok yüksek emme kapasitesiyle büyük döküntülere uygundur."
+    ],
+    [
+     "Ekstra geniş ölçü",
+     "Tek seferde daha geniş alanı kaplayarak temizliği hızlandırır."
+    ],
+    [
+     "Hidrofobik yapı",
+     "Suyu emmez, yalnızca yağ ve petrol türevlerini toplar."
+    ],
+    [
+     "Uzun ömürlü doku",
+     "350 gr/m² yoğunluk yoğun kullanımda formunu korur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici rulo (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "72 x 46"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet rulo"
+    ],
+    [
+     "Emme kapasitesi",
+     "190 litre / rulo"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Fabrika ve üretim tesisleri",
+    "Limanlar ve denizcilik sektörü",
+    "Makine bakım alanları",
+    "Depolama ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM20",
+   "name": "Yağ Emici Yastık 25x23 cm 20'li",
+   "path": "/bd-em20-yag-emici-yastik-25x23-cm-20-li",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em20-yag-emici-yastik-25x23-cm-20-li-1.webp",
+     "thumb": "/assets/urunler/bd-em20-yag-emici-yastik-25x23-cm-20-li-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM20 Yağ Emici Yastık 25x23 cm 20'li: 25x23 cm, 160 gr hidrofobik yastık; suyu itip yalnızca yağı emer, sızıntı noktalarında kullanım, pakette 24 litre kapasite.",
+   "intro": [
+    "BD-EM20 Yağ Emici Yastık 25x23 cm 20'li, yalnızca yağ ve petrol bazlı sıvıları hedef alan, hidrofobik yapıda emici yastıklardır. Suyu iterek yağı içinde hapseder; bu sayede ıslak zeminde, kanal kenarlarında ve su ile karışmış sızıntılarda da verimli çalışır. 20 adetlik paketin toplam emme kapasitesi 24 litredir.",
+    "Makine altı yağ kaçakları, pompa ve vana bağlantıları gibi sürekli sızıntı noktalarına yerleştirilerek yağın zemine yayılması engellenir. Kompakt formu dar ve ulaşılması zor alanlara rahatça sığar. Yastıkları düzenli kontrol edip doygunlaşanları değiştirmek, hem zemini temiz tutar hem de kayma riskini önler."
+   ],
+   "feats": [
+    [
+     "Sadece yağı emer",
+     "Hidrofobik yapı suyu iter, kapasite tamamen yağa ayrılır."
+    ],
+    [
+     "Sızıntıyı hapseder",
+     "Damlama noktasına konularak yağı içinde tutar ve yayılmasını engeller."
+    ],
+    [
+     "Dar alanlarda etkili",
+     "25 x 23 cm boyutu makine altlarına ve kısıtlı alanlara kolayca yerleşir."
+    ],
+    [
+     "Hızlı ve pratik",
+     "Ek ekipman gerektirmeden doğrudan sızıntı noktasına uygulanır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici yastık (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "25 x 23 cm"
+    ],
+    [
+     "Ağırlık",
+     "160 gr / adet"
+    ],
+    [
+     "Koli içeriği",
+     "20 adet"
+    ],
+    [
+     "Emme kapasitesi",
+     "24 litre / paket"
+    ],
+    [
+     "Yapı",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Makine altı yağ sızıntıları",
+    "Atölye ve bakım alanları",
+    "Akaryakıt istasyonları",
+    "Denizcilik ve liman uygulamaları",
+    "Endüstriyel üretim sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM21",
+   "name": "Yağ Emici Boom 20x300 cm (4'lü Paket)",
+   "path": "/bd-em21-yag-emici-boom-20x300-cm-4-lu-paket",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em21-yag-emici-boom-20x300-cm-4-lu-paket-1.webp",
+     "thumb": "/assets/urunler/bd-em21-yag-emici-boom-20x300-cm-4-lu-paket-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM21 Yağ Emici Boom 20x300 cm (4'lü Paket): su yüzeyindeki yağ ve petrol döküntülerini çevreleyip toplayan, adet başına 40 litre emiş kapasiteli hidrofobik bariyer.",
+   "intro": [
+    "BD-EM21 Yağ Emici Boom 20x300 cm (4'lü Paket), su yüzeyine yayılan yağ ve petrol kaynaklı kirliliği sınırlamak için geliştirilmiş, 3 metre uzunluğunda hidrofobik bir emici bariyerdir. Yalnızca hidrokarbon bazlı sıvıları tutar, suyu ittiği için su üzerinde yüzerek görevini sürdürür.",
+    "Deniz, göl, dere ve kanal gibi açık su alanlarında, sel ve akıntı kaynaklı sızıntılarda ya da tank sahası çevrelerinde hızlı bir bariyer hattı oluşturmak için kullanılır. Daha uzun hat gerektiğinde birden fazla boom uç uca eklenerek döküntü kuşatılabilir; boya, asit, gıda ürünleri ve kimyasal döküntülerde ise kimyasal emici ürünler tercih edilmelidir."
+   ],
+   "feats": [
+    [
+     "Hidrofobik yapı",
+     "Suyu emmez, yalnızca yağ ve petrol türevlerini bünyesine alır."
+    ],
+    [
+     "Yüksek kapasite",
+     "Her bir boom 40 litreye kadar sıvı tutarak geniş döküntülerde verim sağlar."
+    ],
+    [
+     "Su üzerinde bariyer",
+     "Yüzer yapısı sayesinde su yüzeyindeki kirliliğin yayılmasını sınırlar."
+    ],
+    [
+     "Dayanıklı gövde",
+     "Güçlü dış yapısı akıntılı ortamlarda dahi hızlı ve kesintisiz emiş sunar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici boom (bariyer)"
+    ],
+    [
+     "Ölçü",
+     "20 x 300 cm"
+    ],
+    [
+     "Emiş kapasitesi",
+     "40 Lt / adet"
+    ],
+    [
+     "Paket içeriği",
+     "4 Adet"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve petrol (Oil Only)"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Uygun olmadığı sıvılar",
+     "Boya, kimyasallar, asitler, gıda ürünleri"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Liman ve denizcilik uygulamaları",
+    "Göl, dere ve kanal yüzeyleri",
+    "Tank ve depolama tesisleri",
+    "Tankerler",
+    "Fabrika atık su alanları"
+   ]
+  },
+  {
+   "code": "BD-EM22",
+   "name": "Yağ Emici Sosis 8x120 cm (20'li Koli)",
+   "path": "/bd-em22-yag-emici-sosis-8x120-cm-20-li-koli",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em22-yag-emici-sosis-8x120-cm-20-li-koli-1.webp",
+     "thumb": "/assets/urunler/bd-em22-yag-emici-sosis-8x120-cm-20-li-koli-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM22 Yağ Emici Sosis 8x120 cm (20'li Koli): suyu emmeden yağ ve petrol döküntüsünü çevreleyen, adet başına 3 litre emiş kapasiteli esnek bariyer sosis.",
+   "intro": [
+    "BD-EM22 Yağ Emici Sosis 8x120 cm (20'li Koli), yağ ve petrol bazlı sızıntıların etrafını sararak yayılmasını durduran, 8 cm çapında ve 120 cm uzunluğunda hidrofobik bir emici sosistir. Suyu iter, sadece hidrokarbon kaynaklı sıvıları emer; bu nedenle ıslak zeminlerde ve su yüzeyinde de etkin çalışır.",
+    "Esnek gövdesi makine diplerine, tank çevrelerine ve köşe noktalarına kolayca şekil alır. Önce sosisle döküntünün sınırını çizip ardından iç kısmı yağ emici ped ile temizlemek, müdahale süresini kısaltan pratik bir yöntemdir."
+   ],
+   "feats": [
+    [
+     "Çevreleme bariyeri",
+     "Döküntünün etrafına yerleştirilerek sıvının yayılmasını fiziksel olarak engeller."
+    ],
+    [
+     "Sadece yağ emer",
+     "Hidrofobik yapısı sayesinde suyu dışarıda bırakır, kapasiteyi yağa ayırır."
+    ],
+    [
+     "Esnek form",
+     "Makine ayakları, köşeler ve düzensiz yüzeylere kolayca uyum sağlar."
+    ],
+    [
+     "Toplu kullanım",
+     "20 adetlik koli, saha ve istasyonlarda yeterli stok imkânı sunar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici sosis"
+    ],
+    [
+     "Ölçü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emiş kapasitesi",
+     "3 Lt / adet"
+    ],
+    [
+     "Koli içeriği",
+     "20 Adet"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve petrol (Oil Only)"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Kullanım",
+     "Döküntü çevreleme ve emme"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Liman ve denizcilik uygulamaları",
+    "Fabrika ve üretim sahaları",
+    "Tanker ve depolama alanları",
+    "Makine çevresi sızıntı kontrolü"
+   ]
+  },
+  {
+   "code": "BD-EM23",
+   "name": "Kimyasal Emici Yastık 4 Lt (10'lu Paket)",
+   "path": "/bd-em23-kimyasal-emici-yastik-4-lt-10-lu-paket",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em23-kimyasal-emici-yastik-4-lt-10-lu-paket-1.webp",
+     "thumb": "/assets/urunler/bd-em23-kimyasal-emici-yastik-4-lt-10-lu-paket-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM23 Kimyasal Emici Yastık 4 Lt (10'lu Paket): asit, boya, petrol türevleri ve kimyasalları tutan, selüloz ve polipropilen dolgulu, adet başına 4 litre kapasiteli emici yastık.",
+   "intro": [
+    "BD-EM23 Kimyasal Emici Yastık 4 Lt (10'lu Paket), sürekli damlama yapan noktalar ve yoğun sıvı döküntüleri için tasarlanmış, adet başına 4 litre emiş kapasitesine sahip kimyasal emici yastıktır. Süper emici selüloz ve polipropilen dolgusu sayesinde asitler, boyalar, kimyasallar ve petrol türevleri dahil geniş bir sıvı yelpazesini güvenle bünyesinde tutar.",
+    "Vana, pompa, bağlantı noktası ve fıçı altlarındaki sabit sızıntıların altına yerleştirilerek sıvının zemine yayılmasını önler. Doygunluğa ulaşan yastıkların tehlikeli atık prosedürüne uygun şekilde bertaraf edilmesi ve yerine yenisinin konması tavsiye edilir."
+   ],
+   "feats": [
+    [
+     "Yüksek emiş",
+     "Her yastık 4 litreye kadar sıvıyı hapseder."
+    ],
+    [
+     "Geniş uyumluluk",
+     "Asit, boya, kimyasal ve petrol türevlerinde kullanılabilir."
+    ],
+    [
+     "Süper emici dolgu",
+     "Selüloz ve polipropilen karışımı hızlı ve güçlü absorpsiyon sağlar."
+    ],
+    [
+     "Sabit sızıntı çözümü",
+     "Damlama noktalarının altına konarak alanı uzun süre kontrol altında tutar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici yastık"
+    ],
+    [
+     "Marka",
+     "Starline"
+    ],
+    [
+     "Emiş kapasitesi",
+     "4 Lt / adet"
+    ],
+    [
+     "Paket içeriği",
+     "10 Adet"
+    ],
+    [
+     "Malzeme",
+     "Selüloz + polipropilen"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (asit ve agresif sıvılar dahil)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol türevleri, kimyasallar, boyalar, asitler"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Hastaneler ve laboratuvarlar",
+    "Kimya endüstrisi",
+    "Boya üretim tesisleri",
+    "İlaç sanayi",
+    "Lojistik ve dağıtım merkezleri"
+   ]
+  },
+  {
+   "code": "BD-EM24",
+   "name": "Kimyasal Emici Bariyer Sosis",
+   "path": "/bd-em24-kimyasal-emici-bariyer-sosis",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em24-kimyasal-emici-bariyer-sosis-1.webp",
+     "thumb": "/assets/urunler/bd-em24-kimyasal-emici-bariyer-sosis-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM24 Kimyasal Emici Bariyer Sosis: asit, boya, kimyasal ve petrol türevi döküntüleri çevreleyerek yayılmasını önleyen selüloz-polipropilen dolgulu esnek sosis.",
+   "intro": [
+    "BD-EM24 Kimyasal Emici Bariyer Sosis, tehlikeli sıvı döküntülerinin etrafında bariyer oluşturarak yayılmayı durduran, selüloz ve polipropilen dolgulu kimyasal emici sosistir. Asitler, boyalar, çeşitli kimyasallar ve petrol türevleri dahil pek çok sıvıyı hızla emer.",
+    "Kimyasal depolama alanlarında, dolum hatlarında ve laboratuvar tezgâh çevrelerinde döküntü anında sıvının kanalizasyona veya diğer alanlara ulaşmasını engellemek için kullanılır. Sosisi döküntünün çevresine boşluk kalmayacak şekilde yerleştirmek, bariyer etkisini en üst düzeye çıkarır."
+   ],
+   "feats": [
+    [
+     "Bariyer etkisi",
+     "Döküntüyü kuşatarak tehlikeli sıvının alana yayılmasını önler."
+    ],
+    [
+     "Kimyasal uyumluluk",
+     "Asit, boya ve agresif kimyasallarda güvenle kullanılabilir."
+    ],
+    [
+     "Süper emici yapı",
+     "Selüloz ve polipropilen karışımı hızlı ve yüksek emiş sunar."
+    ],
+    [
+     "Kolay yerleşim",
+     "Esnek gövdesi zemin hatlarına ve köşelere rahatça oturur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici sosis"
+    ],
+    [
+     "Marka",
+     "Starline"
+    ],
+    [
+     "Malzeme",
+     "Selüloz + polipropilen"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (asit ve agresif sıvılar dahil)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol türevleri, kimyasallar, boyalar, asitler"
+    ],
+    [
+     "Kullanım",
+     "Döküntü çevreleme ve emme"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Kimya endüstrisi",
+    "Boya fabrikaları",
+    "İlaç sanayi",
+    "Lojistik ve dağıtım merkezleri",
+    "Hastaneler ve laboratuvarlar"
+   ]
+  },
+  {
+   "code": "BD-EM25",
+   "name": "Perforeli Kimyasal Emici Rulo",
+   "path": "/bd-em25-perforeli-kimyasal-emici-rulo",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em25-perforeli-kimyasal-emici-rulo-1.webp",
+     "thumb": "/assets/urunler/bd-em25-perforeli-kimyasal-emici-rulo-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM25 Perforeli Kimyasal Emici Rulo: asit, kostik, su bazlı sıvı ve petrol türevlerini emen, reaksiyona girmeyen, ihtiyaç kadar koparılabilen perforeli emici rulo.",
+   "intro": [
+    "BD-EM25 Perforeli Kimyasal Emici Rulo, geniş yüzeylerdeki döküntüler için geliştirilmiş, agresif kimyasallar dahil çok çeşitli sıvıları emen perforeli bir emici rulodur. Asitler, kostikler, su bazlı sıvılar ve petrol türevleriyle kimyasal reaksiyona girmeden güvenle çalışır.",
+    "Kimya ve ilaç tesislerinde koridor boyunca serilerek ya da dolum ve transfer noktalarında zemine yayılarak kullanılır. Perforasyon çizgileri sayesinde yalnızca gereken uzunluk koparılır; bu da küçük döküntülerde israfı azaltır."
+   ],
+   "feats": [
+    [
+     "Geniş sıvı yelpazesi",
+     "Asit, kostik, su bazlı ve petrol türevi sıvıları tek üründe emer."
+    ],
+    [
+     "Reaksiyonsuz yapı",
+     "Kimyasallarla tepkimeye girmediği için güvenli müdahale sağlar."
+    ],
+    [
+     "Perforeli tasarım",
+     "İstenen ölçüde koparılarak ekonomik tüketim sunar."
+    ],
+    [
+     "Esnek ve gözenekli",
+     "Yüzeye tam oturur, sıvıyı hızla içine çeker."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici rulo"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (asit ve agresif sıvılar dahil)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol türevleri, su bazlı sıvılar, asitler, kostikler, kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Yapı",
+     "Gözenekli ve esnek"
+    ],
+    [
+     "Kesim",
+     "Perforeli, bölünebilir"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Kimya endüstrisi",
+    "Boya fabrikaları",
+    "İlaç sanayi",
+    "Lojistik ve dağıtım merkezleri",
+    "Hastaneler ve laboratuvarlar"
+   ]
+  },
+  {
+   "code": "BD-EM26",
+   "name": "Perforeli Kimyasal Emici Ped",
+   "path": "/bd-em26-perforeli-kimyasal-emici-ped",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em26-perforeli-kimyasal-emici-ped-1.webp",
+     "thumb": "/assets/urunler/bd-em26-perforeli-kimyasal-emici-ped-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM26 Perforeli Kimyasal Emici Ped: asit, kostik ve agresif kimyasallar dahil geniş sıvı yelpazesini güvenle emen, bölünebilir perforeli kimyasal emici ped.",
+   "intro": [
+    "BD-EM26 Perforeli Kimyasal Emici Ped, asitler, kostikler ve agresif kimyasallar başta olmak üzere su bazlı sıvıları ve petrol türevlerini de emen çok yönlü bir kimyasal emici peddir. Kimyasal reaksiyona girmeyen yapısı, tehlikeli sıvılara müdahalede güvenli bir temizlik sağlar.",
+    "Laboratuvar tezgâhları, dolum noktaları ve kimyasal depo zeminlerinde damla ve küçük döküntülerin anında alınmasında kullanılır. Perforeli yapısı sayesinde ped ikiye veya dörde bölünerek küçük alanlarda ekonomik biçimde değerlendirilebilir."
+   ],
+   "feats": [
+    [
+     "Kimyasal güvenlik",
+     "Reaksiyona girmeden asit ve kostikleri güvenle emer."
+    ],
+    [
+     "Çok amaçlı kullanım",
+     "Su bazlı sıvı ve petrol türevlerinde de etkilidir."
+    ],
+    [
+     "Bölünebilir ped",
+     "Perforasyon çizgileri sayesinde ihtiyaç kadar kullanılır."
+    ],
+    [
+     "Yüzeye uyum",
+     "Esnek ve gözenekli yapısı zemine tam temas sağlar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici ped"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (asit ve agresif sıvılar dahil)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol türevleri, su bazlı sıvılar, asitler, kostikler, kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek ve perforeli"
+    ],
+    [
+     "Kullanım",
+     "Çok amaçlı döküntü emme"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Kimya endüstrisi",
+    "Boya fabrikaları",
+    "İlaç sanayi",
+    "Lojistik ve dağıtım merkezleri",
+    "Hastaneler ve laboratuvarlar"
+   ]
+  },
+  {
+   "code": "BD-EM27",
+   "name": "Kimyasal Emici Rulo 40x50 – 350 gr/m² (100 Bölüm)",
+   "path": "/bd-em27-kimyasal-emici-rulo-40x50-350-gr-m2-100-bolum",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em27-kimyasal-emici-rulo-40x50-350-gr-m2-100-bolum-1.webp",
+     "thumb": "/assets/urunler/bd-em27-kimyasal-emici-rulo-40x50-350-gr-m2-100-bolum-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em27-kimyasal-emici-rulo-40x50-350-gr-m2-100-bolum-2.webp",
+     "thumb": "/assets/urunler/bd-em27-kimyasal-emici-rulo-40x50-350-gr-m2-100-bolum-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM27 Kimyasal Emici Rulo 40x50 – 350 gr/m² (100 Bölüm): toksik ve asidik sıvılar dahil tüm kimyasalları emen, 350 gr/m² gramajlı, paket başına 109 litre kapasiteli perforeli rulo.",
+   "intro": [
+    "BD-EM27 Kimyasal Emici Rulo 40x50 – 350 gr/m² (100 Bölüm), toksik ve asidik sıvılar dahil agresif kimyasalların tamamını emmek üzere üretilmiş, 350 gr/m² gramajlı perforeli bir emici rulodur. 40 x 50 ölçülü 100 bölümden oluşan paket, toplamda 109 litre sıvı tutma kapasitesi sunar.",
+    "Yüksek gramajı sayesinde kimya tesislerinde, laboratuvarlarda ve tehlikeli madde depolarında yoğun döküntülere karşı güvenilir bir stok oluşturur. Perforasyonlar boyunca ayrılan parçalar küçük döküntülerde, rulonun tamamı ise geniş zemin kaplamalarında kullanılabilir."
+   ],
+   "feats": [
+    [
+     "Agresif kimyasallara uygun",
+     "Toksik ve asit içeren sıvılar dahil tüm kimyasalları emer."
+    ],
+    [
+     "Yüksek gramaj",
+     "350 gr/m² yoğunluk, güçlü emiş ve dayanıklılık sağlar."
+    ],
+    [
+     "109 litre kapasite",
+     "Paket başına yüksek emiş hacmi ile büyük döküntülere yanıt verir."
+    ],
+    [
+     "Kesilebilir yapı",
+     "Perforeli bölümleri sayesinde küçük döküntülerde boyut küçültülebilir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici rulo"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 (perforeli bölüm)"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 Adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "109 Lt / paket"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (toksik ve asit dahil)"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Yapı",
+     "Gözenekli, esnek ve perforeli"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Kimyasal üretim tesisleri",
+    "Laboratuvarlar",
+    "Tehlikeli madde depoları",
+    "İlaç ve boya sanayi"
+   ]
+  },
+  {
+   "code": "BD-EM28",
+   "name": "Kimyasal Emici Ped 40x50 cm – 350 gr/m² (100'lü Paket)",
+   "path": "/bd-em28-kimyasal-emici-ped-40x50-cm-350-gr-m2-100-lu-paket",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em28-kimyasal-emici-ped-40x50-cm-350-gr-m2-100-lu-paket-1.webp",
+     "thumb": "/assets/urunler/bd-em28-kimyasal-emici-ped-40x50-cm-350-gr-m2-100-lu-paket-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em28-kimyasal-emici-ped-40x50-cm-350-gr-m2-100-lu-paket-2.webp",
+     "thumb": "/assets/urunler/bd-em28-kimyasal-emici-ped-40x50-cm-350-gr-m2-100-lu-paket-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM28 Kimyasal Emici Ped 40x50 cm – 350 gr/m² (100'lü Paket): toksik ve asit dahil tüm kimyasalları emen, 350 gr/m² gramajlı, 100 adetlik pakette 109 litre kapasite sunan emici ped.",
+   "intro": [
+    "BD-EM28 Kimyasal Emici Ped 40x50 cm – 350 gr/m² (100'lü Paket), tehlikeli ve agresif sıvı döküntülerine karşı geliştirilmiş, 40 x 50 cm ölçülü ve 350 gr/m² gramajlı kimyasal emici peddir. Toksik ve asidik sıvılar dahil tüm kimyasalları reaksiyona girmeden emer; 100 adetlik paket toplam 109 litre kapasite sağlar.",
+    "Kimyasal üretim tesislerinde, laboratuvarlarda ve depolama alanlarında hem acil müdahale hem de günlük temizlik için kullanılır. Perforeli yapısı sayesinde ped bölünerek küçük döküntülerde israf önlenir, zemindeki kaygan film hızla alınarak kayma riski azaltılır."
+   ],
+   "feats": [
+    [
+     "Tehlikeli sıvılara karşı",
+     "Toksik ve asit içeren kimyasalları güvenle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Kimyasallarla tepkimeye girmez, güvenli kullanım sağlar."
+    ],
+    [
+     "Perforeli tasarım",
+     "Ped bölünerek minimum israfla kullanılır."
+    ],
+    [
+     "Toplu paket",
+     "100 adet ve 109 litre kapasite ile uzun süreli stok imkânı."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici ped"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "350 gr/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 Adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "109 Lt / paket"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (toksik ve asit dahil)"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Yapı",
+     "Gözenekli ve perforeli"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Kimyasal üretim tesisleri",
+    "Laboratuvarlar",
+    "Fabrika ve üretim sahaları",
+    "Depolama alanları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM29",
+   "name": "Kimyasal Emici Sosis 8x120 cm (20'li Paket)",
+   "path": "/bd-em29-kimyasal-emici-sosis-8x120-cm-20-li-paket",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em29-kimyasal-emici-sosis-8x120-cm-20-li-paket-1.webp",
+     "thumb": "/assets/urunler/bd-em29-kimyasal-emici-sosis-8x120-cm-20-li-paket-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM29 Kimyasal Emici Sosis 8x120 cm (20'li Paket): petrol, solvent, su bazlı sıvı ve boyaları emen, 350 gr ağırlıklı, 20'li pakette toplam 53 litre kapasiteli bariyer sosis.",
+   "intro": [
+    "BD-EM29 Kimyasal Emici Sosis 8x120 cm (20'li Paket), selüloz ve polipropilen içeren süper emici dolgusuyla petrol, solvent, su bazlı sıvılar ve boyaları emen 8 x 120 cm ölçülü bir emici sosistir. Adet başına 350 gr ağırlığındaki sosisler, 20'li pakette toplam 53 litre emiş kapasitesi sunar.",
+    "Kimyasal depolama alanlarında, bakım atölyelerinde ve dolum noktalarında döküntünün etrafını sararak sıvının yayılmasını hızla durdurur. Sosislerin uçlarını birbirinin üzerine bindirerek yerleştirmek, bariyerde boşluk kalmasını önler."
+   ],
+   "feats": [
+    [
+     "Süper emici dolgu",
+     "Selüloz ve polipropilen karışımı yüksek ve hızlı emiş sağlar."
+    ],
+    [
+     "Çok yönlü kullanım",
+     "Petrol, solvent, su bazlı sıvı ve boyalarda etkilidir."
+    ],
+    [
+     "Bariyer oluşturma",
+     "Sızıntı çevresini kuşatarak yayılmayı engeller."
+    ],
+    [
+     "53 litre kapasite",
+     "20 adetlik paket büyük müdahaleler için yeterli hacim sunar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici sosis"
+    ],
+    [
+     "Ölçü",
+     "8 x 120 cm"
+    ],
+    [
+     "Ağırlık",
+     "350 gr / adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "53 Lt / paket"
+    ],
+    [
+     "Paket içeriği",
+     "20 Adet"
+    ],
+    [
+     "Malzeme",
+     "Selüloz + polipropilen"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol, solventler, su bazlı sıvılar, boyalar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim sahaları",
+    "Kimyasal depolama alanları",
+    "Atölye ve bakım servisleri",
+    "Akaryakıt istasyonları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM30",
+   "name": "Kimyasal Emici Yastık 25x23 cm (20'li Paket)",
+   "path": "/bd-em30-kimyasal-emici-yastik-25x23-cm-20-li-paket",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em30-kimyasal-emici-yastik-25x23-cm-20-li-paket-1.webp",
+     "thumb": "/assets/urunler/bd-em30-kimyasal-emici-yastik-25x23-cm-20-li-paket-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM30 Kimyasal Emici Yastık 25x23 cm (20'li Paket): sabit sızıntıların altında petrol, solvent, su bazlı sıvı ve boyaları tutan, 20'li pakette 24 litre kapasiteli emici yastık.",
+   "intro": [
+    "BD-EM30 Kimyasal Emici Yastık 25x23 cm (20'li Paket), selüloz ve polipropilen dolgulu süper emici kumaşıyla petrol türevleri, solventler, su bazlı sıvılar ve boyalar gibi farklı sıvı döküntülerini emen 25 x 23 cm ölçülü bir emici yastıktır. Adet başına 160 gr ağırlığındaki yastıklar, 20'li pakette toplam 24 litre kapasite sağlar.",
+    "Sürekli damlayan vana, pompa ve bağlantı noktalarının altına bırakılarak sıvının zemine dağılmasını önler. Kompakt ölçüsü sayesinde makine altları ve raf aralıkları gibi dar alanlarda da rahatlıkla kullanılabilir."
+   ],
+   "feats": [
+    [
+     "Sabit sızıntı kontrolü",
+     "Damlama noktalarının altına yerleştirilerek döküntüyü yerinde tutar."
+    ],
+    [
+     "Süper emici kumaş",
+     "Selüloz ve polipropilen içeriği yüksek sıvı tutma kapasitesi sunar."
+    ],
+    [
+     "Kompakt ölçü",
+     "25 x 23 cm boyutu dar alanlara kolayca sığar."
+    ],
+    [
+     "Geniş uyumluluk",
+     "Petrol, solvent, su bazlı sıvı ve boyaları emer."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici yastık"
+    ],
+    [
+     "Ölçü",
+     "25 x 23 cm"
+    ],
+    [
+     "Ağırlık",
+     "160 gr / adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "24 Lt / paket"
+    ],
+    [
+     "Paket içeriği",
+     "20 Adet"
+    ],
+    [
+     "Malzeme",
+     "Selüloz + polipropilen dolgulu süper emici kumaş"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol türevleri, solventler, su bazlı sıvılar, boyalar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Makine ve pompa altları",
+    "Kimyasal depolama alanları",
+    "Boya ve solvent kullanılan atölyeler",
+    "Üretim tesisleri"
+   ]
+  },
+  {
+   "code": "BD-EM31",
+   "name": "Spill Kit Şeffaf Taşıma Çantası – Boş",
+   "path": "/bd-em31-spill-kit-seffaf-tasima-cantasi-bos",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-1.webp",
+     "thumb": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-2.webp",
+     "thumb": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-3.webp",
+     "thumb": "/assets/urunler/bd-em31-spill-kit-seffaf-tasima-cantasi-bos-3-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM31 Spill Kit Şeffaf Taşıma Çantası – Boş: 80 litreye kadar döküntü kitleri için 45x60x20 cm ölçülü, fermuarlı ve şeffaf gövdeli boş taşıma çantası.",
+   "intro": [
+    "BD-EM31 Spill Kit Şeffaf Taşıma Çantası – Boş, yağ ve kimyasal döküntü müdahale malzemelerini düzenli biçimde saklamak ve sahaya taşımak için tasarlanmış, 45 x 60 x 20 cm ölçülü fermuarlı bir taşıma çantasıdır. Ürün boş olarak sunulur; 80 litreye kadar kapasiteli kendi döküntü kitinizi oluşturmanıza imkân verir.",
+    "Emici ped, sosis, yastık, eldiven ve atık torbası gibi ekipmanlar tek çantada toplanarak fabrika, depo, atölye ve servis araçlarında hazır tutulabilir. Şeffaf gövde, çanta açılmadan eksik malzemenin fark edilmesini sağladığından periyodik kit kontrollerini kolaylaştırır."
+   ],
+   "feats": [
+    [
+     "Şeffaf gövde",
+     "İçerik dışarıdan görüldüğü için eksik malzeme hızla tespit edilir."
+    ],
+    [
+     "Fermuarlı kapanış",
+     "Malzemeleri tozdan ve dağılmaktan korur."
+    ],
+    [
+     "80 litreye kadar",
+     "Farklı kapasitelerde yağ, genel amaçlı veya kimyasal kit hazırlamaya uygundur."
+    ],
+    [
+     "Taşıma kulpları",
+     "Sağlam kulplar sayesinde ekipman döküntü noktasına hızla ulaştırılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Spill kit taşıma çantası (boş)"
+    ],
+    [
+     "Ölçü",
+     "45 x 60 x 20 cm"
+    ],
+    [
+     "Kullanım kapasitesi",
+     "80 litreye kadar spill kit uygulamaları"
+    ],
+    [
+     "Gövde",
+     "Şeffaf ve dayanıklı"
+    ],
+    [
+     "Kapanma şekli",
+     "Fermuarlı"
+    ],
+    [
+     "Uyumlu ürünler",
+     "Yağ ve kimyasal emici ürünler, KKD ve atık torbaları"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet boş taşıma çantası"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrikalar ve üretim tesisleri",
+    "Laboratuvarlar",
+    "Depolar ve atölyeler",
+    "Akaryakıt istasyonları",
+    "Servis araçları"
+   ]
+  },
+  {
+   "code": "BD-EM32",
+   "name": "Yağ Emici Çantalı Kit 15 Lt (Şeffaf Çanta)",
+   "path": "/bd-em32-yag-emici-cantali-kit-15-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em32-yag-emici-cantali-kit-15-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em32-yag-emici-cantali-kit-15-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em32-yag-emici-cantali-kit-15-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em32-yag-emici-cantali-kit-15-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM32 Yağ Emici Çantalı Kit 15 Lt (Şeffaf Çanta): suyu emmeyen, 15 litre kapasiteli; ped, sosis, yastık ve KKD içeren kompakt yağ döküntü kiti.",
+   "intro": [
+    "BD-EM32 Yağ Emici Çantalı Kit 15 Lt (Şeffaf Çanta), yağ, yakıt ve diğer hidrokarbon bazlı sıvıların döküntülerine hızlı müdahale için hazırlanmış, toplam 15 litre emiş kapasiteli çantalı bir döküntü kitidir. İçerdiği emici malzemeler hidrofobik yapıdadır; suyu emmez, yalnızca yağı tutar ve tamamen doygun hâldeyken dahi su üzerinde yüzmeye devam eder.",
+    "Akaryakıt istasyonları, araç servisleri, üretim sahaları ve liman bölgeleri gibi yağ sızıntısı riski taşıyan noktalarda kolay erişilebilir bir yere konumlandırılmalıdır. Müdahalede önce sosislerle döküntü sınırlandırılır, ardından pedlerle iç kısım temizlenir ve kullanılan malzemeler atık torbasında toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağ emer",
+     "Hidrofobik malzemeler suyu iter, kapasitenin tamamını yağa ayırır."
+    ],
+    [
+     "Su üzerinde yüzer",
+     "Doygun hâlde bile batmadığı için su yüzeyindeki sızıntılarda etkilidir."
+    ],
+    [
+     "Kompakt boyut",
+     "Küçük ölçekli yağ ve yakıt döküntüleri için dar alanlarda kolayca konumlandırılır."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan görülür, kit hızla sahaya taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "15 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve yakıt (Oil Only)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Yakıtlar, yağlar, hidrokarbon bazlı sıvılar"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Yüzebilirlik",
+     "Doygun hâlde bile su üzerinde yüzer"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "15 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – Şeffaf Taşıma Çantası",
+    "10 Adet – Yağ Emici Ped (40 x 50 cm)",
+    "1 Adet – Yağ Emici Sosis (8 x 120 cm)",
+    "1 Adet – Yağ Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven",
+    "1 Adet – Kapalı Tip Koruyucu Gözlük",
+    "1 Adet – Atık Toplama Torbası ve Bağlama Aparatı"
+   ],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Araç bakım ve servis noktaları",
+    "Fabrika ve üretim sahaları",
+    "Denizcilik ve liman uygulamaları",
+    "Depolama ve lojistik alanları"
+   ]
+  },
+  {
+   "code": "BD-EM33",
+   "name": "Yağ Emici Çantalı Kit 30 Lt (Şeffaf Çanta)",
+   "path": "/bd-em33-yag-emici-cantali-kit-30-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em33-yag-emici-cantali-kit-30-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em33-yag-emici-cantali-kit-30-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em33-yag-emici-cantali-kit-30-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em33-yag-emici-cantali-kit-30-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM33 Yağ Emici Çantalı Kit 30 Lt (Şeffaf Çanta): suyu emmeyen, 30 litre kapasiteli; 20 ped, 3 sosis, yastık ve KKD içeren çantalı yağ döküntü kiti.",
+   "intro": [
+    "BD-EM33 Yağ Emici Çantalı Kit 30 Lt (Şeffaf Çanta), yağ, yakıt ve diğer hidrokarbon bazlı sıvıların döküntülerine hızlı müdahale için hazırlanmış, toplam 30 litre emiş kapasiteli çantalı bir döküntü kitidir. İçerdiği emici malzemeler hidrofobik yapıdadır; suyu emmez, yalnızca yağı tutar ve tamamen doygun hâldeyken dahi su üzerinde yüzmeye devam eder.",
+    "Akaryakıt istasyonları, araç servisleri, üretim sahaları ve liman bölgeleri gibi yağ sızıntısı riski taşıyan noktalarda kolay erişilebilir bir yere konumlandırılmalıdır. Müdahalede önce sosislerle döküntü sınırlandırılır, ardından pedlerle iç kısım temizlenir ve kullanılan malzemeler atık torbasında toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağ emer",
+     "Hidrofobik malzemeler suyu iter, kapasitenin tamamını yağa ayırır."
+    ],
+    [
+     "Su üzerinde yüzer",
+     "Doygun hâlde bile batmadığı için su yüzeyindeki sızıntılarda etkilidir."
+    ],
+    [
+     "Islakken dayanıklı",
+     "Nemli ve zorlu ortamlarda yapısını ve performansını korur."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan görülür, kit hızla sahaya taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "30 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve yakıt (Oil Only)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Yakıtlar, yağlar, hidrokarbon bazlı sıvılar"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Yüzebilirlik",
+     "Doygun hâlde bile su üzerinde yüzer"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "30 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 30 Lt Şeffaf Taşıma Çantası",
+    "20 Adet – Yağ Emici Ped (40 x 50 cm)",
+    "3 Adet – Yağ Emici Sosis (8 x 120 cm)",
+    "1 Adet – Yağ Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Atık Toplama Torbası",
+    "1 Adet – Torba Bağlama Aparatı"
+   ],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Araç bakım ve servis alanları",
+    "Fabrika ve üretim sahaları",
+    "Denizcilik ve liman uygulamaları",
+    "Depolama ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM34",
+   "name": "Yağ Emici Çantalı Kit 55 Lt (Şeffaf Çanta)",
+   "path": "/bd-em34-yag-emici-cantali-kit-55-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em34-yag-emici-cantali-kit-55-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em34-yag-emici-cantali-kit-55-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em34-yag-emici-cantali-kit-55-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em34-yag-emici-cantali-kit-55-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM34 Yağ Emici Çantalı Kit 55 Lt (Şeffaf Çanta): orta ölçekli yağ ve yakıt döküntüleri için 35 ped, 5 sosis ve KKD içeren 55 litre kapasiteli çantalı kit.",
+   "intro": [
+    "BD-EM34 Yağ Emici Çantalı Kit 55 Lt (Şeffaf Çanta), yağ, yakıt ve diğer hidrokarbon bazlı sıvıların döküntülerine hızlı müdahale için hazırlanmış, toplam 55 litre emiş kapasiteli çantalı bir döküntü kitidir. İçerdiği emici malzemeler hidrofobik yapıdadır; suyu emmez, yalnızca yağı tutar ve tamamen doygun hâldeyken dahi su üzerinde yüzmeye devam eder.",
+    "Akaryakıt istasyonları, araç servisleri, üretim sahaları ve liman bölgeleri gibi yağ sızıntısı riski taşıyan noktalarda kolay erişilebilir bir yere konumlandırılmalıdır. Müdahalede önce sosislerle döküntü sınırlandırılır, ardından pedlerle iç kısım temizlenir ve kullanılan malzemeler atık torbasında toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağ emer",
+     "Hidrofobik malzemeler suyu iter, kapasitenin tamamını yağa ayırır."
+    ],
+    [
+     "Su üzerinde yüzer",
+     "Doygun hâlde bile batmadığı için su yüzeyindeki sızıntılarda etkilidir."
+    ],
+    [
+     "Orta ölçekli müdahale",
+     "55 litre kapasite, makine ve tank çevresi sızıntılarında yeterli rezerv sağlar."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan görülür, kit hızla sahaya taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "55 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve yakıt (Oil Only)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Yakıtlar, yağlar, hidrokarbon bazlı sıvılar"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Yüzebilirlik",
+     "Doygun hâlde bile su üzerinde yüzer"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "55 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 55 Lt Şeffaf Taşıma Çantası",
+    "35 Adet – Yağ Emici Ped (40 x 50 cm)",
+    "5 Adet – Yağ Emici Sosis (8 x 120 cm)",
+    "1 Adet – Yağ Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Atık Toplama Torbası"
+   ],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Fabrika ve üretim sahaları",
+    "Araç bakım ve servis alanları",
+    "Depo ve lojistik alanları",
+    "Endüstriyel sahalar"
+   ]
+  },
+  {
+   "code": "BD-EM35",
+   "name": "Yağ Emici Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta)",
+   "path": "/bd-em35-yag-emici-cantali-dokuntu-kiti-80-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em35-yag-emici-cantali-dokuntu-kiti-80-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em35-yag-emici-cantali-dokuntu-kiti-80-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em35-yag-emici-cantali-dokuntu-kiti-80-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em35-yag-emici-cantali-dokuntu-kiti-80-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM35 Yağ Emici Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta): 65 ped, 5 sosis, 2 yastık ve KKD içeren, suyu emmeyen 80 litre kapasiteli kapsamlı yağ döküntü kiti.",
+   "intro": [
+    "BD-EM35 Yağ Emici Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta), yağ, yakıt ve diğer hidrokarbon bazlı sıvıların döküntülerine hızlı müdahale için hazırlanmış, toplam 80 litre emiş kapasiteli çantalı bir döküntü kitidir. İçerdiği emici malzemeler hidrofobik yapıdadır; suyu emmez, yalnızca yağı tutar ve tamamen doygun hâldeyken dahi su üzerinde yüzmeye devam eder.",
+    "Akaryakıt istasyonları, araç servisleri, üretim sahaları ve liman bölgeleri gibi yağ sızıntısı riski taşıyan noktalarda kolay erişilebilir bir yere konumlandırılmalıdır. Müdahalede önce sosislerle döküntü sınırlandırılır, ardından pedlerle iç kısım temizlenir ve kullanılan malzemeler atık torbasında toplanır."
+   ],
+   "feats": [
+    [
+     "Sadece yağ emer",
+     "Hidrofobik malzemeler suyu iter, kapasitenin tamamını yağa ayırır."
+    ],
+    [
+     "Su üzerinde yüzer",
+     "Doygun hâlde bile batmadığı için su yüzeyindeki sızıntılarda etkilidir."
+    ],
+    [
+     "Yüksek kapasite",
+     "80 litrelik emiş hacmi büyük yağ ve yakıt döküntülerine tek kitle yanıt verir."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan görülür, kit hızla sahaya taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "80 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Yalnızca yağ ve yakıt (Oil Only)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Yakıtlar, yağlar, hidrokarbon bazlı sıvılar"
+    ],
+    [
+     "Su emme",
+     "Hidrofobik – suyu emmez"
+    ],
+    [
+     "Yüzebilirlik",
+     "Doygun hâlde bile su üzerinde yüzer"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "80 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 80 Lt Şeffaf Taşıma Çantası",
+    "65 Adet – Yağ Emici Ped (40 x 50 cm)",
+    "5 Adet – Yağ Emici Sosis (8 x 120 cm)",
+    "2 Adet – Yağ Emici Yastık (23 x 23 cm)",
+    "Koruyucu Eldiven",
+    "Koruyucu Gözlük",
+    "Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Limanlar ve denizcilik sektörü",
+    "Fabrika ve üretim tesisleri",
+    "Araç bakım ve servis alanları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM36",
+   "name": "Genel Amaçlı Çantalı Döküntü Kiti 15 Lt (Şeffaf Çanta)",
+   "path": "/bd-em36-genel-amacli-cantali-dokuntu-kiti-15-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em36-genel-amacli-cantali-dokuntu-kiti-15-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em36-genel-amacli-cantali-dokuntu-kiti-15-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em36-genel-amacli-cantali-dokuntu-kiti-15-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em36-genel-amacli-cantali-dokuntu-kiti-15-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM36 Genel Amaçlı Çantalı Döküntü Kiti 15 Lt (Şeffaf Çanta): yağ, su bazlı sıvı ve solventleri emen; ped, sosis, yastık, maske ve tulum içeren 15 litre kapasiteli kompakt kit.",
+   "intro": [
+    "BD-EM36 Genel Amaçlı Çantalı Döküntü Kiti 15 Lt (Şeffaf Çanta), petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve tehlikeli olmayan kimyasalların döküntülerine müdahale için hazırlanmış, toplam 15 litre emiş kapasiteli genel amaçlı (universal) bir döküntü kitidir. Emici malzemeler kimyasal reaksiyona girmez ve farklı sıvı türlerini tek sette karşılar.",
+    "Hangi sıvının döküleceğinin önceden kestirilemediği atölye, üretim hattı, depo ve servis alanları için en pratik seçenektir. Kiti döküntü riskinin yüksek olduğu noktaya yakın konumlandırmak ve kullanılan malzemeleri her müdahaleden sonra yenilemek, hazırlık seviyesini korur. Asit ve agresif kimyasallar için kimyasal emici kitler tercih edilmelidir."
+   ],
+   "feats": [
+    [
+     "Universal emiş",
+     "Yağ, su bazlı sıvı, soğutma sıvısı ve solventleri tek kitle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasal tepkimeye girmez, güvenli kullanım sağlar."
+    ],
+    [
+     "Kompakt ve hafif",
+     "Küçük döküntüler için dar alanlarda ve araçlarda kolayca taşınır."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "Malzemeler düzenli saklanır, ihtiyaç anında hızla ulaşılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "15 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Genel amaçlı (Universal)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol ve türevleri, su ve su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "15 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 15 Lt Şeffaf Taşıma Çantası",
+    "10 Adet – Genel Amaçlı Emici Ped (40 x 50 cm)",
+    "1 Adet – Genel Amaçlı Emici Sosis (8 x 120 cm)",
+    "1 Adet – Genel Amaçlı Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Toz Maskesi",
+    "1 Adet – Tek Kullanımlık Tulum",
+    "Atık Torbası"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Atölyeler ve bakım alanları",
+    "Depolama sahaları",
+    "Akaryakıt istasyonları",
+    "Araç bakım ve servis noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM37",
+   "name": "Genel Amaçlı Çantalı Döküntü Kiti 30 Lt (Şeffaf Çanta)",
+   "path": "/bd-em37-genel-amacli-cantali-dokuntu-kiti-30-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em37-genel-amacli-cantali-dokuntu-kiti-30-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em37-genel-amacli-cantali-dokuntu-kiti-30-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em37-genel-amacli-cantali-dokuntu-kiti-30-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em37-genel-amacli-cantali-dokuntu-kiti-30-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM37 Genel Amaçlı Çantalı Döküntü Kiti 30 Lt (Şeffaf Çanta): 20 ped, 3 sosis, yastık ve KKD içeren; yağ, su bazlı sıvı ve solventler için 30 litre kapasiteli universal kit.",
+   "intro": [
+    "BD-EM37 Genel Amaçlı Çantalı Döküntü Kiti 30 Lt (Şeffaf Çanta), petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve tehlikeli olmayan kimyasalların döküntülerine müdahale için hazırlanmış, toplam 30 litre emiş kapasiteli genel amaçlı (universal) bir döküntü kitidir. Emici malzemeler kimyasal reaksiyona girmez ve farklı sıvı türlerini tek sette karşılar.",
+    "Hangi sıvının döküleceğinin önceden kestirilemediği atölye, üretim hattı, depo ve servis alanları için en pratik seçenektir. Kiti döküntü riskinin yüksek olduğu noktaya yakın konumlandırmak ve kullanılan malzemeleri her müdahaleden sonra yenilemek, hazırlık seviyesini korur. Asit ve agresif kimyasallar için kimyasal emici kitler tercih edilmelidir."
+   ],
+   "feats": [
+    [
+     "Universal emiş",
+     "Yağ, su bazlı sıvı, soğutma sıvısı ve solventleri tek kitle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasal tepkimeye girmez, güvenli kullanım sağlar."
+    ],
+    [
+     "Orta ölçek için ideal",
+     "30 litre kapasite, günlük üretim döküntülerinde dengeli bir çözüm sunar."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "Malzemeler düzenli saklanır, ihtiyaç anında hızla ulaşılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "30 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Genel amaçlı (Universal)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol ve türevleri, su ve su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "30 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 30 Lt Şeffaf Taşıma Çantası",
+    "20 Adet – Genel Amaçlı Emici Ped (40 x 50 cm)",
+    "3 Adet – Genel Amaçlı Emici Sosis (8 x 120 cm)",
+    "1 Adet – Genel Amaçlı Emici Yastık (23 x 23 cm)",
+    "Koruyucu Eldiven",
+    "Koruyucu Gözlük",
+    "Maske",
+    "Tulum",
+    "Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Atölyeler ve bakım alanları",
+    "Depo ve lojistik merkezleri",
+    "Servis alanları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM38",
+   "name": "Genel Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta)",
+   "path": "/bd-em38-genel-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em38-genel-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em38-genel-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em38-genel-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em38-genel-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM38 Genel Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta): 35 ped, 5 sosis, yastık ve KKD içeren; farklı sıvı türlerine tek kitle müdahale sağlayan 55 litre kapasiteli set.",
+   "intro": [
+    "BD-EM38 Genel Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta), petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve tehlikeli olmayan kimyasalların döküntülerine müdahale için hazırlanmış, toplam 55 litre emiş kapasiteli genel amaçlı (universal) bir döküntü kitidir. Emici malzemeler kimyasal reaksiyona girmez ve farklı sıvı türlerini tek sette karşılar.",
+    "Hangi sıvının döküleceğinin önceden kestirilemediği atölye, üretim hattı, depo ve servis alanları için en pratik seçenektir. Kiti döküntü riskinin yüksek olduğu noktaya yakın konumlandırmak ve kullanılan malzemeleri her müdahaleden sonra yenilemek, hazırlık seviyesini korur. Asit ve agresif kimyasallar için kimyasal emici kitler tercih edilmelidir."
+   ],
+   "feats": [
+    [
+     "Universal emiş",
+     "Yağ, su bazlı sıvı, soğutma sıvısı ve solventleri tek kitle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasal tepkimeye girmez, güvenli kullanım sağlar."
+    ],
+    [
+     "Orta-büyük döküntüler",
+     "55 litre kapasite, geniş üretim alanlarında güçlü rezerv sağlar."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "Malzemeler düzenli saklanır, ihtiyaç anında hızla ulaşılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "55 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Genel amaçlı (Universal)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol ve türevleri, su ve su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "55 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 55 Lt Şeffaf Taşıma Çantası",
+    "35 Adet – Genel Amaçlı Emici Ped (40 x 50 cm)",
+    "5 Adet – Genel Amaçlı Emici Sosis (8 x 120 cm)",
+    "1 Adet – Genel Amaçlı Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven",
+    "Koruyucu Gözlük",
+    "Maske",
+    "Tulum",
+    "Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Depo ve lojistik alanları",
+    "Akaryakıt istasyonları",
+    "Atölye ve bakım alanları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM39",
+   "name": "Genel Amaçlı Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta)",
+   "path": "/bd-em39-genel-amacli-cantali-dokuntu-kiti-80-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em39-genel-amacli-cantali-dokuntu-kiti-80-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em39-genel-amacli-cantali-dokuntu-kiti-80-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em39-genel-amacli-cantali-dokuntu-kiti-80-lt-seffaf-canta-2.webp",
+     "thumb": "/assets/urunler/bd-em39-genel-amacli-cantali-dokuntu-kiti-80-lt-seffaf-canta-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM39 Genel Amaçlı Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta): 65 ped, 5 sosis, 2 yastık ve KKD içeren; yağ, su bazlı sıvı ve solventler için 80 litre kapasiteli kapsamlı kit.",
+   "intro": [
+    "BD-EM39 Genel Amaçlı Çantalı Döküntü Kiti 80 Lt (Şeffaf Çanta), petrol türevleri, su ve su bazlı sıvılar, soğutma sıvıları, solventler ve tehlikeli olmayan kimyasalların döküntülerine müdahale için hazırlanmış, toplam 80 litre emiş kapasiteli genel amaçlı (universal) bir döküntü kitidir. Emici malzemeler kimyasal reaksiyona girmez ve farklı sıvı türlerini tek sette karşılar.",
+    "Hangi sıvının döküleceğinin önceden kestirilemediği atölye, üretim hattı, depo ve servis alanları için en pratik seçenektir. Kiti döküntü riskinin yüksek olduğu noktaya yakın konumlandırmak ve kullanılan malzemeleri her müdahaleden sonra yenilemek, hazırlık seviyesini korur. Asit ve agresif kimyasallar için kimyasal emici kitler tercih edilmelidir."
+   ],
+   "feats": [
+    [
+     "Universal emiş",
+     "Yağ, su bazlı sıvı, soğutma sıvısı ve solventleri tek kitle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasal tepkimeye girmez, güvenli kullanım sağlar."
+    ],
+    [
+     "Yüksek kapasite",
+     "80 litrelik emiş hacmi büyük ölçekli döküntülere tek setle müdahale imkânı verir."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "Malzemeler düzenli saklanır, ihtiyaç anında hızla ulaşılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "80 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Genel amaçlı (Universal)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Petrol ve türevleri, su ve su bazlı sıvılar, solventler, tehlikeli olmayan kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "80 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 80 Lt Şeffaf Taşıma Çantası",
+    "65 Adet – Genel Amaçlı Emici Ped (40 x 50 cm)",
+    "5 Adet – Genel Amaçlı Emici Sosis (8 x 120 cm)",
+    "2 Adet – Genel Amaçlı Emici Yastık (23 x 23 cm)",
+    "Koruyucu Eldiven",
+    "Koruyucu Tulum",
+    "Maske",
+    "Koruyucu Gözlük",
+    "Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Atölyeler ve bakım alanları",
+    "Depolar ve lojistik merkezleri",
+    "Akaryakıt istasyonları",
+    "Endüstriyel sahalar"
+   ]
+  },
+  {
+   "code": "BD-EM40",
+   "name": "Kimyasal Emici Çantalı Kit 15 Lt – Şeffaf Çanta, KKD Setli",
+   "path": "/bd-em40-kimyasal-emici-cantali-kit-15-lt-seffaf-canta-kkd-setli",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em40-kimyasal-emici-cantali-kit-15-lt-seffaf-canta-kkd-setli-1.webp",
+     "thumb": "/assets/urunler/bd-em40-kimyasal-emici-cantali-kit-15-lt-seffaf-canta-kkd-setli-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM40 Kimyasal Emici Çantalı Kit 15 Lt – Şeffaf Çanta, KKD Setli: asit, baz ve toksik kimyasallar için 10 ped, 2 sosis, yastık ve tam KKD içeren 15 litre kapasiteli kompakt kit.",
+   "intro": [
+    "BD-EM40 Kimyasal Emici Çantalı Kit 15 Lt – Şeffaf Çanta, KKD Setli, asitler, bazlar, toksik ve agresif kimyasallar dahil tehlikeli sıvı döküntülerine güvenli müdahale için hazırlanmış, toplam 15 litre emiş kapasiteli çantalı kimyasal (hazmat) döküntü kitidir. İçindeki emici malzemeler kimyasal reaksiyona girmez; gözenekli ve esnek yapıları sayesinde sıvıyı hızla bünyelerine alır.",
+    "Kompakt boyutu sayesinde laboratuvarlarda, küçük üretim alanlarında ve mobil müdahale araçlarında kolayca konumlandırılır. Müdahaleye başlamadan önce kitteki koruyucu ekipmanların giyilmesi, ardından döküntünün sosislerle sınırlandırılıp pedlerle emilmesi önerilir."
+   ],
+   "feats": [
+    [
+     "Agresif kimyasallara uygun",
+     "Asit, baz ve toksik sıvıları güvenle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasallarla tepkimeye girmez."
+    ],
+    [
+     "KKD dahil",
+     "Eldiven, maske, tulum ve gözlük ile müdahale personeli korunur."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan kontrol edilir, kit hızla sahaya ulaştırılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "15 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (Hazmat)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "15 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 15 Lt Şeffaf Taşıma Çantası",
+    "10 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "2 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "1 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "Koruyucu Eldiven",
+    "Maske",
+    "Tulum",
+    "Koruyucu Gözlük",
+    "Atık Torbası"
+   ],
+   "notes": [],
+   "usage": [
+    "Laboratuvarlar",
+    "Küçük üretim alanları",
+    "Kimyasal depolama alanları",
+    "Servis ve bakım noktaları",
+    "Mobil müdahale ekipleri"
+   ]
+  },
+  {
+   "code": "BD-EM41",
+   "name": "Kimyasal Emici Çantalı Kit 30 Lt – Şeffaf Çanta, 20 Pedli",
+   "path": "/bd-em41-kimyasal-emici-cantali-kit-30-lt-seffaf-canta-20-pedli",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em41-kimyasal-emici-cantali-kit-30-lt-seffaf-canta-20-pedli-1.webp",
+     "thumb": "/assets/urunler/bd-em41-kimyasal-emici-cantali-kit-30-lt-seffaf-canta-20-pedli-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM41 Kimyasal Emici Çantalı Kit 30 Lt – Şeffaf Çanta, 20 Pedli: toksik ve asidik sıvılar dahil tüm kimyasallar için 20 ped, 4 sosis ve 2 yastık içeren 30 litre kapasiteli kit.",
+   "intro": [
+    "BD-EM41 Kimyasal Emici Çantalı Kit 30 Lt – Şeffaf Çanta, 20 Pedli, asitler, bazlar, toksik ve agresif kimyasallar dahil tehlikeli sıvı döküntülerine güvenli müdahale için hazırlanmış, toplam 30 litre emiş kapasiteli çantalı kimyasal (hazmat) döküntü kitidir. İçindeki emici malzemeler kimyasal reaksiyona girmez; gözenekli ve esnek yapıları sayesinde sıvıyı hızla bünyelerine alır.",
+    "Kimyasal üretim tesislerinde, depolama alanlarında ve laboratuvarlarda orta ölçekli tehlikeli madde döküntüleri için hazır bir müdahale seti olarak kullanılır. Kitin kimyasal depolama noktalarına yakın ve görünür bir yerde tutulması, ilk dakikalarda müdahale edilmesini sağlayarak kaygan zemin ve maruziyet riskini azaltır."
+   ],
+   "feats": [
+    [
+     "Agresif kimyasallara uygun",
+     "Asit, baz ve toksik sıvıları güvenle emer."
+    ],
+    [
+     "Reaksiyonsuz malzeme",
+     "Emici ürünler kimyasallarla tepkimeye girmez."
+    ],
+    [
+     "Güçlü içerik",
+     "4 sosis ve 2 yastık ile hem çevreleme hem sabit sızıntı kontrolü sağlar."
+    ],
+    [
+     "Şeffaf taşıma çantası",
+     "İçerik dışarıdan kontrol edilir, kit hızla sahaya ulaştırılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal emici çantalı döküntü kiti"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "30 Lt"
+    ],
+    [
+     "Kullanım tipi",
+     "Kimyasal (Hazmat)"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Kimyasal reaksiyon",
+     "Reaksiyona girmez"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Taşıma",
+     "30 Lt şeffaf çanta"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 30 Lt Şeffaf Taşıma Çantası",
+    "20 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "4 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "2 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimyasal üretim tesisleri",
+    "Laboratuvarlar",
+    "Depolama ve lojistik alanları",
+    "Fabrika ve üretim sahaları",
+    "Acil döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM42",
+   "name": "Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta)",
+   "path": "/bd-em42-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em42-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em42-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-seffaf-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM42 Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta): Asit, baz ve agresif kimyasallar için 55 litre emiş, ped-sosis-yastık ve tam KKD seti.",
+   "intro": [
+    "BD-EM42 Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Şeffaf Çanta), asitler, bazlar ve toksik ya da agresif kimyasallar dahil tehlikeli sıvı döküntülerine müdahale için hazırlanmış, şeffaf taşıma çantalı bir kimyasal döküntü setidir. İçindeki emiciler kimyasallarla reaksiyona girmeyen bir yapıya sahiptir ve toplamda 55 litreye kadar sıvıyı tutar.",
+    "Kimya tesisleri, laboratuvarlar ve tehlikeli madde depolarında risk noktasının yakınına asılarak ya da yere konularak bekletilir. Tulum, gözlük ve maske dahil KKD içerdiği için müdahale eden kişi önce koruyucu ekipmanını giyip ardından sosislerle döküntünün etrafını çevirmeli, pedlerle içeriden dışarıya doğru emme yapmalıdır."
+   ],
+   "feats": [
+    [
+     "Kimyasala dayanıklı emici",
+     "Pedler, sosisler ve yastıklar asit ve bazlarla reaksiyona girmeden sıvıyı bünyesine alır."
+    ],
+    [
+     "55 litre kapasite",
+     "Orta ve büyük ölçekli kimyasal döküntüler tek setle kontrol altına alınabilir."
+    ],
+    [
+     "Kapsamlı KKD",
+     "Eldiven, maske, tulum ve gözlük ile müdahale eden personel korunur."
+    ],
+    [
+     "Şeffaf çanta",
+     "İçerik dışarıdan görülebildiği için eksik malzeme kontrolü hızlıca yapılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal döküntü kiti (Hazmat)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "55 litre"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Emici özelliği",
+     "Kimyasal reaksiyona girmez"
+    ],
+    [
+     "Taşıma",
+     "55 Lt şeffaf taşıma çantası"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 55 Lt Şeffaf Taşıma Çantası",
+    "20 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "10 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "2 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Adet – Eldiven",
+    "1 Adet – Maske",
+    "1 Adet – Tulum",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Atık Torbası"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimya tesisleri",
+    "Laboratuvarlar",
+    "Tehlikeli madde depoları",
+    "Endüstriyel üretim alanları",
+    "Tehlikeli madde yükleme sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM43",
+   "name": "Yağ Emici Döküntü Kiti 120 Lt",
+   "path": "/bd-em43-yag-emici-dokuntu-kiti-120-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em43-yag-emici-dokuntu-kiti-120-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em43-yag-emici-dokuntu-kiti-120-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em43-yag-emici-dokuntu-kiti-120-lt-2.webp",
+     "thumb": "/assets/urunler/bd-em43-yag-emici-dokuntu-kiti-120-lt-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM43 Yağ Emici Döküntü Kiti 120 Lt: Tekerlekli konteynerde 120 litre yağ emiş kapasitesi, suyu emmeyen emiciler ve KKD seti.",
+   "intro": [
+    "BD-EM43 Yağ Emici Döküntü Kiti 120 Lt, yağ, yakıt ve hidrokarbon bazlı sıvı döküntüleri için hazırlanmış, tekerlekli konteynerli büyük hacimli bir müdahale kitidir. Emiciler hidrofobik yapıdadır; suyu itip yalnızca yağı tuttukları için ıslak zeminde ve su üzerinde de çalışır, tamamen doysalar bile yüzmeye devam eder.",
+    "Akaryakıt istasyonları, liman sahaları ve araç bakım alanları gibi yağ riskinin yüksek olduğu yerlerde sabit bir noktada bekletilir, gerektiğinde tekerlekleri sayesinde döküntü noktasına çekilir. Yağmur altındaki açık alan döküntülerinde suyu emmediği için emici israfı azalır."
+   ],
+   "feats": [
+    [
+     "Yalnızca yağı emer",
+     "Hidrofobik emiciler suyu dışarıda bırakarak kapasitenin tamamını yağa ayırır."
+    ],
+    [
+     "Su üzerinde yüzer",
+     "Tam doygun hâlde bile batmadığı için su yüzeyindeki yağ kolayca toplanır."
+    ],
+    [
+     "120 litre kapasite",
+     "75 ped, 5 sosis ve 5 yastık ile büyük döküntülere tek seferde müdahale edilir."
+    ],
+    [
+     "Tekerlekli konteyner",
+     "Ağır set bir kişi tarafından kolayca döküntü noktasına taşınır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici döküntü kiti (Oil Only)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "120 litre"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ, yakıt ve hidrokarbon bazlı sıvılar"
+    ],
+    [
+     "Su emme",
+     "Emmez (hidrofobik)"
+    ],
+    [
+     "Taşıma",
+     "120 Lt tekerlekli konteyner"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 120 Lt Tekerlekli Konteyner",
+    "75 Adet – Yağ Emici Ped (40 x 50 cm)",
+    "5 Adet – Yağ Emici Sosis (8 x 120 cm)",
+    "5 Adet – Yağ Emici Yastık (23 x 23 cm)",
+    "1 Adet – Eldiven",
+    "1 Adet – Toz Maskesi",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Reflektif Yelek",
+    "1 Adet – Tek Kullanımlık Tulum",
+    "1 Adet – İkaz Bandı",
+    "1 Adet – Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Liman ve denizcilik sahaları",
+    "Araç bakım ve servis alanları",
+    "Fabrika ve üretim sahaları",
+    "Depo ve lojistik alanları"
+   ]
+  },
+  {
+   "code": "BD-EM44",
+   "name": "Genel Amaçlı Emici Döküntü Kiti 120 Lt",
+   "path": "/bd-em44-genel-amacli-emici-dokuntu-kiti-120-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em44-genel-amacli-emici-dokuntu-kiti-120-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em44-genel-amacli-emici-dokuntu-kiti-120-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em44-genel-amacli-emici-dokuntu-kiti-120-lt-2.webp",
+     "thumb": "/assets/urunler/bd-em44-genel-amacli-emici-dokuntu-kiti-120-lt-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM44 Genel Amaçlı Emici Döküntü Kiti 120 Lt: Yağ, su, soğutma sıvısı ve agresif olmayan kimyasallar için 120 litre emişli tekerlekli kit.",
+   "intro": [
+    "BD-EM44 Genel Amaçlı Emici Döküntü Kiti 120 Lt, yağ, mazot, akaryakıt, su, soğutma sıvısı ve agresif olmayan kimyasallar gibi farklı sıvıları aynı anda emebilen, tekerlekli konteynerli büyük hacimli bir döküntü kitidir. 100 ped, 5 sosis ve 5 yastıktan oluşan içeriğiyle toplam 120 litre emiş kapasitesi sunar.",
+    "Sıvı türünün önceden kestirilemediği üretim hatları, depolar ve bakım atölyeleri için pratik bir tercihtir. Kiti sık geçilen ama yol kapatmayan bir noktada konumlandırın; kullanılan malzemeleri hemen yenileyerek seti her an tam hazır tutun."
+   ],
+   "feats": [
+    [
+     "Çok yönlü emiş",
+     "Yağ, su bazlı sıvılar ve agresif olmayan kimyasallar tek kitle temizlenir."
+    ],
+    [
+     "100 adet ped",
+     "Geniş alana yayılmış döküntülerde bol miktarda ped hazır bulunur."
+    ],
+    [
+     "120 litre kapasite",
+     "Büyük hacimli sızıntılar tek setle kontrol altına alınır."
+    ],
+    [
+     "Komple KKD",
+     "Eldiven, maske, gözlük, yelek, tulum ve ikaz bandı sette yer alır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Genel amaçlı döküntü kiti (Universal)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "120 litre"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ, mazot, akaryakıt, su, soğutma sıvısı, agresif olmayan kimyasallar"
+    ],
+    [
+     "Taşıma",
+     "120 Lt tekerlekli konteyner"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 120 Lt Tekerlekli Konteyner",
+    "100 Adet – Genel Amaçlı Emici Ped (40 x 50 cm)",
+    "5 Adet – Genel Amaçlı Emici Sosis (8 x 120 cm)",
+    "5 Adet – Genel Amaçlı Emici Yastık (23 x 23 cm)",
+    "1 Adet – Eldiven",
+    "1 Adet – Toz Maskesi",
+    "1 Adet – Koruyucu Gözlük",
+    "1 Adet – Reflektif Yelek",
+    "1 Adet – Tek Kullanımlık Tulum",
+    "1 Adet – İkaz Bandı",
+    "1 Adet – Atık Poşeti"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim sahaları",
+    "Bakım ve onarım atölyeleri",
+    "Depo ve lojistik alanları",
+    "Araç servisleri",
+    "Akaryakıt istasyonları"
+   ]
+  },
+  {
+   "code": "BD-EM45",
+   "name": "Kimyasal Emici Döküntü Kiti 120 Lt",
+   "path": "/bd-em45-kimyasal-emici-dokuntu-kiti-120-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em45-kimyasal-emici-dokuntu-kiti-120-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em45-kimyasal-emici-dokuntu-kiti-120-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em45-kimyasal-emici-dokuntu-kiti-120-lt-2.webp",
+     "thumb": "/assets/urunler/bd-em45-kimyasal-emici-dokuntu-kiti-120-lt-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM45 Kimyasal Emici Döküntü Kiti 120 Lt: Asit, baz ve agresif kimyasallar için 120 litre emiş kapasiteli, tekerlekli konteynerli kit.",
+   "intro": [
+    "BD-EM45 Kimyasal Emici Döküntü Kiti 120 Lt, agresif ve tehlikeli kimyasal döküntülere müdahale için hazırlanmış, tekerlekli konteynerli büyük kapasiteli bir settir. İçindeki kimyasal emiciler asit ve bazları güvenle tutar; 100 ped, 5 sosis ve 5 yastık ile toplam 120 litre emiş sağlar.",
+    "Kimyasal üretim tesisleri, kimyasal depoları ve acil müdahale ekiplerinin ekipman noktaları için uygundur. Müdahaleden önce döküntünün güvenlik bilgi formunu kontrol edin, KKD’yi giyin ve sosislerle yayılmayı durdurduktan sonra pedlerle emme işlemine geçin."
+   ],
+   "feats": [
+    [
+     "Agresif kimyasallara uygun",
+     "Asit, baz ve tehlikeli kimyasallar güvenli şekilde emilir."
+    ],
+    [
+     "120 litre kapasite",
+     "Büyük hacimli kimyasal döküntüler için yeterli emici tek konteynerde."
+    ],
+    [
+     "Tekerlekli konteyner",
+     "Kolay taşınır, kapalı yapısıyla içerik temiz ve düzenli kalır."
+    ],
+    [
+     "KKD seti",
+     "Eldiven, maske, gözlük, yelek, tulum ve ikaz bandı ile güvenli müdahale."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal döküntü kiti (Hazmat)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "120 litre"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, agresif ve tehlikeli kimyasallar"
+    ],
+    [
+     "Taşıma",
+     "120 Lt tekerlekli konteyner"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 120 Lt Tekerlekli Konteyner",
+    "100 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "5 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "5 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Set – KKD (Eldiven, Toz Maskesi, Koruyucu Gözlük, Reflektif Yelek, Tek Kullanımlık Tulum, İkaz Bandı)"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimyasal üretim tesisleri",
+    "Laboratuvarlar",
+    "Kimyasal depolama alanları",
+    "Lojistik merkezleri",
+    "Acil müdahale ekipleri"
+   ]
+  },
+  {
+   "code": "BD-EM46",
+   "name": "Döküntü ve Sızıntı Müdahale Dolabı 130 Lt",
+   "path": "/bd-em46-dokuntu-ve-sizinti-mudahale-dolabi-130-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em46-dokuntu-ve-sizinti-mudahale-dolabi-130-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em46-dokuntu-ve-sizinti-mudahale-dolabi-130-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM46 Döküntü ve Sızıntı Müdahale Dolabı 130 Lt: Raflı dolapta 75 ped, sosis, yastık ve emici rulo ile toplam 130 litre emiş kapasitesi.",
+   "intro": [
+    "BD-EM46 Döküntü ve Sızıntı Müdahale Dolabı 130 Lt, emici ped, sosis, yastık ve rulonun raflı bir dolapta düzenli şekilde saklandığı, toplam 130 litre emiş kapasiteli bir döküntü müdahale istasyonudur. 30 x 60 x 82 cm boyutlarındaki dolap, yağ ve su bazlı döküntülere hızlı erişim sağlar.",
+    "Atölye, üretim hattı veya depo içinde sabit bir müdahale noktası olarak kullanılabilir, gerektiğinde başka bir alana kolayca taşınabilir. İçindeki rulo, uzun tezgâh altları ve makine çevresi gibi sürekli damlama olan noktalarda istenen boyda kesilerek kullanılır."
+   ],
+   "feats": [
+    [
+     "Raflı düzen",
+     "Emiciler raflarda ayrı ayrı durur, ihtiyaç anında aranmadan alınır."
+    ],
+    [
+     "Emici rulo dahil",
+     "Rulo dolap içinden çekilerek istenen uzunlukta kesilebilir."
+    ],
+    [
+     "130 litre kapasite",
+     "75 ped, 5 sosis, 5 yastık ve rulo ile geniş döküntüler karşılanır."
+    ],
+    [
+     "Kompakt boyut",
+     "30 x 60 x 82 cm ölçüsüyle duvar dibine veya kolon yanına sığar."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Döküntü müdahale dolabı"
+    ],
+    [
+     "Emiş kapasitesi",
+     "130 litre"
+    ],
+    [
+     "Dolap boyutları",
+     "30 x 60 x 82 cm"
+    ],
+    [
+     "Yapı",
+     "Raflı dolap"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ],
+    [
+     "Emici rulo ölçüsü",
+     "50 cm x 15 m"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 130 Lt Kapasiteli Dolap",
+    "75 Adet – Emici Ped (40 x 50 cm)",
+    "5 Adet – Emici Sosis (8 x 120 cm)",
+    "5 Adet – Emici Yastık (23 x 23 cm)",
+    "1 Adet – Emici Rulo (50 cm x 15 m)",
+    "1 Set – KKD (Eldiven, Gözlük, Atık Poşeti)"
+   ],
+   "notes": [],
+   "usage": [
+    "Üretim hatları",
+    "Bakım atölyeleri",
+    "Depo ve antrepolar",
+    "Makine parkları"
+   ]
+  },
+  {
+   "code": "BD-EM47",
+   "name": "Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Yeşil Çanta)",
+   "path": "/bd-em47-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-yesil-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em47-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-yesil-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em47-kimyasal-amacli-cantali-dokuntu-kiti-55-lt-yesil-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM47 Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Yeşil Çanta): Yeşil SPILL KIT çantada 35 ped, 5 sosis ve yastık; asit ve bazlar için 55 litre emiş.",
+   "intro": [
+    "BD-EM47 Kimyasal Amaçlı Çantalı Döküntü Kiti 55 Lt (Yeşil Çanta), asit, baz, toksik ve agresif kimyasal döküntülerine müdahale için hazırlanmış, yeşil şeffaf ‘SPILL KIT’ çantalı bir kimyasal emici setidir. Kimyasallarla reaksiyona girmeyen emicileri toplam 55 litre sıvı tutar; içeriğin ağırlığı pedlerdedir.",
+    "Pedlerin fazla olması, geniş yüzeye yayılan ince döküntülerde avantaj sağlar. Çantayı kimyasal dolum, transfer ve numune alma noktalarına yakın asın; yeşil renk ve şeffaf gövde sayesinde hem kolay fark edilir hem de içerik bir bakışta kontrol edilir."
+   ],
+   "feats": [
+    [
+     "Kimyasala dayanıklı",
+     "Emiciler asit ve bazlarla reaksiyona girmeden sıvıyı tutar."
+    ],
+    [
+     "35 adet ped",
+     "Geniş yüzeye yayılan döküntüler için bol ped içerir."
+    ],
+    [
+     "55 litre kapasite",
+     "Orta ve büyük ölçekli kimyasal döküntülere uygundur."
+    ],
+    [
+     "Yeşil şeffaf çanta",
+     "Uzaktan fark edilir, içerik dışarıdan kontrol edilebilir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal döküntü kiti (Hazmat)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "55 litre"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Emici özelliği",
+     "Kimyasal reaksiyona girmez"
+    ],
+    [
+     "Çanta",
+     "55 Lt yeşil şeffaf ‘SPILL KIT’ çanta"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 55 Lt Yeşil Şeffaf Taşıma Çantası",
+    "35 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "5 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "1 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Adet – Eldiven"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimya tesisleri",
+    "Laboratuvarlar",
+    "Kimyasal depolama sahaları",
+    "Endüstriyel üretim alanları",
+    "Tehlikeli madde taşıma alanları"
+   ]
+  },
+  {
+   "code": "BD-EM48",
+   "name": "Kimyasal Emici Çantalı Kit 30 Lt (Yeşil Çanta)",
+   "path": "/bd-em48-kimyasal-emici-cantali-kit-30-lt-yesil-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em48-kimyasal-emici-cantali-kit-30-lt-yesil-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em48-kimyasal-emici-cantali-kit-30-lt-yesil-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM48 Kimyasal Emici Çantalı Kit 30 Lt (Yeşil Çanta): Yeşil SPILL KIT çantada 20 ped, 3 sosis ve yastık; orta ölçekli kimyasal döküntüler için 30 litre.",
+   "intro": [
+    "BD-EM48 Kimyasal Emici Çantalı Kit 30 Lt (Yeşil Çanta), asit, baz ve agresif kimyasal döküntülerine müdahale için tasarlanmış, yeşil şeffaf ‘SPILL KIT’ çantalı orta boy bir kimyasal emici setidir. Reaksiyona girmeyen emicileri toplam 30 litre sıvı tutar.",
+    "Laboratuvar koridorları, kimyasal depo girişleri ve dolum istasyonları gibi orta hacimli risk taşıyan noktalara uygundur. Kullanımdan sonra kirlenen emicileri çantadaki gibi ayrı tutup tehlikeli atık olarak bertaraf edin ve kiti eksiksiz şekilde yenileyin."
+   ],
+   "feats": [
+    [
+     "Kimyasala dayanıklı",
+     "Asit, baz ve toksik sıvılar güvenle emilir."
+    ],
+    [
+     "Orta boy kapasite",
+     "30 litre ile orta ölçekli döküntüler için dengeli içerik."
+    ],
+    [
+     "Hafif ve taşınabilir",
+     "Çantalı yapısı sayesinde tek kişi tarafından hızla taşınır."
+    ],
+    [
+     "Yeşil şeffaf çanta",
+     "Göze çarpan renk ve görünür içerik ile hızlı kontrol."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal döküntü kiti (Hazmat)"
+    ],
+    [
+     "Emiş kapasitesi",
+     "30 litre"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Emici özelliği",
+     "Kimyasal reaksiyona girmez"
+    ],
+    [
+     "Çanta",
+     "30 Lt yeşil şeffaf ‘SPILL KIT’ çanta"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 30 Lt Yeşil Şeffaf Taşıma Çantası",
+    "20 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "3 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "1 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Adet – Eldiven"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimya ve üretim tesisleri",
+    "Laboratuvarlar",
+    "Kimyasal depoları",
+    "Dolum ve transfer noktaları",
+    "Acil müdahale ekipleri"
+   ]
+  },
+  {
+   "code": "BD-EM49",
+   "name": "Kimyasal Emici Çantalı Kit 15 Lt (Yeşil Çanta)",
+   "path": "/bd-em49-kimyasal-emici-cantali-kit-15-lt-yesil-canta",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em49-kimyasal-emici-cantali-kit-15-lt-yesil-canta-1.webp",
+     "thumb": "/assets/urunler/bd-em49-kimyasal-emici-cantali-kit-15-lt-yesil-canta-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM49 Kimyasal Emici Çantalı Kit 15 Lt (Yeşil Çanta): Yeşil SPILL KIT çantada 10 ped, sosis, yastık ve eldiven; küçük kimyasal döküntüler için 15 litre.",
+   "intro": [
+    "BD-EM49 Kimyasal Emici Çantalı Kit 15 Lt (Yeşil Çanta), asit, baz ve toksik kimyasalların küçük hacimli döküntüleri için hazırlanmış kompakt, yeşil şeffaf ‘SPILL KIT’ çantalı bir kimyasal emici kitidir. Gözenekli ve esnek emicileri kimyasallarla reaksiyona girmez; toplam emiş kapasitesi 15 litredir.",
+    "Laboratuvar tezgâhları, kimyasal dolapları ve küçük depolama noktaları için idealdir. Kompakt boyutu sayesinde her riskli noktaya bir adet yerleştirilebilir; böylece döküntü anında kit aramak için zaman kaybedilmez."
+   ],
+   "feats": [
+    [
+     "Kompakt boyut",
+     "Küçük alanlara ve dolap yanlarına kolayca yerleştirilir."
+    ],
+    [
+     "Kimyasala dayanıklı",
+     "Asit ve bazlar dahil tehlikeli sıvılar reaksiyonsuz emilir."
+    ],
+    [
+     "Esnek emiciler",
+     "Pedler farklı zemin ve yüzeylere tam oturur."
+    ],
+    [
+     "Koruyucu eldivenli",
+     "İlk müdahale için bir çift eldiven sete dahildir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kimyasal döküntü kiti (Hazmat)"
+    ],
+    [
+     "Model",
+     "Kit Bag11"
+    ],
+    [
+     "Emiş kapasitesi",
+     "15 litre"
+    ],
+    [
+     "Uyumlu sıvılar",
+     "Asitler, bazlar, toksik ve agresif kimyasallar"
+    ],
+    [
+     "Çanta",
+     "15 Lt yeşil şeffaf ‘SPILL KIT’ çanta"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüsü",
+     "23 x 23 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 15 Lt Yeşil Şeffaf Taşıma Çantası",
+    "10 Adet – Kimyasal Emici Ped (40 x 50 cm)",
+    "1 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "1 Adet – Kimyasal Emici Yastık (23 x 23 cm)",
+    "1 Çift – Koruyucu Eldiven"
+   ],
+   "notes": [],
+   "usage": [
+    "Laboratuvarlar",
+    "Kimyasal üretim tesisleri",
+    "Kimyasal dolap ve depo alanları",
+    "Döküntü müdahale noktaları"
+   ]
+  },
+  {
+   "code": "BD-EM50",
+   "name": "Araç Döküntü Kiti KT-CADDY 40 Lt",
+   "path": "/bd-em50-arac-dokuntu-kiti-kt-caddy-40-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em50-arac-dokuntu-kiti-kt-caddy-40-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em50-arac-dokuntu-kiti-kt-caddy-40-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM50 Araç Döküntü Kiti KT-CADDY 40 Lt: Kimyasal taşıyan araçlar için 40 litre emişli çanta; kimyasal ped, sosis, emici toz, KKD ve temizlik seti.",
+   "intro": [
+    "BD-EM50 Araç Döküntü Kiti KT-CADDY 40 Lt, kimyasal madde taşıyan araçlarda yol üzerinde veya yükleme sırasında oluşabilecek sızıntılar için hazırlanmış, 40 litre emiş kapasiteli çantalı bir müdahale setidir. Kimyasal emici ped ve sosislerin yanında Nviroclean emici toz da içerir; böylece sıvı hem çevrelenip emilir hem de kalıntısı toplanır.",
+    "Araç kabininde veya yan dolapta saklanabilecek boyuttadır. Sızıntıda önce ikaz yeleğini ve KKD’yi giyin, sosislerle akışı kesin, pedlerle emin, kalan ince tabakaya emici toz serperek fırça ve faraşla atık torbasına alın."
+   ],
+   "feats": [
+    [
+     "Araçlara özel",
+     "Kabinde taşınabilecek tek çantada komple müdahale seti."
+    ],
+    [
+     "Emici toz dahil",
+     "Nviroclean toz, pedlerden sonra kalan ince sıvı tabakasını toplar."
+    ],
+    [
+     "Temizlik ekipmanı",
+     "Kısa saplı fırça, faraş ve atık torbası ile iş eksiksiz tamamlanır."
+    ],
+    [
+     "Yol güvenliği",
+     "İkaz yeleği ve KKD ile yol kenarında güvenli müdahale."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Araç döküntü kiti"
+    ],
+    [
+     "Model",
+     "KT-CADDY"
+    ],
+    [
+     "Emiş kapasitesi",
+     "40 litre"
+    ],
+    [
+     "Kullanım alanı",
+     "Kimyasal taşıyan araçlar"
+    ],
+    [
+     "Taşıma",
+     "40 Lt taşıma çantası"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "20 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici toz",
+     "Nviroclean, orta boy paket"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 40 Lt Taşıma Çantası",
+    "10 Adet – Kimyasal Emici Ped (20 x 50 cm)",
+    "2 Adet – Kimyasal Emici Sosis (8 x 120 cm)",
+    "1 Paket – Orta Boy Nviroclean Emici Toz",
+    "1 Set – KKD (Eldiven, Gözlük, Toz Maskesi, İkaz Yeleği)",
+    "1 Set – Temizlik Ekipmanı (Kısa Saplı Fırça, Faraş, Atık Torbası)"
+   ],
+   "notes": [],
+   "usage": [
+    "Kimyasal taşıyan araçlar",
+    "Lojistik ve taşımacılık filoları",
+    "Yükleme ve boşaltma alanları",
+    "Saha servis araçları"
+   ]
+  },
+  {
+   "code": "BD-EM51",
+   "name": "KT-Beta Laboratuvar ve Hastane Döküntü Kiti",
+   "path": "/bd-em51-kt-beta-laboratuvar-ve-hastane-dokuntu-kiti",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em51-kt-beta-laboratuvar-ve-hastane-dokuntu-kiti-1.webp",
+     "thumb": "/assets/urunler/bd-em51-kt-beta-laboratuvar-ve-hastane-dokuntu-kiti-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM51 KT-Beta Laboratuvar ve Hastane Döküntü Kiti: Laboratuvar ve sağlık alanları için 15 litre emişli çanta; ped, Nviroclean emici toz, KKD ve temizlik seti.",
+   "intro": [
+    "BD-EM51 KT-Beta Laboratuvar ve Hastane Döküntü Kiti, hastane, laboratuvar ve Ar-Ge ortamlarındaki kimyasal ve sıvı döküntüleri için hazırlanmış, 15 litre emiş kapasiteli kompakt bir çantalı settir. Emici pedler ve küçük boy Nviroclean emici toz sayesinde hem sıvı emilir hem de zemindeki kalıntı toplanır.",
+    "Laboratuvar girişine, numune kabul alanına veya klinik koridorlarına konumlandırılabilir. Kırılan şişe ya da devrilen kaplarda önce gözlük ve maskeyi takın, pedleri sıvının üzerine yerleştirin, kalan nemi toz ile bağlayıp fırça ve faraşla atık torbasına alın."
+   ],
+   "feats": [
+    [
+     "Hassas alanlara özel",
+     "Hastane, laboratuvar ve Ar-Ge birimleri için ölçülendirilmiş içerik."
+    ],
+    [
+     "Emici toz destekli",
+     "Nviroclean toz kırık cam altındaki ve köşelerdeki sıvıyı toplar."
+    ],
+    [
+     "KKD dahil",
+     "Eldiven, koruyucu gözlük ve toz maskesi sete dahildir."
+    ],
+    [
+     "Temizlik seti",
+     "Fırça, faraş ve atık torbası ile alan temiz bırakılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Laboratuvar ve hastane döküntü kiti"
+    ],
+    [
+     "Model",
+     "KT-Beta"
+    ],
+    [
+     "Emiş kapasitesi",
+     "15 litre"
+    ],
+    [
+     "Taşıma",
+     "15 Lt taşıma çantası"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "20 x 50 cm"
+    ],
+    [
+     "Emici toz",
+     "Nviroclean, küçük boy paket"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 15 Lt Taşıma Çantası",
+    "10 Adet – Emici Ped (20 x 50 cm)",
+    "1 Paket – Küçük Boy Nviroclean Emici Toz",
+    "1 Set – KKD (Eldiven, Koruyucu Gözlük, Toz Maskesi)",
+    "1 Set – Temizlik Ekipmanı (Fırça, Faraş, Atık Torbası)"
+   ],
+   "notes": [],
+   "usage": [
+    "Hastaneler ve klinikler",
+    "Laboratuvarlar",
+    "Ar-Ge merkezleri",
+    "Deney ve numune odaları"
+   ]
+  },
+  {
+   "code": "BD-EM52",
+   "name": "Yağ ve Kimyasal Döküntü Kiti Arabalı 178 Lt",
+   "path": "/bd-em52-yag-ve-kimyasal-dokuntu-kiti-arabali-178-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em52-yag-ve-kimyasal-dokuntu-kiti-arabali-178-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em52-yag-ve-kimyasal-dokuntu-kiti-arabali-178-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM52 Yağ ve Kimyasal Döküntü Kiti Arabalı 178 Lt: Forklift uyumlu tekerlekli arabada 178 litre emiş; ped, sosis, yastık, boom ve ek çanta seti.",
+   "intro": [
+    "BD-EM52 Yağ ve Kimyasal Döküntü Kiti Arabalı 178 Lt, büyük hacimli yağ ve kimyasal döküntüler için hazırlanmış, tekerlekli ve forklift ile taşınabilen bir müdahale arabasıdır. Ped, sosis, iki farklı boy yastık, 3 metrelik boom ve ayrı bir ek çanta setiyle toplam 178 litre emiş kapasitesi sunar.",
+    "Yırtılmaya dayanıklı SB üst kılıfı ve kapalı yapısı emicileri nemden ve tozdan korur. Fabrika ve kimyasal depo gibi geniş sahalarda merkezi bir noktada tutulabilir; ek çanta seti ise arabadan ayrılarak dar alanlara ilk müdahale için götürülür. Kullanılan malzemeler yedek ürünlerle yeniden doldurulabilir."
+   ],
+   "feats": [
+    [
+     "178 litre kapasite",
+     "Çok büyük hacimli döküntüler için geniş emici stoku."
+    ],
+    [
+     "Forklift ve tekerlek",
+     "Saha içinde hem elle hem forkliftle hızla konumlandırılır."
+    ],
+    [
+     "Korumalı depolama",
+     "SB üst kılıf ve kapalı gövde emicileri nem ve hasardan korur."
+    ],
+    [
+     "Ek çanta seti",
+     "Arabadan ayrılan çanta ile dar alanlara anında müdahale."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Arabalı döküntü müdahale kiti"
+    ],
+    [
+     "Emiş kapasitesi",
+     "178 litre"
+    ],
+    [
+     "Boyutlar",
+     "60 x 80 x 45 cm"
+    ],
+    [
+     "Kılıf",
+     "Yırtılmaya dayanıklı SB üst kılıf"
+    ],
+    [
+     "Taşıma",
+     "Tekerlekli, forklift ile taşınabilir"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüleri",
+     "23 x 23 cm ve 45 x 45 cm"
+    ],
+    [
+     "Emici boom ölçüsü",
+     "13 x 300 cm"
+    ],
+    [
+     "Yeniden doldurma",
+     "Yedek ürünlerle doldurulabilir"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 178 Lt Tekerlekli Müdahale Arabası",
+    "100 Adet – Emici Ped (40 x 50 cm)",
+    "10 Adet – Emici Sosis (8 x 120 cm)",
+    "10 Adet – Emici Yastık (23 x 23 cm)",
+    "5 Adet – Emici Yastık (45 x 45 cm)",
+    "1 Adet – Emici Boom (13 x 300 cm)",
+    "Ek Çanta Seti – 10 Ped (40 x 50 cm), 2 Sosis (8 x 120 cm), 1 Yastık (23 x 23 cm)",
+    "1 Set – KKD (Eldiven, Koruyucu Gözlük, Atık Poşeti, Bağcık)"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Kimyasal depolama alanları",
+    "Akaryakıt istasyonları",
+    "Lojistik merkezleri",
+    "Acil müdahale ekipleri"
+   ]
+  },
+  {
+   "code": "BD-EM53",
+   "name": "Tekerlekli Döküntü ve Sızıntı Müdahale Dolabı 95 Lt (Kırmızı)",
+   "path": "/bd-em53-tekerlekli-dokuntu-ve-sizinti-mudahale-dolabi-95-lt-kirmizi",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em53-tekerlekli-dokuntu-ve-sizinti-mudahale-dolabi-95-lt-kirmizi-1.webp",
+     "thumb": "/assets/urunler/bd-em53-tekerlekli-dokuntu-ve-sizinti-mudahale-dolabi-95-lt-kirmizi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM53 Tekerlekli Döküntü ve Sızıntı Müdahale Dolabı 95 Lt (Kırmızı): Kırmızı tekerlekli dolapta 95 litre emiş; ayarlanabilir raf, kilitlenebilir kapak ve ek çanta seti.",
+   "intro": [
+    "BD-EM53 Tekerlekli Döküntü ve Sızıntı Müdahale Dolabı 95 Lt (Kırmızı), yağ, akaryakıt, su bazlı sıvılar ve kimyasallar dahil farklı döküntüler için donatılmış, kırmızı renkli ve tekerlekli bir mobil müdahale dolabıdır. Ped, sosis, iki boy yastık, rulo ve ek çanta setiyle toplam 95 litre emiş kapasitesi sunar.",
+    "20 cm’lik tekerlekleri sayesinde döküntü noktasına kolayca sürülür; ayarlanabilir rafları emicileri düzenli tutar. Kapağa asma kilit takılabildiği için yetkisiz kullanım ve malzeme eksilmesi önlenir; kilit anahtarını ise müdahale ekibinin ulaşabileceği bir yerde bulundurun."
+   ],
+   "feats": [
+    [
+     "Mobil yapı",
+     "20 cm tekerleklerle dolap döküntü noktasına sürülür."
+    ],
+    [
+     "Kilitlenebilir kapak",
+     "Asma kilit ile içerik yetkisiz kullanıma karşı korunur."
+    ],
+    [
+     "Ayarlanabilir raflar",
+     "Farklı boy emiciler düzenli şekilde yerleştirilir."
+    ],
+    [
+     "Geniş sıvı uyumu",
+     "Yağ, akaryakıt, su bazlı ve kimyasal sıvılarda kullanılabilir."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Tekerlekli döküntü müdahale dolabı"
+    ],
+    [
+     "Renk",
+     "Kırmızı"
+    ],
+    [
+     "Emiş kapasitesi",
+     "95 litre"
+    ],
+    [
+     "Tekerlek",
+     "20 cm"
+    ],
+    [
+     "Raf",
+     "Ayarlanabilir"
+    ],
+    [
+     "Kilit",
+     "Kapak asma kilit uyumlu"
+    ],
+    [
+     "Emici ped ölçüsü",
+     "40 x 50 cm"
+    ],
+    [
+     "Emici sosis ölçüsü",
+     "8 x 120 cm"
+    ],
+    [
+     "Emici yastık ölçüleri",
+     "23 x 23 cm ve 39 x 25 cm"
+    ],
+    [
+     "Emici rulo ölçüsü",
+     "39 x 250 cm"
+    ]
+   ],
+   "pack": [
+    "1 Adet – 95 Lt Tekerlekli Müdahale Dolabı",
+    "30 Adet – Emici Ped (40 x 50 cm)",
+    "6 Adet – Emici Sosis (8 x 120 cm)",
+    "2 Adet – Emici Yastık (23 x 23 cm)",
+    "2 Adet – Emici Yastık (39 x 25 cm)",
+    "1 Adet – Emici Rulo (39 x 250 cm)",
+    "Ek Çanta Seti – 10 Ped (40 x 50 cm), 2 Sosis (8 x 120 cm), 1 Yastık (23 x 23 cm)",
+    "1 Set – KKD (Eldiven, Koruyucu Gözlük, Atık Poşeti, Bağcık)"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Akaryakıt istasyonları",
+    "Kimyasal depolama alanları",
+    "Depo ve lojistik merkezleri"
+   ]
+  },
+  {
+   "code": "BD-EM54",
+   "name": "Yağ, Kimyasal ve Petrol Emici Granül",
+   "path": "/bd-em54-yag-kimyasal-ve-petrol-emici-granul",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em54-yag-kimyasal-ve-petrol-emici-granul-1.webp",
+     "thumb": "/assets/urunler/bd-em54-yag-kimyasal-ve-petrol-emici-granul-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em54-yag-kimyasal-ve-petrol-emici-granul-2.webp",
+     "thumb": "/assets/urunler/bd-em54-yag-kimyasal-ve-petrol-emici-granul-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM54 Yağ, Kimyasal ve Petrol Emici Granül: Yağ, kimyasal, boya ve sıvı atıkları 30 saniyeden kısa sürede emen, 60 litre/paket doğal granül.",
+   "intro": [
+    "BD-EM54 Yağ, Kimyasal ve Petrol Emici Granül, petrol türevleri, otomotiv yağları, kimyasallar, asitler, boyalar, gıda sıvıları ve biyolojik sıvı atıklar gibi çok farklı sıvıları emebilen %100 doğal içerikli bir granül emicidir. Paket başına 60 litre emiş kapasitesine sahiptir ve 30 saniyeden kısa sürede etki gösterir.",
+    "Beton, mermer, metal, asfalt, granit ve epoksi zeminlerde kullanılabilir. Granülü döküntünün kenarından ortasına doğru serpin, kısa bir süre bekleyip süpürün; tam doyuma ulaşmamış granül 4–5 kez yeniden kullanılabilir. Yanmaz ve parlama yapmaz, zeminde kir ve nem bırakmaz."
+   ],
+   "feats": [
+    [
+     "Çok amaçlı",
+     "Yağdan aside, boyadan gıda sıvısına kadar geniş sıvı yelpazesi."
+    ],
+    [
+     "Hızlı etki",
+     "30 saniyeden kısa sürede döküntüyü bağlar."
+    ],
+    [
+     "Tekrar kullanılabilir",
+     "Doyuma ulaşana kadar 4–5 kez kullanılabilir."
+    ],
+    [
+     "Yanmaz yapı",
+     "Yanma ve parlama yapmaz, zeminde kalıntı bırakmaz."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Emici granül"
+    ],
+    [
+     "Emiş kapasitesi",
+     "60 litre / paket"
+    ],
+    [
+     "İçerik",
+     "%100 doğal"
+    ],
+    [
+     "Tekrar kullanım",
+     "4–5 kez"
+    ],
+    [
+     "Etki süresi",
+     "30 saniyeden kısa"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, otomotiv yağları, kimyasallar ve asitler, boyalar, gıda sıvıları, biyolojik sıvı atıklar"
+    ],
+    [
+     "Uygun yüzeyler",
+     "Beton, mermer, metal, asfalt, granit, epoksi"
+    ],
+    [
+     "Yanıcılık",
+     "Yanmaz, parlama yapmaz"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Atölye ve bakım alanları",
+    "Akaryakıt istasyonları",
+    "Depo ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM55",
+   "name": "Nviroclean Emici Toz Seti 120 Lt",
+   "path": "/bd-em55-nviroclean-emici-toz-seti-120-lt",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em55-nviroclean-emici-toz-seti-120-lt-1.webp",
+     "thumb": "/assets/urunler/bd-em55-nviroclean-emici-toz-seti-120-lt-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em55-nviroclean-emici-toz-seti-120-lt-2.webp",
+     "thumb": "/assets/urunler/bd-em55-nviroclean-emici-toz-seti-120-lt-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM55 Nviroclean Emici Toz Seti 120 Lt: 2 x 60 litre Nviroclean emici toz, tekerlekli elekli kova, KKD ve temizlik ekipmanından oluşan set.",
+   "intro": [
+    "BD-EM55 Nviroclean Emici Toz Seti 120 Lt, iki paket Nviroclean emici toz, 80 litrelik tekerlekli ve elekli taşıma kovası, KKD ve temizlik ekipmanından oluşan, toplam 120 litre emiş kapasiteli bir döküntü temizlik setidir. Toz; yağ, kimyasal, asit, boya, su ve gıda sıvıları dahil hemen her sıvıyı emer.",
+    "%100 doğal içerikli toz 30 saniyeden kısa sürede sıvıyı bağlar, yanmaz ve zeminde nem bırakmaz. Elekli kova sayesinde toplanan tozdaki doymamış kısım ayrılarak 4–5 kez yeniden kullanılabilir; teleskobik saplı fırça ise geniş alanların eğilmeden temizlenmesini sağlar."
+   ],
+   "feats": [
+    [
+     "Tüm sıvılara uygun",
+     "Yağ, kimyasal, su ve gıda sıvıları tek tozla temizlenir."
+    ],
+    [
+     "Elekli kova",
+     "Kullanılan toz elenerek tekrar kullanıma kazandırılır."
+    ],
+    [
+     "Hızlı emiş",
+     "30 saniyeden kısa sürede döküntüyü bağlar."
+    ],
+    [
+     "Komple set",
+     "KKD ve teleskobik saplı fırça dahil tüm ekipman bir arada."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Emici toz seti"
+    ],
+    [
+     "Marka",
+     "Nviroclean"
+    ],
+    [
+     "Toplam emiş kapasitesi",
+     "120 litre"
+    ],
+    [
+     "Paketleme",
+     "2 x 60 Lt"
+    ],
+    [
+     "İçerik",
+     "%100 doğal"
+    ],
+    [
+     "Tekrar kullanım",
+     "4–5 kez"
+    ],
+    [
+     "Etki süresi",
+     "30 saniyeden kısa"
+    ],
+    [
+     "Uygun yüzeyler",
+     "Beton, mermer, metal, asfalt, granit, epoksi"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Petrol türevleri, motor yağları, kimyasallar, asitler, boya, gıda sıvıları, biyolojik atıklar"
+    ]
+   ],
+   "pack": [
+    "2 Paket – Nviroclean Emici Toz (toplam 120 Lt)",
+    "1 Adet – 80 Lt Tekerlekli, Elekli Taşıma Kovası",
+    "1 Set – KKD (Koruyucu Eldiven, Toz Maskesi, Koruyucu Gözlük)",
+    "1 Set – Temizlik Ekipmanı (Teleskobik Saplı Fırça, Faraş, Atık Torbası)"
+   ],
+   "notes": [],
+   "usage": [
+    "Fabrika ve üretim tesisleri",
+    "Gıda üretim alanları",
+    "Otopark ve servis alanları",
+    "Kimyasal depolama alanları",
+    "Depo ve lojistik sahaları"
+   ]
+  },
+  {
+   "code": "BD-EM56",
+   "name": "Yağmur ve Sel Önleyici Dolu Kum Torbası",
+   "path": "/bd-em56-yagmur-ve-sel-onleyici-dolu-kum-torbasi",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em56-yagmur-ve-sel-onleyici-dolu-kum-torbasi-1.webp",
+     "thumb": "/assets/urunler/bd-em56-yagmur-ve-sel-onleyici-dolu-kum-torbasi-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    {
+     "src": "/assets/urunler/bd-em56-yagmur-ve-sel-onleyici-dolu-kum-torbasi-2.webp",
+     "thumb": "/assets/urunler/bd-em56-yagmur-ve-sel-onleyici-dolu-kum-torbasi-2-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM56 Yağmur ve Sel Önleyici Dolu Kum Torbası: 105 cm genişlik, 12 cm yükseklik, yaklaşık 30–32 kg; kumla dolu gelen geçici su bariyeri torbası.",
+   "intro": [
+    "BD-EM56 Yağmur ve Sel Önleyici Dolu Kum Torbası, yağmur sonrası oluşan yüzey akışını yönlendirmek ve kapı girişlerinde geçici su bariyeri kurmak için kullanılan, kumla doldurulmuş hâlde gelen bir bariyer torbasıdır. 105 cm genişliğinde ve 12 cm yüksekliğindedir; bir torba yaklaşık 30–32 kg ağırlığındadır.",
+    "Yerleştirmeden önce zemindeki keskin parçaları temizleyin ve torbaları arada boşluk kalmayacak şekilde yan yana dizin. Gerekli adet giriş genişliğine ve zemine göre değişir; ürün tam sızdırmazlık sağlamaz, su seviyesi ve akış hızı sonucu etkiler. Kullanımdan sonra kumaş ve dikişleri kontrol edip kuru bir yerde saklayın."
+   ],
+   "feats": [
+    [
+     "Kullanıma hazır",
+     "Kumla dolu geldiği için ayrıca dolum gerektirmez."
+    ],
+    [
+     "Ağır gövde",
+     "Yaklaşık 30–32 kg ağırlığıyla su akışında yerinde kalır."
+    ],
+    [
+     "105 cm genişlik",
+     "Standart kapı girişlerini az sayıda torbayla kapatır."
+    ],
+    [
+     "Tekrar kullanılabilir",
+     "Temiz ve kuru saklandığında sonraki yağışlarda yeniden kullanılır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Dolu kum torbası (su bariyeri)"
+    ],
+    [
+     "Genişlik",
+     "105 cm"
+    ],
+    [
+     "Çap / yükseklik",
+     "12 cm"
+    ],
+    [
+     "Ağırlık",
+     "Yaklaşık 30–32 kg / adet"
+    ],
+    [
+     "İçerik",
+     "Kum ile doldurulmuş"
+    ],
+    [
+     "Satış birimi",
+     "1 adet"
+    ],
+    [
+     "Renk",
+     "Kumaş rengi değişiklik gösterebilir"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Mağaza ve market girişleri",
+    "Depo ve antrepo kapıları",
+    "Otel ve işletme girişleri",
+    "Bodrum ve otopark rampaları"
+   ]
+  },
+  {
+   "code": "BD-EM57",
+   "name": "Kapı Altı Kum Torbası (Boş)",
+   "path": "/bd-em57-kapi-alti-kum-torbasi-bos",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em57-kapi-alti-kum-torbasi-bos-1.webp",
+     "thumb": "/assets/urunler/bd-em57-kapi-alti-kum-torbasi-bos-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM57 Kapı Altı Kum Torbası (Boş): 8 cm çap, 100 cm boy, 4 kg; kapı altından gelen su, soğuk hava ve rutubete karşı kumaş torba.",
+   "intro": [
+    "BD-EM57 Kapı Altı Kum Torbası (Boş), kapı altlarından içeri sızan yağmur suyu, su akıntısı, soğuk hava ve rutubeti engellemek için kullanılan, dayanıklı kumaştan üretilmiş uzun bir torbadır. 8 cm çapında ve 100 cm boyundadır; özel karışım kum dolgusuyla yaklaşık 4 kg ağırlığa sahiptir.",
+    "Ağırlığı sayesinde kapı önünde kaymadan durur; ağız kısmındaki özel bağlantı dolgunun dökülmesini önler. Dayanıklı kumaşı evcil hayvanların tahribatına karşı dirençlidir. Fabrika kapıları, bahçe kapıları ve eski binaların kapı altları gibi açık ve kapalı alanlarda kullanılabilir."
+   ],
+   "feats": [
+    [
+     "Sabit duruş",
+     "4 kg ağırlığı ile kapı önünde savrulmadan kalır."
+    ],
+    [
+     "Dökülmez ağız",
+     "Özel bağlantı sistemi dolgunun dışarı taşmasını önler."
+    ],
+    [
+     "Dayanıklı kumaş",
+     "Evcil hayvanların tırnak ve dişlerine karşı dirençlidir."
+    ],
+    [
+     "Çok amaçlı",
+     "Su, soğuk hava ve rutubete karşı tek üründe koruma."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Kapı altı kum torbası"
+    ],
+    [
+     "Çap",
+     "8 cm"
+    ],
+    [
+     "Boy",
+     "100 cm"
+    ],
+    [
+     "Ağırlık",
+     "4 kg"
+    ],
+    [
+     "Malzeme",
+     "Dayanıklı kumaş"
+    ],
+    [
+     "Dolgu",
+     "Özel karışım kum"
+    ],
+    [
+     "Renk",
+     "Kumaş rengi değişiklik gösterebilir"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Fabrika kapıları",
+    "Bahçe kapıları",
+    "Eski binaların kapı altları",
+    "Depo ve atölye girişleri"
+   ]
+  },
+  {
+   "code": "BD-EM58",
+   "name": "Yağ Emici Ped 1 Adet",
+   "path": "/bd-em58-yag-emici-ped-1-adet",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em58-yag-emici-ped-1-adet-1.webp",
+     "thumb": "/assets/urunler/bd-em58-yag-emici-ped-1-adet-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM58 Yağ Emici Ped 1 Adet: 40 x 50 cm, 250 g/m², yalnızca yağ ve petrol bazlı sıvıları emen hidrofobik tekli ped; 1,09 litre emiş.",
+   "intro": [
+    "BD-EM58 Yağ Emici Ped 1 Adet, yalnızca yağ ve petrol bazlı sıvıları emen, suyu emmeyen hidrofobik yapıda tekli bir emici peddir. 40 x 50 cm ölçüsünde ve 250 g/m² gramajındadır; tek ped yaklaşık 1,09 litre sıvı tutar.",
+    "Az miktarda ihtiyaç duyulan yerlerde, deneme amaçlı ya da kitlerdeki eksik pedi tamamlamak için idealdir. Makine altı damlamalarda, bakım sırasında parça altına serilerek veya ıslak zeminde suya karışmış yağı toplamak için kullanılabilir."
+   ],
+   "feats": [
+    [
+     "Hidrofobik",
+     "Suyu emmez, yalnızca yağı tutar."
+    ],
+    [
+     "Tekli satış",
+     "İhtiyaç kadar adet alınarak stok kolayca tamamlanır."
+    ],
+    [
+     "250 g/m² gramaj",
+     "Dayanıklı yapısıyla hızlı ve güçlü emiş sağlar."
+    ],
+    [
+     "Standart ölçü",
+     "40 x 50 cm ile kitlerdeki pedlerle aynı boyuttadır."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici ped (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 g/m²"
+    ],
+    [
+     "Paket içeriği",
+     "1 adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "1,09 litre / paket"
+    ],
+    [
+     "Su emme",
+     "Emmez (hidrofobik)"
+    ],
+    [
+     "Emdiği sıvılar",
+     "Yağ ve petrol bazlı sıvılar"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Makine altı damlamaları",
+    "Bakım ve servis atölyeleri",
+    "Islak zeminde yağ toplama",
+    "Döküntü kiti yenileme"
+   ]
+  },
+  {
+   "code": "BD-EM59",
+   "name": "Yağ ve Petrol Emici Ped 250 Gr (100 Adet)",
+   "path": "/bd-em59-yag-ve-petrol-emici-ped-250-gr-100-adet",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em59-yag-ve-petrol-emici-ped-250-gr-100-adet-1.webp",
+     "thumb": "/assets/urunler/bd-em59-yag-ve-petrol-emici-ped-250-gr-100-adet-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM59 Yağ ve Petrol Emici Ped 250 Gr (100 Adet): 40 x 50 cm, 250 g/m², 100 adetlik paket; yalnızca yağı emen hidrofobik ped ile paket başına 75 litre.",
+   "intro": [
+    "BD-EM59 Yağ ve Petrol Emici Ped 250 Gr (100 Adet), yalnızca yağ ve petrol bazlı sıvıları emen, suyu iten hidrofobik yapıda emici pedlerden oluşan 100 adetlik bir pakettir. 40 x 50 cm ölçüsündeki 250 g/m² gramajlı pedler paket başına toplam 75 litre emiş kapasitesi sunar.",
+    "Suyu emmediği için su yüzeyindeki yağ tabakasının toplanmasında ve yağmur altındaki açık alan döküntülerinde verimlidir. Akaryakıt istasyonları, bakım atölyeleri ve limanlarda günlük kullanım için stokta bulundurulabilir; dayanıklı dokusu yoğun kullanımda formunu korur."
+   ],
+   "feats": [
+    [
+     "Yalnızca yağı emer",
+     "Hidrofobik yapı suyu dışarıda bırakır."
+    ],
+    [
+     "75 litre / paket",
+     "100 pedlik paket ile yüksek toplam kapasite."
+    ],
+    [
+     "Su yüzeyinde etkili",
+     "Su üzerindeki yağı seçici olarak toplar."
+    ],
+    [
+     "Dayanıklı doku",
+     "Yırtılmaya karşı dirençli, yoğun kullanımda formunu korur."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici ped (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "40 x 50 cm"
+    ],
+    [
+     "Gramaj",
+     "250 g/m²"
+    ],
+    [
+     "Paket içeriği",
+     "100 adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "75 litre / paket"
+    ],
+    [
+     "Su emme",
+     "Emmez (hidrofobik)"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Akaryakıt istasyonları",
+    "Makine ve bakım alanları",
+    "Liman ve denizcilik",
+    "Servis ve atölyeler",
+    "Endüstriyel temizlik"
+   ]
+  },
+  {
+   "code": "BD-EM60",
+   "name": "Yağ Emici Sosis 13 cm Çap 3 Metre",
+   "path": "/bd-em60-yag-emici-sosis-13-cm-cap-3-metre",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em60-yag-emici-sosis-13-cm-cap-3-metre-1.webp",
+     "thumb": "/assets/urunler/bd-em60-yag-emici-sosis-13-cm-cap-3-metre-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM60 Yağ Emici Sosis 13 cm Çap 3 Metre: 13 cm çap, 3 m boy, 2750 g/adet; 5 adetlik pakette 103 litre emiş, suyu emmeyen yağ bariyeri.",
+   "intro": [
+    "BD-EM60 Yağ Emici Sosis 13 cm Çap 3 Metre, yalnızca yağ ve petrol bazlı sıvıları emen, hidrofobik yapıda 13 cm çapında ve 3 metre uzunluğunda bir emici sosistir. Adet ağırlığı 2750 g olup 5 adetlik paketin toplam emiş kapasitesi 103 litredir.",
+    "Uzun gövdesi sayesinde geniş döküntülerin etrafında bariyer oluşturur, yağı hem çevreler hem de emer. Suyu emmediği için deniz, göl ve liman gibi su yüzeylerinde ve yağmur altında verimini korur; birden fazla sosisi uç uca ekleyerek daha uzun bariyer kurabilirsiniz."
+   ],
+   "feats": [
+    [
+     "3 metre boy",
+     "Geniş alanlar az sayıda sosisle çevrelenir."
+    ],
+    [
+     "Hidrofobik",
+     "Suyu emmez, kapasitesini yağa ayırır."
+    ],
+    [
+     "103 litre / paket",
+     "5 adetlik pakette yüksek toplam kapasite."
+    ],
+    [
+     "Çevreleme ve emme",
+     "Döküntünün yayılmasını önlerken aynı anda emer."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ ve petrol emici sosis (Oil Only)"
+    ],
+    [
+     "Ölçü",
+     "13 cm çap x 3 m"
+    ],
+    [
+     "Ağırlık",
+     "2750 g / adet"
+    ],
+    [
+     "Paket içeriği",
+     "5 adet"
+    ],
+    [
+     "Emiş kapasitesi",
+     "103 litre / paket"
+    ],
+    [
+     "Su emme",
+     "Emmez (hidrofobik)"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Deniz, göl ve su yüzeyleri",
+    "Limanlar ve tersaneler",
+    "Akaryakıt istasyonları",
+    "Tanker ve depolama alanları"
+   ]
+  },
+  {
+   "code": "BD-EM61",
+   "name": "Yağ Emici Oilsorb Granül 8 Kg",
+   "path": "/bd-em61-yag-emici-oilsorb-granul-8-kg",
+   "ls_path": null,
+   "cat": "emici",
+   "images": [
+    {
+     "src": "/assets/urunler/bd-em61-yag-emici-oilsorb-granul-8-kg-1.webp",
+     "thumb": "/assets/urunler/bd-em61-yag-emici-oilsorb-granul-8-kg-1-k.webp",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "variant": null,
+   "summary": "BD-EM61 Yağ Emici Oilsorb Granül 8 Kg: Pamuk çekirdeği selülozundan, 8 kg pakette 40 litre emiş; su itici, yağ emici doğal granül.",
+   "intro": [
+    "BD-EM61 Yağ Emici Oilsorb Granül 8 Kg, pamuk çekirdeğinden elde edilen selüloz liflerinden üretilmiş, %100 doğal ve yerli bir yağ emici granüldür. Su itici yapısıyla petrol ve hidrokarbon bazlı sıvıları seçici olarak emer; 8 kg’lık paketin emiş kapasitesi 40 litredir.",
+    "Emdiği sıvıyı içinde hapsederek tekrar sızmasını önler ve zeminde yağ filmi bırakmaz. Otopark, garaj, atölye ve akaryakıt istasyonu zeminlerinde döküntünün üzerine serpilip süpürülerek kullanılır. Biyolojik olarak ayrışabilir ve raf ömrü sınırsızdır."
+   ],
+   "feats": [
+    [
+     "Doğal hammadde",
+     "Pamuk çekirdeği selülozundan, kimyasal katkısız üretim."
+    ],
+    [
+     "Seçici emiş",
+     "Suyu iter, petrol ve hidrokarbonları emer."
+    ],
+    [
+     "Sıvıyı hapseder",
+     "Enkapsülasyon sayesinde emilen yağ geri sızmaz."
+    ],
+    [
+     "Sınırsız raf ömrü",
+     "Depoda bekletilse de özelliğini kaybetmez."
+    ]
+   ],
+   "specs": [
+    [
+     "Ürün tipi",
+     "Yağ emici granül"
+    ],
+    [
+     "Marka",
+     "Oilsorb"
+    ],
+    [
+     "Model",
+     "ETK-1350"
+    ],
+    [
+     "Hammadde",
+     "Pamuk çekirdeği selüloz lifi (%100 doğal)"
+    ],
+    [
+     "Paket ağırlığı",
+     "8 kg"
+    ],
+    [
+     "Koli içeriği",
+     "1 paket"
+    ],
+    [
+     "Emiş kapasitesi",
+     "40 litre"
+    ],
+    [
+     "Su emme",
+     "Su iter"
+    ],
+    [
+     "Biyobozunurluk",
+     "Biyolojik olarak ayrışabilir"
+    ],
+    [
+     "Raf ömrü",
+     "Sınırsız"
+    ]
+   ],
+   "pack": [],
+   "notes": [],
+   "usage": [
+    "Otoparklar ve garajlar",
+    "Akaryakıt istasyonları",
+    "Atölye ve bakım alanları",
+    "Fabrika ve üretim sahaları"
+   ]
   }
  ],
  "cats": [
@@ -19790,6 +25021,13 @@
    "AG/OG Elektrik Güvenlik Ekipmanları",
    "ag-og-elektrik-guvenlik-ekipmanlari",
    "Hayat kurtarma ıstankası, OG kontrol kalemi, izole pense ve kablo makası gibi alçak ve orta gerilim güvenlik ekipmanları."
+  ],
+  [
+   "emici",
+   "Yağ ve Kimyasal Emici Kitler",
+   "Yağ ve Kimyasal Emici Kitler",
+   "yag-ve-kimyasal-emici-kitler",
+   "Yağ, kimyasal ve genel amaçlı emici ped, rulo, sosis, yastık ve çantalı / tekerlekli döküntü kitleri."
   ]
  ],
  "redirects": [

@@ -9,3 +9,8 @@ __pycache__/
 .DS_Store
 .vercel
 paylasim/
+src_elektrik/
+out_elektrik/
+src_emici/
+out_emici/
+fonts/
